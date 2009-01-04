@@ -1,64 +1,91 @@
 require 'open-uri'
 require 'rexml/document'
+gem 'activesupport', '> 2.2'
+require 'activesupport'
 
 module I18NData
-  ENGLISH_LANGUAGE_CODES =  'http://svn.debian.org/viewsvn/*checkout*/pkg-isocodes/trunk/iso-codes/iso_639/iso_639.xml'
-  LANGUAGE_TRANSLATIONS =   'http://svn.debian.org/viewsvn/*checkout*/pkg-isocodes/trunk/iso-codes/iso_639/'
+  extend ActiveSupport::Memoizable
+
+  XML_CODES = {
+    :countries => 'http://svn.debian.org/viewsvn/*checkout*/pkg-isocodes/trunk/iso-codes/iso_3166/iso_3166.xml',
+    :languages => 'http://svn.debian.org/viewsvn/*checkout*/pkg-isocodes/trunk/iso-codes/iso_639/iso_639.xml'
+  }
+  TRANSLATIONS = {
+    :languages => 'http://svn.debian.org/viewsvn/*checkout*/pkg-isocodes/trunk/iso-codes/iso_639/',
+    :countries => 'http://svn.debian.org/viewsvn/*checkout*/pkg-isocodes/trunk/iso-codes/iso_3166/'
+  }
 
   extend self
   
   def languages(language_code='EN')
-    language_code = language_code.upcase
-    if language_code == 'EN'
-      english_languages
-    else
-      translated_languages(language_code)
-    end
+    translated_or_english(:languages,language_code)
+  end
+
+  def countries(language_code='EN')
+    translated_or_english(:countries,language_code)
   end
 
 private
 
-  def translated_languages(language_code)
-    translated = {}
-    english_languages.each do |code,name|
-      translation = translate_language(name,language_code)
-      translated[code] = translation ? translation : name
+  def translated_or_english(type,language_code)
+    language_code = language_code.upcase
+    if language_code == 'EN'
+      send("english_#{type}")
+    else
+      translated(type,language_code)
     end
-    translated
   end
 
+  def translated(type,language_code)
+    translations = {}
+    send("english_#{type}").each do |code,name|
+      translation = translate(type,name,language_code)
+      translations[code] = translation ? translation : name
+    end
+    translations
+  end
+  memoize :translated
+
+  def translate(type,language,to_language_code)
+    translated = translations(type,to_language_code)[language]
+    translated.to_s.empty? ? nil : translated
+  end
+
+  def translations(type,language_code)
+    begin
+      data = open(TRANSLATIONS[type]+"#{language_code.downcase}.po").readlines
+    rescue
+      raise NoOnlineTranslationAvaiable.new("for #{type} and language code = #{language_code}")
+    end
+
+    po_to_hash(data)
+  end
+  memoize :translations
+
   def english_languages
-    return @english_languages if @english_languages
     codes = {}
-    english_languages_xml.elements.each('*/iso_639_entry') do |entry|
+    xml(:languages).elements.each('*/iso_639_entry') do |entry|
       name = entry.attributes['name'].to_s.gsub("'","\\'")
       code = entry.attributes['iso_639_1_code'].to_s.upcase
       next if code.empty? or name.empty?
       codes[code]=name
     end
-    @english_languages = codes
+    codes
   end
+  memoize :english_languages
 
-  def english_languages_xml
-    return @english_languages_xml if @english_languages_xml
-    xml = open(ENGLISH_LANGUAGE_CODES).read
-    @english_languages_xml = REXML::Document.new(xml)
-  end
-
-  def translate_language(language,to_language_code)
-    translated = language_translations(to_language_code)[language]
-    translated.to_s.empty? ? nil : translated
-  end
-
-  def language_translations(language_code)
-    @language_translations ||= {}
-    return @language_translations[language_code] if @language_translations[language_code]
-    begin
-      data = open(LANGUAGE_TRANSLATIONS+"#{language_code.downcase}.po").readlines
-    rescue
-      raise NoOnlineTranslationAvaiable.new("language code = #{language_code}")
+  def english_countries
+    codes = {}
+    xml(:countries).elements.each('*/iso_3166_entry') do |entry|
+      name = entry.attributes['name'].to_s.gsub("'","\\'")
+      code = entry.attributes['alpha_2_code'].to_s.upcase
+      codes[code]=name
     end
+    codes
+  end
+  memoize :english_countries
 
+  def po_to_hash(data)
     names = data.select{|l| l =~ /^msgid/}.map{|line| line.match(/^msgid "(.*?)"/)[1]}
     translations = data.select{|l| l =~ /^msgstr/}.map{|line| line.match(/^msgstr "(.*?)"/)[1]}
 
@@ -66,14 +93,17 @@ private
     names.each_with_index do |name,index|
       translated[name]=translations[index]
     end
-    
-    @language_translations[language_code] = translated
+    translated
   end
-  
+
+  def xml(type)
+    xml = open(XML_CODES[type]).read
+    REXML::Document.new(xml)
+  end
+
   class NoOnlineTranslationAvaiable < Exception
     def to_s
       "NoOnlineTranslationAvaiable -- #{super}"
     end
   end
 end
-

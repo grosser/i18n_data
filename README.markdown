@@ -10,10 +10,11 @@ Solution
 
 Containing
 ==========
+Translations through [debian pkg-isocodes](http://svn.debian.org/wsvn/pkg-isocodes/trunk/iso-codes/)
 185 Language codes (iso 3166 - 2 letter)
-??? Country codes (iso 639 - 2 letter)
-in ?? Languages
-
+in 66 Languages
+246 Country codes (iso 639 - 2 letter)
+in 85 Languages
 
 Usage
 =====
@@ -27,6 +28,7 @@ Usage
     I18NData.countries('DE')  # {"DE"=>"Deutschland",...}
     ...
 
+    #Not yet implemented...
     I18NData.language_code('German')       # DE
     I18NData.language_code('Deutsch')      # DE
     I18NData.language_code('Allemand')     # DE
@@ -35,6 +37,18 @@ Usage
     I18NData.country_code('Germany')       # DE
     I18NData.country_code('Deutschland')   # DE
     ..
+
+Performance
+===========
+This is SLOW!  
+I am fetching the codes/translations from the svn repo.  
+It is indended to write languages_xx.yml / countries_xx.yml  
+to use in your applications (e.g. Rails...).
+
+When i find the time to get it working through pkg-isocodes  
+(or though the local installation, system independent)  
+it could be faster, but it still will be slow,  
+since one country-lists would need 246 gettext-requests.
 
 Author
 ======
