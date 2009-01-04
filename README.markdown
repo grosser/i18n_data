@@ -1,20 +1,20 @@
 Problem
 =======
- - Presend users a coutry/language choise in their language
- - Convert a Coutry/Language-name to its code
+ - Present users coutries/languages in their language
+ - Convert a country/language-name to its code
 
 Solution
 ========
- - A list of code/name pairs for all countries/languages in all languages
- - A tool to convert a coutry/language name into code
+ - A list of 2-letter-code/name pairs for all countries/languages in all languages
+ - A tool to convert a coutry/language name into 2-letter-code
 
 Containing
 ==========
-Translations through [debian pkg-isocodes](http://svn.debian.org/wsvn/pkg-isocodes/trunk/iso-codes/)
-185 Language codes (iso 3166 - 2 letter)
-in 66 Languages
-246 Country codes (iso 639 - 2 letter)
-in 85 Languages
+Translations through [debian pkg-isocodes](http://svn.debian.org/wsvn/pkg-isocodes/trunk/iso-codes/)  
+185 Language codes (iso 3166 - 2 letter)  
+in 66 Languages  
+246 Country codes (iso 639 - 2 letter)  
+in 85 Languages  
 
 Usage
 =====
@@ -40,14 +40,14 @@ Usage
 
 Performance
 ===========
-This is SLOW!  
+This is *SLOW!*  
 I am fetching the codes/translations from the svn repo.  
-It is indended to write languages_xx.yml / countries_xx.yml  
+It is indended to write `languages_xx.yml / countries_xx.yml`  
 to use in your applications (e.g. Rails...).
 
 When i find the time to get it working through pkg-isocodes  
 (or though the local installation, system independent)  
-it could be faster, but it still will be slow,  
+it could be faster, but it will still be slow,  
 since one country-lists would need 246 gettext-requests.
 
 Author
