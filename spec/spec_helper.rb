@@ -1,5 +1,6 @@
 # ---- requirements
 require 'rubygems'
+require 'activesupport'
 require 'spec'
 require 'mocha'
 

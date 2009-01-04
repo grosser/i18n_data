@@ -10,9 +10,17 @@ task :spec do |t|
   system("spec #{options} #{files}")
 end
 
+desc "write all languages to output"
+task :all_languages do
+  I18NData.languages.keys.each do |lc|
+    `rake languages LANGUAGE=#{lc}`
+  end
+end
+
 desc "write languages to output/languages_{language}"
 task :languages do
   raise unless language = ENV['LANGUAGE']
+  `mkdir output -p`
   data = I18NData.languages(language.upcase)
   File.open("output/languages_#{language.downcase}.yml",'w') {|f|f.puts data}
 end
@@ -20,6 +28,7 @@ end
 desc "write countries to output/countries_{language}"
 task :countries do
   raise unless language = ENV['LANGUAGE']
+  `mkdir output -p`
   data = I18NData.countries(language.upcase)
   File.open("output/countries_#{language.downcase}.yml",'w') {|f|f.puts data}
 end

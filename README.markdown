@@ -8,12 +8,33 @@ Solution
  - A list of code/name pairs for all countries/languages in all languages
  - A tool to convert a coutry/language name into code
 
+Containing
+==========
+185 Language codes (iso 3166 - 2 letter)
+??? Country codes (iso 639 - 2 letter)
+in ?? Languages
+
+
 Usage
 =====
-Generate a list of country name/code - pairs in english  
-    rake countries LANGUAGE=EN
-Generate a list of language name/code - pairs in english  
-    rake languages LANGUAGE=EN
+
+    I18NData.languages        # {"DE"=>"German",...}
+    I18NData.languages('DE')  # {"DE"=>"Deutsch",...}
+    I18NData.languages('FR')  # {"DE"=>"Allemand",...}
+    ...
+
+    I18NData.countries        # {"DE"=>"Germany",...}
+    I18NData.countries('DE')  # {"DE"=>"Deutschland",...}
+    ...
+
+    I18NData.language_code('German')       # DE
+    I18NData.language_code('Deutsch')      # DE
+    I18NData.language_code('Allemand')     # DE
+    ..
+
+    I18NData.country_code('Germany')       # DE
+    I18NData.country_code('Deutschland')   # DE
+    ..
 
 Author
 ======
