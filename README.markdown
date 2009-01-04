@@ -11,9 +11,9 @@ Solution
 Containing
 ==========
 Translations through [debian pkg-isocodes](http://svn.debian.org/wsvn/pkg-isocodes/trunk/iso-codes/)  
-185 Language codes (iso 3166 - 2 letter)  
+185 Language codes (iso 639 - 2 letter)  
 in 66 Languages  
-246 Country codes (iso 639 - 2 letter)  
+246 Country codes (iso 3166 - 2 letter)  
 in 85 Languages  
 
 Usage
