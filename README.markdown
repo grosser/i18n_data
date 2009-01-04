@@ -45,7 +45,7 @@ Performance
 This is *SLOW!*  
 I am fetching the codes/translations from the svn repo.  
 It is indended to write `languages_xx.yml / countries_xx.yml`  
-to use in your applications (e.g. Rails...).
+to use in your applications (e.g. Rails / non ruby ...).
 
 When i find the time to get it working through pkg-isocodes  
 (or though the local installation, system independent)  
