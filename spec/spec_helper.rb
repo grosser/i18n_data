@@ -22,3 +22,10 @@ end
 Spec::Runner.configure do |config|
   config.mock_with :mocha
 end
+
+# ---- Helpers
+def pending_it(text,&block)
+  it text do
+    pending(&block)
+  end
+end
