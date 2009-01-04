@@ -19,6 +19,8 @@ in 85 Languages
 Usage
 =====
 
+    # checkout the repo and then
+    # from a ruby script or irb: " require 'init' " then:
     I18NData.languages        # {"DE"=>"German",...}
     I18NData.languages('DE')  # {"DE"=>"Deutsch",...}
     I18NData.languages('FR')  # {"DE"=>"Allemand",...}
@@ -50,6 +52,12 @@ When i find the time to get it working through pkg-isocodes
 it could be faster, but it will still be slow,  
 since one country-lists would need 246 gettext-requests.
 
+TODO
+====
+ - make it into a gem
+ - make it faster by using native libaries ?
+ - include other language/country code formats (3-letter codes...)
+ 
 Author
 ======
 Michael Grosser  
