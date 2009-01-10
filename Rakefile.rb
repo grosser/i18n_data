@@ -40,3 +40,22 @@ task :countries do
   data = I18NData.countries(language.upcase)
   File.open("output/countries_#{language.downcase}.yml",'w') {|f|f.puts data.to_yaml}
 end
+
+desc "write example output, just to show off :D"
+task :example_output do
+  `mkdir example_output -p`
+  
+  #all names for germany, france, united kingdom and unites states
+  ['DE','FR','GB','US'].each do |cc|
+    names = I18NData.languages.keys.map do |lc|
+      begin
+        [I18NData.countries(lc)[cc], I18NData.languages[lc]]
+      rescue I18NData::NoOnlineTranslationAvaiable
+        nil
+      end
+    end
+    File.open("example_output/all_names_for_#{cc}.txt",'w') {|f|
+      f.puts names.reject(&:nil?).map{|x|x*" ---- "} * "\n"
+    }
+  end
+end
