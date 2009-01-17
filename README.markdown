@@ -19,8 +19,10 @@ in 85 Languages
 Usage
 =====
 
-    # checkout the repo and then
-    # from a ruby script or irb: " require 'init' " then:
+    # git clone git://github.com/grosser/i18n_data.git
+    # irb or ruby script
+    require 'init'
+    ...
     I18NData.languages        # {"DE"=>"German",...}
     I18NData.languages('DE')  # {"DE"=>"Deutsch",...}
     I18NData.languages('FR')  # {"DE"=>"Allemand",...}
