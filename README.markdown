@@ -20,7 +20,7 @@ Usage
 =====
 
     # git clone git://github.com/grosser/i18n_data.git
-    # irb or ruby script
+    # irb OR ruby script OR look into the Rakefile.rb for more examples
     require 'init'
     ...
     I18NData.languages        # {"DE"=>"German",...}
