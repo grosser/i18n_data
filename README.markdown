@@ -7,6 +7,7 @@ Solution
 ========
  - A list of 2-letter-code/name pairs for all countries/languages in all languages
  - A tool to convert a coutry/language name into 2-letter-code
+ - Write countries/language into a cache-file, and use this file for production applications languages/countries list
 
 Containing
 ==========
