@@ -1,11 +1,8 @@
 require 'init'
 require 'yaml'
 
-desc 'Default: run spec.'
-task :default => :spec
-
 desc "Run all specs in spec directory"
-task :spec do |t|
+task :default do |t|
   options = "--colour --format progress --loadby --reverse"
   files = FileList['spec/**/*_spec.rb']
   system("spec #{options} #{files}")
@@ -58,4 +55,11 @@ task :example_output do
       f.puts names.reject(&:nil?).map{|x|x*" ---- "} * "\n"
     }
   end
+end
+
+desc "write cache for I18NData::FileDataProvider"
+task :write_cache_for_file_data_provider do
+  require 'i18n_data/file_data_provider'
+  require 'i18n_data/live_data_provider'
+  I18NData::FileDataProvider.write_cache(I18NData::LiveDataProvider)
 end

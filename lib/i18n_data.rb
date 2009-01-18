@@ -1,109 +1,30 @@
-require 'open-uri'
-require 'rexml/document'
-gem 'activesupport', '> 2.2'
-require 'activesupport'
-
 module I18NData
-  extend ActiveSupport::Memoizable
-
-  XML_CODES = {
-    :countries => 'http://svn.debian.org/viewsvn/*checkout*/pkg-isocodes/trunk/iso-codes/iso_3166/iso_3166.xml',
-    :languages => 'http://svn.debian.org/viewsvn/*checkout*/pkg-isocodes/trunk/iso-codes/iso_639/iso_639.xml'
-  }
-  TRANSLATIONS = {
-    :languages => 'http://svn.debian.org/viewsvn/*checkout*/pkg-isocodes/trunk/iso-codes/iso_639/',
-    :countries => 'http://svn.debian.org/viewsvn/*checkout*/pkg-isocodes/trunk/iso-codes/iso_3166/'
-  }
-
   extend self
   
   def languages(language_code='EN')
-    translated_or_english(:languages,language_code)
+    data_provider.translated_or_english(:languages,language_code)
   end
 
   def countries(language_code='EN')
-    translated_or_english(:countries,language_code)
+    data_provider.translated_or_english(:countries,language_code)
   end
 
-private
-
-  def translated_or_english(type,language_code)
-    language_code = language_code.upcase
-    if language_code == 'EN'
-      send("english_#{type}")
+  def data_provider
+    if @data_provider
+      @data_provider
     else
-      translated(type,language_code)
+      require 'i18n_data/file_data_provider'
+      LiveDataProvider
     end
   end
 
-  def translated(type,language_code)
-    translations = {}
-    send("english_#{type}").each do |code,name|
-      translation = translate(type,name,language_code)
-      translations[code] = translation ? translation : name
-    end
-    translations
+  def data_provider=(provider)
+    @data_provider = provider
   end
-  memoize :translated
-
-  def translate(type,language,to_language_code)
-    translated = translations(type,to_language_code)[language]
-    translated.to_s.empty? ? nil : translated
-  end
-
-  def translations(type,language_code)
-    begin
-      data = open(TRANSLATIONS[type]+"#{language_code.downcase}.po").readlines
-    rescue
-      raise NoOnlineTranslationAvaiable.new("for #{type} and language code = #{language_code}")
-    end
-
-    po_to_hash(data)
-  end
-  memoize :translations
-
-  def english_languages
-    codes = {}
-    xml(:languages).elements.each('*/iso_639_entry') do |entry|
-      name = entry.attributes['name'].to_s.gsub("'","\\'")
-      code = entry.attributes['iso_639_1_code'].to_s.upcase
-      next if code.empty? or name.empty?
-      codes[code]=name
-    end
-    codes
-  end
-  memoize :english_languages
-
-  def english_countries
-    codes = {}
-    xml(:countries).elements.each('*/iso_3166_entry') do |entry|
-      name = entry.attributes['name'].to_s.gsub("'","\\'")
-      code = entry.attributes['alpha_2_code'].to_s.upcase
-      codes[code]=name
-    end
-    codes
-  end
-  memoize :english_countries
-
-  def po_to_hash(data)
-    names = data.select{|l| l =~ /^msgid/}.map{|line| line.match(/^msgid "(.*?)"/)[1]}
-    translations = data.select{|l| l =~ /^msgstr/}.map{|line| line.match(/^msgstr "(.*?)"/)[1]}
-
-    translated = {}
-    names.each_with_index do |name,index|
-      translated[name]=translations[index]
-    end
-    translated
-  end
-
-  def xml(type)
-    xml = open(XML_CODES[type]).read
-    REXML::Document.new(xml)
-  end
-
-  class NoOnlineTranslationAvaiable < Exception
+  
+  class NoTranslationAvailable < Exception
     def to_s
-      "NoOnlineTranslationAvaiable -- #{super}"
+      "NoTranslationAvailable -- #{super}"
     end
   end
 end

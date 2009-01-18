@@ -1,2 +1,3 @@
 require 'rubygems'
-require 'lib/i18n_data'
+$LOAD_PATH << File.join(File.dirname(__FILE__),'lib')
+require 'i18n_data'
