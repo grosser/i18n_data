@@ -1,8 +1,9 @@
-require 'init'
+$LOAD_PATH << File.expand_path("../lib", File.dirname(__FILE__))
+require 'i18n_data'
 require 'yaml'
 
 desc "Run all specs in spec directory"
-task :default do |t|
+task :test do |t|
   options = "--colour --format progress --loadby --reverse"
   files = FileList['spec/**/*_spec.rb']
   system("spec #{options} #{files}")

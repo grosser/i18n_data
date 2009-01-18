@@ -20,9 +20,8 @@ in 85 Languages
 Usage
 =====
 
-    # git clone git://github.com/grosser/i18n_data.git
-    # irb OR ruby script OR look into the Rakefile.rb for more examples
-    require 'init'
+    sudo gem install grosser-i18n_data
+    require 'i18n_data'
     ...
     I18NData.languages        # {"DE"=>"German",...}
     I18NData.languages('DE')  # {"DE"=>"Deutsch",...}
@@ -46,12 +45,11 @@ Usage
 Performance
 ===========
  - FileDataProvider: _FAST_ (default) (loading data from cache-files)
- - LiveDataProvider: _SLOW_ (fetching data from svn repos...)
+ - LiveDataProvider: _SLOW_ (fetching data from svn repos)
 
 TODO
 ====
- - make it into a gem
- - include other language/country code formats (3-letter codes...)
+ - include other language/country code formats (3-letter codes...) ?
  
 Author
 ======
