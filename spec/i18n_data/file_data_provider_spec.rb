@@ -7,7 +7,7 @@ describe I18NData::FileDataProvider do
   end
 
   def read(x,y)
-    I18NData::FileDataProvider.translated_or_english(x,y)
+    I18NData::FileDataProvider.codes(x,y)
   end
 
   it "preserves data when writing and then reading" do

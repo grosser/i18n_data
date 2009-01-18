@@ -2,11 +2,11 @@ module I18NData
   extend self
   
   def languages(language_code='EN')
-    data_provider.translated_or_english(:languages,language_code)
+    data_provider.codes(:languages,language_code)
   end
 
   def countries(language_code='EN')
-    data_provider.translated_or_english(:countries,language_code)
+    data_provider.codes(:countries,language_code)
   end
 
   def data_provider

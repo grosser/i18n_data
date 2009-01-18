@@ -3,7 +3,7 @@ module I18NData
     DATA_SEPERATOR = ";;"
     extend self
 
-    def translated_or_english(type,language_code)
+    def codes(type,language_code)
       unless data = read_from_file(type,language_code)
         raise NoTranslationAvailable.new("#{type}-#{language_code}")
       end
@@ -11,11 +11,11 @@ module I18NData
     end
 
     def write_cache(provider)
-      languages = provider.translated_or_english(:languages,'EN').keys
+      languages = provider.codes(:languages,'EN').keys
       languages.each{|language_code|
         [:languages,:countries].each {|type|
           begin
-            data = provider.send(:translated_or_english,type,language_code)
+            data = provider.send(:codes,type,language_code)
             write_to_file(data,type,language_code)
           rescue NoTranslationAvailable
           end

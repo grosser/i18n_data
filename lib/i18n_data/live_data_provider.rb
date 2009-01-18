@@ -18,7 +18,7 @@ module I18NData
       :countries => 'http://svn.debian.org/viewsvn/*checkout*/pkg-isocodes/trunk/iso-codes/iso_3166/'
     }
 
-    def translated_or_english(type,language_code)
+    def codes(type,language_code)
       language_code = language_code.upcase
       if language_code == 'EN'
         send("english_#{type}")
