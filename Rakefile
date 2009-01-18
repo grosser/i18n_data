@@ -63,3 +63,17 @@ task :write_cache_for_file_data_provider do
   require 'i18n_data/live_data_provider'
   I18NData::FileDataProvider.write_cache(I18NData::LiveDataProvider)
 end
+
+require 'echoe'
+
+Echoe.new('i18n_data', '0.1') do |p|
+  p.description    = "country/language names and 2-letter-code pairs, in 85 languages, for country/language "
+  p.url            = "http://github.com/grosser/i18n_data"
+  p.author         = "Michael Grosser"
+  p.email          = "grosser.michael@gmail.com"
+  p.ignore_pattern = ["tmp/*", "script/*", "nbproject/*", "output/*", "Rakefile.rb"]
+  p.dependencies   = ['activesupport']
+  p.development_dependencies = ['echoe','spec','mocha']
+end
+
+task :update_gemspec => [:manifest, :build_gemspec]
