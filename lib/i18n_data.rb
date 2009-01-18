@@ -14,7 +14,7 @@ module I18NData
       @data_provider
     else
       require 'i18n_data/file_data_provider'
-      LiveDataProvider
+      FileDataProvider
     end
   end
 
