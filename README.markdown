@@ -45,20 +45,12 @@ Usage
 
 Performance
 ===========
-This is *SLOW!*  
-I am fetching the codes/translations from the svn repo.  
-It is indended to write `languages_xx.yml / countries_xx.yml`  
-to use in your applications (e.g. Rails / non ruby ...).
-
-When i find the time to get it working through pkg-isocodes  
-(or though the local installation, system independent)  
-it could be faster, but it will still be slow,  
-since one country-lists would need 246 gettext-requests.
+ - FileDataProvider: _FAST_ (default) (loading data from cache-files)
+ - LiveDataProvider: _SLOW_ (fetching data from svn repos...)
 
 TODO
 ====
  - make it into a gem
- - make it faster by using native libaries ?
  - include other language/country code formats (3-letter codes...)
  
 Author
