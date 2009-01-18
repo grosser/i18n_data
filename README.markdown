@@ -11,7 +11,7 @@ Solution
 
 Containing
 ==========
-Translations through [debian pkg-isocodes](http://svn.debian.org/wsvn/pkg-isocodes/trunk/iso-codes/)  
+Translations through [pkg-isocodes](http://svn.debian.org/wsvn/pkg-isocodes/trunk/iso-codes/)  
 185 Language codes (iso 639 - 2 letter)  
 in 66 Languages  
 246 Country codes (iso 3166 - 2 letter)  
@@ -42,10 +42,10 @@ Usage
     I18NData.country_code('Deutschland')   # DE
     ..
 
-Performance
-===========
+Data Providers
+==============
  - FileDataProvider: _FAST_ (default) (loading data from cache-files)
- - LiveDataProvider: _SLOW_ (fetching data from svn repos)
+ - LiveDataProvider: _SLOW_ (fetching up-to-date data from svn repos)
 
 TODO
 ====
