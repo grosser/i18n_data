@@ -1,5 +1,5 @@
-$LOAD_PATH << File.expand_path("../lib", File.dirname(__FILE__))
-require 'i18n_data'
+$LOAD_PATH << File.join(File.dirname(__FILE__),"..","lib")
+require 'lib/i18n_data'#TODO should not be necessary but is :/
 require 'yaml'
 
 desc "Run all specs in spec directory"
@@ -67,12 +67,12 @@ end
 
 require 'echoe'
 
-Echoe.new('i18n_data', '0.1') do |p|
+Echoe.new('i18n_data', '0.1.1') do |p|
   p.description    = "country/language names and 2-letter-code pairs, in 85 languages, for country/language "
   p.url            = "http://github.com/grosser/i18n_data"
   p.author         = "Michael Grosser"
   p.email          = "grosser.michael@gmail.com"
-  p.ignore_pattern = ["tmp/*", "script/*", "nbproject/*", "output/*", "Rakefile.rb"]
+  p.ignore_pattern = ["tmp/*", "script/*", "nbproject/*", "nbproject/*/*", "output/*", "example_output/*"]
   p.dependencies   = ['activesupport']
   p.development_dependencies = ['echoe','spec','mocha']
 end
