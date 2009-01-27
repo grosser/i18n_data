@@ -67,14 +67,14 @@ end
 
 require 'echoe'
 
-Echoe.new('i18n_data', '0.1.1') do |p|
+Echoe.new('i18n_data', '0.1.2') do |p|
   p.description    = "country/language names and 2-letter-code pairs, in 85 languages, for country/language "
   p.url            = "http://github.com/grosser/i18n_data"
   p.author         = "Michael Grosser"
   p.email          = "grosser.michael@gmail.com"
   p.ignore_pattern = ["tmp/*", "script/*", "nbproject/*", "nbproject/*/*", "output/*", "example_output/*"]
-  p.dependencies   = ['activesupport']
-  p.development_dependencies = ['echoe','spec','mocha']
+  p.dependencies   = [] #requires activesupport, but crashes on require when activesupport is already loaded WTF!
+  p.development_dependencies = ['echoe','spec','mocha','activesupport']
 end
 
 task :update_gemspec => [:manifest, :build_gemspec]

@@ -1,3 +1,4 @@
+require 'activesupport'
 module I18NData
   extend self
   
