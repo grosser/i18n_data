@@ -1,4 +1,4 @@
-module I18NData
+module I18nData
   module FileDataProvider
     DATA_SEPERATOR = ";;"
     extend self

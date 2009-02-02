@@ -3,7 +3,7 @@ require 'rexml/document'
 gem 'activesupport', '> 2.2'
 require 'activesupport'
 
-module I18NData
+module I18nData
   # fetches data online from debian svn
   module LiveDataProvider
     extend ActiveSupport::Memoizable

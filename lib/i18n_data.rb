@@ -1,5 +1,5 @@
 require 'activesupport'
-module I18NData
+module I18nData
   extend self
   
   def languages(language_code='EN')

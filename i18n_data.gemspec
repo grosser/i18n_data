@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{i18n_data}
-  s.version = "0.1.2"
+  s.version = "0.2.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 1.2") if s.respond_to? :required_rubygems_version=
   s.authors = ["Michael Grosser"]
-  s.date = %q{2009-01-27}
+  s.date = %q{2009-02-02}
   s.description = %q{country/language names and 2-letter-code pairs, in 85 languages, for country/language}
   s.email = %q{grosser.michael@gmail.com}
   s.extra_rdoc_files = ["lib/i18n_data/file_data_provider.rb", "lib/i18n_data/live_data_provider.rb", "lib/i18n_data.rb", "README.markdown"]
@@ -24,17 +24,23 @@ Gem::Specification.new do |s|
     s.specification_version = 2
 
     if Gem::Version.new(Gem::RubyGemsVersion) >= Gem::Version.new('1.2.0') then
+      s.add_runtime_dependency(%q<rexml>, [">= 0"])
+      s.add_runtime_dependency(%q<open-uri>, [">= 0"])
       s.add_development_dependency(%q<echoe>, [">= 0"])
       s.add_development_dependency(%q<spec>, [">= 0"])
       s.add_development_dependency(%q<mocha>, [">= 0"])
       s.add_development_dependency(%q<activesupport>, [">= 0"])
     else
+      s.add_dependency(%q<rexml>, [">= 0"])
+      s.add_dependency(%q<open-uri>, [">= 0"])
       s.add_dependency(%q<echoe>, [">= 0"])
       s.add_dependency(%q<spec>, [">= 0"])
       s.add_dependency(%q<mocha>, [">= 0"])
       s.add_dependency(%q<activesupport>, [">= 0"])
     end
   else
+    s.add_dependency(%q<rexml>, [">= 0"])
+    s.add_dependency(%q<open-uri>, [">= 0"])
     s.add_dependency(%q<echoe>, [">= 0"])
     s.add_dependency(%q<spec>, [">= 0"])
     s.add_dependency(%q<mocha>, [">= 0"])

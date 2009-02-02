@@ -11,7 +11,7 @@ end
 
 desc "write all languages to output"
 task :all_languages do
-  I18NData.languages.keys.each do |lc|
+  I18nData.languages.keys.each do |lc|
     `rake languages LANGUAGE=#{lc}`
   end
 end
@@ -20,13 +20,13 @@ desc "write languages to output/languages_{language}"
 task :languages do
   raise unless language = ENV['LANGUAGE']
   `mkdir output -p`
-  data = I18NData.languages(language.upcase)
+  data = I18nData.languages(language.upcase)
   File.open("output/languages_#{language.downcase}.yml",'w') {|f|f.puts data.to_yaml}
 end
 
 desc "write all countries to output"
 task :all_countries do
-  I18NData.languages.keys.each do |lc|
+  I18nData.languages.keys.each do |lc|
     `rake countries LANGUAGE=#{lc}`
   end
 end
@@ -35,7 +35,7 @@ desc "write countries to output/countries_{language}"
 task :countries do
   raise unless language = ENV['LANGUAGE']
   `mkdir output -p`
-  data = I18NData.countries(language.upcase)
+  data = I18nData.countries(language.upcase)
   File.open("output/countries_#{language.downcase}.yml",'w') {|f|f.puts data.to_yaml}
 end
 
@@ -45,10 +45,10 @@ task :example_output do
   
   #all names for germany, france, united kingdom and unites states
   ['DE','FR','GB','US'].each do |cc|
-    names = I18NData.languages.keys.map do |lc|
+    names = I18nData.languages.keys.map do |lc|
       begin
-        [I18NData.countries(lc)[cc], I18NData.languages[lc]]
-      rescue I18NData::NoOnlineTranslationAvaiable
+        [I18nData.countries(lc)[cc], I18nData.languages[lc]]
+      rescue I18nData::NoOnlineTranslationAvaiable
         nil
       end
     end
@@ -58,22 +58,22 @@ task :example_output do
   end
 end
 
-desc "write cache for I18NData::FileDataProvider"
+desc "write cache for I18nData::FileDataProvider"
 task :write_cache_for_file_data_provider do
   require 'i18n_data/file_data_provider'
   require 'i18n_data/live_data_provider'
-  I18NData::FileDataProvider.write_cache(I18NData::LiveDataProvider)
+  I18nData::FileDataProvider.write_cache(I18nData::LiveDataProvider)
 end
 
 require 'echoe'
 
-Echoe.new('i18n_data', '0.1.2') do |p|
+Echoe.new('i18n_data', '0.2.0') do |p|
   p.description    = "country/language names and 2-letter-code pairs, in 85 languages, for country/language "
   p.url            = "http://github.com/grosser/i18n_data"
   p.author         = "Michael Grosser"
   p.email          = "grosser.michael@gmail.com"
   p.ignore_pattern = ["tmp/*", "script/*", "nbproject/*", "nbproject/*/*", "output/*", "example_output/*"]
-  p.dependencies   = [] #requires activesupport, but crashes on require when activesupport is already loaded WTF!
+  p.dependencies   = ['rexml','open-uri'] #requires activesupport, but crashes on require when activesupport is already loaded WTF!
   p.development_dependencies = ['echoe','spec','mocha','activesupport']
 end
 

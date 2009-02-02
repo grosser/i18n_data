@@ -23,23 +23,23 @@ Usage
     sudo gem install grosser-i18n_data
     require 'i18n_data'
     ...
-    I18NData.languages        # {"DE"=>"German",...}
-    I18NData.languages('DE')  # {"DE"=>"Deutsch",...}
-    I18NData.languages('FR')  # {"DE"=>"Allemand",...}
+    I18nData.languages        # {"DE"=>"German",...}
+    I18nData.languages('DE')  # {"DE"=>"Deutsch",...}
+    I18nData.languages('FR')  # {"DE"=>"Allemand",...}
     ...
 
-    I18NData.countries        # {"DE"=>"Germany",...}
-    I18NData.countries('DE')  # {"DE"=>"Deutschland",...}
+    I18nData.countries        # {"DE"=>"Germany",...}
+    I18nData.countries('DE')  # {"DE"=>"Deutschland",...}
     ...
 
     #Not yet implemented...
-    I18NData.language_code('German')       # DE
-    I18NData.language_code('Deutsch')      # DE
-    I18NData.language_code('Allemand')     # DE
+    I18nData.language_code('German')       # DE
+    I18nData.language_code('Deutsch')      # DE
+    I18nData.language_code('Allemand')     # DE
     ..
 
-    I18NData.country_code('Germany')       # DE
-    I18NData.country_code('Deutschland')   # DE
+    I18nData.country_code('Germany')       # DE
+    I18nData.country_code('Deutschland')   # DE
     ..
 
 Data Providers
