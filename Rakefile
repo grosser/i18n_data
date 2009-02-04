@@ -3,7 +3,7 @@ require 'lib/i18n_data'#TODO should not be necessary but is :/
 require 'yaml'
 
 desc "Run all specs in spec directory"
-task :test do |t|
+task :default do |t|
   options = "--colour --format progress --loadby --reverse"
   files = FileList['spec/**/*_spec.rb']
   system("spec #{options} #{files}")
@@ -65,16 +65,17 @@ task :write_cache_for_file_data_provider do
   I18nData::FileDataProvider.write_cache(I18nData::LiveDataProvider)
 end
 
-require 'echoe'
-
-Echoe.new('i18n_data', '0.2.0') do |p|
-  p.description    = "country/language names and 2-letter-code pairs, in 85 languages, for country/language "
-  p.url            = "http://github.com/grosser/i18n_data"
-  p.author         = "Michael Grosser"
-  p.email          = "grosser.michael@gmail.com"
-  p.ignore_pattern = ["tmp/*", "script/*", "nbproject/*", "nbproject/*/*", "output/*", "example_output/*"]
-  p.dependencies   = ['rexml','open-uri'] #requires activesupport, but crashes on require when activesupport is already loaded WTF!
-  p.development_dependencies = ['echoe','spec','mocha','activesupport']
+begin
+  require 'jeweler'
+  Jeweler::Tasks.new do |gem|
+    gem.name = "i18n_data"
+    gem.summary = "country/language names and 2-letter-code pairs, in 85 languages"
+    gem.email = "grosser.michael@gmail.com"
+    gem.homepage = "http://github.com/grosser/i18n_data"
+    gem.authors = ["Michael Grosser"]
+    gem.add_dependency ['activesupport']
+    gem.files += FileList["cache/**/*"]
+  end
+rescue LoadError
+  puts "Jeweler, or one of its dependencies, is not available. Install it with: sudo gem install technicalpickles-jeweler -s http://gems.github.com"
 end
-
-task :update_gemspec => [:manifest, :build_gemspec]
