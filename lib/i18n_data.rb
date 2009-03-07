@@ -3,11 +3,11 @@ module I18nData
   extend self
   
   def languages(language_code='EN')
-    data_provider.codes(:languages,language_code)
+    data_provider.codes(:languages,language_code.to_s.upcase)
   end
 
   def countries(language_code='EN')
-    data_provider.codes(:countries,language_code)
+    data_provider.codes(:countries,language_code.to_s.upcase)
   end
 
   def data_provider

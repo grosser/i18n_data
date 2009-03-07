@@ -74,7 +74,7 @@ begin
     gem.homepage = "http://github.com/grosser/i18n_data"
     gem.authors = ["Michael Grosser"]
     gem.add_dependency ['activesupport']
-    gem.files += FileList["cache/**/*"]
+    gem.files += (FileList["{lib,spec,cache}/**/*"] + FileList["VERSION.yml"] + FileList["README.markdown"]).to_a.sort
   end
 rescue LoadError
   puts "Jeweler, or one of its dependencies, is not available. Install it with: sudo gem install technicalpickles-jeweler -s http://gems.github.com"
