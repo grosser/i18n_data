@@ -1,16 +1,16 @@
 require 'activesupport'
 
 module I18nData
-  VERSION = File.read( File.join(File.dirname(__FILE__),'..','VERSION') ).strip
+  VERSION = File.read( File.join(File.dirname(__FILE__), '..', 'VERSION') ).strip
   
   extend self
   
   def languages(language_code='EN')
-    data_provider.codes(:languages,language_code.to_s.upcase)
+    data_provider.codes(:languages, language_code.to_s.upcase)
   end
 
   def countries(language_code='EN')
-    data_provider.codes(:countries,language_code.to_s.upcase)
+    data_provider.codes(:countries, language_code.to_s.upcase)
   end
 
   def country_code(name)
