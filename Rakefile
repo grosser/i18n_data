@@ -67,15 +67,17 @@ end
 
 begin
   require 'jeweler'
+  project_name = 'ar_serialized_array'
   Jeweler::Tasks.new do |gem|
-    gem.name = "i18n_data"
+    gem.name = project_name
     gem.summary = "country/language names and 2-letter-code pairs, in 85 languages"
     gem.email = "grosser.michael@gmail.com"
-    gem.homepage = "http://github.com/grosser/i18n_data"
+    gem.homepage = "http://github.com/grosser/#{project_name}"
     gem.authors = ["Michael Grosser"]
     gem.add_dependency ['activesupport']
-    gem.files += (FileList["{lib,spec,cache}/**/*"] + FileList["VERSION.yml"] + FileList["README.markdown"]).to_a.sort
   end
+
+  Jeweler::GemcutterTasks.new
 rescue LoadError
   puts "Jeweler, or one of its dependencies, is not available. Install it with: sudo gem install technicalpickles-jeweler -s http://gems.github.com"
 end
