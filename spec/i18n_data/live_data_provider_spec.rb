@@ -6,6 +6,7 @@ describe I18nData::LiveDataProvider do
     def po_to_hash(text)
       I18nData::LiveDataProvider.send(:po_to_hash,text)
     end
+
     it "parses po file into translations" do
       text = <<EOF
 # come comment msgstr
@@ -14,6 +15,7 @@ msgstr "1"
 EOF
       po_to_hash(text).should == {"one"=>"1"}
     end
+
     it "keeps order of translations" do
       text = <<EOF
 msgid "one"
@@ -25,6 +27,7 @@ msgstr "3"
 EOF
       po_to_hash(text).should == {"one"=>"1","two"=>"","three"=>"3"}
     end
+
     it "finds x-line long translations" do
       pending
       text = <<EOF
