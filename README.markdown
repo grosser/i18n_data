@@ -1,17 +1,11 @@
- - Convert a country/language-name to its code
  - Present users coutries/languages in their language
- - A list of 2-letter-code/name pairs for all countries/languages in all languages
- - A tool to convert a coutry/language name into 2-letter-code
- - Write countries/language into a cache-file, and use this file for production applications languages/countries list
+ - Convert a country/language-name to its 2-letter-code
+ - List of 2-letter-code/name pairs for all countries/languages in all languages
 
-Containing
-==========
-Translations through [pkg-isocodes](http://svn.debian.org/wsvn/pkg-isocodes/trunk/iso-codes/)  
-185 Language codes (iso 639 - 2 letter)  
-in 66 Languages  
-246 Country codes (iso 3166 - 2 letter)  
-in 85 Languages  
-
+###Translations
+Through [pkg-isocodes](http://svn.debian.org/wsvn/pkg-isocodes/trunk/iso-codes/):  
+185 Language codes (iso 639 - 2 letter) in 66 Languages  
+246 Country codes (iso 3166 - 2 letter) in 85 Languages  
 
 Install
 =======
@@ -31,7 +25,6 @@ Usage
     I18nData.countries('DE')  # {"DE"=>"Deutschland",...}
     ...
 
-    #Not yet implemented...
     I18nData.language_code('German')       # DE
     I18nData.language_code('Deutsch')      # DE
     I18nData.language_code('Allemand')     # DE
