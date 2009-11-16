@@ -58,6 +58,16 @@ task :example_output do
   end
 end
 
+desc "show stats"
+task :stats do
+  dir = "cache/file_data_provider"
+  [:languages, :countries].each do |type|
+    files = FileList["#{dir}/#{type}*"]
+    lines = File.readlines(files.first).reject{|l|l.empty?}
+    puts "#{lines.size} #{type} in #{files.size} languages"
+  end
+end
+
 desc "write cache for I18nData::FileDataProvider"
 task :write_cache_for_file_data_provider do
   require 'i18n_data/file_data_provider'

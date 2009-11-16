@@ -3,9 +3,9 @@
  - List of 2-letter-code/name pairs for all countries/languages in all languages
 
 ###Translations
-Through [pkg-isocodes](http://svn.debian.org/wsvn/pkg-isocodes/trunk/iso-codes/):  
-185 Language codes (iso 639 - 2 letter) in 66 Languages  
-246 Country codes (iso 3166 - 2 letter) in 85 Languages  
+Through [pkg-isocodes](http://git.debian.org/?p=iso-codes/iso-codes.git):  
+185 Language codes (iso 639 - 2 letter) in 68 Languages  
+246 Country codes (iso 3166 - 2 letter) in 86 Languages  
 
 Install
 =======
