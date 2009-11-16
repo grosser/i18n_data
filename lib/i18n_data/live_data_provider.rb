@@ -8,14 +8,16 @@ module I18nData
   module LiveDataProvider
     extend ActiveSupport::Memoizable
     extend self
-    
+
+    ROOT = "http://git.debian.org/?p=iso-codes/iso-codes.git;a=blob_plain;f="
+
     XML_CODES = {
-      :countries => 'http://svn.debian.org/viewsvn/*checkout*/pkg-isocodes/trunk/iso-codes/iso_3166/iso_3166.xml',
-      :languages => 'http://svn.debian.org/viewsvn/*checkout*/pkg-isocodes/trunk/iso-codes/iso_639/iso_639.xml'
+      :countries => ROOT + 'iso_3166/iso_3166.xml',
+      :languages => ROOT + 'iso_639/iso_639.xml'
     }
     TRANSLATIONS = {
-      :languages => 'http://svn.debian.org/viewsvn/*checkout*/pkg-isocodes/trunk/iso-codes/iso_639/',
-      :countries => 'http://svn.debian.org/viewsvn/*checkout*/pkg-isocodes/trunk/iso-codes/iso_3166/'
+      :countries => ROOT + 'iso_3166/',
+      :languages => ROOT + 'iso_639/'
     }
 
     def codes(type,language_code)
