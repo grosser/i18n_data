@@ -94,4 +94,8 @@ describe I18nData do
       end
     end
   end
+
+  it "has a VERSION" do
+    I18nData::VERSION.should =~ /^\d+\.\d+\.\d+$/
+  end
 end
