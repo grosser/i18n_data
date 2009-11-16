@@ -25,7 +25,8 @@ msgstr "3"
 EOF
       po_to_hash(text).should == {"one"=>"1","two"=>"","three"=>"3"}
     end
-    pending_it "finds x-line long translations" do
+    it "finds x-line long translations" do
+      pending
       text = <<EOF
 #. name for chu, cu
 msgid ""

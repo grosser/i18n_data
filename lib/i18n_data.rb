@@ -1,4 +1,5 @@
 require 'activesupport'
+
 module I18nData
   extend self
   
