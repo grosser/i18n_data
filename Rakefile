@@ -67,7 +67,7 @@ end
 
 begin
   require 'jeweler'
-  project_name = 'ar_serialized_array'
+  project_name = 'i18n_data'
   Jeweler::Tasks.new do |gem|
     gem.name = project_name
     gem.summary = "country/language names and 2-letter-code pairs, in 85 languages"
