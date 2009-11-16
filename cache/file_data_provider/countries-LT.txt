@@ -1,9 +1,9 @@
 VA;;Šventasis Sostas (Vatikano Miesto Valstybė)
-CC;;Kokoso (Keelingo) salos
+CC;;Kokosų (Kilingo) salos
 GT;;Gvatemala
 JP;;Japonija
 SE;;Švedija
-TZ;;Tanzanijos Jungtinė Respublika
+TZ;;Tanzanija, Jungtinė Respublika
 CD;;Kongo Demokratinė Respublika
 GU;;Guamas
 MM;;Mianmaras
@@ -21,18 +21,18 @@ CG;;Kongas
 MP;;Marianos šiaurinės salos
 PM;;Sen Pjeras ir Mikelonas
 SI;;Slovėnija
-VE;;Venesuela
+VE;;Venesuela, Bolivaro Respublika
 ZW;;Zimbabvė
 CH;;Šveicarija
 GY;;Gajana
 MQ;;Martinika
-PN;;Pitcairno s.
+PN;;Pitkernas
 SJ;;Svalbardas ir Jan Mayenas
 CI;;Côte dIvoireIvoire
 MR;;Mauritanija
 SK;;Slovakija
 VG;;Mergelės salos, Britų
-MS;;Montserratas
+MS;;Montseratas
 SL;;Siera Leonė
 CK;;Kuko salos
 ID;;Indonezija
@@ -68,7 +68,7 @@ MZ;;Mozambikas
 CR;;Kosta Rika
 PW;;Palau
 FO;;Farerų salos
-ST;;Sao Tomė ir Prinsipė
+ST;;San Tomė ir Prinsipė
 IL;;Izraelis
 LI;;Lichtenšteinas
 PY;;Paragvajus
@@ -76,7 +76,7 @@ BA;;Bosnija ir Hercegovina
 CU;;Kuba
 IM;;Meno sala
 SV;;Salvadoras
-CV;;Žalio Kyšulio s.
+CV;;Žaliasis Kyšulys
 FR;;Prancūzija
 IN;;Indija
 LK;;Šri Lanka
@@ -84,15 +84,15 @@ BB;;Barbadosas
 IO;;Indijos vandenyno Britų sritis
 VU;;Vanuatu
 CX;;Kalėdų sala
-RE;;Reunionas
+RE;;Reunjonas
 UA;;Ukraina
 SY;;Sirijos Arabų Respublika
 CY;;Kipras
 IQ;;Irakas
-SZ;;Svazilendas
+SZ;;Svazilandas
 BD;;Bangladešas
 CZ;;Čekijos Respublika
-IR;;Irano Islamo Respublika
+IR;;Iranas, Islamo Respublika
 YT;;Mayotte
 BE;;Belgija
 IS;;Islandija
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Latvija
 BN;;Brunėjaus Darusalamas
 UM;;Jungtinės Minoro Valstijos ir aplinkinės salos
-BO;;Bolivija
+BO;;Bolivija, Daugianacionalinė Valstybė 
 KE;;Kenija
 NA;;Namibija
 LY;;Libija
@@ -152,8 +152,8 @@ KM;;Komorai
 AE;;Jungtiniai Arabų Emyratai
 BZ;;Belizas
 HR;;Kroatija
-KN;;Sen Kristoferis ir Nevis
-TC;;Turkso ir Caicoso salos
+KN;;Sent Kitsas ir Nevis
+TC;;Terkso ir Kaikoso salos
 AF;;Afganistanas
 NL;;Nyderlandai
 TD;;Čadas
@@ -163,11 +163,11 @@ KP;;Korea, Democratic Peoples Republic ofs Republic of
 UY;;Urugvajus
 GA;;Gabonas
 HU;;Vengrija
-TF;;Prancūzijos pietų ir antarkties sritys
-UZ;;Uzbekistanas
-AI;;Anguilla
+TF;;Prancūzijos Pietų Sritys
+UZ;;Uzbekija
+AI;;Angilija
 DE;;Vokietija
-GB;;Didžioji Britanija
+GB;;Jungtinė Karalystė
 KR;;Korėjos Respublika
 TG;;Togas
 NO;;Norvegija
@@ -178,7 +178,7 @@ ZA;;Pietų Afrika
 AL;;Albanija
 GE;;Gruzija
 TJ;;Tadžikistanas
-WF;;Walliso ir Futuna salos
+WF;;Volisas ir Futūna
 AM;;Armėnija
 GF;;Prancūzijos Gviana
 NR;;Nauru
@@ -186,16 +186,16 @@ TK;;Tokelau
 AN;;Olandijos Antilai
 DJ;;Džibutis
 KW;;Kuveitas
-TL;;Timor-Leste
+TL;;Rytų Timoras
 AO;;Angola
 DK;;Danija
-GG;;Guernsey
+GG;;Gernsis
 TM;;Turkmėnistanas
 GH;;Gana
-JE;;Džersi
+JE;;Džersis
 MA;;Marokas
 KY;;Kaimanų salos
-NU;;Niue
+NU;;Niujė
 TN;;Tunisas
 DM;;Dominika
 GI;;Gibraltaras
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarktis
 MC;;Monakas
 AR;;Argentina
-MD;;Moldova
+MD;;Moldova, Respublika
 AS;;Amerikos Samoa
 DO;;Dominikos Respublika
 ME;;Juodkalnija
@@ -233,7 +233,7 @@ WS;;Samoa
 SB;;Saliamono salos
 PF;;Prancūzijos Polinezija
 TV;;Tuvalu
-PG;;Papua ir Naujoji Gvinėja
+PG;;Papua Naujoji Gvinėja
 MK;;Makedonija, Respublika
 GR;;Graikija
 AZ;;Azerbaidžanas

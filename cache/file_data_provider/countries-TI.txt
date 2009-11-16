@@ -21,7 +21,7 @@ CG;;Congo
 MP;;Northern Mariana Islands
 PM;;Saint Pierre and Miquelon
 SI;;ስሎቬኒያ
-VE;;ቬንዙዌላ
+VE;;ዶሚኒክ ሪፑብሊክ
 ZW;;Zimbabwe
 CH;;ስዊዘርላንድ
 GY;;ጉያና
@@ -118,7 +118,7 @@ BM;;ቤርሙዳ
 LV;;ላትቪያ
 BN;;Brunei Darussalam
 UM;;United States Minor Outlying Islands
-BO;;ቦሊቪያ
+BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;ናሚቢያ
 LY;;Libyan Arab Jamahiriya
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarctica
 MC;;Monaco
 AR;;አርጀንቲና
-MD;;Moldova
+MD;;ዶሚኒክ ሪፑብሊክ
 AS;;American Samoa
 DO;;ዶሚኒክ ሪፑብሊክ
 ME;;Montenegro

@@ -24,7 +24,7 @@ BG;;Bulgaars
 PL;;Pools
 HE;;Hebreeuws
 NA;;Nauruaans
-BH;;Bihari
+BH;;Thaise talen
 MN;;Mongools
 VI;;Vietnamees
 RW;;Kinyarwanda

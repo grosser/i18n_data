@@ -21,7 +21,7 @@ CG;;Kongo
 MP;;Mariany Północne
 PM;;Saint Pierre i Miquelon
 SI;;Słowenia
-VE;;Wenezuela
+VE;;Wenezuela - Boliwariańska Republika
 ZW;;Zimbabwe
 CH;;Szwajcaria
 GY;;Gujana
@@ -110,7 +110,7 @@ LS;;Lesoto
 BJ;;Benin
 LT;;Litwa
 EG;;Egipt
-BL;;Saint Barthelemy
+BL;;Saint-Barthélemy
 EH;;Sahara Zachodnia
 LU;;Luksemburg
 RO;;Rumunia
@@ -118,10 +118,10 @@ BM;;Bermudy
 LV;;Łotwa
 BN;;Państwo Brunei
 UM;;Dalekie Wyspy Mniejsze Stanów Zjednoczonych
-BO;;Boliwia
+BO;;Boliwia - Wielonarodowe Państwo
 KE;;Kenia
 NA;;Namibia
-LY;;Libia
+LY;;Libijska Arabska Dżamahirijja
 BR;;Brazylia
 KG;;Kirgistan
 NC;;Nowa Kaledonia
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarktyka
 MC;;Monako
 AR;;Argentyna
-MD;;Mołdawia
+MD;;Mołdawia - Republika
 AS;;Samoa Amerykańskie
 DO;;Dominikana
 ME;;Czarnogóra
@@ -212,7 +212,7 @@ PA;;Panama
 TR;;Turcja
 AT;;Austria
 GL;;Grenlandia
-MF;;Saint Martin (część francuska)
+MF;;Saint-Martin (część francuska)
 NZ;;Nowa Zelandia
 AU;;Australia
 GM;;Gambia

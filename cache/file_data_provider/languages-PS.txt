@@ -24,7 +24,7 @@ BG;;Bulgarian
 PL;;پولنډي
 HE;;عبري
 NA;;Nauru
-BH;;Bihari
+BH;;ایټالوي
 MN;;مغولي
 VI;;Vietnamese
 RW;;Kinyarwanda

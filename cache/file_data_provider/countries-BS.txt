@@ -21,7 +21,7 @@ CG;;Kongo
 MP;;Sjeverna Marijanska ostrva
 PM;;Saint Pierre i Miquelon
 SI;;Slovenija
-VE;;Venecuela
+VE;;Bolivarijska Republika Venecuela
 ZW;;Zimbabve
 CH;;Švicarska
 GY;;Gvajana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Latvija
 BN;;Bruneji
 UM;;United States Minor Outlying Islands
-BO;;Bolivija
+BO;;Bolivia, Plurinational State of
 KE;;Kenija
 NA;;Namibija
 LY;;Libijska Arapska Džamahirija
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarktik
 MC;;Monako
 AR;;Argentina
-MD;;Moldova
+MD;;Republika Makedonija
 AS;;Američka Samoa
 DO;;Dominikanska Republika
 ME;;Crna Gora

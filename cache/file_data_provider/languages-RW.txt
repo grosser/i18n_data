@@ -24,7 +24,7 @@ BG;;Ikinyabulugariya
 PL;;Ikinyapolonye
 HE;;Igiheburayo
 NA;;Ikinawuru
-BH;;Ikibihari
+BH;;Indimi za tupi
 MN;;Ikinyamongoliya
 VI;;Ikinyaviyetinamu
 RW;;Ikinyarwanda

@@ -1,0 +1,185 @@
+SE;;ઉત્તરી સામી
+FY;;પશ્ચિમી ફ્રિશીયન
+OS;;Ossetian; Ossetic
+GL;;ગાલિસીયન
+LU;;Luba-Katanga
+MI;;માઓરી    
+LV;;Latvian
+HA;;હાઉસા
+BE;;બેલારુશિયન
+GN;;Guarani
+PI;;પાલી
+UR;;ઉર્દુ
+MK;;Macedonian
+VE;;વેન્દા
+AR;;અરેબિક
+SG;;સાન્ગો
+KA;;Georgian
+ML;;મલયાલમ
+AS;;આસામી
+EE;;Ewe
+RU;;રશિયન
+SI;;સિન્હાલા; સિન્હાલી
+BG;;બલ્ગેરિયન
+PL;;પોલિશ
+HE;;હેબ્રુ
+NA;;Nauru
+BH;;તાઇ ભાષાઓ
+MN;;મોંગોલિયન
+VI;;વિયેતનામી
+RW;;Kinyarwanda
+NB;;Bokmål, Norwegian; Norwegian Bokmål
+AV;;અવેરિક
+SK;;સ્લોવાક
+BI;;બિસ્લામા
+MO;;Moldavian; Moldovan
+SL;;સ્લોવેનિયન
+YI;;Yiddish
+DV;;Divehi; Dhivehi; Maldivian
+ND;;Ndebele, North; North Ndebele
+SM;;સામોઆન
+NE;;નેપાલી
+AY;;Aymara
+SN;;શોના
+KG;;કોન્ગો
+TA;;તમિલ
+GU;;ગુજરાતી
+HI;;હિન્દી
+MR;;મરાઠી
+AZ;;Azerbaijani
+SO;;સોમાલી
+BM;;બમ્બારા
+GV;;Manx
+CA;;કેટેલન; વેલેન્સીઆ
+MS;;મલય
+EL;;Greek, Modern (1453-)
+NG;;Ndonga
+WA;;વલુન
+BN;;બંગાળી
+KI;;Kikuyu; Gikuyu
+UZ;;ઉઝબેક
+DZ;;Dzongkha
+MT;;માલ્તીઝ
+VO;;વોલાપુક
+JV;;જાવાની
+FA;;પર્સિયન
+SQ;;અલ્બેનિયન
+BO;;તિબેટન
+KJ;;Kuanyama; Kwanyama
+EN;;અંગ્રેજી
+SR;;સર્બિયન
+TE;;તેલુગુ
+PS;;પુશ્તો; પાશ્તો
+ZA;;Zhuang; Chuang
+IA;;Interlingua (International Auxiliary Language Association)
+EO;;Esperanto
+KK;;કઝાખ
+PT;;પોર્ટુગીઝ
+YO;;યોરુબા
+SS;;સ્વાતી
+BR;;બ્રેટોન
+KL;;Kalaallisut; Greenlandic
+TG;;તાજીક
+CE;;ચેચેન
+NL;;ડચ; ફ્લેમિશ
+ST;;સોથો, દક્ષિણી
+BS;;બોસનીયન
+KM;;કેન્દ્રિય ખ્મેર
+TH;;થાઇ
+LA;;લેટિન
+HO;;હિરી મોટુ
+SU;;Sundanese
+KN;;કન્નડ
+TI;;Tigrinya
+LB;;Luxembourgish; Letzeburgesch
+MY;;બર્મિશ
+ID;;ઇન્ડોનેશિયન
+SV;;સ્વેડિશ
+FF;;ફુલાહ
+KO;;કોરિયાઈ
+CH;;ચામોરો
+IE;;Interlingue; Occidental
+ES;;સ્પેનિશ; કાસ્ટિલીયન
+SW;;સ્વાહિલી
+TK;;તુર્કમેન
+HR;;ક્રોએટિઅન
+ET;;Estonian
+NN;;Norwegian Nynorsk; Nynorsk, Norwegian
+OC;;Occitan (post 1500)
+TL;;તાગાલોગ
+ZH;;ચીની
+IG;;ઇગ્બો
+EU;;બાસ્ક્યુ
+NO;;નોર્વેગિયન
+FI;;ફિનીશ
+HT;;Haitian; Haitian Creole
+KR;;કાનુરી
+FJ;;Fijian
+AA;;અફાર
+HU;;હન્ગેરિયન
+LG;;ગાન્ડા
+KS;;કાશ્મીરી
+TN;;Tswana
+NR;;Ndebele, South; South Ndebele
+AB;;Abkhazian
+II;;Sichuan Yi; Nuosu
+DA;;ડેનિશ
+TO;;ટોન્ગા (ટોન્ગા ટાપુઓ)
+KU;;કુર્દીશ
+LI;;Limburgan; Limburger; Limburgish
+GA;;ઇરિશ
+KV;;કોમી
+IK;;Inupiaq
+CO;;કોર્શિયન
+WO;;વોલોફ 
+KW;;કોર્નીશ
+AE;;અવેસ્ટાન
+HY;;અર્મેનિયન
+TR;;તુર્કીશ
+FO;;Faroese
+JA;;જાપાની
+NV;;નાવાજો; નાવાહો
+AF;;આફ્રિકન્સ
+HZ;;હેરેરો
+OJ;;ઓજીબ્વા
+TS;;Tsonga
+CR;;ક્રી
+GD;;Gaelic; Scottish Gaelic
+KY;;Kirghiz; Kyrgyz
+DE;;જર્મન
+QU;;Quechua
+UG;;Uighur; Uyghur
+CS;;Czech
+IO;;ઇડો
+TT;;તાતાર
+LN;;લિંગાલા
+FR;;ફ્રેન્ચ
+NY;;Chichewa; Chewa; Nyanja
+OM;;ઓરોમો
+LO;;લાઓ
+CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+PA;;પંજાબી; પંજાબી
+XH;;Xhosa
+CV;;ચુવાશ
+AK;;અકાન
+RM;;રોમાન્શ
+TW;;ત્વી
+UK;;યુક્રેનિયન
+IS;;Icelandic
+RN;;રુન્દી
+SA;;સંસ્કૃત
+ZU;;ઝુલુ
+IT;;ઇટાલિયન
+BA;;બાશકીર
+AM;;અમ્હારીક
+RO;;રોમાનિયન
+TY;;Tahitian
+IU;;Inuktitut
+MG;;માલાગસી
+AN;;Aragonese
+SC;;Sardinian
+CY;;વેલ્શ
+MH;;Marshallese
+LT;;Lithuanian
+OR;;ઉડિયા
+SD;;સિંધી

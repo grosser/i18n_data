@@ -21,7 +21,7 @@ CG;;Congo
 MP;;Northern Mariana Islands
 PM;;Saint Pierre and Miquelon
 SI;;Slovenia
-VE;;Venezuela
+VE;;Ulawulo lokuziphatha kwe Dominican
 ZW;;Zimbabwe
 CH;;Switzerland
 GY;;Guyana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Latvia
 BN;;Brunei Darussalam
 UM;;United States ye Melika
-BO;;Bolivia
+BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibia
 LY;;Libyan Arab Jamahiriya
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarctica
 MC;;Monaco
 AR;;Argentina
-MD;;Moldova
+MD;;Ulawulo lokuziphatha kwe Dominican
 AS;;Melika, Mntla
 DO;;Ulawulo lokuziphatha kwe Dominican
 ME;;Montenegro

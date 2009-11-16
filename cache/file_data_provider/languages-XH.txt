@@ -24,7 +24,7 @@ BG;;isiBulgarian
 PL;;isiPolish
 HE;;isiHebhere
 NA;;Nauru
-BH;;isiThai
+BH;;isiBosnian
 MN;;isiMacedonian
 VI;;isiVietnamese
 RW;;Kinyarwanda

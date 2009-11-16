@@ -24,7 +24,7 @@ BG;;bolgár
 PL;;lengyel
 HE;;héber
 NA;;nauru
-BH;;bihári
+BH;;tupi nyelvek
 MN;;mongol
 VI;;vietnami
 RW;;kinyarvanda

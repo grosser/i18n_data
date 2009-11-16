@@ -24,7 +24,7 @@ BG;;Bulgāru
 PL;;Poļu
 HE;;Ebreju
 NA;;Nauru
-BH;;Taizemiešu
+BH;;Korejiešu
 MN;;Maķedoniešu
 VI;;Vjetnamiešu
 RW;;Kinyarwanda

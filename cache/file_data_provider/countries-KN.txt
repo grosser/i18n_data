@@ -21,7 +21,7 @@ CG;;ಕಾಂಗೋ
 MP;;ಉತ್ತರ ಮಾರಿಯಾನಾ ದ್ವೀಪಗಳು
 PM;;Saint Pierre and Miquelon
 SI;;ಸ್ಲೋವೇನಿಯಾ
-VE;;ವೆನೇಹಜುವೇಲಾ
+VE;;Bolivarian Republic of Venezuela
 ZW;;ಝಿಂಬಾಬ್ವೆ
 CH;;ಸ್ವಿಜರ್ಲ್ಯಾಂಡ್
 GY;;ಗಯಾನಾ
@@ -118,7 +118,7 @@ BM;;ಬರ್ಮುಡಾ
 LV;;ಲಾತ್ವಿಯಾ
 BN;;ಬ್ರೂನೈ ದಾರುಸ್ಸಲಾಂ
 UM;;United States Minor Outlying Islands
-BO;;ಬೊಲಿವಿಯಾ
+BO;;Bolivia, Plurinational State of
 KE;;ಕೀನ್ಯಾ
 NA;;ನಮೀಬಿಯಾ
 LY;;Libyan Arab Jamahiriya
@@ -204,7 +204,7 @@ TO;;ಟೋಂಗಾ
 AQ;;ಅಂಟಾರ್ಟಿಕ
 MC;;ಮೊನಾಕೋ
 AR;;ಅರ್ಜೆಂಟೈನಾ
-MD;;Moldova
+MD;;ಮ್ಯಾಸೆಡೋನಿಯಾ ಗಣರಾಜ್ಯ
 AS;;ಅಮೇರಿಕನ್ ಸಮೋಆ
 DO;;ಡೊಮಿನಿಕನ್ ರಿಪಬ್ಲಿಕ್
 ME;;ಮಾಂಟೆನೆಗ್ರೋ

@@ -1,29 +1,29 @@
-VA;;Vatikano
-CC;;Cocos (Keeling) Islands
+VA;;Holy See (Vatican City State)
+CC;;Kisiwa cha Cocos (Keeling)
 GT;;Guatemala
-JP;;Ujapani
-SE;;Uswidi
-TZ;;Tanzania
-CD;;Korea ya Kaskazini
+JP;;Japan
+SE;;Sweden
+TZ;;Tanzania, United Republic of
+CD;;Congo
 GU;;Guam
 MM;;Myanmar
-DZ;;Algeria
+DZ;;Aljeria
 MN;;Mongolia
 PK;;Pakistan
 SG;;Singapore
-VC;;Saint Vincent na Grenadines
+VC;;Saint Vincent and the Grenadines
 CF;;Jamhuri ya Afrika ya Kati
-GW;;Guinea-Bissau
+GW;;Guinea
 MO;;Macao
 PL;;Poland
 SH;;Saint Helena
-CG;;Kongo
+CG;;Congo
 MP;;Northern Mariana Islands
 PM;;Saint Pierre and Miquelon
 SI;;Slovenia
-VE;;Venezuela
+VE;;Venezuela, Bolivarian republic of
 ZW;;Zimbabwe
-CH;;Uswisi
+CH;;Switzerland
 GY;;Guyana
 MQ;;Martinique
 PN;;Pitcairn
@@ -39,28 +39,28 @@ ID;;Indonesia
 MT;;Malta
 SM;;San Marino
 VI;;Virgin Islands, U.S.
-YE;;Yemeni
+YE;;Yemen
 CL;;Chile
 IE;;Ireland
 LA;;Lao Peoples Democratic Republics Democratic Republic
 MU;;Mauritius
 SN;;Senegal
-CM;;Kamerun
+CM;;Cameroon
 FI;;Finland
 LB;;Lebanon
 MV;;Maldives
 PR;;Puerto Rico
-SO;;Somali
-CN;;Uchina
+SO;;Somalia
+CN;;China
 FJ;;Fiji
 LC;;Saint Lucia
 MW;;Malawi
 PS;;Palestinian Territory, Occupied
-CO;;Kolombia
+CO;;Colombia
 FK;;Falkland Islands (Malvinas)
-MX;;Meksiko
-PT;;Ureno
-MY;;Malasya
+MX;;Mexico
+PT;;Portugal
+MY;;Malaysia
 SR;;Suriname
 VN;;Viet Nam
 FM;;Micronesia, Federated States of
@@ -68,37 +68,37 @@ MZ;;Msumbiji
 CR;;Costa Rica
 PW;;Palau
 FO;;Faroe Islands
-ST;;Sao Tome na Principe
-IL;;Uyahudi
+ST;;Sao Tome and Principe
+IL;;Israel
 LI;;Liechtenstein
-PY;;Paragwai
-BA;;Bosnia na Herzegowina
+PY;;Paraguay
+BA;;Bosnia na Herzegovina
 CU;;Cuba
 IM;;Isle of Man
 SV;;El Salvador
-CV;;Rasi Verde
+CV;;Cape Verde
 FR;;Ufaransa
-IN;;Uhindi
+IN;;India
 LK;;Sri Lanka
 BB;;Barbados
-IO;;British Indian Ocean Territory
+IO;;u
 VU;;Vanuatu
-CX;;Christmas Island
+CX;;Kisiwa cha Christmas
 RE;;Reunion
 UA;;Ukraine
 SY;;Syrian Arab Republic
 CY;;Cyprus
-IQ;;Iraki
+IQ;;Iraq
 SZ;;Swaziland
 BD;;Bangladesh
-CZ;;Jamhuri ya Czech
-IR;;Uajemi
+CZ;;Czech Republic
+IR;;Iran, Islamic Republic of
 YT;;Mayotte
-BE;;Ubelgiji
-IS;;Barafu
+BE;;Belgium
+IS;;Iceland
 BF;;Burkina Faso
-EC;;Ekvado
-IT;;Uitaliani
+EC;;Ecuador
+IT;;Italy
 OM;;Oman
 BG;;Bulgaria
 BH;;Bahrain
@@ -109,72 +109,72 @@ EE;;Estonia
 LS;;Lesotho
 BJ;;Benin
 LT;;Lithuania
-EG;;Misri
+EG;;Egypt
 BL;;Saint Barthélemy
 EH;;Western Sahara
-LU;;Luksemburg
+LU;;Luxembourg
 RO;;Romania
 BM;;Bermuda
 LV;;Latvia
 BN;;Brunei Darussalam
 UM;;United States Minor Outlying Islands
-BO;;Bolivia
+BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibia
 LY;;Libyan Arab Jamahiriya
-BR;;Brazili
+BR;;Brazil
 KG;;Kyrgyzstan
 NC;;New Caledonia
 RS;;Serbia
-BS;;Visiwa vya Bahama
+BS;;Bahama
 HK;;Hong Kong
-KH;;Kampuchea
+KH;;Cambodia
 BT;;Bhutan
 KI;;Kiribati
 NE;;Niger
 QA;;Qatar
-RU;;Urusi
+RU;;Russian Federation
 HM;;Heard Island and McDonald Islands
 NF;;Norfolk Island
-US;;Muungano wa Nchi za Amerika
-BV;;Bouvet Island
+US;;United States
+BV;;Kisiwa cha Bouvet
 ER;;Eritrea
 HN;;Honduras
 NG;;Nigeria
 RW;;Rwanda
 BW;;Botswana
-ES;;Uhispania
-ET;;Uhabeshi
-NI;;Nikaragua
+ES;;Spain
+ET;;Ethiopia
+NI;;Nicaragua
 AD;;Andorra
 BY;;Belarus
-KM;;Visiwa vya Komoro
-AE;;Muugano wa Falme za Nchi za Kiarabu
+KM;;Comoros
+AE;;United Arab Emirates
 BZ;;Belize
-HR;;Kroatia
-KN;;Saint Kitts na Nevis
+HR;;Croatia
+KN;;Saint Kitts and Nevis
 TC;;Turks and Caicos Islands
-AF;;Afghanistan
+AF;;Afghanistani
 NL;;Uholanzi
-TD;;Chadi
+TD;;Chad
 AG;;Antigua na Barbuda
 HT;;Haiti
 KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;Urugwai
+UY;;Uruguay
 GA;;Gabon
-HU;;Hungaria
+HU;;Hungary
 TF;;French Southern Territories
 UZ;;Uzbekistan
 AI;;Anguilla
-DE;;Udachi
-GB;;Uingereza
-KR;;Korea ya Kusini
+DE;;Germany
+GB;;United Kingdom
+KR;;Korea, Republic of
 TG;;Togo
-NO;;Unorwe
+NO;;Norway
 TH;;Thailand
 GD;;Grenada
-NP;;Nepali
-ZA;;Afrika ya Kusini
+NP;;Nepal
+ZA;;South Africa
 AL;;Albania
 GE;;Georgia
 TJ;;Tajikistan
@@ -184,32 +184,32 @@ GF;;French Guiana
 NR;;Nauru
 TK;;Tokelau
 AN;;Netherlands Antilles
-DJ;;Jibuti
+DJ;;Djibouti
 KW;;Kuwait
-TL;;Timor ya Mashariki
+TL;;Timor-Leste
 AO;;Angola
-DK;;Udenmarki
+DK;;Denmark
 GG;;Guernsey
 TM;;Turkmenistan
 GH;;Ghana
 JE;;Jersey
-MA;;Moroko
-KY;;Cayman Islands
+MA;;Morocco
+KY;;Visiwa vya Cayman
 NU;;Niue
 TN;;Tunisia
-DM;;Dominika
+DM;;Dominica
 GI;;Gibraltar
 KZ;;Kazakhstan
 TO;;Tonga
-AQ;;Antarctica
-MC;;Monako
-AR;;Ajentina
+AQ;;Antaktika
+MC;;Monaco
+AR;;Argentina
 MD;;Moldova
-AS;;American Samoa
-DO;;Jamhuri ya Dominikan
-ME;;Serbiya da Montenegro
+AS;;Marekani ya Samoa
+DO;;Dominican Republic
+ME;;Montenegro
 PA;;Panama
-TR;;Uturuki
+TR;;Turkey
 AT;;Austria
 GL;;Greenland
 MF;;Saint Martin (French part)
@@ -219,28 +219,28 @@ GM;;Gambia
 MG;;Madagascar
 GN;;Guinea
 AW;;Aruba
-MH;;Visiwa vya Marshall
-TT;;Trinidad na Tobago
+MH;;Marshall Islands
+TT;;Trinidad and Tobago
 ZM;;Zambia
 GP;;Guadeloupe
-AX;;Åland Islands
-SA;;Arabuni Saudi
+AX;;Visiwa vya Åland
+SA;;Saudi Arabia
 PE;;Peru
-JM;;Jamaika
-GQ;;Guinea ya Ikweta
-CA;;Kanada
+JM;;Jamaica
+GQ;;Equatorial Guinea
+CA;;Canada
 WS;;Samoa
-SB;;Visiwa vya Solomon
+SB;;Solomon Islands
 PF;;French Polynesia
 TV;;Tuvalu
-PG;;Papua Guinea Mpya
-MK;;Korea ya Kusini
+PG;;Guinea
+MK;;Macedonia, Republic of
 GR;;Greece
 AZ;;Azerbaijan
-TW;;Taiwan, Province of China
-SC;;Visiwa vya Shelisheli
-PH;;Filipino
+TW;;China
+SC;;Seychelles
+PH;;Philippines
 ML;;Mali
 JO;;Jordan
-GS;;South Georgia and the South Sandwich Islands
+GS;;Georgia
 SD;;Sudan

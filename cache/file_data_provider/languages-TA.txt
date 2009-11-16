@@ -1,185 +1,185 @@
-SE;;Northern Sami
-FY;;Western Frisian
-OS;;Ossetian; Ossetic
-GL;;Galician
-LU;;Luba-Katanga
-MI;;Maori
-LV;;Latvian
-HA;;ஹொஸா
-BE;;Belarusian
-GN;;Guarani
-PI;;Pali
+SE;;கிழக்கு சாமி
+FY;;மேற்கு ஃபிரிஸியன்
+OS;;ஒஸ்டியன்; ஒஸ்செட்டிக்
+GL;;காலிஸியன்
+LU;;லூபா-கடான்கா
+MI;;மௌரி
+LV;;லாட்வியன்
+HA;;ஹௌஸா
+BE;;பெலாருஸியன்
+GN;;குர்ரானி
+PI;;பாலி
 UR;;உருது
-MK;;Macedonian
-VE;;Venda
-AR;;Arabic
-SG;;சென்க்ரோ
-KA;;Georgian
+MK;;மேசடோனியன்
+VE;;வேண்டா
+AR;;அராபிக்
+SG;;சான்ங்கோ
+KA;;ஜியார்ஜியன்
 ML;;மலையாளம்
 AS;;அஸ்ஸாமி
-EE;;Ewe
-RU;;Russian
-SI;;Sinhala; Sinhalese
-BG;;Bulgarian
-PL;;Polish
-HE;;Hebrew
-NA;;நாரூ
-BH;;Bihari
-MN;;Mongolian
-VI;;Vietnamese
-RW;;கின்யர்வென்டா
-NB;;Bokmål, Norwegian; Norwegian Bokmål
-AV;;Avaric
-SK;;Slovak
+EE;;இவ்
+RU;;ரஷ்யன்
+SI;;சின்ஹாலா; சின்ஹால்ஸ்
+BG;;பல்கேரியன்
+PL;;போலிஷ்
+HE;;ஹீப்ரு
+NA;;நாவுரு
+BH;;டை மொழிகள்
+MN;;மங்கோலியன்
+VI;;வியட்னாம்
+RW;;கின்யார்வான்டா
+NB;;போக்மால், நார்வேஜியன்; நார்வேஜியன் போக்மால்
+AV;;அவாரிக்
+SK;;சுலோவாக்
 BI;;பிஸ்லாமா
-MO;;Moldavian; Moldovan
-SL;;Slovenian
-YI;;ஈத்திஷ
-DV;;Divehi; Dhivehi; Maldivian
-ND;;Ndebele, North; North Ndebele
-SM;;ஸெமோன்
-NE;;Nepali
-AY;;அயமரா
-SN;;Shona
-KG;;Kongo
-TA;;Tamil
+MO;;மோல்டாவியன்; மோல்டோவேன்
+SL;;ஸ்லோவெனியன்
+YI;;ஹிட்டிஷ்
+DV;;டிவேஹி;திவேஹி;மால்டிவியன்
+ND;;டிப்லெ; வடக்கு; வடக்கு டிப்லெ
+SM;;சாமோயன்
+NE;;நேபாலி
+AY;;அய்மாரா
+SN;;ஷோனா
+KG;;காங்கோ
+TA;;தமிழ்
 GU;;குஜராத்தி
-HI;;இந்தி
-MR;;Marathi
-AZ;;Azerbaijani
+HI;;ஹிந்தி
+MR;;மராத்தி
+AZ;;அசெர்பெய்ஜானி
 SO;;சோமாலி
-BM;;Bambara
-GV;;Manx
-CA;;Catalan; Valencian
+BM;;பம்பரா
+GV;;மான்ஸ்
+CA;;காட்டலான்;வாலேன்சியன்
 MS;;மலாய்
-EL;;Greek, Modern (1453-)
-NG;;Ndonga
-WA;;Walloon
-BN;;வங்காளம்
-KI;;Kikuyu; Gikuyu
+EL;;கிரீக், மார்டன் (1453-)
+NG;;நடோன்கா
+WA;;வாலூன்
+BN;;பெங்காலி
+KI;;கிக்குயு;கிகுயு
 UZ;;உஸ்பெக்
-DZ;;புடானி
-MT;;Maltese
-VO;;Volapük
-JV;;Javanese
-FA;;Persian
-SQ;;Albanian
-BO;;திபெத்து
-KJ;;Kuanyama; Kwanyama
-EN;;English
-SR;;Serbian
+DZ;;ட்சொங்க்ஹா
+MT;;மல்டீஸ்
+VO;;வோலாபுக்
+JV;;ஜவானிஸ்
+FA;;பெர்சியன்
+SQ;;அல்பேனியன்
+BO;;திபெத்திய
+KJ;;குயன்யாமா; க்வான்யாமா
+EN;;ஆங்கிலம்
+SR;;செர்பியன்
 TE;;தெலுங்கு
-PS;;Pushto; Pashto
-ZA;;Zhuang; Chuang
-IA;;Interlingua (International Auxiliary Language Association)
-EO;;Esperanto
-KK;;கசாக்
-PT;;Portuguese
-YO;;யோருப்பா
-SS;;ஷிஸ்வாதி
-BR;;Breton
-KL;;Kalaallisut; Greenlandic
-TG;;Tajik
-CE;;Chechen
-NL;;Dutch; Flemish
-ST;;ஷெஸ்ஸோதோ
-BS;;Bosnian
-KM;;Central Khmer
-TH;;Thai
-LA;;Latin
-HO;;Hiri Motu
-SU;;சுடானீஸ்
-KN;;கன்னடா
-TI;;Tigrinya
-LB;;Luxembourgish; Letzeburgesch
-MY;;பர்மிஸ்
-ID;;Indonesian
-SV;;Swedish
-FF;;Fulah
-KO;;Korean
-CH;;Chamorro
-IE;;இன்டர்லிங்குவா
-ES;;Spanish; Castilian
-SW;;சுவாஹிலி
+PS;;புஸ்டூ; பாஸ்டூ
+ZA;;சூயாங்;சுயாங்
+IA;;இன்டர்லின்கா (இன்டர்நேஷ்னல்அக்ஸிலரி லான்குவேஜ் அசோசியேஷன்)
+EO;;எஸ்பெரான்டொ
+KK;;கசாக்ஷ்
+PT;;போர்த்துக்கீசிய
+YO;;யோருபா
+SS;;ஸ்வாதி
+BR;;ப்ரெடன்
+KL;;கலாலில்சூட்;கிரீன்லேண்டிக்
+TG;;தாஜிக்
+CE;;செக்ஹன்
+NL;;டச்சு; ஃப்லீமிஷ்
+ST;;சோதோ, தெற்கு
+BS;;போஸ்னியன்
+KM;;சென்டரல் கெஹ்மெர்
+TH;;தாய்
+LA;;லத்தீன் 
+HO;;ஹிரி மோட்டு
+SU;;சூடானீஸ்
+KN;;கன்னடம்
+TI;;தைக்ரின்யா
+LB;;லக்ஸம்போர்கிஷ்; லெட்ஸிம்போர்கிஸ்ச்
+MY;;பர்மீஸி
+ID;;இந்தோனேஷியன்
+SV;;சுவீடிஷ்
+FF;;ஃபுல்ஹா
+KO;;கொரியன்
+CH;;சாமோர்ரோ
+IE;;இன்டர்லிங்க்யு; ஆக்ஸிடென்டல்
+ES;;ஸ்பானிஷ்; காஸ்டிலியன்
+SW;;ஸ்வாஹிலி
 TK;;டர்க்மென்
-HR;;Croatian
-ET;;Estonian
-NN;;Norwegian Nynorsk; Nynorsk, Norwegian
-OC;;Occitan (post 1500)
-TL;;டாகாலோக்
-ZH;;Chinese
-IG;;Igbo
-EU;;Basque
-NO;;Norwegian
-FI;;Finnish
-HT;;Haitian; Haitian Creole
-KR;;Kanuri
-FJ;;பிஜி
-AA;;அபார்
-HU;;Hungarian
-LG;;Ganda
-KS;;காஷ்மிரி
-TN;;ஸெட்ஸ்வானா
-NR;;Ndebele, South; South Ndebele
-AB;;Abkhazian
-II;;Sichuan Yi; Nuosu
-DA;;Danish
-TO;;டோங்கா
-KU;;Kurdish
-LI;;Limburgan; Limburger; Limburgish
-GA;;Irish
-KV;;Komi
-IK;;இனுபெக்
-CO;;Corsican
-WO;;ஒலோப்
-KW;;Cornish
-AE;;Avestan
-HY;;Armenian
-TR;;Turkish
-FO;;பைரோஸி
-JA;;Japanese
-NV;;Navajo; Navaho
-AF;;Afrikaans
-HZ;;Herero
-OJ;;Ojibwa
-TS;;ஸோங்கா
-CR;;Cree
-GD;;Gaelic; Scottish Gaelic
-KY;;கிர்கிஷ்
-DE;;German
-QU;;கியுசா
-UG;;யுகுர்
-CS;;Czech
-IO;;Ido
-TT;;டாடர்
-LN;;லிங்காலா
-FR;;French
-NY;;Chichewa; Chewa; Nyanja
-OM;;ஒரோம (அபன்)
-LO;;லோத்தியன்
+HR;;குரேஷியன்
+ET;;எஸ்டோனியன்
+NN;;நார்வேஜியன் நைநோர்ஸ்க்; நைநோர்ஸ்க், நார்வேஜியன்
+OC;;ஒஸிடியன் (post 1500)
+TL;;டங்லாக்
+ZH;;சைனீஸ்
+IG;;இக்போ
+EU;;பாஸ்க்
+NO;;நார்வேஜியன்
+FI;;பின்னிஷ்
+HT;;ஹைடியன்; ஹைடியன் க்ரிலோ
+KR;;கனுரி
+FJ;;ஃபிஜியன்
+AA;;அஃபர்
+HU;;ஹங்கேரியன்
+LG;;கான்டா
+KS;;காஷ்மீரி
+TN;;ட்ஸ்வனா
+NR;;டிப்லெ; தெற்கு; தெற்கு டிப்லெ
+AB;;அப்ஹசியன்
+II;;சிசௌன் யி; நௌசு
+DA;;டானிஷ்
+TO;;டோங்கா (டோங்கா தீவுகள்)
+KU;;குர்திஷ்
+LI;;லிம்பர்கன்; லிம்பர்கெர்; லிம்பர்கிஷ்
+GA;;ஐரிஷ்
+KV;;கோமி
+IK;;இனுபைக்யூ
+CO;;கோர்ஸிகேன்
+WO;;ஓலோஃப்
+KW;;கோர்னிஷ்
+AE;;அவேஸ்டன்
+HY;;அர்மேனியன்
+TR;;துருக்கி
+FO;;ஃபரோஸ்
+JA;;ஜப்பானிய
+NV;;நவாஜோ; நவாஹோ
+AF;;ஆப்ரிக்கான்ஸ்
+HZ;;ஹிரீரோ
+OJ;;ஒஜிப்வா
+TS;;ட்சாங்கோ
+CR;;சிரீ
+GD;;கேலிக்; ஸ்காட்டிச் கேலிக்
+KY;;கிர்கிஷ்; கைர்கிஷை
+DE;;ஜெர்மன்
+QU;;க்யுசோ
+UG;;உகுர்;யுகுர்
+CS;;செக்
+IO;;ஐடூ
+TT;;டாட்டர்
+LN;;லின்காலா
+FR;;பிரெஞ்சு
+NY;;சிச்சீவா; சீவா; நையான்ஜா
+OM;;ஒரோமோ
+LO;;லாவோ
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
-PA;;Panjabi; Punjabi
-XH;;Xhosa
-CV;;Chuvash
-AK;;Akan
-RM;;Romansh
-TW;;த்திவி
-UK;;Ukrainian
-IS;;Icelandic
-RN;;கிருந்தி
-SA;;சமஸ்கிருதம்
+PA;;பஞ்சாபி; பஞ்சாபி
+XH;;ஹோசா
+CV;;சுவாஸ்
+AK;;அகான்
+RM;;ரோமான்ஸ்ச்
+TW;;டிவி
+UK;;உக்ரெனியன்
+IS;;ஐஸ்லாண்டிக்
+RN;;ருண்டி
+SA;;சான்ஸ்கிரிட்
 ZU;;Zulu
-IT;;Italian
-BA;;பாஷ்கிர்0
-AM;;Amharic
-RO;;Romanian
-TY;;Tahitian
-IU;;இனுகிடட்
-MG;;மலகெஸி
-AN;;Aragonese
-SC;;Sardinian
-CY;;Welsh
-MH;;Marshallese
-LT;;Lithuanian
+IT;;இத்தாலியன்
+BA;;பாஸ்கிர்
+AM;;அம்ஹாரிக்
+RO;;ரோமேனியன்
+TY;;தஹிதியன்
+IU;;இனுடிடட்
+MG;;மலகாஸி
+AN;;அரகோன்ஸ்
+SC;;சார்டினியன்
+CY;;வெல்ஸ்
+MH;;மார்ஷலீஸீ
+LT;;லிதுவேனியன்
 OR;;ஒரியா
 SD;;சிந்தி

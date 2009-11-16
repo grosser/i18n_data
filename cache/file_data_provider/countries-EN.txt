@@ -17,7 +17,7 @@ GW;;Guinea-Bissau
 MO;;Macao
 PL;;Poland
 SH;;Saint Helena
-VE;;Venezuela
+VE;;Venezuela, Bolivarian republic of
 CG;;Congo
 MP;;Northern Mariana Islands
 PM;;Saint Pierre and Miquelon
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Latvia
 BN;;Brunei Darussalam
 UM;;United States Minor Outlying Islands
-BO;;Bolivia
+BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibia
 LY;;Libyan Arab Jamahiriya
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarctica
 MC;;Monaco
 AR;;Argentina
-MD;;Moldova
+MD;;Moldova, Republic of
 AS;;American Samoa
 DO;;Dominican Republic
 TR;;Turkey

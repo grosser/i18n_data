@@ -24,7 +24,7 @@ BG;;Bulgarian
 PL;;Polish
 HE;;Hebrew
 NA;;Nauru
-BH;;Bihari
+BH;;Bihari languages
 VI;;Vietnamese
 SK;;Slovak
 NB;;Bokmål, Norwegian; Norwegian Bokmål

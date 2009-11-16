@@ -24,7 +24,7 @@ BG;;Bolqarca
 PL;;Polyakca
 HE;;İvrit
 NA;;Nauru
-BH;;Thai
+BH;;Korecə
 MN;;Mongolian
 VI;;Vyetnamca
 RW;;Kinyarwanda

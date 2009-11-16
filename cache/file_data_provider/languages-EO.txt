@@ -24,7 +24,7 @@ BG;;Bulgara
 PL;;Pola
 HE;;Hebrea
 NA;;Naura
-BH;;Bihara
+BH;;Tajaj lingvoj
 MN;;Mongola
 VI;;Vjetnama
 RW;;Ruanda

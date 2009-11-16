@@ -21,7 +21,7 @@ CG;;Congo
 MP;;Marianne settentrionali
 PM;;Saint-Pierre e Miquelon
 SI;;Slovenia
-VE;;Venezuela
+VE;;Repubblica bolivariana del Venezuela
 ZW;;Zimbabwe
 CH;;Svizzera
 GY;;Guyana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Lettonia
 BN;;Brunei
 UM;;Isole minori statunitensi
-BO;;Bolivia
+BO;;Bolivia, Stato Plurinazionale
 KE;;Kenya
 NA;;Namibia
 LY;;Libia

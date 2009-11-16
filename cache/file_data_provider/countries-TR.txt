@@ -21,7 +21,7 @@ CG;;Kongo
 MP;;Kuzey Meryem Adaları
 PM;;Sen Piyer ve Miquelon
 SI;;Slovenya
-VE;;Venezuella
+VE;;Venezuella Bolivya Cumhuriyeti
 ZW;;Zimbabve
 CH;;İsviçre
 GY;;Guyana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Latviya
 BN;;Bruney Darüsselam
 UM;;Minor Outlying Adaları Birleşik Devletleri
-BO;;Bolivya
+BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibya
 LY;;Libya Arap Birliği
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarktika
 MC;;Monako
 AR;;Arjantin
-MD;;Moldova
+MD;;Makedonya, Cumhuriyeti
 AS;;Amerikan Samoası
 DO;;Dominik Cumhuriyeti
 ME;;Karadağ

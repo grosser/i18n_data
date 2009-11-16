@@ -24,7 +24,7 @@ BG;;Búlgaro
 PL;;Polaco
 HE;;Hebreo
 NA;;Naurí
-BH;;Bihari
+BH;;Tupi, lenguas
 MN;;Mongol
 VI;;Vietnamita
 RW;;Kinyarwanda

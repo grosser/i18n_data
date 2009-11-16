@@ -21,7 +21,7 @@ CG;;Kongo
 MP;;Ibirwa bya Mariyana y'Amajyaruguru
 PM;;Mutagatifu Petero na Mikeloni
 SI;;Siloveniya
-VE;;Venezuwela
+VE;;Repubulika ya Venezuwela
 ZW;;Zimbabwe
 CH;;Ubusuwisi
 GY;;Giyana
@@ -118,7 +118,7 @@ BM;;Berimuda
 LV;;Lativiya
 BN;;Buruneyi Darisalamu
 UM;;Ibirwa Bito Bikikije Leta Zunze Ubumwe
-BO;;Boliviya
+BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibiya
 LY;;Igihugu cya Libiya
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarigitika
 MC;;Monako
 AR;;Arijantina
-MD;;Moldova
+MD;;Masedoniya, Repubulika ya
 AS;;Samowa Nyamerika
 DO;;Repubulika ya Dominikani
 ME;;Seribiya  na Montenegoro

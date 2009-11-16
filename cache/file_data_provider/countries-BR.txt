@@ -11,7 +11,7 @@ DZ;;Algeria
 MN;;Mongolia
 PK;;Pakistan
 SG;;Singapore
-VC;;S. Visant hag ar Grenadinez
+VC;;Saint Visant hag ar Grenadinez
 CF;;Central African Republic
 GW;;Guinea-Bissau
 MO;;Macao
@@ -21,7 +21,7 @@ CG;;Congo
 MP;;Northern Mariana Islands
 PM;;Saint Pierre and Miquelon
 SI;;Slovenia
-VE;;Venezuela
+VE;;Republik Sokial eus Roumani
 ZW;;Zimbabwe
 CH;;Suis
 GY;;Guyana
@@ -30,7 +30,7 @@ PN;;Pitcairn
 SJ;;Svalbard and Jan Mayen
 CI;;Côte dIvoireIvoire
 MR;;Mauritania
-SK;;Sloveg
+SK;;Slovakia
 VG;;Virgin Islands, British
 MS;;Montserrat
 SL;;Sierra Leone
@@ -53,10 +53,10 @@ PR;;Puerto Rico
 SO;;Somalia
 CN;;Sina
 FJ;;Fiji
-LC;;S. Lucia
+LC;;Saint Lucia
 MW;;Malawi
 PS;;Palestinian Territory, Occupied
-CO;;Kolumbia
+CO;;Kolombia
 FK;;Falkland Islands (Malvinas)
 MX;;Mec'hiko
 PT;;Portugal
@@ -87,17 +87,17 @@ CX;;Christmas Island
 RE;;Reunion
 UA;;Ukraina
 SY;;Syrian Arab Republic
-CY;;Cyprus
+CY;;Enez Chipr
 IQ;;Iraq
 SZ;;Swaziland
 BD;;Bangladesh
-CZ;;Czech Republic
+CZ;;Republik tchek
 IR;;Iran, Islamic Republic of
 YT;;Mayotte
 BE;;Belgia
 IS;;Island
 BF;;Burkina Faso
-EC;;Ecuador
+EC;;Ekuador
 IT;;Italia
 OM;;Oman
 BG;;Bulgaria
@@ -117,8 +117,8 @@ RO;;Roumania
 BM;;Bermuda
 LV;;Latvia
 BN;;Brunei Darussalam
-UM;;Stadoù-Unanet Amerika
-BO;;Bolivia
+UM;;Inizi bihan pell ar Stadoù Unanet
+BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibia
 LY;;Libyan Arab Jamahiriya
@@ -136,7 +136,7 @@ QA;;Qatar
 RU;;Russian Federation
 HM;;Heard Island and McDonald Islands
 NF;;Norfolk Island
-US;;Stadoù-Unanet Amerika
+US;;Stadoù Unanet
 BV;;Bouvet Island
 ER;;Eritrea
 HN;;Honduras
@@ -183,7 +183,7 @@ AM;;Armenia
 GF;;French Guiana
 NR;;Nauru
 TK;;Tokelau
-AN;;Izelvroioù
+AN;;Antilhez an Izelvroioù
 DJ;;Djibouti
 KW;;Kuwait
 TL;;Timor-Leste
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarctica
 MC;;Monaco
 AR;;Arc'hantina
-MD;;Moldova
+MD;;Republik Volta-Uhel
 AS;;American Samoa
 DO;;Republik Dominikan
 ME;;Montenegro
@@ -212,7 +212,7 @@ PA;;Panama
 TR;;Turkia
 AT;;Aostria
 GL;;Greenland
-MF;;Saint Martin (French part)
+MF;;Sant Marzhin (rann gallek)
 NZ;;Zeland nevez
 AU;;Aostralia
 GM;;Gambia
@@ -243,4 +243,4 @@ PH;;Philippines
 ML;;Mali
 JO;;Jordan
 GS;;South Georgia and the South Sandwich Islands
-SD;;Son
+SD;;Soudan

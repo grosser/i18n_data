@@ -24,7 +24,7 @@ BG;;Bulgáiris
 PL;;Polainnis
 HE;;Eabhrais
 NA;;Nárúis
-BH;;Bihairis
+BH;;Teangacha Baltacha
 MN;;Mongóilis
 VI;;Vítneamais
 RW;;Cinearuáindis
@@ -129,7 +129,7 @@ KU;;Coirdis
 LI;;Limbuirgis
 GA;;Gaeilge
 KV;;Coimí
-IK;;Inupiaq
+IK;;Iniúipiaicis
 CO;;Corsaicis
 WO;;Volaifis
 KW;;Coirnis

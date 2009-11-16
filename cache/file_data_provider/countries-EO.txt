@@ -21,7 +21,7 @@ CG;;Kongo
 MP;;Nord-Marianoj
 PM;;Sankta-Piero kaj Mikelono
 SI;;Slovenio
-VE;;Venezuelo
+VE;;Venezuelo, Bolivara Respubliko
 ZW;;Zimbabvo
 CH;;Svislando
 GY;;Gujano
@@ -118,7 +118,7 @@ BM;;Bermudoj
 LV;;Latvio
 BN;;Brunejo
 UM;;Usonaj Malgrandaj Insuloj
-BO;;Bolivio
+BO;;Bolivia, Plurinational State of
 KE;;Kenjo
 NA;;Namibio
 LY;;Libia Araba Ĝamahario
@@ -204,7 +204,7 @@ TO;;Tongo
 AQ;;Antarkto
 MC;;Monako
 AR;;Argentino
-MD;;Moldavio
+MD;;Moldavio, Respubliko
 AS;;Usona Samoo
 DO;;Domingo
 ME;;Montenegro

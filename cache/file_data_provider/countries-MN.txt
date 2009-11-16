@@ -21,7 +21,7 @@ CG;;Конго
 MP;;Хойд марианы арлууд
 PM;;Saint Pierre and Miquelon
 SI;;Словени
-VE;;Винессуэл
+VE;;Солонгос ард улс
 ZW;;Замбибаби
 CH;;Швецарь
 GY;;Guyana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Латви
 BN;;Брунейн вант улс
 UM;;United States Minor Outlying Islands
-BO;;Bolivia
+BO;;Bolivia, Plurinational State of
 KE;;Кениа
 NA;;Намиб
 LY;;Libyan Arab Jamahiriya
@@ -204,7 +204,7 @@ TO;;Тонга
 AQ;;Антрактид
 MC;;Монако
 AR;;Аргентин
-MD;;Молдав
+MD;;Солонгос ард улс
 AS;;Америкын самао
 DO;;Доминик ард улс
 ME;;Montenegro

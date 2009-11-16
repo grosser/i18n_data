@@ -24,7 +24,7 @@ BG;;Bulgar
 PL;;Polonés
 HE;;Ebrieu
 NA;;Nauru
-BH;;Bihari
+BH;;Lengas nahuatl
 MN;;Mongòl
 VI;;Vietnamian
 RW;;Kinyarwanda

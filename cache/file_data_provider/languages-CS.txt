@@ -24,11 +24,11 @@ BG;;bulharština
 PL;;polština
 HE;;hebrejština
 NA;;naurština
-BH;;bihárština
+BH;;thajské jazyky
 MN;;mongolština
 VI;;vietnamština
 RW;;rwandština
-NB;;Bokmål, Norwegian; Norwegian Bokmål
+NB;;norština Bokmål
 AV;;avarština
 SK;;slovenština
 BI;;bislámština
@@ -46,7 +46,7 @@ TA;;tamilština
 GU;;gudžarátština
 HI;;hindština
 MR;;maráthština
-AZ;;azerbajdžánština
+AZ;;ázerbájdžánština
 SO;;somálština
 BM;;bambarština
 GV;;manština
@@ -104,8 +104,8 @@ SW;;svahilština
 TK;;turkmenština
 HR;;chorvatština
 ET;;estonština
-NN;;norština nynorsk
-OC;;okcitánština (po 1500); provensálština
+NN;;norština Nynorsk
+OC;;okcitánština (po 1500)
 TL;;tagalština
 ZH;;čínština
 IG;;igbo

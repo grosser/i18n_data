@@ -24,7 +24,7 @@ BG;;Bulgariera
 PL;;Poloniera
 HE;;Hebreera
 NA;;Nauruera
-BH;;Bihari
+BH;;Tupi hizkuntzak
 MN;;Mongoliera
 VI;;Vietnamera
 RW;;Kinyaruanda

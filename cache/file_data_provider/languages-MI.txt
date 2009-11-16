@@ -24,7 +24,7 @@ BG;;Reo Purukeria
 PL;;Reo Pörana
 HE;;Reo Hürai
 NA;;Nauru
-BH;;Reo Ïnia tonga
+BH;;Kaupapa
 MN;;Reo Makerönia
 VI;;Raene
 RW;;Kinyarwanda

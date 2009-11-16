@@ -24,7 +24,7 @@ BG;;Tiếng Bảo Gai Lơi
 PL;;Tiếng Ba Lan
 HE;;Tiếng Do Thái
 NA;;Tiếng Nau-ru
-BH;;Tiếng Bi-ha-ri
+BH;;Hệ ngôn ngữ Tai
 MN;;Tiếng Mông Cổ
 VI;;Tiếng Việt
 RW;;Tiếng Kin-ia-ouanh-đa

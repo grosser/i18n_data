@@ -24,7 +24,7 @@ BG;;bulharčina
 PL;;poľština
 HE;;hebrejčina
 NA;;nauruština
-BH;;bihárske jazyky
+BH;;jazyky tupi
 MN;;mongolčina
 VI;;vietnamčina
 RW;;rwandčina

@@ -21,7 +21,7 @@ CG;;Kongo
 MP;;Giravên Marîyana Bakûr
 PM;;Saint Pierre û Miquelon
 SI;;Slovenya
-VE;;Venezûela
+VE;;Komara Bolîvarî ya Venezûela
 ZW;;Zimbabwe
 CH;;Swîsre
 GY;;Guyana
@@ -118,7 +118,7 @@ BM;;Bermûda
 LV;;Latviya
 BN;;Brûney Darûssalam
 UM;;Giravên biçûk derve Emerîkayê
-BO;;Bolîvya
+BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namîbiya
 LY;;Komara Erebiya Lîbya
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarktîka
 MC;;Monako
 AR;;Arjantîn
-MD;;Moldova
+MD;;Makedonya, Komara
 AS;;Samoya Emerîkî
 DO;;Komara Domînîk
 ME;;Montenegro

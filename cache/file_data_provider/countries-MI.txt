@@ -21,7 +21,7 @@ CG;;Congo
 MP;;Northern Mariana Islands
 PM;;Saint Pierre and Miquelon
 SI;;RiriAhea
-VE;;Tüparu
+VE;;Reo Romeinia
 ZW;;Zimbabwe
 CH;;Witerana
 GY;;Guyana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Reo Koroätia
 BN;;Brunei Darussalam
 UM;;Amerika
-BO;;Purukeria
+BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibia
 LY;;Libyan Arab Jamahiriya
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarctica
 MC;;Monaco
 AR;;Reo Parani Uropi-Ïnia
-MD;;Moldova
+MD;;Reo Romeinia
 AS;;Reo Arapia
 DO;;Reo Romeinia
 ME;;Montenegro

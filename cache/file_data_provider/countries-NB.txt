@@ -4,7 +4,7 @@ GT;;Guatemala
 JP;;Japan
 SE;;Sverige
 TZ;;Tanzania, Forbundsrepublikken
-CD;;Den demokratiske republikk Kongo
+CD;;Kongo, Den demokratiske republikk
 GU;;Guam
 MM;;Burma
 DZ;;Algerie
@@ -16,12 +16,12 @@ CF;;Den sentralafrikanske republikk
 GW;;Guinea-Bissau
 MO;;Macao
 PL;;Polen
-SH;;Saint Helena
+SH;;Saint Helena
 CG;;Kongo
 MP;;Nord-Marianene
 PM;;Saint-Pierre-et-Miquelon
 SI;;Slovenia
-VE;;Venezuela
+VE;;Venezuela, Republikken
 ZW;;Zimbabwe
 CH;;Sveits
 GY;;Guyana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Latvia
 BN;;Brunei Darussalam
 UM;;Mindre utenforliggende øyer til USA
-BO;;Bolivia
+BO;;Bolivia, Den flernasjonale stat
 KE;;Kenya
 NA;;Namibia
 LY;;Den libyske arabiske jamahiriya
@@ -152,7 +152,7 @@ KM;;Komorene
 AE;;De forente arabiske emirater
 BZ;;Belize
 HR;;Kroatia
-KN;;Saint Kitts og Nevis
+KN;;Saint Kitts og Nevis
 TC;;Turks- og Caicosøyene
 AF;;Afghanistan
 NL;;Nederland
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarktika
 MC;;Monaco
 AR;;Argentina
-MD;;Moldova
+MD;;Moldova, Republikken
 AS;;Amerikansk Samoa
 DO;;Den dominikanske republikk
 ME;;Montenegro

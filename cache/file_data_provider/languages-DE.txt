@@ -24,7 +24,7 @@ BG;;Bulgarisch
 PL;;Polnisch
 HE;;Hebräisch
 NA;;Nauruanisch
-BH;;Bihari
+BH;;Tai-Sprachen
 MN;;Mongolisch
 VI;;Vietnamesisch
 RW;;Rwanda-Sprache

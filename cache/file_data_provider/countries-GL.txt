@@ -21,7 +21,7 @@ CG;;Congo
 MP;;Illas Marianas do Norte
 PM;;San Pedro e Miquelon
 SI;;Eslovenia
-VE;;Venezuela
+VE;;República Bolivariana de Venezuela
 ZW;;Zimbabue
 CH;;Suíza
 GY;;Güiana
@@ -118,7 +118,7 @@ BM;;Illas Bermudas
 LV;;Letonia
 BN;;Brunei Darussalam
 UM;;Illas Exteriores Menores dos Estados Unidos de América
-BO;;Bolivia
+BO;;Bolivia, Plurinational State of
 KE;;Quenia
 NA;;Namibia
 LY;;Jamahiriya Árabe de Libia
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antártida
 MC;;Mónaco
 AR;;Arxentina
-MD;;Moldavia
+MD;;Macedonia, República de
 AS;;Samoa Americana
 DO;;República Dominicana
 ME;;Montenegro

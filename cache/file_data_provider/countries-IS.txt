@@ -21,7 +21,7 @@ CG;;Congo
 MP;;Northern Mariana Islands
 PM;;Saint Pierre and Miquelon
 SI;;Slóvenía
-VE;;Venezuela
+VE;;Dóminíska Lýðveldið
 ZW;;Zimbabwe
 CH;;Sviss
 GY;;Guyana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Léttland
 BN;;Brunei Darussalam
 UM;;Bandaríki Norður Ameríku
-BO;;Bólivía
+BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibia
 LY;;Libyan Arab Jamahiriya
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarctica
 MC;;Monaco
 AR;;Argentína
-MD;;Moldova
+MD;;Dóminíska Lýðveldið
 AS;;Ameríka - Norður Ameríka
 DO;;Dóminíska Lýðveldið
 ME;;Montenegro

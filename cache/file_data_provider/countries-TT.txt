@@ -21,7 +21,7 @@ CG;;Kongo
 MP;;Tönyaq Mariana Utrawları
 PM;;Saint Pierre belän Miquelon
 SI;;Slovenia
-VE;;Venezuela
+VE;;Sosialist Cömhüriäte Viet Nam
 ZW;;Zimbabwe
 CH;;İswiçrä
 GY;;Guyana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Latvia
 BN;;Brunei Darussalam
 UM;;United States Minor Outlying Islands
-BO;;Bolivia
+BO;;Bolivia, Plurinational State of
 KE;;Kenia
 NA;;Namibia
 LY;;Libyan Arab Jamahiriya
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarktika
 MC;;Manako
 AR;;Argentina
-MD;;Moldova
+MD;;Makedonia Cömhüriäte
 AS;;Amerikalı Samoa
 DO;;Dominika Cömhüriäte
 ME;;Serbia belän Montenegro

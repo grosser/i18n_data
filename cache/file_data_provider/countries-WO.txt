@@ -21,7 +21,7 @@ CG;;Kongóo
 MP;;Northern Mariana Islands
 PM;;Saint Pierre ak Miquelon
 SI;;Esloweeni
-VE;;Benesuwela
+VE;;Republik bu Bolibaar bu Benesuwela
 ZW;;Simbaabwee
 CH;;Suwis
 GY;;Guyaana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Letóoni
 BN;;Brunaay Daarussalaam
 UM;;United States Minor Outlying Islands
-BO;;Boliibi
+BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibi
 LY;;Jamaaiiria Araab bu Liibiee
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarktik
 MC;;Monaako
 AR;;Argentiin
-MD;;Moldaawi
+MD;;Masedwaan, Republik bu
 AS;;American Samoa
 DO;;Republik Dominikee
 ME;;Montenegro

@@ -24,7 +24,7 @@ BG;;Bulgaru
 PL;;Pollakk
 HE;;Lhudi
 NA;;Nawuru
-BH;;Tai
+BH;;Tupi languages
 MN;;Maċedonjan
 VI;;Dwieli
 RW;;Kinjarwanda

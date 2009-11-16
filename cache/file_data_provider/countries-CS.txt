@@ -21,7 +21,7 @@ CG;;Kongo
 MP;;Severní Mariany
 PM;;Svatý Pierre a Miquelon
 SI;;Slovinsko
-VE;;Venezuela
+VE;;Venezuela, bolívarovská republika
 ZW;;Zimbabwe
 CH;;Švýcarsko
 GY;;Guayana
@@ -118,7 +118,7 @@ BM;;Bermudy
 LV;;Lotyšsko
 BN;;Brunej
 UM;;Drobné odlehlé ostrovy Spojených států
-BO;;Bolívie
+BO;;Bolívie, mnohonárodnostní stát
 KE;;Keňa
 NA;;Namíbie
 LY;;Libyjská arabská džamáhíríja
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarktida
 MC;;Monako
 AR;;Argentina
-MD;;Moldávie
+MD;;Moldávie, republika
 AS;;Americká Samoa
 DO;;Dominikánská republika
 ME;;Černá hora

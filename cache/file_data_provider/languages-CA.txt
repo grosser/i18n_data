@@ -1,185 +1,185 @@
-SE;;Northern Sami
-FY;;Ucraïnès
-OS;;Rus
-GL;;Galeon
-LU;;Luba-Katanga
-MI;;Marges
-LV;;Croat (hr)
-HA;;Balsa
-BE;;Bielorús
+SE;;sami septrentional
+FY;;frisó occidental
+OS;;osseta; osset
+GL;;gallec
+LU;;luba-katanga
+MI;;maori
+LV;;letó
+HA;;hausa
+BE;;bielorús
 GN;;guaraní
-PI;;Polonès
+PI;;pali
 UR;;urdú
-MK;;Macedoni
-VE;;Venda
-AR;;Àrab
+MK;;macedoni
+VE;;venda
+AR;;àrab
 SG;;sango
 KA;;georgià
 ML;;malaialam
 AS;;assamès
-EE;;Ewe
-RU;;Rus
-SI;;Vietnamita
-BG;;Búlgar
-PL;;Polonès
-HE;;Hebreu
+EE;;ewe
+RU;;rus
+SI;;singalès
+BG;;búlgar
+PL;;polonès
+HE;;hebreu
 NA;;nauruà
-BH;;Tai
+BH;;llengües tai
 MN;;mongol
-VI;;Vietnamita
+VI;;vietnamita
 RW;;kinyarwanda
-NB;;Bokmål, Norwegian; Norwegian Bokmål
-AV;;Àrab
-SK;;Eslovac
+NB;;noruec Bokmål
+AV;;àvar
+SK;;eslovac
 BI;;bislama
 MO;;moldau
-SL;;Eslovè
+SL;;eslovè
 YI;;jiddish
-DV;;Divehi; Dhivehi; Maldivian
-ND;;Ndebele, North; North Ndebele
+DV;;divehi
+ND;;ndebele septrentional
 SM;;samoà
-NE;;Nou _àlies
+NE;;nepalès
 AY;;aimara
 SN;;shona
 KG;;Kongo
-TA;;Tai
+TA;;tàmil
 GU;;gujarati
-HI;;Busca
+HI;;hindi
 MR;;marathi
-AZ;;Serbi
+AZ;;àzeri
 SO;;somali
-BM;;Bambara
-GV;;Marges
-CA;;Catalan; Valencian
-MS;;Balsa
-EL;;Greek, Modern (1453-)
-NG;;Ndonga
-WA;;Walloon
-BN;;Bàltic
-KI;;Kikuyu; Gikuyu
+BM;;bambara
+GV;;manx
+CA;;català; valencià
+MS;;malai
+EL;;grec modern (des del 1453)
+NG;;ndonga
+WA;;való
+BN;;bengalí
+KI;;kikuiu
 UZ;;uzbek
 DZ;;bhutanès
-MT;;Fitxer
-VO;;Volapük
-JV;;Japonès
-FA;;Imprimeix
-SQ;;Albanès
+MT;;maltès
+VO;;volapük
+JV;;javanès
+FA;;persa; farsi
+SQ;;albanès
 BO;;tibetà
 KJ;;Kuanyama; Kwanyama
-EN;;Anglès
-SR;;Serbi
+EN;;anglès
+SR;;serbi
 TE;;telugu
-PS;;Pushto; Pashto
-ZA;;Zhuang; Chuang
-IA;;Interlingua (International Auxiliary Language Association)
-EO;;Alemany
+PS;;paixtú
+ZA;;zhuang
+IA;;interlingua (International Auxiliary Language Association)
+EO;;esperanto
 KK;;kazakh
-PT;;Portuguès
+PT;;portuguès
 YO;;ioruba
 SS;;siswati
-BR;;Francès
-KL;;Kalaallisut; Greenlandic
-TG;;Tai
-CE;;Txec
-NL;;Dutch; Flemish
+BR;;francès
+KL;;grenlandès; groenlandès
+TG;;tadjik
+CE;;txetxè
+NL;;neerlandès; holandès; flamenc
 ST;;sotho
-BS;;Romanès
-KM;;Central Khmer
-TH;;Tai
-LA;;Acció
-HO;;Busca
+BS;;bosnià
+KM;;khmer central
+TH;;tai
+LA;;llatí
+HO;;hiri motu
 SU;;sundanès
 KN;;kannada
-TI;;Turc
-LB;;Luxembourgish; Letzeburgesch
+TI;;tigrinya
+LB;;luxemburguès
 MY;;birmà
-ID;;Indonesi
-SV;;Suec
-FF;;Fulah
-KO;;Coreà
-CH;;Chamorro
-IE;;Visualització realista
-ES;;Spanish; Castilian
+ID;;indonesi
+SV;;suec
+FF;;ful
+KO;;coreà
+CH;;chamorro; chamoru
+IE;;interlingue; occidental
+ES;;espanyol; castellà
 SW;;swahili
 TK;;turcman
-HR;;Croat
-ET;;Estonià
-NN;;Noruec
-OC;;Occitan (post 1500)
+HR;;croat
+ET;;estonià
+NN;;noruec nynorsk
+OC;;occità (després del 1500)
 TL;;tagàlog
-ZH;;Xinès
-IG;;Igbo
-EU;;Basc
-NO;;Noruec
-FI;;Finès
-HT;;Haitian; Haitian Creole
-KR;;Turc
+ZH;;xinès
+IG;;igbo
+EU;;basc
+NO;;noruec
+FI;;finès
+HT;;haitià; haitià crioll
+KR;;kanuri
 FJ;;fijià
 AA;;àfar
-HU;;Hongarès
-LG;;Ganda
+HU;;hongarès; magiar
+LG;;ganda
 KS;;caixmiri
 TN;;tswana
-NR;;Ndebele, South; South Ndebele
+NR;;ndebele meridional
 AB;;abkhaz
-II;;Estonià (et)
-DA;;Danès
+II;;nusu
+DA;;danès
 TO;;tonga
-KU;;Turc
-LI;;Limburgan; Limburger; Limburgish
-GA;;Irlandès
-KV;;Komi
+KU;;kurd
+LI;;limburguès
+GA;;irlandès; gaèlic irlandès
+KV;;komi
 IK;;inupiak
 CO;;cors
 WO;;wòlof
-KW;;Colors
-AE;;Avestan
+KW;;còrnic
+AE;;avèstic
 HY;;armeni
-TR;;Turc
-FO;;Feroès
-JA;;Japonès
-NV;;Navajo; Navaho
-AF;;Afrikaans
-HZ;;Hebreu
-OJ;;Ojibwa
+TR;;turc
+FO;;feroès
+JA;;japonès
+NV;;navajo; navaho
+AF;;afrikaans
+HZ;;herero
+OJ;;ojibwa
 TS;;tsonga
-CR;;Grec
-GD;;Gaelic; Scottish Gaelic
+CR;;cree
+GD;;gaèlic; gaèlic escocès
 KY;;kirguís
-DE;;Alemany
+DE;;alemany
 QU;;quètxua
 UG;;uigur
-CS;;Txec
-IO;;Ido
+CS;;txec
+IO;;ido
 TT;;tàtar
-LN;;Le_gal
-FR;;Francès
+LN;;lingala
+FR;;francès
 NY;;Chichewa; Chewa; Nyanja
-OM;;de:
-LO;;Format
+OM;;oromo
+LO;;laosià
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
-PA;;Panjabi; Punjabi
+PA;;panjabi
 XH;;xosa
-CV;;Chuvash
-AK;;Afrikaans
-RM;;Romanès
+CV;;txuvaix
+AK;;àkan
+RM;;romanx
 TW;;twi
-UK;;Ucraïnès
-IS;;Islandès
+UK;;ucraïnès
+IS;;islandès
 RN;;kirundi
-SA;;Sans-serif
+SA;;sànscrit
 ZU;;zulu
-IT;;Català (ca)
+IT;;italià
 BA;;baixkir
-AM;;Àrab
+AM;;amhàric
 RO;;Romanès
-TY;;Croat (hr)
+TY;;tahitià
 IU;;inuktitut
-MG;;Balsa
-AN;;Feroès
-SC;;Macedoni
+MG;;malgaix
+AN;;aragonès
+SC;;sard
 CY;;gal·lès
-MH;;Fitxer
-LT;;Estonià (et)
+MH;;marshallès
+LT;;lituà
 OR;;oriya
 SD;;sindhi

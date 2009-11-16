@@ -21,7 +21,7 @@ CG;;Kongo Vabariik
 MP;;Põhja-Mariaanid
 PM;;Saint-Pierre ja Miquelon
 SI;;Sloveenia
-VE;;Venezuela
+VE;;Venezuela Bolívari Vabariik
 ZW;;Zimbabwe
 CH;;Šveits
 GY;;Guyana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Läti
 BN;;Brunei Darussalami Riik
 UM;;Ühendriikide väikesed hajasaared
-BO;;Boliivia
+BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namiibia
 LY;;Liibüa
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarktis
 MC;;Monaco
 AR;;Argentina
-MD;;Moldova
+MD;;Makedoonia
 AS;;Ameerika Samoa
 DO;;Dominikaani Vabariik
 ME;;Montenegro

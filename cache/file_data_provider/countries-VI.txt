@@ -21,7 +21,7 @@ CG;;Công-gô
 MP;;Bắc Quần Đảo Ma-ri-a-na
 PM;;Xan Pi-e và Mi-quê-lon
 SI;;Xlô-ven
-VE;;Ve-ne-xu-ê-la
+VE;;Nước Cộng Hoà Bo-li-va-ri Vê-nê-xu-ê-la
 ZW;;Xim-ba-bu-ê
 CH;;Thụy Sĩ
 GY;;Guy-a-na
@@ -118,7 +118,7 @@ BM;;Be-mu-đa
 LV;;Lát-vi-a
 BN;;Bợru-này Đa-ru-xa-làm
 UM;;Quần Đảo ở xa nhỏ Mỹ
-BO;;Bô-li-vi-a
+BO;;Bô-li-vi-a, Quốc gia Đa Dân tộc
 KE;;Khi-ni-a
 NA;;Na-mi-bi-a
 LY;;Li-bia A-rập Jamahiriya
@@ -204,7 +204,7 @@ TO;;Tông-ga
 AQ;;Nam Cực
 MC;;Mo-na-cô
 AR;;Á-căn-đình
-MD;;Mon-đô-va
+MD;;Nước Cộng Hoà Mổ-đô-vạ
 AS;;Xa-mô-a Mỹ
 DO;;Cộng hoà Đô-mi-ni-cạ
 ME;;Mon-te-nê-gợ-rô

@@ -24,7 +24,7 @@ BG;;Búlgaro
 PL;;Polaco
 HE;;Hebreo
 NA;;Nauru
-BH;;Bihari
+BH;;Idiomas de signos
 MN;;Mongol
 VI;;Vietnamita
 RW;;Kinyarwanda

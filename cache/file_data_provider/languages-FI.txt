@@ -24,7 +24,7 @@ BG;;bulgaria
 PL;;puola
 HE;;heprea
 NA;;nauru
-BH;;bihari
+BH;;bihari-kielet
 MN;;mongoli
 VI;;vietnam
 RW;;ruanda

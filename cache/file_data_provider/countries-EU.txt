@@ -4,7 +4,7 @@ GT;;Guatemala
 JP;;Japonia
 SE;;Suedia
 TZ;;Tanzania
-CD;;Kongoko Herri-Errepublika Demokratikoa
+CD;;Kongoko Herri-errepublika Demokratikoa
 GU;;Guam
 MM;;Birmania
 DZ;;Algeria
@@ -21,7 +21,7 @@ CG;;Kongo
 MP;;Iparraldeko Mariana Uharteak
 PM;;Saint Pierre eta Miquelon
 SI;;Eslobenia
-VE;;Venezuela
+VE;;Venezuela, Errepublika Bolibariarra
 ZW;;Zimbabwe
 CH;;Suitza
 GY;;Guyana
@@ -72,7 +72,7 @@ ST;;Sao Tome eta Printze
 IL;;Israel
 LI;;Liechtenstein
 PY;;Paraguay
-BA;;Bosnia eta Herzegovina
+BA;;Bosnia eta Hertzegovina
 CU;;Kuba
 IM;;Man uhartea
 SV;;El Salvador
@@ -112,23 +112,23 @@ LT;;Lituania
 EG;;Egipto
 BL;;Saint Barthélemy
 EH;;Mendebaldeko Sahara
-LU;;Luxemburgo
+LU;;Luxenburgo
 RO;;Errumania
 BM;;Bermuda
 LV;;Letonia
 BN;;Brunei Darussalam
 UM;;United States Minor Outlying Islands
-BO;;Bolivia
+BO;;Bolivia, Nazio-anitzeko estatua
 KE;;Kenia
 NA;;Namibia
-LY;;Libieriar Arabiar Jamahiriya
+LY;;Libiar Arabiar Jamahiriya
 BR;;Brasil
 KG;;Kirgizistan
 NC;;Kaledonia Berria
 RS;;Serbia
 BS;;Bahamak
 HK;;Hong Kong
-KH;;Kambodia
+KH;;Kanbodia
 BT;;Bhutan
 KI;;Kiribati
 NE;;Niger
@@ -184,7 +184,7 @@ GF;;Guaiana Frantsesa
 NR;;Nauru
 TK;;Tokelau
 AN;;Antilla Nederlandarrak
-DJ;;Djibouti
+DJ;;Djibuti
 KW;;Kuwait
 TL;;Timor-Leste
 AO;;Angola
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarktika
 MC;;Monako
 AR;;Argentina
-MD;;Moldavia
+MD;;Moldavia, errepublika
 AS;;Samoa Estatubatuarra
 DO;;Dominikar Errepublika
 ME;;Montenegro
@@ -222,7 +222,7 @@ AW;;Aruba
 MH;;Marshall Uharteak
 TT;;Trinidad eta Tobago
 ZM;;Zambia
-GP;;Guadelupe
+GP;;Guadalupe
 AX;;Åland Uharteak
 SA;;Arabia Saudi
 PE;;Peru

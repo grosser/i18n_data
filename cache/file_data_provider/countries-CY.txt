@@ -21,7 +21,7 @@ CG;;Congo
 MP;;Ynysoedd Northern Mariana
 PM;;Saint Pierre a Miquelon
 SI;;Slofenia
-VE;;Venezuela
+VE;;Gweriniaeth Bolifiaidd Venezuela
 ZW;;Zimbabwe
 CH;;Y Swistir
 GY;;Guyana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Latfia
 BN;;Brunei Darussalam
 UM;;United States Minor Outlying Islands
-BO;;Bolifia
+BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibia
 LY;;Jamahiriya Arabaidd Libiaidd
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarctica
 MC;;Monaco
 AR;;Yr Ariannin
-MD;;Moldova
+MD;;Macedonia, Gweriniaeth
 AS;;American Samoa
 DO;;Gweriniaeth Dominica
 ME;;Serbia a Montenegro

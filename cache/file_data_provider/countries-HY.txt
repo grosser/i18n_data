@@ -21,7 +21,7 @@ CG;;Կոնգո
 MP;;Northern Mariana Islands
 PM;;Saint Pierre and Miquelon
 SI;;Սլովենիա
-VE;;Վենեսուելա
+VE;;Դոմինիկյան Հանրապետություն
 ZW;;Զիմբաբվե
 CH;;Շվեյցարիա
 GY;;Գայանա
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Լատվիա
 BN;;Brunei Darussalam
 UM;;United States Minor Outlying Islands
-BO;;Բոլիվիա
+BO;;Bolivia, Plurinational State of
 KE;;Քենիա
 NA;;Նամիբիա
 LY;;Libyan Arab Jamahiriya
@@ -204,7 +204,7 @@ TO;;Տոնգա
 AQ;;Antarctica
 MC;;Մոնակո
 AR;;Արգենտինա
-MD;;Moldova
+MD;;Դոմինիկյան Հանրապետություն
 AS;;American Samoa
 DO;;Դոմինիկյան Հանրապետություն
 ME;;Montenegro

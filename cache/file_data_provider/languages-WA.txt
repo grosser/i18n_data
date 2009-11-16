@@ -24,7 +24,7 @@ BG;;Bulgåre
 PL;;Polonès
 HE;;Ebreu
 NA;;Nawouryin
-BH;;Bihari
+BH;;Lingaedjes toupi
 MN;;Mongol
 VI;;Vietnamyin
 RW;;Kinyarwanda

@@ -24,7 +24,7 @@ BG;;Bulgarsk
 PL;;Polsk
 HE;;Hebraisk
 NA;;Nauru
-BH;;Bihari
+BH;;Tupi-sprog
 MN;;Mongolsk
 VI;;Vietnamesisk
 RW;;Kinyarwanda

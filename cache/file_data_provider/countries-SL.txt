@@ -21,7 +21,7 @@ CG;;Kongo
 MP;;Severni Marianski otoki
 PM;;Saint Pierre in Miquelon
 SI;;Slovenija
-VE;;Venezuela
+VE;;Venezuela, bolivarska republika
 ZW;;Zimbabve
 CH;;Švica
 GY;;Gvajana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Latvija
 BN;;Brunej
 UM;;manjši otoki Združenih držav Amerike
-BO;;Bolivija
+BO;;Bolivija, plurinacionalna država
 KE;;Kenija
 NA;;Namibija
 LY;;Libijska arabska džamahirija

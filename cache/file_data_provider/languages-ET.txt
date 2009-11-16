@@ -24,7 +24,7 @@ BG;;Bulgaaria
 PL;;Poola
 HE;;Heebrea
 NA;;Nauru
-BH;;Tai
+BH;;Korea
 MN;;Mongolian
 VI;;Vietnami
 RW;;Kinyarwanda

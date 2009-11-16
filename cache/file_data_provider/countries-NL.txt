@@ -21,7 +21,7 @@ CG;;Congo
 MP;;Noordelijke Marianen
 PM;;Saint-Pierre en Miquelon
 SI;;Slovenië
-VE;;Venezuela
+VE;;Venezuela, Bolivariaanse Republiek
 ZW;;Zimbabwe
 CH;;Zwitserland
 GY;;Guyana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Letland
 BN;;Brunei
 UM;;Kleine Pacifische eilanden van de Verenigde Staten
-BO;;Bolivia
+BO;;Bolivia, Multinationale Staat
 KE;;Kenia
 NA;;Namibië
 LY;;Libië
@@ -137,7 +137,7 @@ RU;;Rusland
 HM;;Heardeiland en McDonaldeilanden
 NF;;Norfolk
 US;;Verenigde Staten
-BV;;Bouvet
+BV;;Bouvet eiland
 ER;;Eritrea
 HN;;Honduras
 NG;;Nigeria
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarctica
 MC;;Monaco
 AR;;Argentinië
-MD;;Moldavië
+MD;;Moldavië, Republiek
 AS;;Amerikaans-Samoa
 DO;;Dominicaanse Republiek
 ME;;Montenegro

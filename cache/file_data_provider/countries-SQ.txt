@@ -21,7 +21,7 @@ CG;;Kongo
 MP;;Ishujt e Marianës Veriore
 PM;;Saint Pierre dhe Miquelon
 SI;;Sllovenia
-VE;;Venezuela
+VE;;Republika Bolivariane e Venezuelës
 ZW;;Zimbabve
 CH;;Zvicra
 GY;;Guajana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Letonia
 BN;;Brunei Darussalam
 UM;;Ishujt e Vegjël Amerikanë
-BO;;Bolivia
+BO;;Bolivia, Plurinational State of
 KE;;Kenia
 NA;;Namibia
 LY;;Jamahirija Arabe e Libisë
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarktida
 MC;;Monako
 AR;;Argjentina
-MD;;Moldova
+MD;;Maqedonisë, Republika
 AS;;Samoa Amerikane
 DO;;Republika Dominikane
 ME;;Mali i Zi

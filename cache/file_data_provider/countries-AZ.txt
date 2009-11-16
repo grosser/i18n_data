@@ -21,7 +21,7 @@ CG;;Konqo
 MP;;Şimali Marian Adaları
 PM;;Müqəddəs Pyer və Migelion
 SI;;Sloveniya
-VE;;Venezuela
+VE;;Koreya, Respublika
 ZW;;Zimbabve
 CH;;İsveçrə
 GY;;Quyana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Latviya
 BN;;Bruney Darüssəlam
 UM;;Birləşmiş Ştatlar Yanı Kiçik Adalar
-BO;;Boliviya
+BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibiya
 LY;;Libyan Arab Jamahiriya
@@ -204,7 +204,7 @@ TO;;Tonqa
 AQ;;Antarktika
 MC;;Monako
 AR;;Argentina
-MD;;Moldova
+MD;;Koreya, Respublika
 AS;;Amerikan Samoa
 DO;;Dominikan Respublikası
 ME;;Montserrat

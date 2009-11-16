@@ -24,7 +24,7 @@ BG;;Isi-Buligariyana
 PL;;Isi-Pholishi
 HE;;Isi-Hebheru
 NA;;Nauru
-BH;;Isi-Thayi
+BH;;Isi-Koreyani
 MN;;Isi-Makhedoniya
 VI;;Isi-Vitheyinamise
 RW;;Kinyarwanda

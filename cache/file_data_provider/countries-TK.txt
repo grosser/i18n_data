@@ -21,7 +21,7 @@ CG;;Kongo
 MP;;Northern Mariana Islands
 PM;;Sen Pýer we Mikelon
 SI;;Sloweniýa
-VE;;Wenesuela
+VE;;Wýetnam Halk Respublikasy
 ZW;;Zimbabwe
 CH;;Switzerland
 GY;;Guyana
@@ -118,7 +118,7 @@ BM;;Bermud
 LV;;Litwiýa
 BN;;Bruneý Darussalam
 UM;;United States Minor Outlying Islands
-BO;;Boliwiýa
+BO;;Bolivia, Plurinational State of
 KE;;Keniýa
 NA;;Namibiýa
 LY;;Liwiýa Arap Jamahiry
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarctica
 MC;;Monako
 AR;;Argentina
-MD;;Moldova
+MD;;Moldawiýa, Respublikasy
 AS;;Samao Amerika
 DO;;Dominakan Respublikasy
 ME;;Montserrat

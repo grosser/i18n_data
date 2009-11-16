@@ -6,7 +6,7 @@ LU;;Luba-Katanga
 MI;;Маоры
 LV;;Латвійская
 HA;;Hausa
-BE;;еларуская
+BE;;Беларуская
 GN;;Guarani
 PI;;Pali
 UR;;Урду
@@ -24,7 +24,7 @@ BG;;Балгарская
 PL;;Польская
 HE;;Іўрыт
 NA;;Науру
-BH;;Bihari
+BH;;Мовы апачы
 MN;;Мангольская
 VI;;В'етнамская
 RW;;Kinyarwanda
@@ -109,13 +109,13 @@ OC;;Occitan (post 1500)
 TL;;Tagalog
 ZH;;Кітайская
 IG;;Igbo
-EU;;Басцкая
+EU;;Баскская
 NO;;Нарвежская
 FI;;Фінская
 HT;;Haitian; Haitian Creole
 KR;;Kanuri
 FJ;;Fijian
-AA;;Afar
+AA;;Афар
 HU;;Венгерская
 LG;;Ganda
 KS;;Кашмірская
@@ -171,7 +171,7 @@ SA;;Санскрыт
 ZU;;Зулуская
 IT;;Італьянская
 BA;;Башкірская
-AM;;Amharic
+AM;;Амхарская
 RO;;Румынская
 TY;;Tahitian
 IU;;Inuktitut

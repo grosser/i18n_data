@@ -2,7 +2,7 @@ SE;;Šiaurės sami
 FY;;Vakarų fryzų
 OS;;Osetinų
 GL;;Galisų
-LU;;Luba-Katanga
+LU;;Luba katanga
 MI;;Maorių
 LV;;Latvių
 HA;;Hausų
@@ -24,7 +24,7 @@ BG;;Bulgarų
 PL;;Lenkų
 HE;;Hebrajų
 NA;;Nauriečių
-BH;;Biharų
+BH;;Tajų kalbos
 MN;;Mongolų
 VI;;Vietnamiečių
 RW;;Kinjaruanda
@@ -36,7 +36,7 @@ MO;;Moldavų
 SL;;Slovėnų
 YI;;Jidiš
 DV;;Maldivų
-ND;;Ndebele, North; North Ndebele
+ND;;Šiaurės ndebelų
 SM;;Samojiečių
 NE;;Nepalų
 AY;;Aimarų
@@ -53,10 +53,10 @@ GV;;Menksiečių
 CA;;Katalonų; Valencijos
 MS;;Malajų
 EL;;Graikų, šiuolaikinė (1453-)
-NG;;Ndonga
+NG;;Ndongų
 WA;;Valonų
 BN;;Bengalų
-KI;;Kikuyu; Gikuyu
+KI;;Kikui
 UZ;;Uzbekų
 DZ;;Botijų
 MT;;Maltiečių
@@ -65,7 +65,7 @@ JV;;Javiečių
 FA;;Persų
 SQ;;Albanų
 BO;;Tibetiečių
-KJ;;Kuanyama; Kwanyama
+KJ;;Kuaniama
 EN;;Anglų
 SR;;Serbų
 TE;;Telugų
@@ -95,9 +95,9 @@ LB;;Liuksemburgiečių
 MY;;Birmiečių
 ID;;Indoneziečių
 SV;;Švedų
-FF;;Fulah
+FF;;Fulahų
 KO;;Korėjiečių
-CH;;Chamorro
+CH;;Čamorų
 IE;;Interlingue
 ES;;Ispanų; Kastilijos
 SW;;Svahilių
@@ -120,7 +120,7 @@ HU;;Vengrų
 LG;;Ganda
 KS;;Kašmyrų
 TN;;Tsvanų
-NR;;Ndebele, South; South Ndebele
+NR;;Pietų ndebelų
 AB;;Abchazų
 II;;Sichuan Yi; Nuosu
 DA;;Danų
@@ -141,9 +141,9 @@ JA;;Japonų
 NV;;Navahų
 AF;;Afrikanų
 HZ;;Hererų
-OJ;;Ojibwa
+OJ;;Ojibva
 TS;;Tsongų
-CR;;Cree
+CR;;Kry
 GD;;Gėlų; škotų gėlų
 KY;;Kirgizų
 DE;;Vokiečių
@@ -154,7 +154,7 @@ IO;;Ido
 TT;;Totorių
 LN;;Lingala
 FR;;Prancūzų
-NY;;Chichewa; Chewa; Nyanja
+NY;;Nianja
 OM;;Oromų
 LO;;Laosiečių
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
@@ -179,7 +179,7 @@ MG;;Malagasių
 AN;;Aragonų
 SC;;Sardiniečių
 CY;;Valų
-MH;;Marshallese
+MH;;Maršalo salų
 LT;;Lietuvių
 OR;;Orijų
 SD;;Sindhų

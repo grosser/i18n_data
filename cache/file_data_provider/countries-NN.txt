@@ -21,7 +21,7 @@ CG;;Kongo
 MP;;Nord-Marianane
 PM;;Saint-Pierre-et-Miquelon
 SI;;Slovenia
-VE;;Venezuela
+VE;;Republikken Venezuela
 ZW;;Zimbabwe
 CH;;Sveits
 GY;;Guyana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Latvia
 BN;;Brunei
 UM;;Mindre utanforliggjande øyar til USA
-BO;;Bolivia
+BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibia
 LY;;Libya
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarktika
 MC;;Monaco
 AR;;Argentina
-MD;;Moldova
+MD;;Makedonia, Republikken
 AS;;Amerikansk Samoa
 DO;;Den dominikanske republikken
 ME;;Montenegro

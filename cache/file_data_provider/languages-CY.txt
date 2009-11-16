@@ -24,7 +24,7 @@ BG;;Bwlgareg
 PL;;Pwyleg
 HE;;Hebraeg
 NA;;Nawrŵeg
-BH;;Bihari
+BH;;Malagasi
 MN;;Mongoleg
 VI;;Fietnameg
 RW;;Ciniarwanda

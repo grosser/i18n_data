@@ -24,7 +24,7 @@ BG;;Bulgarca
 PL;;Polonyaca
 HE;;İbranice
 NA;;Nauru
-BH;;Bihari (Hindistan)
+BH;;Chamic dilleri (Malay)
 MN;;Moğol Dili
 VI;;Vietnamca
 RW;;Kinyarwanda

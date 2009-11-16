@@ -24,7 +24,7 @@ BG;;Bulgaria
 PL;;Polandia
 HE;;Israel
 NA;;Nauru
-BH;;Bihari
+BH;;Bahasa Bihari
 MN;;Mongolia
 VI;;Vietnam
 RW;;Kinyarwanda
@@ -157,7 +157,7 @@ FR;;Prancis
 NY;;Chichewa; Chewa; Nyanja
 OM;;Oromo
 LO;;Lao
-CU;;Gereja Slavic; Slavonic Kuno; Gereja Slavonic; Bulgaria Kuno; Gereja Tua Slavonic
+CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 PA;;Panjabi; Punjabi
 XH;;Xhosa
 CV;;Chuvash

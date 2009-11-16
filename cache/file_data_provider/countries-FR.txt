@@ -21,7 +21,7 @@ CG;;Congo
 MP;;Mariannes du Nord, Îles
 PM;;Saint-Pierre-et-Miquelon
 SI;;Slovénie
-VE;;Vénézuela
+VE;;Vénézuela, république bolivarienne du
 ZW;;Zimbabwe
 CH;;Suisse
 GY;;Guyana
@@ -67,7 +67,7 @@ FM;;Micronésie, États fédérés de
 MZ;;Mozambique
 CR;;Costa Rica
 PW;;Palaos
-FO;;Feroë, Îles
+FO;;Féroé, Îles
 ST;;Sao Tomé-et-Principe
 IL;;Israël
 LI;;Liechtenstein
@@ -118,10 +118,10 @@ BM;;Bermudes
 LV;;Lettonie
 BN;;Brunéi Darussalam
 UM;;Îles mineures éloignées des États-Unis d'Amérique
-BO;;Bolivie
+BO;;Bolivie, état plurinational de
 KE;;Kenya
 NA;;Namibie
-LY;;Lybienne, Jamahiriya arabe
+LY;;Libyenne, Jamahiriya arabe
 BR;;Brésil
 KG;;Kirghizistan
 NC;;Nouvelle-Calédonie
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarctique
 MC;;Monaco
 AR;;Argentine
-MD;;Moldova
+MD;;Moldova, République de
 AS;;Samoa américaines
 DO;;Dominicaine, République
 ME;;Monténégro

@@ -21,7 +21,7 @@ CG;;Congo-Brazza
 MP;;Iyes Marianes bijhreces
 PM;;Sint Pierre et Miquelon
 SI;;Esloveneye
-VE;;Venezwela
+VE;;Republike Bolivaryinne do Venezwela
 ZW;;Zimbabwè
 CH;;Swisse
 GY;;Guyana
@@ -118,7 +118,7 @@ BM;;Bermudes
 LV;;Letoneye
 BN;;Bruney
 UM;;Iyes mineures des Estats Unis
-BO;;Boliveye
+BO;;Bolivia, Plurinational State of
 KE;;Kenia
 NA;;Namibeye
 LY;;Libeye
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antartike
 MC;;Monaco
 AR;;Årdjintene
-MD;;Moldova
+MD;;Macedoneye
 AS;;Samowa amerikinne
 DO;;Republike Dominikinne
 ME;;Montenegro

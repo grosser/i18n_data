@@ -21,7 +21,7 @@ CG;;Kongo
 MP;;Gżejjer Marjana ta' Fuq
 PM;;Saint Pierre and Miquelon
 SI;;Slovenja
-VE;;Veneżwela
+VE;;Repubblika Dominikana
 ZW;;Żimbabwe
 CH;;Svizzera
 GY;;Gujana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Latvja
 BN;;Brunei Darussalam
 UM;;Stati Uniti
-BO;;Bolivja
+BO;;Bolivia, Plurinational State of
 KE;;Kenja
 NA;;Namibja
 LY;;Libyan Arab Jamahiriya
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarctica
 MC;;Monako
 AR;;Arġentina
-MD;;Moldova
+MD;;Repubblika Dominikana
 AS;;Amerika ta' Fuq
 DO;;Repubblika Dominikana
 ME;;Montserrat

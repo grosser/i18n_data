@@ -24,7 +24,7 @@ BG;;Bulgariska
 PL;;Polska
 HE;;Hebreiska
 NA;;Nauruanska
-BH;;Bihari
+BH;;Tupíspråk
 MN;;Mongoliska språk
 VI;;Vietnamesiska
 RW;;Rwanda

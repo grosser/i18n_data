@@ -24,7 +24,7 @@ BG;;Bulgarça
 PL;;Polça
 HE;;Yähüdçä
 NA;;Nauruça
-BH;;Biharça
+BH;;Ğosman telläre
 MN;;Moğolça
 VI;;Vietnamça
 RW;;Kinyarwandaça

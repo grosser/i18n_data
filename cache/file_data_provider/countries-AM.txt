@@ -21,7 +21,7 @@ CG;;ኮንጎ
 MP;;Northern Mariana Islands
 PM;;Saint Pierre and Miquelon
 SI;;ስሕታኒ።
-VE;;ታንፉፃሒ
+VE;;ሥሔ፦ቲ
 ZW;;ፒሤቢ።
 CH;;ስፁፈሴሒን፥
 GY;;ጉ።ና
@@ -118,7 +118,7 @@ BM;;ቤሴሙ፣
 LV;;ሒትቱ።
 BN;;Brunei Darussalam
 UM;;United States Minor Outlying Islands
-BO;;ቦሑቱ።
+BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;ናሡቢ።
 LY;;ሑቢ።
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarctica
 MC;;Monaco
 AR;;ጐሴጀንቲና
-MD;;Moldova
+MD;;ሥሔ፦ቲ
 AS;;American Samoa
 DO;;፦ሡኒጤ ሱፑብሑጤ
 ME;;Montenegro

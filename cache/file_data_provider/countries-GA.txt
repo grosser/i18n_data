@@ -21,7 +21,7 @@ CG;;An Congó
 MP;;Oileáin Mariana Thuaidh
 PM;;St. Pierre agus Miquelon
 SI;;An tSlóivéin
-VE;;Veiniséala
+VE;;Veiniséala, Poblacht Bolivar
 ZW;;An tSiombáib
 CH;;An Eilvéis
 GY;;An Ghuáin
@@ -118,7 +118,7 @@ BM;;Na Beirmiúdaí
 LV;;An Laitvia
 BN;;Brúiné Dárasalám
 UM;;Mion-Oileáin Imeallacha S.A.M.
-BO;;An Bholaiv
+BO;;Bolivia, Plurinational State of
 KE;;An Chéinia
 NA;;An Namaib
 LY;;Poblacht Arabach na Libia
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;an Antartaice
 MC;;Monacó
 AR;;An Airgintín
-MD;;An Mholdóiv
+MD;;Moldáive, poblacht na
 AS;;Samó Meiriceánach
 DO;;An Phoblacht Dhoiminiceach
 ME;;Montainéagró

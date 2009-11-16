@@ -1,10 +1,10 @@
-VA;;Vatikāns
+VA;;Vatikāna Pilsētvalsts
 CC;;Kokosu (Kīlinga) salas
 GT;;Guatemala
 JP;;Japāna
 SE;;Zviedrija
 TZ;;Tanzānija
-CD;;Congo, The Democratic Republic of the
+CD;;Kongo, Demokrātiskās Republikas
 GU;;Guama
 MM;;Mjanma
 DZ;;Alžīrija
@@ -12,13 +12,13 @@ MN;;Mongolija
 PK;;Pakistāna
 SG;;Singapūra
 VC;;Sentvinsenta un Grenadīnas
-CF;;Centrāl Āfrikas republika
+CF;;Centrāl Āfrikas Republika
 GW;;Gvineja-Bisava
-MO;;Makau
+MO;; Makao
 PL;;Polija
 SH;;Sv. Helēnas sala
 CG;;Kongo
-MP;;Ziemeļu Marianas
+MP;;Ziemeļu Marianas salas
 PM;;Senpjēra un Mikelona
 SI;;Slovēnija
 VE;;Venecuēla
@@ -31,14 +31,14 @@ SJ;;Svalbāra un Jana Majena sala
 CI;;Côte dIvoireIvoire
 MR;;Mauritānija
 SK;;Slovākija
-VG;;Virgin salas, Britu
+VG;;Virdžīnu salas, Britu
 MS;;Montserrata
 SL;;Sjerraleone
 CK;;Kuka salas
 ID;;Indonēzija
 MT;;Malta
-SM;;San Mārīno
-VI;;Virgin salas, ASV
+SM;;Sanmarīno
+VI;;Virdžīnu salas, ASV
 YE;;Jemena
 CL;;Čīle
 IE;;Īrija
@@ -55,9 +55,9 @@ CN;;Ķīna
 FJ;;Fidži
 LC;;Sentlūsija
 MW;;Malāvija
-PS;;Palestīnas teritorijas
+PS;;Palestīnas teritorijas, okupētās
 CO;;Kolumbija
-FK;;Maldīvu (Folklenda) salas
+FK;;Folklenda (Maldīvu) salas
 MX;;Meksika
 PT;;Portugāle
 MY;;Malaizija
@@ -79,12 +79,12 @@ SV;;Salvadora
 CV;;Kaboverde
 FR;;Francija
 IN;;Indija
-LK;;Šri Lanka
+LK;;Šrilanka
 BB;;Barbadosa
 IO;;Britu Indijas okeāna teritorija
 VU;;Vanuatu
 CX;;Ziemsvētku sala
-RE;;Reunion
+RE;;Reinjona
 UA;;Ukraina
 SY;;Sīrija
 CY;;Kipra
@@ -110,22 +110,22 @@ LS;;Lesoto
 BJ;;Benina
 LT;;Lietuva
 EG;;Ēģipte
-BL;;Saint Barthélemy
+BL;;Senbartelmī
 EH;;Rietumsahāra
 LU;;Luksemburga
 RO;;Rumānija
 BM;;Bermundu salas
 LV;;Latvija
 BN;;Bruneja
-UM;;ASV mazās aizjūras teritorijas
-BO;;Bolīvija
+UM;;ASV Mazās Aizjūras Salas
+BO;;Bolīvija, Daudzvalstu Valsts
 KE;;Kenija
 NA;;Namībija
 LY;;Līvija
 BR;;Brazīlija
-KG;;Kirgīzija
+KG;;Kirgizstāna
 NC;;Jaunkaledonija
-RS;;Azerbaidžāna
+RS;;Serbija
 BS;;Bahamu salas
 HK;;Honkonga
 KH;;Kombodža
@@ -133,9 +133,9 @@ BT;;Butāna
 KI;;Kiribati
 NE;;Nigēra
 QA;;Katara
-RU;;Krievijas federācija
+RU;;Krievijas Federācija
 HM;;Hērda un Makdonalda salas
-NF;;Norfolka
+NF;;Norfolka sala
 US;;ASV
 BV;;Buvē sala
 ER;;Eritreja
@@ -180,7 +180,7 @@ GE;;Gruzija
 TJ;;Tadžikistāna
 WF;;Volisa un Futuna
 AM;;Armēnija
-GF;;Gvineja
+GF;;Franču Gvineja
 NR;;Nauru
 TK;;Tokelau
 AN;;Antiļas
@@ -199,20 +199,20 @@ NU;;Niue
 TN;;Tunisija
 DM;;Dominika
 GI;;Gibraltārs
-KZ;;Kazahstāna
+KZ;; Kazahstāna
 TO;;Tonga
 AQ;;Antarktika
 MC;;Monāko
 AR;;Argentīna
-MD;;Moldova
+MD;;Moldova, Republika
 AS;;Amerikāņu Samoa
 DO;;Dominikānas Republika
-ME;;Serbija un Montenegro
+ME;;Montenegro
 PA;;Panama
 TR;;Turcija
 AT;;Austrija
 GL;;Grenlande
-MF;;Saint Martin (French part)
+MF;;Senmartēna
 NZ;;Jaunzēlande
 AU;;Austrālija
 GM;;Gambija
@@ -226,7 +226,7 @@ GP;;Gvadelupa
 AX;;Ālandu salas
 SA;;Saūda Arābija
 PE;;Peru
-JM;;Jamaika
+JM;; Jamaika
 GQ;;Ekvatoriālā Gvineja
 CA;;Kanāda
 WS;;Samoa
@@ -237,7 +237,7 @@ PG;;Papua-Jaungvineja
 MK;;Makedonija
 GR;;Grieķija
 AZ;;Azerbaidžāna
-TW;;Taivāna
+TW;;Ķīnas Tautas Republikas Taivānas Province
 SC;;Seišelu salas
 PH;;Filipīnas
 ML;;Mali

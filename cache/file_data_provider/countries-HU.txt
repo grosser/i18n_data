@@ -21,7 +21,7 @@ CG;;Kongó
 MP;;Északi Mariana-szigetek
 PM;;Saint-Pierre és Miquelon
 SI;;Szlovénia
-VE;;Venezuela
+VE;;Venezuelai Bolivári Köztársaság
 ZW;;Zimbabwe
 CH;;Svájc
 GY;;Guyana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Lettország
 BN;;Brunei Darussalam Állam
 UM;;Amerikai Csendes-óceáni-szigetek
-BO;;Bolívia
+BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namíbia
 LY;;Líbiai Arab Jamahiriya
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antarktisz
 MC;;Monaco
 AR;;Argentína
-MD;;Moldova
+MD;;Macedón Köztársaság
 AS;;Amerikai Szamoa
 DO;;Dominikai Köztársaság
 ME;;Montenegró

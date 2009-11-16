@@ -1,12 +1,12 @@
 SE;;nordsamisk
-FY;;Ukrainsk
+FY;;Vestfrisisk
 OS;;Russisk
-GL;;Gallisk
+GL;;Galisisk
 LU;;luba-katanga
 MI;;Maori
 LV;;Latvisk
 HA;;Hausa
-BE;;Bulgarsk
+BE;;Hviterussisk
 GN;;Bulgarsk
 PI;;Polsk
 UR;;urdu
@@ -14,7 +14,7 @@ MK;;Makedonsk
 VE;;venda
 AR;;Arabisk
 SG;;sango
-KA;;Tysk
+KA;;Georgisk
 ML;;malayalam
 AS;;assamisk
 EE;;ewe
@@ -24,11 +24,11 @@ BG;;Bulgarsk
 PL;;Polsk
 HE;;Hebraisk
 NA;;nauru
-BH;;Thai
-MN;;Makedonsk
+BH;;Koreansk
+MN;;Mongolsk
 VI;;Vietnamesisk
 RW;;kinjarwanda
-NB;;Bokmål, Norwegian; Norwegian Bokmål
+NB;;Norsk, bokmål
 AV;;Arabisk
 SK;;Slovakisk
 BI;;bislama
@@ -61,12 +61,12 @@ UZ;;usbekisk
 DZ;;dzongkha
 MT;;Maltisk
 VO;;Volapük
-JV;;Japansk
-FA;;Serbisk
-SQ;;Aserbadjansk
+JV;;Javanesisk
+FA;;Persisk
+SQ;;Albansk
 BO;;tibetansk
 KJ;;kuanyama
-EN;;Engelsk (UK)
+EN;;Engelsk
 SR;;Serbisk
 TE;;telugu
 PS;;Pushto; Pashto
@@ -83,17 +83,17 @@ TG;;Thai
 CE;;Tjekkisk
 NL;;Dutch; Flemish
 ST;;sotho (sørlig)
-BS;;Rumensk
+BS;;Bosnisk
 KM;;Central Khmer
 TH;;Thai
-LA;;Latvisk
+LA;;Latin
 HO;;Tyrkisk
 SU;;sundanesisk
 KN;;kannada
 TI;;Tyrkisk
 LB;;luxemburgsk
 MY;;burmesisk
-ID;;Bosninsk
+ID;;Indonesisk
 SV;;Svensk
 FF;;fulani
 KO;;Koreansk
@@ -104,13 +104,13 @@ SW;;swahili
 TK;;turkmensk
 HR;;Kroatsisk
 ET;;Estonsk
-NN;;Norsk (nynorsk)
+NN;;Norsk, nynorsk
 OC;;Occitan (post 1500)
 TL;;tagalog
 ZH;;Kinesisk
 IG;;ibo
 EU;;Baskisk
-NO;;Koreansk
+NO;;Norsk
 FI;;Finsk
 HT;;Haitian; Haitian Creole
 KR;;Tyrkisk
@@ -125,16 +125,16 @@ AB;;Aserbadjansk
 II;;Lituaisk
 DA;;Dansk
 TO;;tonga (Tonga-øyene)
-KU;;Tyrkisk
+KU;;Kurdisk
 LI;;Limburgan; Limburger; Limburgish
 GA;;Irsk
 KV;;komi
 IK;;unupiak
-CO;;Bosninsk
+CO;;Korsikansk
 WO;;wolof
 KW;;Irsk
 AE;;avestisk
-HY;;Rumensk
+HY;;Armensk
 TR;;Tyrkisk
 FO;;færøysk
 JA;;Japansk
@@ -143,7 +143,7 @@ AF;;Afrikansk
 HZ;;Hebraisk
 OJ;;ojibwa
 TS;;tsonga
-CR;;Gresk
+CR;;Cree
 GD;;Gaelic; Scottish Gaelic
 KY;;kirgisisk
 DE;;Tysk
@@ -173,11 +173,11 @@ IT;;Italiensk
 BA;;basjkirsk
 AM;;Arabisk
 RO;;Rumensk
-TY;;Latvisk
+TY;;Tahitisk
 IU;;inuktitut
 MG;;madagassisk
 AN;;aragonsk
-SC;;Makedonsk
+SC;;Sardinsk
 CY;;Walisisk
 MH;;Maltisk
 LT;;Lituaisk

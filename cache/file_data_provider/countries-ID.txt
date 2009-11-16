@@ -21,7 +21,7 @@ CG;;Congo
 MP;;Kepulauan Mariana Utara
 PM;;St. Pierre and Miquelon
 SI;;Slovania
-VE;;Venezuela
+VE;;Venezuela, Republik Bolivaria
 ZW;;Zimbabwe
 CH;;Swiss
 GY;;Guyana
@@ -118,7 +118,7 @@ BM;;Bermuda
 LV;;Latvia
 BN;;Brunei Darussalam
 UM;;Kepulauan Kecil Terluar Amerika Serikat
-BO;;Bolivia
+BO;;Bolivia, Negara Plurinasional
 KE;;Kenya
 NA;;Namibia
 LY;;Libya
@@ -204,7 +204,7 @@ TO;;Tonga
 AQ;;Antartika
 MC;;Monaco
 AR;;Argentina
-MD;;Moldova
+MD;;Moldova, Republik
 AS;;Samoa Amerika
 DO;;Republik Dominika
 ME;;Montenegro
