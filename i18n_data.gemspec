@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{i18n_data}
-  s.version = "0.2.4"
+  s.version = "0.2.5"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Michael Grosser"]
@@ -92,6 +92,7 @@ Gem::Specification.new do |s|
      "cache/file_data_provider/countries-SV.txt",
      "cache/file_data_provider/countries-SW.txt",
      "cache/file_data_provider/countries-TA.txt",
+     "cache/file_data_provider/countries-TE.txt",
      "cache/file_data_provider/countries-TH.txt",
      "cache/file_data_provider/countries-TI.txt",
      "cache/file_data_provider/countries-TK.txt",
@@ -129,6 +130,7 @@ Gem::Specification.new do |s|
      "cache/file_data_provider/languages-FR.txt",
      "cache/file_data_provider/languages-GA.txt",
      "cache/file_data_provider/languages-GL.txt",
+     "cache/file_data_provider/languages-GU.txt",
      "cache/file_data_provider/languages-HE.txt",
      "cache/file_data_provider/languages-HI.txt",
      "cache/file_data_provider/languages-HR.txt",
@@ -150,6 +152,7 @@ Gem::Specification.new do |s|
      "cache/file_data_provider/languages-NL.txt",
      "cache/file_data_provider/languages-NN.txt",
      "cache/file_data_provider/languages-OC.txt",
+     "cache/file_data_provider/languages-PA.txt",
      "cache/file_data_provider/languages-PL.txt",
      "cache/file_data_provider/languages-PS.txt",
      "cache/file_data_provider/languages-PT.txt",
