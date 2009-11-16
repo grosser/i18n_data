@@ -13,6 +13,14 @@ module I18nData
     data_provider.codes(:countries,language_code.to_s.upcase)
   end
 
+  def country_code(name)
+    recognise_code(:countries, name)
+  end
+
+  def language_code(name)
+    recognise_code(:languages, name)
+  end
+
   def data_provider
     if @data_provider
       @data_provider
@@ -24,6 +32,21 @@ module I18nData
 
   def data_provider=(provider)
     @data_provider = provider
+  end
+
+  private
+
+  def recognise_code(type, search)
+    search = search.strip
+    languages.keys.each do |code|
+      begin
+        send(type, code).each do |code, name|
+          return code if search == name
+        end
+      rescue NoTranslationAvailable
+      end
+    end
+    nil
   end
   
   class NoTranslationAvailable < Exception
