@@ -1,13 +1,9 @@
-$LOAD_PATH << File.join(File.dirname(__FILE__),"..","lib")
-require 'lib/i18n_data'#TODO should not be necessary but is :/
-require 'yaml'
+$LOAD_PATH << "lib"
+require 'i18n_data'
 
-desc "Run all specs in spec directory"
-task :default do |t|
-  options = "--colour --format progress --loadby --reverse"
-  files = FileList['spec/**/*_spec.rb']
-  system("spec #{options} #{files}")
-end
+task :default => :spec
+require 'spec/rake/spectask'
+Spec::Rake::SpecTask.new {|t| t.spec_opts = ['--color']}
 
 desc "write all languages to output"
 task :all_languages do
@@ -48,13 +44,13 @@ task :example_output do
     names = I18nData.languages.keys.map do |lc|
       begin
         [I18nData.countries(lc)[cc], I18nData.languages[lc]]
-      rescue I18nData::NoOnlineTranslationAvaiable
+      rescue I18nData::NoTranslationAvailable
         nil
       end
     end
-    File.open("example_output/all_names_for_#{cc}.txt",'w') {|f|
+    File.open("example_output/all_names_for_#{cc}.txt",'w') do |f|
       f.puts names.reject(&:nil?).map{|x|x*" ---- "} * "\n"
-    }
+    end
   end
 end
 
