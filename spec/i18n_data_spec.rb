@@ -6,8 +6,10 @@ NUM_COUNTRIES = 246
 describe I18nData do
   require "i18n_data/live_data_provider"
   require "i18n_data/file_data_provider"
-  
-  [I18nData::LiveDataProvider,I18nData::FileDataProvider].each do |provider|
+
+  providers =   [I18nData::FileDataProvider]
+  providers << I18nData::LiveDataProvider unless ENV['RUN_CODE_RUN']
+  providers.each do |provider|
     describe "using #{provider}" do
       before :all do
         I18nData.data_provider = provider
