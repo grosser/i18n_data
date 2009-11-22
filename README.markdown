@@ -9,7 +9,7 @@ Through [pkg-isocodes](http://git.debian.org/?p=iso-codes/iso-codes.git):
 
 Install
 =======
-` sudo gem install i18n_data -s http://gemcutter.org `
+` sudo gem install i18n_data
 
 Usage
 =====
