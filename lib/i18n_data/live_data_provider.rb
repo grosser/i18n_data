@@ -1,7 +1,7 @@
 require 'open-uri'
 require 'rexml/document'
 gem 'activesupport', '> 2.2'
-require 'activesupport'
+require 'active_support'
 
 module I18nData
   # fetches data online from debian svn

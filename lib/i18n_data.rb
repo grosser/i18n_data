@@ -1,4 +1,4 @@
-require 'activesupport'
+require 'active_support'
 
 module I18nData
   VERSION = File.read( File.join(File.dirname(__FILE__), '..', 'VERSION') ).strip
