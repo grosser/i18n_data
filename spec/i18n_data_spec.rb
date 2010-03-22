@@ -128,6 +128,11 @@ describe I18nData do
       I18nData.language_code('Deutsch').should == 'DE'
     end
 
+    it "recognizes languages that are ; seperated" do
+      I18nData.language_code('Dutch').should == 'NL'
+      I18nData.language_code('Flemish').should == 'NL'
+    end
+
     it "recognises with blanks" do
       I18nData.language_code("   Deutsch \n\r ").should == 'DE'
     end

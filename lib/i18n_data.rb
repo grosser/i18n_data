@@ -36,10 +36,17 @@ module I18nData
 
   def recognise_code(type, search)
     search = search.strip
-    languages.keys.each do |code|
+
+    # common languages first <-> faster in majority of cases
+    common_languages = ['EN','ES','FR','DE','ZH']
+    langs = (common_languages + (languages.keys - common_languages))
+    
+    langs.each do |code|
       begin
         send(type, code).each do |code, name|
-          return code if search == name
+          # supports "Dutch" and "Dutch; Flemish", checks for inclusion first -> faster
+          match_found = (name.include?(search) and name.split(';').map{|s| s.strip }.include?(search))
+          return code if match_found
         end
       rescue NoTranslationAvailable
       end
