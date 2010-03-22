@@ -40,7 +40,7 @@ module I18nData
       translations = {}
       send("english_#{type}").each do |code,name|
         translation = translate(type, name, language_code)
-        translations[code] = translation ? translation : name
+        translations[code] = translation || name
       end
       translations
     end
@@ -51,7 +51,7 @@ module I18nData
         url = TRANSLATIONS[type]+"#{language_code.downcase}.po"
         data = open(url).readlines
       rescue
-        raise NoTranslationAvailable.new("for #{type} and language code = #{language_code}")
+        raise NoTranslationAvailable, "for #{type} and language code = #{language_code}"
       end
 
       po_to_hash data
