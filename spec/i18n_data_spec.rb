@@ -99,41 +99,41 @@ describe I18nData do
         end
       end
     end
+  end
 
-    describe :country_code do
-      before :all do
-        I18nData.data_provider = I18nData::FileDataProvider
-      end
-
-      it "recognises a countries name" do
-        I18nData.country_code('Germany').should == 'DE'
-      end
-
-      it "recognises with blanks" do
-        I18nData.country_code("   Germany \n\r ").should == 'DE'
-      end
-
-      it "returns nil when it cannot recognise" do
-        I18nData.country_code('XY').should == nil
-      end
+  describe :country_code do
+    before :all do
+      I18nData.data_provider = I18nData::FileDataProvider
     end
 
-    describe :language_code do
-      before :all do
-        I18nData.data_provider = I18nData::FileDataProvider
-      end
+    it "recognises a countries name" do
+      I18nData.country_code('Germany').should == 'DE'
+    end
 
-      it "recognises a countries name" do
-        I18nData.language_code('Deutsch').should == 'DE'
-      end
+    it "recognises with blanks" do
+      I18nData.country_code("   Germany \n\r ").should == 'DE'
+    end
 
-      it "recognises with blanks" do
-        I18nData.language_code("   Deutsch \n\r ").should == 'DE'
-      end
+    it "returns nil when it cannot recognise" do
+      I18nData.country_code('XY').should == nil
+    end
+  end
 
-      it "returns nil when it cannot recognise" do
-        I18nData.language_code('XY').should == nil
-      end
+  describe :language_code do
+    before :all do
+      I18nData.data_provider = I18nData::FileDataProvider
+    end
+
+    it "recognises a countries name" do
+      I18nData.language_code('Deutsch').should == 'DE'
+    end
+
+    it "recognises with blanks" do
+      I18nData.language_code("   Deutsch \n\r ").should == 'DE'
+    end
+
+    it "returns nil when it cannot recognise" do
+      I18nData.language_code('XY').should == nil
     end
   end
 
