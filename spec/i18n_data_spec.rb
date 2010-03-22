@@ -7,6 +7,10 @@ describe I18nData do
   require "i18n_data/live_data_provider"
   require "i18n_data/file_data_provider"
 
+  def blank_keys_or_values(hash)
+    hash.detect{|k,v| k.to_s.empty? or v.to_s.empty?}
+  end
+
   providers =   [I18nData::FileDataProvider]
   providers << I18nData::LiveDataProvider unless ENV['RUN_CODE_RUN']
   providers.each do |provider|
@@ -22,7 +26,7 @@ describe I18nData do
 
         describe :english do
           it "does not contain blanks" do
-            I18nData.languages.detect {|k,v| k.blank? or v.blank?}.should == nil
+            blank_keys_or_values(I18nData.languages).should == nil
           end
 
           it "has english as default" do
@@ -48,7 +52,7 @@ describe I18nData do
           end
 
           it "does not contain blanks" do
-            I18nData.languages('GL').detect {|k,v| k.blank? or v.blank?}.should == nil
+            blank_keys_or_values(I18nData.languages('GL')).should == nil
           end
 
           it "is written in unicode" do
@@ -64,7 +68,7 @@ describe I18nData do
           end
 
           it "does not contain blanks" do
-            I18nData.countries.detect {|k,v| k.blank? or v.blank?}.should == nil
+            blank_keys_or_values(I18nData.countries).should == nil
           end
 
           it "contains all countries" do
@@ -86,7 +90,7 @@ describe I18nData do
           end
 
           it "does not contain blanks" do
-            I18nData.countries('GL').detect {|k,v| k.blank? or v.blank?}.should == nil
+            blank_keys_or_values(I18nData.countries('GL')).should == nil
           end
 
           it "is written in unicode" do

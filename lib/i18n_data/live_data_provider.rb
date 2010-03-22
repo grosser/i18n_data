@@ -33,7 +33,7 @@ module I18nData
 
     def translate(type, language, to_language_code)
       translated = translations(type, to_language_code)[language]
-      translated.blank? ? nil : translated
+      translated.to_s.empty? ? nil : translated
     end
 
     def translated(type, language_code)
