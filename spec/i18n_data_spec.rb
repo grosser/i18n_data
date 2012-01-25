@@ -1,4 +1,5 @@
-require File.expand_path("spec_helper", File.dirname(__FILE__))
+# encoding: utf-8
+require "spec_helper"
 
 NUM_2_LETTER_LANGUAGES = 185
 NUM_COUNTRIES = 246

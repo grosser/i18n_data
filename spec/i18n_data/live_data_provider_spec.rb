@@ -1,4 +1,4 @@
-require File.join(File.dirname(__FILE__),'..',"spec_helper")
+require "spec_helper"
 require 'i18n_data/live_data_provider'
 
 describe I18nData::LiveDataProvider do
