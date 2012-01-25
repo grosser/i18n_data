@@ -1,9 +1,9 @@
 $LOAD_PATH << "lib"
 require 'i18n_data'
 
-task :default => :spec
-require 'spec/rake/spectask'
-Spec::Rake::SpecTask.new {|t| t.spec_opts = ['--color']}
+task :default do
+  sh "bundle exec rspec spec"
+end
 
 desc "write all languages to output"
 task :all_languages do
@@ -38,7 +38,7 @@ end
 desc "write example output, just to show off :D"
 task :example_output do
   `mkdir example_output -p`
-  
+
   #all names for germany, france, united kingdom and unites states
   ['DE','FR','GB','US'].each do |cc|
     names = I18nData.languages.keys.map do |lc|
@@ -77,13 +77,12 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = project_name
     gem.summary = "country/language names and 2-letter-code pairs, in 85 languages"
-    gem.email = "grosser.michael@gmail.com"
-    gem.homepage = "http://github.com/grosser/#{project_name}"
+    gem.email = "michael@grosser.it"
+    gem.homepage = "https://github.com/grosser/#{project_name}"
     gem.authors = ["Michael Grosser"]
-    gem.add_dependency ['activesupport']
   end
 
   Jeweler::GemcutterTasks.new
 rescue LoadError
-  puts "Jeweler, or one of its dependencies, is not available. Install it with: sudo gem install jeweler"
+  puts "Jeweler, or one of its dependencies, is not available. Install it with: gem install jeweler"
 end
