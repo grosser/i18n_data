@@ -2,7 +2,7 @@
 require "spec_helper"
 
 NUM_2_LETTER_LANGUAGES = 185
-NUM_COUNTRIES = 246
+NUM_COUNTRIES = 249
 
 describe I18nData do
   require "i18n_data/live_data_provider"

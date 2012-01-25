@@ -4,7 +4,7 @@ require 'i18n_data/live_data_provider'
 describe I18nData::LiveDataProvider do
   describe :po_to_hash do
     def po_to_hash(text)
-      I18nData::LiveDataProvider.send(:po_to_hash,text)
+      I18nData::LiveDataProvider.send(:po_to_hash,text.split("\n"))
     end
 
     it "parses po file into translations" do
