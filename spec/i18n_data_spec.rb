@@ -12,9 +12,7 @@ describe I18nData do
     hash.detect{|k,v| k.to_s.empty? or v.to_s.empty?}
   end
 
-  providers =   [I18nData::FileDataProvider]
-  providers << I18nData::LiveDataProvider unless ENV['RUN_CODE_RUN']
-  providers.each do |provider|
+  [I18nData::FileDataProvider, I18nData::LiveDataProvider].each do |provider|
     describe "using #{provider}" do
       before :all do
         I18nData.data_provider = provider
