@@ -80,6 +80,7 @@ begin
     gem.email = "michael@grosser.it"
     gem.homepage = "https://github.com/grosser/#{project_name}"
     gem.authors = ["Michael Grosser"]
+    gem.license = "MIT"
   end
 
   Jeweler::GemcutterTasks.new

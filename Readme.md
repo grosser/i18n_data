@@ -3,13 +3,15 @@
  - List of 2-letter-code/name pairs for all countries/languages in all languages
 
 ###Translations
-Through [pkg-isocodes](http://git.debian.org/?p=iso-codes/iso-codes.git):  
-185 Language codes (iso 639 - 2 letter) in 68 Languages  
-246 Country codes (iso 3166 - 2 letter) in 86 Languages  
+Through [pkg-isocodes](http://git.debian.org/?p=iso-codes/iso-codes.git):
+
+ - 185 Language codes (iso 639 - 2 letter) in 68 Languages
+ - 246 Country codes (iso 3166 - 2 letter) in 86 Languages
 
 Install
 =======
-` sudo gem install i18n_data
+
+    sudo gem install i18n_data
 
 Usage
 =====
@@ -42,9 +44,9 @@ Data Providers
 TODO
 ====
  - include other language/country code formats (3-letter codes...) ?
- 
+
 Author
 ======
-Michael Grosser  
-grosser.michael@gmail.com  
-Hereby placed under public domain, do what you want, just do not hold me accountable...  
+[Michael Grosser](http://grosser.it)<br/>
+michael@grosser.it<br/>
+License: MIT
