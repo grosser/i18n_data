@@ -43,7 +43,7 @@ Data Providers
 
 TODO
 ====
- - `rake write_cache_for_file_data_provider` currently fails, so file data will be stale
+ - `rake write_cache_for_file_data_provider` currently fails on 1.9.3 -> fix unrecognizeable utf-8 chars
  - include other language/country code formats (3-letter codes...) ?
 
 Author
