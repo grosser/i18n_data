@@ -49,11 +49,13 @@ module I18nData
     def translations(type, language_code)
       begin
         url = TRANSLATIONS[type]+"#{language_code.downcase}.po"
-        data = open(url).readlines
+        data = open(url).read
       rescue
-        raise NoTranslationAvailable, "for #{type} and language code = #{language_code}"
+        raise NoTranslationAvailable, "for #{type} and language code = #{language_code} (#{$!})"
       end
 
+      data = data.force_encoding('utf-8') if data.respond_to?(:force_encoding) # 1.9
+      data = data.split("\n")
       po_to_hash data
     end
     memoize :translations
