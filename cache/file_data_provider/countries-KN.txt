@@ -16,7 +16,7 @@ CF;;ಮಧ್ಯ ಆಫ್ರಿಕನ್ ಗಣರಾಜ್ಯ
 GW;;ಗಿನೀ-ಬಿಸ್ಸೋ
 MO;;ಮಕಾವು
 PL;;ಪೋಲಂಡ್
-SH;;ಸೇಂಟ್ ಹೆಲೆನಾ
+SH;;Saint Helena, Ascension and Tristan da Cunha
 CG;;ಕಾಂಗೋ
 MP;;ಉತ್ತರ ಮಾರಿಯಾನಾ ದ್ವೀಪಗಳು
 PM;;Saint Pierre and Miquelon
@@ -67,6 +67,7 @@ FM;;Micronesia, Federated States of
 MZ;;ಮೋಝಾಂಬಿಕ್
 CR;;ಕೋಸ್ಟಾರಿಕಾ
 PW;;ಪಲಾಉ
+SS;;ಸೂಡಾನ್ ಗಣರಾಜ್ಯ
 FO;;ಪರೋ ದ್ವೀಪಗಳು
 ST;;Sao Tome and Principe
 IL;;ಇಸ್ರೇಲ್
@@ -81,7 +82,9 @@ FR;;ಫ್ರಾನ್ಸ್
 IN;;ಭಾರತ
 LK;;ಶ್ರೀಲಂಕಾ
 BB;;ಬಾರ್ಬಡಾಸ್
+CW;;Curaçao
 IO;;ಬ್ರಿಟಿಷ್ ಇಂಡಿಯನ್ ಓಶಿಯನ್ ಪ್ರದೇಶ
+SX;;Sint Maarten (Dutch part)
 VU;;Vanuatu
 CX;;ಕ್ರಿಸ್ಮಸ್ ದ್ವೀಪ
 RE;;Reunion
@@ -121,7 +124,8 @@ UM;;United States Minor Outlying Islands
 BO;;Bolivia, Plurinational State of
 KE;;ಕೀನ್ಯಾ
 NA;;ನಮೀಬಿಯಾ
-LY;;Libyan Arab Jamahiriya
+LY;;ಲೈಬೀರಿಯಾ
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;ಬ್ರಾಝಿಲ್
 KG;;ಕಿರ್ಗಿಝ್‍ಸ್ತಾನ್
 NC;;ಹೊಸ ಕೆಲೆಡೊನಿಯಾ
@@ -183,7 +187,6 @@ AM;;ಆರ್ಮೇನಿಯಾ
 GF;;ಫ್ರೆಂಚ್ ಗಯಾನಾ
 NR;;Nauru
 TK;;Tokelau
-AN;;ನೆದರ್‌ಲ್ಯಾಂಡ್ಸ್ Antilles
 DJ;;ಡ್ಜಿಬೌಟಿ
 KW;;ಕುವೈತ್
 TL;;Timor-Leste
@@ -216,8 +219,8 @@ MF;;Saint Martin (French part)
 NZ;;ನ್ಯೂ ಜಿಲ್ಯಂಡ್
 AU;;ಆಸ್ಟ್ರೇಲಿಯ
 GM;;ಗ್ಯಾಂಬಿಯಾ
-MG;;ಮಡಗಾಸ್ಕರ್
 GN;;ಗಿನೀ
+MG;;ಮಡಗಾಸ್ಕರ್
 AW;;ಅರುಬಾ
 MH;;ಮಾರ್ಷಲ್ ದ್ವೀಪಗಳು
 TT;;ಟ್ರಿನಿಡಾಡ್ ಮತ್ತು ಟೊಬಾಗೋ

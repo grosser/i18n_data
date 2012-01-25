@@ -1,84 +1,84 @@
 SE;;ઉત્તરી સામી
 FY;;પશ્ચિમી ફ્રિશીયન
-OS;;Ossetian; Ossetic
+OS;;ઓસ્સેટિયન; ઓસ્સેટિક
 GL;;ગાલિસીયન
-LU;;Luba-Katanga
+LU;;લુબા-કાટાન્ગા
 MI;;માઓરી    
-LV;;Latvian
-HA;;હાઉસા
+LV;;લૅટવિયન
+HA;;હૌસા
 BE;;બેલારુશિયન
-GN;;Guarani
+GN;;ગૌરાની
 PI;;પાલી
 UR;;ઉર્દુ
-MK;;Macedonian
+MK;;મૅસિડોનિયન
 VE;;વેન્દા
 AR;;અરેબિક
 SG;;સાન્ગો
-KA;;Georgian
+KA;;જોર્જિયન
 ML;;મલયાલમ
 AS;;આસામી
-EE;;Ewe
+EE;;ઇવે
 RU;;રશિયન
 SI;;સિન્હાલા; સિન્હાલી
 BG;;બલ્ગેરિયન
 PL;;પોલિશ
 HE;;હેબ્રુ
-NA;;Nauru
-BH;;તાઇ ભાષાઓ
+NA;;નાઉરુ
+BH;;બિહારી ભાષાઓ
 MN;;મોંગોલિયન
 VI;;વિયેતનામી
-RW;;Kinyarwanda
-NB;;Bokmål, Norwegian; Norwegian Bokmål
+RW;;કિન્યારવાન્ડા
+NB;;બોકમાલ, નોર્વેગિયન; નોર્વેગિયન બોકમાલ
 AV;;અવેરિક
 SK;;સ્લોવાક
 BI;;બિસ્લામા
-MO;;Moldavian; Moldovan
+MO;;મોલ્ડાવિઅન; મોલ્ડોવન
 SL;;સ્લોવેનિયન
-YI;;Yiddish
-DV;;Divehi; Dhivehi; Maldivian
-ND;;Ndebele, North; North Ndebele
+YI;;યિડ્ડિશ
+DV;;ડિવેહી; ધિવેહી; માલ્દીવીઅન 
+ND;;ન્ડેબેલે, ઉત્તર; ઉત્તર ન્ડેબેલે
 SM;;સામોઆન
 NE;;નેપાલી
-AY;;Aymara
+AY;;અય્મર
 SN;;શોના
 KG;;કોન્ગો
 TA;;તમિલ
 GU;;ગુજરાતી
 HI;;હિન્દી
 MR;;મરાઠી
-AZ;;Azerbaijani
+AZ;;અઝેરબૈજાની
 SO;;સોમાલી
 BM;;બમ્બારા
-GV;;Manx
+GV;;મૅન્ક્ષ
 CA;;કેટેલન; વેલેન્સીઆ
 MS;;મલય
-EL;;Greek, Modern (1453-)
-NG;;Ndonga
+EL;;ગ્રીક, મોર્ડન (1453-)
+NG;;ન્ડોન્ગા
 WA;;વલુન
 BN;;બંગાળી
-KI;;Kikuyu; Gikuyu
+KI;;કીકુયુ; ગીકુયુ
 UZ;;ઉઝબેક
-DZ;;Dzongkha
-MT;;માલ્તીઝ
+DZ;;ડ્જોન્ગખા
+MT;;માલ્તી
 VO;;વોલાપુક
 JV;;જાવાની
 FA;;પર્સિયન
 SQ;;અલ્બેનિયન
 BO;;તિબેટન
-KJ;;Kuanyama; Kwanyama
+KJ;;કુઆન્યામા; ક્વાન્યામા
 EN;;અંગ્રેજી
 SR;;સર્બિયન
 TE;;તેલુગુ
 PS;;પુશ્તો; પાશ્તો
-ZA;;Zhuang; Chuang
+ZA;;જુઆન્ગ; ચુઆન્ગ
 IA;;Interlingua (International Auxiliary Language Association)
-EO;;Esperanto
+EO;;ઇસ્પેરાન્ટો
 KK;;કઝાખ
-PT;;પોર્ટુગીઝ
+PT;;પોર્ટુગી
 YO;;યોરુબા
 SS;;સ્વાતી
 BR;;બ્રેટોન
-KL;;Kalaallisut; Greenlandic
+KL;;કલાલ્લીસુટ; ગ્રીનલૅન્ડિક
 TG;;તાજીક
 CE;;ચેચેન
 NL;;ડચ; ફ્લેમિશ
@@ -88,84 +88,84 @@ KM;;કેન્દ્રિય ખ્મેર
 TH;;થાઇ
 LA;;લેટિન
 HO;;હિરી મોટુ
-SU;;Sundanese
+SU;;સુડાનિ
 KN;;કન્નડ
-TI;;Tigrinya
-LB;;Luxembourgish; Letzeburgesch
+TI;;ટિગ્રીન્યા
+LB;;લુક્જેનબર્ગિશ; લેટ્જીબુર્ગિશ
 MY;;બર્મિશ
 ID;;ઇન્ડોનેશિયન
 SV;;સ્વેડિશ
 FF;;ફુલાહ
-KO;;કોરિયાઈ
+KO;;કોરિયન
 CH;;ચામોરો
-IE;;Interlingue; Occidental
+IE;;ઇન્ટરલિંગ્યુ; ઑસિડેન્ટલ
 ES;;સ્પેનિશ; કાસ્ટિલીયન
 SW;;સ્વાહિલી
 TK;;તુર્કમેન
 HR;;ક્રોએટિઅન
-ET;;Estonian
-NN;;Norwegian Nynorsk; Nynorsk, Norwegian
-OC;;Occitan (post 1500)
+ET;;ઇસ્ટોનિયન
+NN;;નોર્વેજિયન નિનોર્સ્ક; નિનોર્સ્ક, નોર્વેજિયન
+OC;;ઓસ્સીટન (પોસ્ટ 1500)
 TL;;તાગાલોગ
 ZH;;ચીની
 IG;;ઇગ્બો
 EU;;બાસ્ક્યુ
 NO;;નોર્વેગિયન
 FI;;ફિનીશ
-HT;;Haitian; Haitian Creole
+HT;;હાયશિયન; હાયશિયન ક્રિઓલ
 KR;;કાનુરી
-FJ;;Fijian
+FJ;;ફિજીઅન
 AA;;અફાર
 HU;;હન્ગેરિયન
 LG;;ગાન્ડા
 KS;;કાશ્મીરી
-TN;;Tswana
-NR;;Ndebele, South; South Ndebele
-AB;;Abkhazian
-II;;Sichuan Yi; Nuosu
+TN;;ત્સ્વાના
+NR;;ન્ડેબેલે, દક્ષિણ; દક્ષિણ ન્ડેબેલે
+AB;;અબ્ક્હઝિયન
+II;;સિચુઅન યી; નૌસુ
 DA;;ડેનિશ
 TO;;ટોન્ગા (ટોન્ગા ટાપુઓ)
 KU;;કુર્દીશ
-LI;;Limburgan; Limburger; Limburgish
+LI;;લિમ્બર્ગન; લિમ્બર્ગર; લિમ્બુર્ગિશ
 GA;;ઇરિશ
 KV;;કોમી
-IK;;Inupiaq
+IK;;ઇનુપિઆક
 CO;;કોર્શિયન
 WO;;વોલોફ 
 KW;;કોર્નીશ
 AE;;અવેસ્ટાન
 HY;;અર્મેનિયન
 TR;;તુર્કીશ
-FO;;Faroese
+FO;;ફારોજ
 JA;;જાપાની
 NV;;નાવાજો; નાવાહો
 AF;;આફ્રિકન્સ
 HZ;;હેરેરો
 OJ;;ઓજીબ્વા
-TS;;Tsonga
+TS;;ત્સોન્ગા
 CR;;ક્રી
-GD;;Gaelic; Scottish Gaelic
-KY;;Kirghiz; Kyrgyz
+GD;;ગેલિક; સ્કૉટિશ ગેલિક
+KY;;કિરઘિજ; ક્યરગિજ
 DE;;જર્મન
-QU;;Quechua
-UG;;Uighur; Uyghur
-CS;;Czech
+QU;;ક્વેચુઆ
+UG;;ઉઇઘુર; ઉય્ઘુર
+CS;;ચેક
 IO;;ઇડો
 TT;;તાતાર
 LN;;લિંગાલા
 FR;;ફ્રેન્ચ
-NY;;Chichewa; Chewa; Nyanja
+NY;;ચિચેવા; ચેવા; ન્યાન્જા
 OM;;ઓરોમો
 LO;;લાઓ
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
-PA;;પંજાબી; પંજાબી
-XH;;Xhosa
+PA;;પંજાબી
+XH;;ક્સ્હોસા
 CV;;ચુવાશ
 AK;;અકાન
 RM;;રોમાન્શ
 TW;;ત્વી
 UK;;યુક્રેનિયન
-IS;;Icelandic
+IS;;આઇસલૅન્ડિક
 RN;;રુન્દી
 SA;;સંસ્કૃત
 ZU;;ઝુલુ
@@ -173,13 +173,13 @@ IT;;ઇટાલિયન
 BA;;બાશકીર
 AM;;અમ્હારીક
 RO;;રોમાનિયન
-TY;;Tahitian
-IU;;Inuktitut
+TY;;તાહિટીયન
+IU;;ઇનુક્ટિટુટ
 MG;;માલાગસી
-AN;;Aragonese
-SC;;Sardinian
+AN;;અરૉગોનિજ
+SC;;સાર્ડિયન
 CY;;વેલ્શ
-MH;;Marshallese
-LT;;Lithuanian
-OR;;ઉડિયા
+MH;;માર્શલલિજ
+LT;;લિથુઆનીઅન
+OR;;ઓરિયા
 SD;;સિંધી

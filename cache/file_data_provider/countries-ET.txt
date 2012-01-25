@@ -16,7 +16,7 @@ CF;;Kesk-Aafrika Vabariik
 GW;;Guinea-Bissau
 MO;;Aomen
 PL;;Poola
-SH;;Saint Helena
+SH;;Saint Helena, Ascension ja Tristan da Cunha
 CG;;Kongo Vabariik
 MP;;Põhja-Mariaanid
 PM;;Saint-Pierre ja Miquelon
@@ -67,6 +67,7 @@ FM;;Mikroneesia
 MZ;;Mosambiik
 CR;;Costa Rica
 PW;;Belau
+SS;;Sudaani Vabariik
 FO;;Fääri saared
 ST;;São Tomé ja Príncipe
 IL;;Iisrael
@@ -81,7 +82,9 @@ FR;;Prantsusmaa
 IN;;India
 LK;;Sri Lanka
 BB;;Barbados
+CW;;Curaçao
 IO;;Briti India ookeani ala
+SX;;Sint Maarten (Hollandi osa)
 VU;;Vanuatu
 CX;;Jõulusaar
 RE;;Réunion
@@ -118,10 +121,11 @@ BM;;Bermuda
 LV;;Läti
 BN;;Brunei Darussalami Riik
 UM;;Ühendriikide väikesed hajasaared
-BO;;Bolivia, Plurinational State of
+BO;;Boliivia Paljurahvuseline Riik
 KE;;Kenya
 NA;;Namiibia
 LY;;Liibüa
+BQ;;Bonaire, Sint Eustatius ja Saba
 BR;;Brasiilia
 KG;;Kõrgõzstan
 NC;;Uus-Kaledoonia
@@ -183,7 +187,6 @@ AM;;Armeenia
 GF;;Prantsuse Guajaana 
 NR;;Nauru
 TK;;Tokelau
-AN;;Hollandi Antillid
 DJ;;Djibouti
 KW;;Kuveit
 TL;;Ida-Timor (Timor-Leste)
@@ -204,7 +207,7 @@ TO;;Tonga
 AQ;;Antarktis
 MC;;Monaco
 AR;;Argentina
-MD;;Makedoonia
+MD;;Moldova Vabariik
 AS;;Ameerika Samoa
 DO;;Dominikaani Vabariik
 ME;;Montenegro
@@ -212,12 +215,12 @@ PA;;Panama
 TR;;Türgi
 AT;;Austria
 GL;;Gröönimaa
-MF;;Saint Martin (French part)
+MF;;Saint Martin (Prantsuse osa)
 NZ;;Uus-Meremaa
 AU;;Austraalia
 GM;;Gambia
-MG;;Madagaskar
 GN;;Guinea
+MG;;Madagaskar
 AW;;Aruba
 MH;;Marshalli Saared
 TT;;Trinidad ja Tobago

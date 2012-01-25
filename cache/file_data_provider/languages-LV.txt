@@ -1,185 +1,185 @@
-SE;;Northern Sami
-FY;;Ukraiņu
-OS;;Krievu
-GL;;Galiciāņu
-LU;;Luba-Katanga
+SE;;Ziemeļsāmu
+FY;;Rietumfrīzu
+OS;;Osetīnu
+GL;;Galisiešu
+LU;;Lubakatanga
 MI;;Maoru
 LV;;Latviešu
-HA;;Hausa
-BE;;Bulgāru
-GN;;Bulgāru
-PI;;Poļu
+HA;;Hausu
+BE;;Baltkrievu
+GN;;Gvaranu
+PI;;Pāli
 UR;;Urdu
 MK;;Maķedoniešu
-VE;;Venda
+VE;;Vendu
 AR;;Arābu
-SG;;Sango
-KA;;Vācu
-ML;;Malayalam
-AS;;Assamese
-EE;;Ewe
+SG;;Sangu
+KA;;Gruzīnu
+ML;;Malajalu
+AS;;Asamiešu
+EE;;Evu
 RU;;Krievu
-SI;;Vjetnamiešu
+SI;;Singāļu
 BG;;Bulgāru
 PL;;Poļu
-HE;;Ebreju
-NA;;Nauru
-BH;;Korejiešu
-MN;;Maķedoniešu
+HE;;Ivrits
+NA;;Nauruiešu
+BH;;Biharu
+MN;;Mongoļu
 VI;;Vjetnamiešu
-RW;;Kinyarwanda
-NB;;Bokmål, Norwegian; Norwegian Bokmål
-AV;;Arābu
+RW;;Kiņaruanda
+NB;;Norvēģu bukmols
+AV;;Avāru
 SK;;Slovāku
-BI;;Bislama
-MO;;Latviešu
+BI;;Bišlamā
+MO;;Moldāvu
 SL;;Slovēņu
-YI;;Yiddish
-DV;;Divehi; Dhivehi; Maldivian
-ND;;Ndebele, North; North Ndebele
-SM;;Samoan
-NE;;Nepali
-AY;;Aymara
-SN;;Xhosa
-KG;;Kongo
+YI;;Jidišs
+DV;;Maldīviešu
+ND;;Ziemeļndebelu
+SM;;Samoāņu
+NE;;Nepāliešu
+AY;;Aimaru
+SN;;Šonu
+KG;;Kongu
 TA;;Tamilu
-GU;;Gujarati
+GU;;Gudžaratu
 HI;;Hindi
-MR;;Maoru
+MR;;Maratu
 AZ;;Azerbaidžāņu
-SO;;Somali
-BM;;Bambara
-GV;;Manx
-CA;;Catalan; Valencian
-MS;;Malay
-EL;;Greek, Modern (1453-)
-NG;;Bosniešu
-WA;;Valūniešu
-BN;;Bengali
-KI;;Kikuyu; Gikuyu
-UZ;;Uzbek
-DZ;;Dzongkha
+SO;;Somāļu
+BM;;Bambaru
+GV;;Meniešu
+CA;;Katalāņu
+MS;;Malajiešu
+EL;;Grieķu (1453-)
+NG;;Ndongu
+WA;;Valoņu
+BN;;Bengāļu
+KI;;Kikuju
+UZ;;Uzbeku
+DZ;;Dzongke
 MT;;Maltiešu
-VO;;Volapük
-JV;;Japāņu
-FA;;Serbu
-SQ;;Azerbaidžāņu
-BO;;Tibetan
-KJ;;Kuanyama; Kwanyama
-EN;;Angļu (AK)
+VO;;Volapiks
+JV;;Javiešu
+FA;;Persiešu
+SQ;;Albāņu
+BO;;Tibetiešu
+KJ;;Kvaņamu
+EN;;Angļu
 SR;;Serbu
 TE;;Telugu
-PS;;Pushto; Pashto
-ZA;;Zhuang; Chuang
-IA;;Interlingua (International Auxiliary Language Association)
+PS;;Puštu
+ZA;;Džuanu
+IA;;Interlingva
 EO;;Esperanto
-KK;;Kazakh
+KK;;Kazahu
 PT;;Portugāļu
-YO;;Yoruba
-SS;;Swati
+YO;;Jorubu
+SS;;Svatu
 BR;;Bretoņu
-KL;;Kalaallisut; Greenlandic
-TG;;Taizemiešu
-CE;;Čehu
-NL;;Dutch; Flemish
-ST;;Sotho, Southern
-BS;;Rumāņu
-KM;;Central Khmer
-TH;;Taizemiešu
-LA;;Latviešu
-HO;;Turku
-SU;;Sundanese
-KN;;Kannada
-TI;;Turku
-LB;;Luxembourgish; Letzeburgesch
-MY;;Burmese
+KL;;Grenlandiešu
+TG;;Tadžiku
+CE;;Čečenu
+NL;;Holandiešu
+ST;;Sesoto
+BS;;Bosniešu
+KM;;Khmeru
+TH;;Taju
+LA;;Latīņu
+HO;;Hirimotu
+SU;;Sundaniešu
+KN;;Kannadu
+TI;;Tigrinja
+LB;;Luksemburgiešu
+MY;;Birmiešu
 ID;;Indonēziešu
 SV;;Zviedru
-FF;;Fulah
+FF;;Fulu
 KO;;Korejiešu
-CH;;Chamorro
-IE;;Interlingue; Occidental
-ES;;Spanish; Castilian
-SW;;Swahili
-TK;;Turkmen
+CH;;Čamorru
+IE;;Interlingve
+ES;;Spāņu
+SW;;Svahili
+TK;;Turkmēņu
 HR;;Horvātu
 ET;;Igauņu
-NN;;Norvēģu (Ņūnorskas)
-OC;;Occitan (post 1500)
-TL;;Tagalog
+NN;;Jaunnorvēģu
+OC;;Oksitāņu
+TL;;Tagalu
 ZH;;Ķīniešu
 IG;;Igbo
 EU;;Basku
-NO;;Korejiešu
+NO;;Norvēģu
 FI;;Somu
-HT;;Haitian; Haitian Creole
-KR;;Kurdu
-FJ;;Fijian
-AA;;Afar
+HT;;Haitiešu
+KR;;Kanuru
+FJ;;Fidžiešu
+AA;;Afāru
 HU;;Ungāru
-LG;;Ganda
-KS;;Kashmiri
-TN;;Tswana
-NR;;Ndebele, South; South Ndebele
-AB;;Azerbaidžāņu
-II;;Lietuviešu
+LG;;Gandu
+KS;;Kašmiriešu
+TN;;Cvanu
+NR;;Dienvidndebelu
+AB;;Abhāzu
+II;;Sičuaņas ji
 DA;;Dāņu
-TO;;Tonga (Tonga Islands)
+TO;;Tongu
 KU;;Kurdu
-LI;;Limburgan; Limburger; Limburgish
+LI;;Limburgiešu
 GA;;Īru
-KV;;Komi
-IK;;Inupiaq
-CO;;Bosniešu
-WO;;Wolof
-KW;;Īru
-AE;;Avestan
-HY;;Rumāņu
+KV;;Komiešu
+IK;;Inupiaku
+CO;;Korsikāņu
+WO;;Volofu
+KW;;Korniešu
+AE;;Avesta
+HY;;Armēņu
 TR;;Turku
-FO;;Faroese
+FO;;Fēru
 JA;;Japāņu
-NV;;Navajo; Navaho
-AF;;Āfrikāņu
-HZ;;Ebreju
-OJ;;Ojibwa
-TS;;Tsonga
-CR;;Grieķu
-GD;;Gaelic; Scottish Gaelic
-KY;;Kirghiz; Kyrgyz
+NV;;Navahu
+AF;;Afrikandu
+HZ;;Hereru
+OJ;;Odžibvu
+TS;;Congu
+CR;;Krī
+GD;;Gēlu
+KY;;Kirgīzu
 DE;;Vācu
-QU;;Quechua
-UG;;Uighur; Uyghur
+QU;;Kečvu
+UG;;Uiguru
 CS;;Čehu
 IO;;Ido
-TT;;Tatar
+TT;;Tatāru
 LN;;Lingala
 FR;;Franču
-NY;;Chichewa; Chewa; Nyanja
-OM;;Oromo
-LO;;Lao
+NY;;Čičeva
+OM;;Oromu
+LO;;Laosiešu
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
-PA;;Panjabi; Punjabi
-XH;;Xhosa
-CV;;Chuvash
-AK;;Azerbaidžāņu
-RM;;Rumāņu
-TW;;Twi
+PA;;Pandžabu
+XH;;Khosu
+CV;;Čuvašu
+AK;;Akanu
+RM;;Retoromāņu
+TW;;Tvī
 UK;;Ukraiņu
 IS;;Islandiešu
-RN;;Rundi
-SA;;Sanskrit
+RN;;Rundu
+SA;;Sanskrits
 ZU;;Zulu
-IT;;Itāļu
-BA;;Bashkir
-AM;;Arābu
+IT;;Itāliešu
+BA;;Baškīru
+AM;;Amharu
 RO;;Rumāņu
-TY;;Latviešu
-IU;;Inuktitut
-MG;;Malagasy
-AN;;Aragonese
-SC;;Maķedoniešu
-CY;;Velšu
-MH;;Maltiešu
+TY;;Taitiešu
+IU;;Inuītu
+MG;;Malagasu
+AN;;Aragoniešu
+SC;;Sardīniešu
+CY;;Velsiešu
+MH;;Māršaliešu
 LT;;Lietuviešu
-OR;;Oriya
-SD;;Sindhi
+OR;;Oriju
+SD;;Sindhu

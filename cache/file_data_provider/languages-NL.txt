@@ -1,5 +1,5 @@
 SE;;Noord-Sami
-FY;;West-Fries
+FY;;Fries
 OS;;Ossetisch, Osseets
 GL;;Galiciaans
 LU;;Luba-Katanga
@@ -24,7 +24,7 @@ BG;;Bulgaars
 PL;;Pools
 HE;;Hebreeuws
 NA;;Nauruaans
-BH;;Thaise talen
+BH;;Bihari-talen
 MN;;Mongools
 VI;;Vietnamees
 RW;;Kinyarwanda

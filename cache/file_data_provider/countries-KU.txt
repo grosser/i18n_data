@@ -16,7 +16,7 @@ CF;;Komara Afrikaya Navîn
 GW;;Gîneya Bisoî
 MO;;Makao
 PL;;Polonya
-SH;;Saint Helena
+SH;;Saint Helena, Ascension and Tristan da Cunha
 CG;;Kongo
 MP;;Giravên Marîyana Bakûr
 PM;;Saint Pierre û Miquelon
@@ -67,6 +67,7 @@ FM;;Mîkronesya, Dewletên Federal yên
 MZ;;Mozambîk
 CR;;Kosta Rîka
 PW;;Palawu
+SS;;Komara Sûdan
 FO;;Giravên Faroye
 ST;;Sao Tome û Prinsipe
 IL;;Îsraîl
@@ -81,7 +82,9 @@ FR;;Fransa
 IN;;Hindistan
 LK;;Srî Lanka
 BB;;Barbados
+CW;;Curaçao
 IO;;Herêma Îngîlîz a Deryaya Hindî
+SX;;Saint Martin (beşa firansî)
 VU;;Vanûatû
 CX;;Girava Noel
 RE;;Reûnyon
@@ -121,7 +124,8 @@ UM;;Giravên biçûk derve Emerîkayê
 BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namîbiya
-LY;;Komara Erebiya Lîbya
+LY;;Lîberya
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;Brezîlya
 KG;;Kirgîsistan
 NC;;Kaledonyaya Nû
@@ -183,7 +187,6 @@ AM;;Ermenistan
 GF;;Gîneya Fransî
 NR;;Naûrû
 TK;;Tokelau
-AN;;Antilê Holandayî
 DJ;;Cîbutî
 KW;;Kûveyt
 TL;;Tîmora Rojhilat
@@ -216,8 +219,8 @@ MF;;Saint Martin (beşa firansî)
 NZ;;Zelandaya Nû
 AU;;Awustralya
 GM;;Gambiya
-MG;;Madagaskar
 GN;;Gîne
+MG;;Madagaskar
 AW;;Aruba
 MH;;Giravên Marsal
 TT;;Trînîdad û Tobago

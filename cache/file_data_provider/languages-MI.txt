@@ -3,14 +3,14 @@ FY;;Parani
 OS;;Reo Ruhia
 GL;;Reo Itari
 LU;;Luba-Katanga
-MI;;Reo Mäori
-LV;;Reo Koroätia
+MI;;Reo Māori
+LV;;Reo Koroātia
 HA;;Hausa
 BE;;Reo Purukeria
 GN;;Reo Purukeria
-PI;;Reo Pörana
+PI;;Reo Pōrana
 UR;;Urdu
-MK;;Reo Makerönia
+MK;;Reo Makerōnia
 VE;;Venda
 AR;;Reo Arapia
 SG;;Sango
@@ -21,18 +21,18 @@ EE;;Ewe
 RU;;Reo Ruhia
 SI;;Raene
 BG;;Reo Purukeria
-PL;;Reo Pörana
-HE;;Reo Hürai
+PL;;Reo Pōrana
+HE;;Reo Hūrai
 NA;;Nauru
 BH;;Kaupapa
-MN;;Reo Makerönia
+MN;;Reo Makerōnia
 VI;;Raene
 RW;;Kinyarwanda
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 AV;;Reo Arapia
 SK;;Karaka
 BI;;Bislama
-MO;;Reo Koroätia
+MO;;Reo Koroātia
 SL;;Reo Etonia
 YI;;Yiddish
 DV;;Divehi; Dhivehi; Maldivian
@@ -42,11 +42,11 @@ NE;;Nepali
 AY;;Aymara
 SN;;Rakau
 KG;;Kongo
-TA;;Reo Ïnia tonga
+TA;;Reo Īnia tonga
 GU;;Gujarati
 HI;;Hindi
-MR;;Reo Mäori
-AZ;;Reo Koroätia
+MR;;Reo Māori
+AZ;;Reo Koroātia
 SO;;Somali
 BM;;Bambara
 GV;;Manx
@@ -62,31 +62,31 @@ DZ;;Dzongkha
 MT;;Kaupapa
 VO;;Volapük
 JV;;Reo Hapana
-FA;;Reo Koroätia
-SQ;;Reo Koroätia
+FA;;Reo Koroātia
+SQ;;Reo Koroātia
 BO;;Tibetan
 KJ;;Kuanyama; Kwanyama
-EN;;Reo Päkehä - Ingarangi
-SR;;Reo Koroätia
+EN;;Reo Pākehā - Ingarangi
+SR;;Reo Koroātia
 TE;;Telugu
 PS;;Pushto; Pashto
 ZA;;Zhuang; Chuang
 IA;;Interlingua (International Auxiliary Language Association)
 EO;;Reo Tiamana
 KK;;Kazakh
-PT;;Reo Pötikï
+PT;;Reo Pōtikī
 YO;;Yoruba
 SS;;Swati
-BR;;Reo Parani Uropi-Ïnia
+BR;;Reo Parani Uropi-Īnia
 KL;;Kalaallisut; Greenlandic
-TG;;Reo Ïnia tonga
+TG;;Reo Īnia tonga
 CE;;Reo Parani
 NL;;Dutch; Flemish
 ST;;Sotho, Southern
 BS;;Reo Romeinia
 KM;;Central Khmer
-TH;;Reo Ïnia tonga
-LA;;Reo Koroätia
+TH;;Reo Īnia tonga
+LA;;Reo Koroātia
 HO;;Reo Airana
 SU;;Sundanese
 KN;;Kannada
@@ -94,7 +94,7 @@ TI;;Reo Airana
 LB;;Luxembourgish; Letzeburgesch
 MY;;Burmese
 ID;;Reo Etonia
-SV;;Reo Wïtana
+SV;;Reo Wītana
 FF;;Fulah
 KO;;Kaupapa
 CH;;Chamorro
@@ -102,14 +102,14 @@ IE;;Interlingue; Occidental
 ES;;Spanish; Castilian
 SW;;Swahili
 TK;;Turkmen
-HR;;Reo Koroätia
+HR;;Reo Koroātia
 ET;;Reo Etonia
-NN;;Reo Nöwei (Nynorsk)
+NN;;Reo Nōwei (Nynorsk)
 OC;;Occitan (post 1500)
 TL;;Tagalog
-ZH;;Reo Häina
+ZH;;Reo Hāina
 IG;;Igbo
-EU;;Tüparu
+EU;;Tūparu
 NO;;Kaupapa
 FI;;Reo Whinarana
 HT;;Haitian; Haitian Creole
@@ -121,8 +121,8 @@ LG;;Ganda
 KS;;Kashmiri
 TN;;Tswana
 NR;;Ndebele, South; South Ndebele
-AB;;Reo Koroätia
-II;;Language=Reo Ïtariana
+AB;;Reo Koroātia
+II;;Reo Ītariana
 DA;;Reo Tenemaka
 TO;;Tonga (Tonga Islands)
 KU;;Reo Airana
@@ -139,8 +139,8 @@ TR;;Reo Airana
 FO;;Faroese
 JA;;Reo Hapana
 NV;;Navajo; Navaho
-AF;;Reo Äwherika Tatimana
-HZ;;Reo Hürai
+AF;;Reo Āwherika Tatimana
+HZ;;Reo Hūrai
 OJ;;Ojibwa
 TS;;Tsonga
 CR;;Reo Kariki
@@ -161,7 +161,7 @@ CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slav
 PA;;Panjabi; Punjabi
 XH;;Rakau
 CV;;Chuvash
-AK;;Reo Koroätia
+AK;;Reo Koroātia
 RM;;Reo Romeinia
 TW;;Twi
 UK;;Parani
@@ -173,13 +173,13 @@ IT;;Reo Itari
 BA;;Bashkir
 AM;;Reo Arapia
 RO;;Reo Romeinia
-TY;;Reo Koroätia
+TY;;Reo Koroātia
 IU;;Inuktitut
 MG;;Malagasy
 AN;;Aragonese
-SC;;Reo Makerönia
+SC;;Reo Makerōnia
 CY;;RakauTukutuku
 MH;;Kaupapa
-LT;;Language=Reo Ïtariana
+LT;;Reo Ītariana
 OR;;Oriya
 SD;;Sindhi

@@ -16,7 +16,7 @@ CF;;Төв африкын ард улс
 GW;;Guinea-Bissau
 MO;;Макао
 PL;;Польш
-SH;;Saint Helena
+SH;;Saint Helena, Ascension and Tristan da Cunha
 CG;;Конго
 MP;;Хойд марианы арлууд
 PM;;Saint Pierre and Miquelon
@@ -67,6 +67,7 @@ FM;;Micronesia, Federated States of
 MZ;;Мозамбайк
 CR;;Коста рика
 PW;;Палау
+SS;;Өмнөд африк
 FO;;Faroe Islands
 ST;;Sao Tome and Principe
 IL;;Израйл
@@ -81,7 +82,9 @@ FR;;Франц
 IN;;Энэтхэг
 LK;;Sri Lanka
 BB;;Барбадос
+CW;;Curaçao
 IO;;Британий энэтхэгийн далайн нутаг  
+SX;;Sint Maarten (Dutch part)
 VU;;Vanuatu
 CX;;Кристмас исланд
 RE;;Reunion
@@ -121,7 +124,8 @@ UM;;United States Minor Outlying Islands
 BO;;Bolivia, Plurinational State of
 KE;;Кениа
 NA;;Намиб
-LY;;Libyan Arab Jamahiriya
+LY;;Libya
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;Бразил
 KG;;Киргиз
 NC;;Шинэ калдени
@@ -183,7 +187,6 @@ AM;;Армен
 GF;;Франц гана
 NR;;Nauru
 TK;;Tokelau
-AN;;Netherlands Antilles
 DJ;;Djibouti
 KW;;Кувейт
 TL;;Timor-Leste
@@ -216,8 +219,8 @@ MF;;Saint Martin (French part)
 NZ;;Шинэ зеланд
 AU;;Австрали
 GM;;Гамби
-MG;;Мадагаскар
 GN;;Guinea
+MG;;Мадагаскар
 AW;;Aruba
 MH;;Маршаллын арлууд
 TT;;Trinidad and Tobago

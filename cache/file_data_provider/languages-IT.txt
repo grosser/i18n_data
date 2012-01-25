@@ -24,7 +24,7 @@ BG;;Bulgaro
 PL;;Polacco
 HE;;Ebraico
 NA;;Nauru
-BH;;Lingue tai
+BH;;Lingue bihari
 MN;;Mongolo
 VI;;Vietnamita
 RW;;Kinyarwanda

@@ -16,7 +16,7 @@ CF;;Srednjeafriška republika
 GW;;Gvineja Bissau
 MO;;Makao
 PL;;Poljska
-SH;;Sveta Helena
+SH;;Sveta Helena, Ascension in Tristan da Cunha
 CG;;Kongo
 MP;;Severni Marianski otoki
 PM;;Saint Pierre in Miquelon
@@ -67,6 +67,7 @@ FM;;Mikronezija
 MZ;;Mozambik
 CR;;Kostarika
 PW;;Palau
+SS;;Južni Sudan
 FO;;Ferski otoki
 ST;;Sao Tome in Principe
 IL;;Izrael
@@ -81,7 +82,9 @@ FR;;Francija
 IN;;Indija
 LK;;Šrilanka
 BB;;Barbados
+CW;;Curaçao
 IO;;Britansko ozemlje v Indijskem oceanu
+SX;;Sint Maarten (nizozemski del)
 VU;;Vanuatu
 CX;;Božični otok
 RE;;Reunion
@@ -121,7 +124,8 @@ UM;;manjši otoki Združenih držav Amerike
 BO;;Bolivija, plurinacionalna država
 KE;;Kenija
 NA;;Namibija
-LY;;Libijska arabska džamahirija
+LY;;Libija
+BQ;;Bonaire, Sint Eustatius in Saba
 BR;;Brazilija
 KG;;Kirgizistan
 NC;;Nova Kaledonija
@@ -183,7 +187,6 @@ AM;;Armenija
 GF;;Francoska Gvajana
 NR;;Nauru
 TK;;Tokelau
-AN;;Nizozemski Antili
 DJ;;Džibuti
 KW;;Kuvajt
 TL;;Vzhodni Timor
@@ -216,8 +219,8 @@ MF;;Saint Martin (francoski del)
 NZ;;Nova Zelandija
 AU;;Avstralija
 GM;;Gambija
-MG;;Madagaskar
 GN;;Gvineja
+MG;;Madagaskar
 AW;;Aruba
 MH;;Marshallovi otoki
 TT;;Trinidad in Tabago

@@ -67,6 +67,7 @@ FM;;Mikronezio, Federaciaj Ŝtatoj de
 MZ;;Mozambiko
 CR;;Kostariko
 PW;;Palaŭo
+SS;;Sud-Sudano
 FO;;Ferooj
 ST;;Sao-Tomeo kaj Principeo
 IL;;Israelo
@@ -81,7 +82,9 @@ FR;;Francio
 IN;;Barato
 LK;;Sri-Lanko
 BB;;Barbado
+CW;;Kuracao
 IO;;Brita Hindoceana Teritorio
+SX;;Sankta-Marteno (nederlanda parto)
 VU;;Vanuatuo
 CX;;Kristnaskinsulo
 RE;;Reunio
@@ -118,10 +121,11 @@ BM;;Bermudoj
 LV;;Latvio
 BN;;Brunejo
 UM;;Usonaj Malgrandaj Insuloj
-BO;;Bolivia, Plurinational State of
+BO;;Bolivio, Plurnacia Ŝtato
 KE;;Kenjo
 NA;;Namibio
-LY;;Libia Araba Ĝamahario
+LY;;Libio
+BQ;;Bonero, Sankta-Eŭstakio kaj Sabo
 BR;;Brazilo
 KG;;Kirgizio
 NC;;Nov-Kaledonio
@@ -183,7 +187,6 @@ AM;;Armenio
 GF;;Franca Gviano
 NR;;Nauro
 TK;;Tokelao
-AN;;Nederlandaj Antiloj
 DJ;;Ĝibutio
 KW;;Kuvajto
 TL;;Orienta Timoro
@@ -216,8 +219,8 @@ MF;;Sankta-Marteno (franca parto)
 NZ;;Nov-Zelando
 AU;;Aŭstralio
 GM;;Gambio
-MG;;Madagaskaro
 GN;;Gvineo
+MG;;Madagaskaro
 AW;;Arubo
 MH;;Marŝaloj
 TT;;Trinidado kaj Tobago

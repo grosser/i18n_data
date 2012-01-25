@@ -1,11 +1,11 @@
 VA;;Holy See (Vatican City State)
 CC;;Cocos (Keeling) Islands
-GT;;Reo Peina Raki Räwhiti
+GT;;Reo Peina Raki Rāwhiti
 JP;;Hapana
-SE;;Wïtana
+SE;;Wītana
 TZ;;Reo Romeinia
 CD;;Congo, The Democratic Republic of the
-GU;;Reo Peina Raki Räwhiti
+GU;;Reo Peina Raki Rāwhiti
 MM;;Kaupapa
 DZ;;Purukeria
 MN;;Mongolia
@@ -15,8 +15,8 @@ VC;;Saint Vincent and the Grenadines
 CF;;Reo Romeinia
 GW;;Guinea-Bissau
 MO;;Kaupapa
-PL;;Pörana
-SH;;Saint Helena
+PL;;Pōrana
+SH;;Saint Helena, Ascension and Tristan da Cunha
 CG;;Congo
 MP;;Northern Mariana Islands
 PM;;Saint Pierre and Miquelon
@@ -29,21 +29,21 @@ MQ;;Martinique
 PN;;Pitcairn
 SJ;;Svalbard and Jan Mayen
 CI;;Côte dIvoireIvoire
-MR;;Language=Reo Ïtariana
+MR;;Reo Ītariana
 SK;;Karaka
 VG;;Virgin Islands, British
 MS;;Montserrat
 SL;;Sierra Leone
 CK;;Cook Islands
-ID;;Mea Täkaro
+ID;;Mea Tākaro
 MT;;Kaupapa
 SM;;San Marino
 VI;;Whinarana
 YE;;Yemen
-CL;;Reo Häina
+CL;;Reo Hāina
 IE;;Airana
 LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;Language=Reo Ïtariana
+MU;;Reo Ītariana
 SN;;Senegal
 CM;;Cameroon
 FI;;Whinarana
@@ -51,12 +51,12 @@ LB;;Lebanon
 MV;;Kaupapa
 PR;;Puerto Rico
 SO;;Romeinia
-CN;;Reo Häina
+CN;;Reo Hāina
 FJ;;Fiji
 LC;;Ruhia
 MW;;Kaupapa
 PS;;Palestinian Territory, Occupied
-CO;;Käpehu
+CO;;Kāpehu
 FK;;Falkland Islands (Malvinas)
 MX;;Mea Mahi
 PT;;Potukara
@@ -67,21 +67,24 @@ FM;;Micronesia, Federated States of
 MZ;;Mozambique
 CR;;Costa Rica
 PW;;Potukara
+SS;;Ateria
 FO;;Airana
 ST;;Sao Tome and Principe
 IL;;Iharaira
 LI;;Liechtenstein
 PY;;Potukara
 BA;;Bosnia and Herzegovina
-CU;;Käpehu
+CU;;Kāpehu
 IM;;Isle of Man
-SV;;Örite Tätai
+SV;;Ōrite Tātai
 CV;;Cape Verde
 FR;;Parani
-IN;;Mea Täkaro
+IN;;Mea Tākaro
 LK;;Sri Lanka
 BB;;Raranga
+CW;;Curaçao
 IO;;British Indian Ocean Territory
+SX;;Sint Maarten (Dutch part)
 VU;;Vanuatu
 CX;;Christmas Island
 RE;;Reunion
@@ -90,7 +93,7 @@ SY;;Reo Romeinia
 CY;;Cyprus
 IQ;;Iharaira
 SZ;;Taiwana
-BD;;Reo Päkehä
+BD;;Reo Pākehā
 CZ;;Reo Romeinia
 IR;;Reo Romeinia
 YT;;Mayotte
@@ -102,33 +105,34 @@ IT;;Itari
 OM;;Oman
 BG;;Purukeria
 BH;;Parahi
-LR;;Reo Koroätia
-UG;;Reo Peina Raki Räwhiti
+LR;;Reo Koroātia
+UG;;Reo Peina Raki Rāwhiti
 BI;;Burundi
 EE;;Etonia
 LS;;Lesotho
 BJ;;Benin
-LT;;Language=Reo Ïtariana
+LT;;Reo Ītariana
 EG;;Kaiwhakamahi mutunga
 BL;;Saint Barthélemy
 EH;;Western Sahara
-LU;;Kaitango Hë
+LU;;Kaitango Hē
 RO;;Romeinia
 BM;;Bermuda
-LV;;Reo Koroätia
+LV;;Reo Koroātia
 BN;;Brunei Darussalam
 UM;;Amerika
 BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibia
-LY;;Libyan Arab Jamahiriya
+LY;;Reo Koroātia
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;Parahi
 KG;;Kyrgyzstan
-NC;;Reo Makerönia
-RS;;Reo Koroätia
+NC;;Reo Makerōnia
+RS;;Reo Koroātia
 BS;;Kaupapa
 HK;;Hong Kong
-KH;;Käpehu
+KH;;Kāpehu
 BT;;Bhutan
 KI;;Kiribati
 NE;;Niger
@@ -140,8 +144,8 @@ US;;Amerika
 BV;;Bouvet Island
 ER;;Eritrea
 HN;;Tangi
-NG;;Reo Koroätia
-RW;;Reo Peina Raki Räwhiti
+NG;;Reo Koroātia
+RW;;Reo Peina Raki Rāwhiti
 BW;;Botswana
 ES;;Peina
 ET;;Etonia
@@ -151,13 +155,13 @@ BY;;Ahi
 KM;;Comoros
 AE;;United Arab Emirates
 BZ;;Peretiama
-HR;;Reo Koroätia
+HR;;Reo Koroātia
 KN;;Saint Kitts and Nevis
 TC;;Turks and Caicos Islands
 AF;;Afghanistan
 NL;;Horana
-TD;;Reo Häina
-AG;;Reo Peina Raki Räwhiti
+TD;;Reo Hāina
+AG;;Reo Peina Raki Rāwhiti
 HT;;Haiti
 KP;;Korea, Democratic Peoples Republic ofs Republic of
 UY;;Hanekari
@@ -170,20 +174,19 @@ DE;;Tiamana
 GB;;United Kingdom
 KR;;Reo Romeinia
 TG;;Togo
-NO;;Nöwe
+NO;;Nōwe
 TH;;Taiwana
 GD;;Airana
 NP;;Nepal
 ZA;;Ateria
 AL;;Albania
-GE;;Reo Koroätia
+GE;;Reo Koroātia
 TJ;;Taiwana
 WF;;Wallis and Futuna
-AM;;Reo Parani Uropi-Ïnia
+AM;;Reo Parani Uropi-Īnia
 GF;;French Guiana
 NR;;Nauru
 TK;;Tokelau
-AN;;Horana
 DJ;;Djibouti
 KW;;Kuwait
 TL;;Timor-Leste
@@ -191,7 +194,7 @@ AO;;Angola
 DK;;Tenemaka
 GG;;Guernsey
 TM;;Turkmenistan
-GH;;Reo Häina
+GH;;Reo Hāina
 JE;;Jersey
 MA;;Morocco
 KY;;Cayman Islands
@@ -203,24 +206,24 @@ KZ;;Taiwana
 TO;;Tonga
 AQ;;Antarctica
 MC;;Monaco
-AR;;Reo Parani Uropi-Ïnia
+AR;;Reo Parani Uropi-Īnia
 MD;;Reo Romeinia
 AS;;Reo Arapia
 DO;;Reo Romeinia
 ME;;Montenegro
 PA;;Kaupapa
-TR;;Mea Täkaro
+TR;;Mea Tākaro
 AT;;Ateria
 GL;;Airana
 MF;;Saint Martin (French part)
 NZ;;Aotearoa
 AU;;Ahitereiria
 GM;;Romeinia
-MG;;Madagascar
 GN;;Guinea
+MG;;Madagascar
 AW;;Aruba
 MH;;Marshall Islands
-TT;;Reo Mäori
+TT;;Reo Māori
 ZM;;Romeinia
 GP;;Guadeloupe
 AX;;Airana
@@ -228,7 +231,7 @@ SA;;Saudi Arabia
 PE;;Ahi
 JM;;Romeinia
 GQ;;Equatorial Guinea
-CA;;Reo Peina Raki Räwhiti
+CA;;Reo Peina Raki Rāwhiti
 WS;;Samoa
 SB;;Solomon Islands
 PF;;French Polynesia
@@ -236,7 +239,7 @@ TV;;Tuvalu
 PG;;Papua New Guinea
 MK;;Reo Romeinia
 GR;;Reo Kariki
-AZ;;Reo Koroätia
+AZ;;Reo Koroātia
 TW;;Taiwan, Province of China
 SC;;Seychelles
 PH;;Philippines

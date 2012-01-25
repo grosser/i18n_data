@@ -24,11 +24,11 @@ BG;;bulharčina
 PL;;poľština
 HE;;hebrejčina
 NA;;nauruština
-BH;;jazyky tupi
+BH;;bihárske jazyky
 MN;;mongolčina
 VI;;vietnamčina
 RW;;rwandčina
-NB;;Bokmål, Norwegian; Norwegian Bokmål
+NB;;bokmål, nórsky; nórsky bokmål
 AV;;avarčina
 SK;;slovenčina
 BI;;bislama
@@ -69,7 +69,7 @@ KJ;;kuaňama
 EN;;angličtina
 SR;;srbčina
 TE;;telugčina
-PS;;paštčina
+PS;;paštčina; afgančina; paštó
 ZA;;čuangčina; šuongčina
 IA;;interlingua (International Auxiliary Language Association)
 EO;;esperanto
@@ -105,7 +105,7 @@ TK;;turkménčina
 HR;;chorvátčina
 ET;;estónčina
 NN;;nórsky nynorsk; nynorsk, nórsky
-OC;;okcitánčina (po roku 1500); provensalčina
+OC;;okcitánčina (po roku 1500)
 TL;;tagalčina
 ZH;;čínština
 IG;;igbo

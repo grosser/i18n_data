@@ -1,49 +1,49 @@
 VA;;Vatican
-CC;;Isulele Cocos (Keeling)
+CC;;Insulele Cocos (Keeling)
 GT;;Guatemala
 JP;;Japonia
 SE;;Suedia
 TZ;;Republica Unită Tanzania
-CD;;Congo, Republica Democrată
+CD;;Congo, Republica democrată
 GU;;Guam
-MM;;Myanmar (Birmania)
+MM;;Myanmar
 DZ;;Algeria
 MN;;Mongolia
 PK;;Pakistan
 SG;;Singapore
-VC;;Saint Vincent și Grenadin
+VC;;Sfinții Vincent și Grenadines
 CF;;Republica Central Africană
 GW;;Guinea-Bissau
-MO;;Macau
+MO;;Macao
 PL;;Polonia
-SH;;St. Helena
+SH;;Sfânta Elena, Ascension și Tristan da Cunha
 CG;;Congo
 MP;;Insulele Mariane de Nord
-PM;;St. Pierre și Miquelon
+PM;;Sfinții Pierre și Miquelon
 SI;;Slovenia
-VE;;Republica Bolivariană Venezuela
+VE;;Venezuela, Republica Bolivariană
 ZW;;Zimbabwe
 CH;;Elveția
 GY;;Guyana
 MQ;;Martinica
 PN;;Pitcairn
-SJ;;Insulele Svalbard și Jan Mayen
+SJ;;Svalbard și Jan Mayen
 CI;;Côte dIvoireIvoire
 MR;;Mauritania
-SK;;Republica Slovacă
-VG;;Insulele Virgine (Britanice)
+SK;;Slovacia
+VG;;Insulele virgine (britanice)
 MS;;Montserrat
 SL;;Sierra Leone
 CK;;Insulele Cook
 ID;;Indonezia
 MT;;Malta
 SM;;San Marino
-VI;;Insulele Virgine (USA)
+VI;;Insulele virgine (SUA)
 YE;;Yemen
 CL;;Chile
 IE;;Irlanda
 LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;Mauritania
+MU;;Maurițius
 SN;;Senegal
 CM;;Camerun
 FI;;Finlanda
@@ -53,37 +53,40 @@ PR;;Puerto Rico
 SO;;Somalia
 CN;;China
 FJ;;Fiji
-LC;;Saint Lucia
+LC;;Sfânta Lucia
 MW;;Malawi
 PS;;Teritoriile Palestiniene, Ocupate
 CO;;Columbia
-FK;;Insulele Falkland
+FK;;Insulele Falkland (Insulele Malvine)
 MX;;Mexic
 PT;;Portugalia
-MY;;Malaesia
+MY;;Malaezia
 SR;;Suriname
 VN;;Vietnam
-FM;;Micronesia, Statele Federale ale
+FM;;Micronesia, Statele federale ale
 MZ;;Mozambic
 CR;;Costa Rica
 PW;;Palau
+SS;;Republica Sudan
 FO;;Insulele Feroe
 ST;;Sao Tome și Principe
 IL;;Israel
 LI;;Liechtenstein
-PY;;Paraguai
+PY;;Paraguay
 BA;;Bosnia și Herțegovina
 CU;;Cuba
-IM;;Inslua Man
+IM;;Insula Man
 SV;;El Salvador
 CV;;Capul Verde
 FR;;Franța
 IN;;India
 LK;;Sri Lanka
 BB;;Barbados
-IO;;Teritoriu Britanic din Oceanul Indian
+CW;;Curaçao
+IO;;Teritoriul britanic din Oceanul Indian
+SX;;Sfântul Martin (partea franceză)
 VU;;Vanuatu
-CX;;Insulele Christmas
+CX;;Insula Crăciunului
 RE;;Reunion
 UA;;Ucraina
 SY;;Republica Araba Siria
@@ -91,8 +94,8 @@ CY;;Cipru
 IQ;;Irak
 SZ;;Swaziland
 BD;;Bangladeș
-CZ;;Republica Cehă
-IR;;Iran, Republica Islamică
+CZ;;Cehia
+IR;;Iran, Republica islamică
 YT;;Mayotte
 BE;;Belgia
 IS;;Islanda
@@ -118,12 +121,13 @@ BM;;Bermude
 LV;;Letonia
 BN;;Brunei
 UM;;Insulele de Coasta ale Statelor Unite
-BO;;Bolivia, Plurinational State of
+BO;;Bolivia
 KE;;Kenia
 NA;;Namibia
-LY;;Jamahiriya Arabă Libiană
+LY;;Libia
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;Brazilia
-KG;;Kyrgyzstan
+KG;;Kârgâzstan
 NC;;Noua Caledonie
 RS;;Serbia
 BS;;Bahamas
@@ -138,7 +142,7 @@ HM;;Insulele Heard și McDonald
 NF;;Insula Norfolk
 US;;Statele Unite
 BV;;Insula Bouvet
-ER;;Eritrea
+ER;;Eritreea
 HN;;Honduras
 NG;;Nigeria
 RW;;Rwanda
@@ -146,13 +150,13 @@ BW;;Botswana
 ES;;Spania
 ET;;Etiopia
 NI;;Nicaragua
-AD;;Andorra
+AD;;Andora
 BY;;Bielorusia
 KM;;Comoros
 AE;;Emiratele Arabe Unite
 BZ;;Belize
 HR;;Croația
-KN;;Saint Kitts si Nevis
+KN;;Sfinții Kitts și Nevis
 TC;;Insulele Turks și Caicos
 AF;;Afganistan
 NL;;Olanda
@@ -163,7 +167,7 @@ KP;;Korea, Democratic Peoples Republic ofs Republic of
 UY;;Uruguay
 GA;;Gabon
 HU;;Ungaria
-TF;;Teritoriile Franceze de Sud
+TF;;Teritoriile franceze de sud
 UZ;;Uzbekistan
 AI;;Anguilla
 DE;;Germania
@@ -174,7 +178,7 @@ NO;;Norvegia
 TH;;Tailanda
 GD;;Grenada
 NP;;Nepal
-ZA;;Africa de Sud
+ZA;;Africa de sud
 AL;;Albania
 GE;;Georgia
 TJ;;Tajikistan
@@ -183,7 +187,6 @@ AM;;Armenia
 GF;;Guiana Franceză
 NR;;Nauru
 TK;;Tokelau
-AN;;Antilele Olandeze
 DJ;;Djibouti
 KW;;Kuweit
 TL;;Timorul de Est
@@ -204,8 +207,8 @@ TO;;Tonga
 AQ;;Antarctica
 MC;;Monaco
 AR;;Argentina
-MD;;Macedonia, Republic
-AS;;Samoa Americană
+MD;;Moldova, Republica
+AS;;Samoa americană
 DO;;Republica Dominicană
 ME;;Muntenegru
 PA;;Panama
@@ -213,17 +216,17 @@ TR;;Turcia
 AT;;Austria
 GL;;Groenlanda
 MF;;Sfântul Martin (partea franceză)
-NZ;;Noua Zeelanda
+NZ;;Noua Zeelandă
 AU;;Australia
 GM;;Gambia
-MG;;Madagascar
 GN;;Guinea
+MG;;Madagascar
 AW;;Aruba
 MH;;Insulele Marshall
 TT;;Trinidad și Tobago
 ZM;;Zambia
-GP;;Guadalupa
-AX;;Insulele Aaland
+GP;;Guadelupa
+AX;;Insulele Åland
 SA;;Arabia Saudită
 PE;;Peru
 JM;;Jamaica
@@ -234,7 +237,7 @@ SB;;Insulele Solomon
 PF;;Polinezia Franceză
 TV;;Tuvalu
 PG;;Papua Noua Guinee
-MK;;Macedonia, Republic
+MK;;Macedonia, Republica
 GR;;Grecia
 AZ;;Azerbaijan
 TW;;Taiwan
@@ -242,5 +245,5 @@ SC;;Seychelles
 PH;;Filipine
 ML;;Mali
 JO;;Iordania
-GS;;Georgia de Sud și Insulele Sudice Sandwich
+GS;;Georgia de Sud și Insulele Sandwich de sud
 SD;;Sudan

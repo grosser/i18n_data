@@ -9,7 +9,7 @@ HA;;Hásais
 BE;;Bealarúisis
 GN;;Guaráinis
 PI;;Páilis
-UR;;Urdais
+UR;;Urdúis
 MK;;Macadóinis
 VE;;Veindis
 AR;;Araibis
@@ -24,7 +24,7 @@ BG;;Bulgáiris
 PL;;Polainnis
 HE;;Eabhrais
 NA;;Nárúis
-BH;;Teangacha Baltacha
+BH;;Bihari languages
 MN;;Mongóilis
 VI;;Vítneamais
 RW;;Cinearuáindis
@@ -38,8 +38,8 @@ YI;;Giúdais
 DV;;Divéihis; Maildívis
 ND;;Ndebele Thuaidh
 SM;;Samóis
-NE;;Neipealais
-AY;;Adhmarais
+NE;;Neipeailis
+AY;;Aidhmiris
 SN;;Seoinis
 KG;;Congóis
 TA;;Tamailis
@@ -58,7 +58,7 @@ WA;;Vallúnais
 BN;;Beangáilis
 KI;;Ciocúis
 UZ;;Úisbéicis
-DZ;;Dzongkha
+DZ;;Seoinicis
 MT;;Máltais
 VO;;Volapük
 JV;;Iávais
@@ -154,11 +154,11 @@ IO;;Ido
 TT;;Tatairis
 LN;;Liongáilis
 FR;;Fraincis
-NY;;Siseivis
+NY;;Siséivis
 OM;;Oraimis
 LO;;Láóis
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
-PA;;Painseáibis
+PA;;Puinseáibis
 XH;;Cóisis
 CV;;Suvaisis
 AK;;Acáinis
@@ -175,7 +175,7 @@ AM;;Amáiris
 RO;;Rómáinis
 TY;;Taihítis
 IU;;Ionúitis
-MG;;Malagásais
+MG;;Malagáisis
 AN;;Aragóinis
 SC;;Sairdínis
 CY;;Breatnais

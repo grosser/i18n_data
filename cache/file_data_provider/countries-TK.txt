@@ -16,7 +16,7 @@ CF;;Central African Republic
 GW;;Gwineýa-Bisau
 MO;;Makao
 PL;;Poland
-SH;;Saint Helena
+SH;;Saint Helena, Ascension and Tristan da Cunha
 CG;;Kongo
 MP;;Northern Mariana Islands
 PM;;Sen Pýer we Mikelon
@@ -67,6 +67,7 @@ FM;;Mikroneziýa, Federatiw Ştatlary
 MZ;;Mozambik
 CR;;Kosta-Rika
 PW;;Palau
+SS;;Sudan Respublikasy
 FO;;Farer adalary
 ST;;San-Tome we Prisipi
 IL;;Izrail
@@ -81,7 +82,9 @@ FR;;Fransiýa
 IN;;Hindistan
 LK;;Şri-Lanka
 BB;;Barbados
+CW;;Curaçao
 IO;;British Indian Ocean Territory
+SX;;Sint Maarten (Dutch part)
 VU;;Wanuatu
 CX;;Christmas Island
 RE;;Reýunon
@@ -121,7 +124,8 @@ UM;;United States Minor Outlying Islands
 BO;;Bolivia, Plurinational State of
 KE;;Keniýa
 NA;;Namibiýa
-LY;;Liwiýa Arap Jamahiry
+LY;;Liberiýa
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;Braziliýa
 KG;;Gyrgyzystan
 NC;;Täze Kaledoniýa
@@ -183,7 +187,6 @@ AM;;Armenia
 GF;;Fransuz Gwiana
 NR;;Nauru
 TK;;Tokelau
-AN;;Netherlands Antilles
 DJ;;Jibuti
 KW;;Kuweýt
 TL;;Timor-Leste
@@ -216,8 +219,8 @@ MF;;Saint Martin (French part)
 NZ;;Täze Zelandiýa
 AU;;Awstraliýa
 GM;;Gambiýa
-MG;;Madagaskar
 GN;;Gwineýa
+MG;;Madagaskar
 AW;;Aruba
 MH;;Marşalowlar adasy
 TT;;Trinidad we Tobago

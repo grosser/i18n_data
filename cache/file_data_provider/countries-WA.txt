@@ -16,7 +16,7 @@ CF;;Cintrafrike
 GW;;Guinêye-Bissaw
 MO;;Macao
 PL;;Pologne
-SH;;Sinte Helene
+SH;;Saint Helena, Ascension and Tristan da Cunha
 CG;;Congo-Brazza
 MP;;Iyes Marianes bijhreces
 PM;;Sint Pierre et Miquelon
@@ -67,6 +67,7 @@ FM;;Micronezeye
 MZ;;Mozambike
 CR;;Costa Rica
 PW;;Palawou
+SS;;Republike do Soudan
 FO;;Iyes Faeroyé
 ST;;São Tomé et Prince
 IL;;Israyel
@@ -81,7 +82,9 @@ FR;;France
 IN;;Inde
 LK;;Sri Lanka
 BB;;Bårbades
+CW;;Curaçao
 IO;;Teritweres britanikes di l' Oceyan Indyin
+SX;;Sint Maarten (Dutch part)
 VU;;Vanouatou
 CX;;Iye Christmas
 RE;;Reyunion
@@ -121,7 +124,8 @@ UM;;Iyes mineures des Estats Unis
 BO;;Bolivia, Plurinational State of
 KE;;Kenia
 NA;;Namibeye
-LY;;Libeye
+LY;;Liberia
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;Braezi
 KG;;Kirguiztan
 NC;;Nouve Caledoneye
@@ -183,7 +187,6 @@ AM;;Årmeneye
 GF;;Guyane francesse
 NR;;Nawouro
 TK;;Tokelau
-AN;;Antiyes neyerlandesses
 DJ;;Djibouti
 KW;;Kuweyt
 TL;;Timor Ess
@@ -216,8 +219,8 @@ MF;;Saint Martin (French part)
 NZ;;Nouve Zelande
 AU;;Ostraleye
 GM;;Gambeye
-MG;;Madagascar
 GN;;Guinêye
+MG;;Madagascar
 AW;;Arouba
 MH;;Iyes Marshall
 TT;;Trinité et Tobago

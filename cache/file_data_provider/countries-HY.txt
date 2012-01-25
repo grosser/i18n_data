@@ -16,7 +16,7 @@ CF;;Կենտրոնական Աֆրիկյան Հանրապետություն
 GW;;Գվինեա-Բիսաու
 MO;;Macao
 PL;;Լեհաստան
-SH;;Saint Helena
+SH;;Saint Helena, Ascension and Tristan da Cunha
 CG;;Կոնգո
 MP;;Northern Mariana Islands
 PM;;Saint Pierre and Miquelon
@@ -67,6 +67,7 @@ FM;;Micronesia, Federated States of
 MZ;;Մոզամբիկ
 CR;;Կոստա-Ռիկա
 PW;;Պալաու
+SS;;Դոմինիկյան Հանրապետություն
 FO;;Faroe Islands
 ST;;Սան-Թոմե-Փրինսիպի
 IL;;Իսրայել
@@ -81,7 +82,9 @@ FR;;Ֆրանսիա
 IN;;Հնդկաստան
 LK;;Շրի Լանկա
 BB;;Բարբադոս
+CW;;Curaçao
 IO;;British Indian Ocean Territory
+SX;;Sint Maarten (Dutch part)
 VU;;Վանուատու
 CX;;Christmas Island
 RE;;Reunion
@@ -121,7 +124,8 @@ UM;;United States Minor Outlying Islands
 BO;;Bolivia, Plurinational State of
 KE;;Քենիա
 NA;;Նամիբիա
-LY;;Libyan Arab Jamahiriya
+LY;;Լիբերիա
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;Բրազիլիա
 KG;;Կիրգիզստան
 NC;;New Caledonia
@@ -183,7 +187,6 @@ AM;;Հայաստանի Հանրապետութիւն
 GF;;French Guiana
 NR;;Նաուրու
 TK;;Tokelau
-AN;;Netherlands Antilles
 DJ;;Ջիբուտի
 KW;;Քուվեյթ
 TL;;Timor-Leste
@@ -216,8 +219,8 @@ MF;;Saint Martin (French part)
 NZ;;Նոր Զելանդիա
 AU;;Ավստրալիա
 GM;;Գամբիա
-MG;;Մադագասկար
 GN;;Գվինեա
+MG;;Մադագասկար
 AW;;Aruba
 MH;;Մարշալյան կղզիներ
 TT;;Տրինիդադ-Տոբագո

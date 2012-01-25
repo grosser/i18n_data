@@ -43,6 +43,7 @@ Data Providers
 
 TODO
 ====
+ - `rake write_cache_for_file_data_provider` currently fails, so file data will be stale
  - include other language/country code formats (3-letter codes...) ?
 
 Author

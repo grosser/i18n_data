@@ -16,7 +16,7 @@ CF;;Centrinės Afrikos Respublika
 GW;;Bisau Gvinėja
 MO;;Macao
 PL;;Lenkija
-SH;;Šv. Elenos sala
+SH;;Šv. Elenos sala, įskaitant Dangun Žengimo ir Tristano da Kunjos salas
 CG;;Kongas
 MP;;Marianos šiaurinės salos
 PM;;Sen Pjeras ir Mikelonas
@@ -67,6 +67,7 @@ FM;;Mikronezijos Federacinės Valstijos
 MZ;;Mozambikas
 CR;;Kosta Rika
 PW;;Palau
+SS;;Sudano Respublika
 FO;;Farerų salos
 ST;;San Tomė ir Prinsipė
 IL;;Izraelis
@@ -81,7 +82,9 @@ FR;;Prancūzija
 IN;;Indija
 LK;;Šri Lanka
 BB;;Barbadosas
+CW;;Curaçao
 IO;;Indijos vandenyno Britų sritis
+SX;;San Martenas (Prancūzijos komuna)
 VU;;Vanuatu
 CX;;Kalėdų sala
 RE;;Reunjonas
@@ -122,6 +125,7 @@ BO;;Bolivija, Daugianacionalinė Valstybė
 KE;;Kenija
 NA;;Namibija
 LY;;Libija
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;Brazilija
 KG;;Kirgizija
 NC;;Naujoji Kaledonija
@@ -183,7 +187,6 @@ AM;;Armėnija
 GF;;Prancūzijos Gviana
 NR;;Nauru
 TK;;Tokelau
-AN;;Olandijos Antilai
 DJ;;Džibutis
 KW;;Kuveitas
 TL;;Rytų Timoras
@@ -216,8 +219,8 @@ MF;;San Martenas (Prancūzijos komuna)
 NZ;;Naujoji Zelandija
 AU;;Australija
 GM;;Gambija
-MG;;Madagaskaras
 GN;;Gvinėja
+MG;;Madagaskaras
 AW;;Aruba
 MH;;Maršalo salos
 TT;;Trinidadas ir Tobagas

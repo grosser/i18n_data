@@ -2,14 +2,14 @@ SE;;severna samijščina
 FY;;zahodna frizijščina
 OS;;osetinščina
 GL;;galicijščina
-LU;;luba-katanga
+LU;;lubakatangščina
 MI;;maorščina
 LV;;latvijščina
 HA;;havščina
 BE;;beloruščina
 GN;;gvaranijščina
 PI;;pali
-UR;;urdujščina
+UR;;urdu
 MK;;makedonščina
 VE;;vendščina
 AR;;arabščina
@@ -31,11 +31,11 @@ RW;;ruandščina
 NB;;knjižna norveščina
 AV;;avarščina
 SK;;slovaščina
-BI;;bislama
+BI;;bislamščina
 MO;;moldavščina
 SL;;slovenščina
 YI;;jidiš
-DV;;divehi; diveščina
+DV;;diveščina
 ND;;severna ndebelščina
 SM;;samoanščina
 NE;;nepalščina
@@ -53,10 +53,10 @@ GV;;manska gelščina
 CA;;katalonščina
 MS;;malajščina
 EL;;grščina (1453-)
-NG;;ndonga
+NG;;ndongščina
 WA;;valonščina
 BN;;bengalščina
-KI;;kikujščina; gikujščina
+KI;;kikujščina
 UZ;;uzbeščina
 DZ;;dzonka
 MT;;malteščina
@@ -69,8 +69,8 @@ KJ;;kvanjama
 EN;;angleščina
 SR;;srbščina
 TE;;teluščina
-PS;;paštu
-ZA;;čuang
+PS;;paštunščina
+ZA;;džuanščina
 IA;;interlingva (Mednarodna zveza za pomožne jezike)
 EO;;esperanto
 KK;;kazaščina
@@ -82,7 +82,7 @@ KL;;grenlandščina
 TG;;tadžiščina
 CE;;čečenščina
 NL;;nizozemščina; flamščina
-ST;;južni sotho
+ST;;južna sotščina
 BS;;bošnjaščina
 KM;;kmerščina
 TH;;tajščina
@@ -108,7 +108,7 @@ NN;;novonorveščina
 OC;;okcitanščina (1500-)
 TL;;tagaloščina
 ZH;;kitajščina
-IG;;igbojščina
+IG;;igboščina
 EU;;baskovščina
 NO;;norveščina
 FI;;finščina
@@ -131,7 +131,7 @@ GA;;irščina
 KV;;komijščina
 IK;;inupiaščina
 CO;;korzijščina
-WO;;volof
+WO;;volofščina
 KW;;kornijščina
 AE;;avestščina
 HY;;armenščina
@@ -141,7 +141,7 @@ JA;;japonščina
 NV;;navaščina
 AF;;afrikanščina
 HZ;;herero
-OJ;;odžibvovščina
+OJ;;anašinabščina
 TS;;congščina
 CR;;krijščina
 GD;;gelščina, škotska gelščina
@@ -179,7 +179,7 @@ MG;;malgaščina
 AN;;aragonščina
 SC;;sardinščina
 CY;;valižanščina
-MH;;marshallovščina
-LT;;litvanščina
+MH;;maršalščina
+LT;;litovščina
 OR;;orijščina
 SD;;sindščina

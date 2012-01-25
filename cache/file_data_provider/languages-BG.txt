@@ -1,185 +1,185 @@
 SE;;Northern Sami
-FY;;Украински
-OS;;Руски
-GL;;Галеон
+FY;;Western Frisian
+OS;;Ossetian; Ossetic
+GL;;Галисийски
 LU;;Luba-Katanga
-MI;;Граници
+MI;;Маорски
 LV;;Латвийски
-HA;;Balsa
-BE;;Беларуски
-GN;;Guarani
-PI;;Полски
-UR;;Urdu
+HA;;Hausa
+BE;;Белоруски
+GN;;Гуарански
+PI;;Pali
+UR;;Урду
 MK;;Македонски
 VE;;Venda
 AR;;Арабски
 SG;;Sango
-KA;;Georgian
+KA;;Грузински
 ML;;Malayalam
-AS;;Assamese
-EE;;Ewe
+AS;;Асами
+EE;;Еве
 RU;;Руски
-SI;;Виетнамски
+SI;;Синхалски
 BG;;Български
 PL;;Полски
-HE;;Еврейски
-NA;;Nauru
-BH;;Корейски
-MN;;Mongolian
+HE;;Иврит
+NA;;Науруански
+BH;;Bihari languages
+MN;;Монголски
 VI;;Виетнамски
 RW;;Kinyarwanda
-NB;;Bokmål, Norwegian; Norwegian Bokmål
-AV;;Арабски
+NB;;Букмол
+AV;;Avaric
 SK;;Словашки
-BI;;Bislama
-MO;;Moldavian; Moldovan
+BI;;Бислама
+MO;;Молдовски
 SL;;Словенски
-YI;;Yiddish
-DV;;Divehi; Dhivehi; Maldivian
+YI;;Идиш
+DV;;Дхивехи
 ND;;Ndebele, North; North Ndebele
-SM;;Samoan
-NE;;Нов псе_вдоним
-AY;;Aymara
+SM;;Самоански
+NE;;Непалски
+AY;;Аймара
 SN;;Shona
 KG;;Kongo
-TA;;Тайландски
-GU;;Gujarati
-HI;;Търси
+TA;;Тамилски
+GU;;Гуджаратски
+HI;;Хинди
 MR;;Marathi
 AZ;;Азербайджански
-SO;;Somali
+SO;;Сомалийски
 BM;;Bambara
-GV;;Граници
-CA;;Catalan; Valencian
-MS;;Balsa
-EL;;Greek, Modern (1453-)
+GV;;Manx
+CA;;Каталонски
+MS;;Малайски
+EL;;Гръцки (1453-)
 NG;;Ndonga
-WA;;Walloon
-BN;;Балтийски
+WA;;Валонски
+BN;;Бенгалски
 KI;;Kikuyu; Gikuyu
-UZ;;Uzbek
-DZ;;Dzongkha
-MT;;Лъжа
-VO;;Volapük
-JV;;Японски
-FA;;Печат
+UZ;;Узбекски
+DZ;;Дзонгкха
+MT;;Малтийски
+VO;;Волапюк
+JV;;Javanese
+FA;;Персийски (Фарси)
 SQ;;Албански
 BO;;Tibetan
 KJ;;Kuanyama; Kwanyama
 EN;;Английски
 SR;;Сръбски
 TE;;Telugu
-PS;;Pushto; Pashto
+PS;;Пущунски
 ZA;;Zhuang; Chuang
 IA;;Interlingua (International Auxiliary Language Association)
 EO;;Есперанто
-KK;;Kazakh
+KK;;Казахски
 PT;;Португалски
 YO;;Yoruba
 SS;;Swati
-BR;;Бретон
+BR;;Бретонски
 KL;;Kalaallisut; Greenlandic
-TG;;Тайландски
-CE;;Чешки
-NL;;Dutch; Flemish
+TG;;Tajik
+CE;;Чеченски
+NL;;Холандски
 ST;;Sotho, Southern
-BS;;Румънски
-KM;;Central Khmer
-TH;;Тайландски
-LA;;Местоположение
-HO;;Търси
+BS;;Босненски
+KM;;Кхмерски
+TH;;Тайвански
+LA;;Латински
+HO;;Hiri Motu
 SU;;Sundanese
 KN;;Kannada
-TI;;Турски
-LB;;Luxembourgish; Letzeburgesch
-MY;;Burmese
+TI;;Тигриня
+LB;;Люксембургски
+MY;;Бирмански
 ID;;Индонезийски
 SV;;Шведски
 FF;;Fulah
 KO;;Корейски
-CH;;Chamorro
-IE;;Рендване
-ES;;Spanish; Castilian
+CH;;Чаморо
+IE;;Interlingue; Occidental
+ES;;Испански
 SW;;Swahili
-TK;;Turkmen
+TK;;Туркменски
 HR;;Хърватски
 ET;;Естонски
-NN;;Норвежки
-OC;;Occitan (post 1500)
+NN;;Нинорск, Норвежки
+OC;;Окситански (след 1500)
 TL;;Tagalog
 ZH;;Китайски
 IG;;Igbo
 EU;;Баски
 NO;;Норвежки
-FI;;Финландски
+FI;;Фински
 HT;;Haitian; Haitian Creole
-KR;;Турски
-FJ;;Търси
-AA;;Afar
+KR;;Kanuri
+FJ;;Фиджийски
+AA;;Афар
 HU;;Унгарски
 LG;;Ganda
 KS;;Kashmiri
 TN;;Tswana
 NR;;Ndebele, South; South Ndebele
-AB;;Abkhazian
-II;;Литовски
+AB;;Абхазки
+II;;Sichuan Yi; Nuosu
 DA;;Датски
 TO;;Tonga (Tonga Islands)
-KU;;Турски
+KU;;Кюрдски
 LI;;Limburgan; Limburger; Limburgish
 GA;;Ирландски
 KV;;Komi
-IK;;Индийски
-CO;;Corsican
+IK;;Inupiaq
+CO;;Корсикански
 WO;;Wolof
-KW;;Цветове
-AE;;Avestan
-HY;;Armenian
+KW;;Корнуелски
+AE;;Авестийски
+HY;;Арменски
 TR;;Турски
-FO;;Фаероски
+FO;;Фарьорски
 JA;;Японски
-NV;;Navajo; Navaho
-AF;;Африкаанс
-HZ;;Еврейски
+NV;;Навахо
+AF;;Африканс
+HZ;;Herero
 OJ;;Ojibwa
 TS;;Tsonga
-CR;;Гръцки
-GD;;Gaelic; Scottish Gaelic
-KY;;Kirghiz; Kyrgyz
-DE;;Немски
-QU;;Quechua
+CR;;Cree
+GD;;Гаелски; Шотландски гаелски
+KY;;Киргизки
+DE;;Германски
+QU;;Кечуа
 UG;;Uighur; Uyghur
 CS;;Чешки
-IO;;Ido
-TT;;Tatar
-LN;;Л_егално
+IO;;Идо
+TT;;Татарски
+LN;;Lingala
 FR;;Френски
 NY;;Chichewa; Chewa; Nyanja
-OM;;от:
-LO;;Lao
+OM;;Oromo
+LO;;Лаоски
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 PA;;Panjabi; Punjabi
 XH;;Xhosa
-CV;;Chuvash
-AK;;Африкаанс
-RM;;Румънски
-TW;;Twi
+CV;;Чувашки
+AK;;Акан
+RM;;Романш
+TW;;Туи
 UK;;Украински
 IS;;Исландски
 RN;;Rundi
-SA;;Sans-serif
+SA;;Санскрит
 ZU;;Zulu
 IT;;Италиански
-BA;;Bashkir
-AM;;Арабски
+BA;;Башкирски
+AM;;Амхарски
 RO;;Румънски
-TY;;Латвийски
-IU;;Inuktitut
-MG;;Balsa
-AN;;Фаероски
-SC;;Македонски
-CY;;Welsh
-MH;;Лъжа
+TY;;Tahitian
+IU;;Инуктитут
+MG;;Малгашки
+AN;;Арагонски
+SC;;Сардински
+CY;;Уелски
+MH;;Маршалски
 LT;;Литовски
 OR;;Oriya
-SD;;Търси
+SD;;Sindhi

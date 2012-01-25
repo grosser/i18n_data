@@ -16,7 +16,7 @@ CF;;Republik bu Santar Afrik
 GW;;Ginne Bisaawóo
 MO;;Makaaw
 PL;;Poloñ
-SH;;Seent Eleen
+SH;;Saint Helena, Ascension and Tristan da Cunha
 CG;;Kongóo
 MP;;Northern Mariana Islands
 PM;;Saint Pierre ak Miquelon
@@ -67,6 +67,7 @@ FM;;Mikroneesi, Etaa yuñu Federe yu
 MZ;;Mosaambik
 CR;;Kosta Riika
 PW;;Palau
+SS;;Republik bu Suudaan
 FO;;Iil yu Faarow
 ST;;Sao Tome ak Principe
 IL;;Israayil
@@ -81,7 +82,9 @@ FR;;Faraas
 IN;;Eend
 LK;;Siri Laaŋka
 BB;;Barbados
+CW;;Curaçao
 IO;;British Indian Ocean Territory
+SX;;Saint Martin (Français)
 VU;;Vanuatu
 CX;;Christmas Island
 RE;;Reiñõo
@@ -121,7 +124,8 @@ UM;;United States Minor Outlying Islands
 BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibi
-LY;;Jamaaiiria Araab bu Liibiee
+LY;;Libeeria
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;Bareesil
 KG;;Kirgistaan
 NC;;Nuweel Kaledooni
@@ -183,7 +187,6 @@ AM;;Armeeni
 GF;;Guyaana Faraañse
 NR;;Nauru
 TK;;Tokelau
-AN;;Aantiy bu Olaand
 DJ;;Jibuuti
 KW;;Kuwet
 TL;;Timor-Leste
@@ -216,8 +219,8 @@ MF;;Saint Martin (Français)
 NZ;;Nuweel Selaand
 AU;;Óstraali
 GM;;Gaambi
-MG;;Madagaskar
 GN;;Ginne
+MG;;Madagaskar
 AW;;Aruba
 MH;;Marshall Islands
 TT;;Tirinidaad ak Tobaago

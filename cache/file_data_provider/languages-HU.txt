@@ -24,15 +24,15 @@ BG;;bolgár
 PL;;lengyel
 HE;;héber
 NA;;nauru
-BH;;tupi nyelvek
+BH;;bihari nyelvek
 MN;;mongol
 VI;;vietnami
 RW;;kinyarvanda
-NB;;Bokmål, Norwegian; Norwegian Bokmål
+NB;;Bokmal, norvég, norvég bokmal
 AV;;avar
 SK;;szlovák
 BI;;biszlama
-MO;;moldáv
+MO;;Moldvai; moldovai
 SL;;szlovén
 YI;;jiddis
 DV;;divehi; maldív
@@ -69,7 +69,7 @@ KJ;;kuanyama; kwanyama
 EN;;angol
 SR;;szerb
 TE;;telugu
-PS;;pasto
+PS;;Pushto; Pashto
 ZA;;dzsuang; csuang
 IA;;interlingva (Nemzetközi Segédnyelv Egyesület)
 EO;;eszperantó
@@ -98,14 +98,14 @@ SV;;svéd
 FF;;ful
 KO;;koreai
 CH;;csamorro
-IE;;interlingua
+IE;;interlingue; occidental
 ES;;spanyol, kasztíliai
 SW;;szuahéli
 TK;;türkmen
 HR;;horvát
 ET;;észt
 NN;;norvég nynorsk; nynorsk, norvég
-OC;;okcitán (1500 után); provanszál
+OC;;okcitán (1500 után)
 TL;;tagalog
 ZH;;kínai
 IG;;igbo
@@ -122,7 +122,7 @@ KS;;kasmíri
 TN;;csvana
 NR;;ndebele, déli; déli ndebele
 AB;;abház
-II;;ji
+II;;Szecsuán Yi; Nuosu
 DA;;dán
 TO;;tonga (Tonga-szigetek)
 KU;;kurd

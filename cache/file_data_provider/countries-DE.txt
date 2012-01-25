@@ -1,5 +1,5 @@
 VA;;Heiliger Stuhl (Staat Vatikanstadt)
-CC;;Kokos-Inseln
+CC;;Kokos-(Keeling-)Inseln
 GT;;Guatemala
 JP;;Japan
 SE;;Schweden
@@ -14,19 +14,19 @@ SG;;Singapur
 VC;;St. Vincent und die Grenadinen
 CF;;Zentralafrikanische Republik
 GW;;Guinea-Bissau
-MO;;Macau
+MO;;Macao
 PL;;Polen
-SH;;St. Helena
+SH;;St. Helena, Ascension und Tristan da Cunha
 CG;;Kongo
 MP;;Nördliche Mariana-Inseln
 PM;;St. Pierre und Miquelon
 SI;;Slowenien
-VE;;Venezuela, Bolivische Republik
+VE;;Venezuela, Bolivarische Republik
 ZW;;Simbabwe
 CH;;Schweiz
 GY;;Guyana
 MQ;;Martinique
-PN;;Pitcairninsel
+PN;;Pitcairn
 SJ;;Svalbard und Jan Mayen
 CI;;Côte dIvoireIvoire
 MR;;Mauretanien
@@ -34,12 +34,12 @@ SK;;Slowakei
 VG;;Britische Jungferninseln
 MS;;Montserrat
 SL;;Sierra Leone
-CK;;Cook-Inseln
+CK;;Cookinseln
 ID;;Indonesien
 MT;;Malta
 SM;;San Marino
 VI;;Amerikanische Jungferninseln
-YE;;Yemen
+YE;;Jemen
 CL;;Chile
 IE;;Irland
 LA;;Lao Peoples Democratic Republics Democratic Republic
@@ -61,18 +61,19 @@ FK;;Falklandinseln (Malwinen)
 MX;;Mexiko
 PT;;Portugal
 MY;;Malaysia
-SR;;Surinam
+SR;;Suriname
 VN;;Vietnam
-FM;;Mikronesien
+FM;;Mikronesien, Föderierte Staaten von
 MZ;;Mosambik
 CR;;Costa Rica
 PW;;Palau
-FO;;Färöer Inseln
-ST;;Sao Tomé und Príncipe
+SS;;Südsudan
+FO;;Färöer-Inseln
+ST;;São Tomé und Príncipe
 IL;;Israel
 LI;;Liechtenstein
 PY;;Paraguay
-BA;;Bosnien-Herzegovina
+BA;;Bosnien und Herzegowina
 CU;;Kuba
 IM;;Insel Man
 SV;;El Salvador
@@ -81,7 +82,9 @@ FR;;Frankreich
 IN;;Indien
 LK;;Sri Lanka
 BB;;Barbados
+CW;;Curaçao
 IO;;Britisches Territorium im Indischen Ozean
+SX;;Saint-Martin (Niederländischer Teil)
 VU;;Vanuatu
 CX;;Weihnachtsinseln
 RE;;Réunion
@@ -91,7 +94,7 @@ CY;;Zypern
 IQ;;Irak
 SZ;;Swasiland
 BD;;Bangladesch
-CZ;;Tschechien
+CZ;;Tschechische Republik
 IR;;Iran, Islamische Republik
 YT;;Mayotte
 BE;;Belgien
@@ -117,17 +120,18 @@ RO;;Rumänien
 BM;;Bermuda
 LV;;Lettland
 BN;;Brunei Darussalam
-UM;;Vereinigte Staaten Amerikanisch-Ozeanien
+UM;;United States Minor Outlying Islands
 BO;;Bolivien, Plurinationaler Staat
 KE;;Kenia
 NA;;Namibia
-LY;;Libysch-Arabische Dschamahirija
+LY;;Libyen
+BQ;;Bonaire, Sint Eustatius und Saba
 BR;;Brasilien
 KG;;Kirgisistan
 NC;;Neukaledonien
 RS;;Serbien
 BS;;Bahamas
-HK;;Hong-Kong
+HK;;Hongkong
 KH;;Kambodscha
 BT;;Bhutan
 KI;;Kiribati
@@ -142,14 +146,14 @@ ER;;Eritrea
 HN;;Honduras
 NG;;Nigeria
 RW;;Ruanda
-BW;;Botswana
+BW;;Botsuana
 ES;;Spanien
 ET;;Äthiopien
 NI;;Nicaragua
 AD;;Andorra
 BY;;Weißrussland
 KM;;Komoren
-AE;;Vereinigte arabische Emirate
+AE;;Vereinigte Arabische Emirate
 BZ;;Belize
 HR;;Kroatien
 KN;;St. Kitts und Nevis
@@ -163,7 +167,7 @@ KP;;Korea, Democratic Peoples Republic ofs Republic of
 UY;;Uruguay
 GA;;Gabun
 HU;;Ungarn
-TF;;Südliche Französische Territorien
+TF;;Französische Süd- und Antarktisgebiete
 UZ;;Usbekistan
 AI;;Anguilla
 DE;;Deutschland
@@ -180,10 +184,9 @@ GE;;Georgien
 TJ;;Tadschikistan
 WF;;Wallis und Futuna
 AM;;Armenien
-GF;;Französisch Guiana
+GF;;Französisch-Guyana
 NR;;Nauru
 TK;;Tokelau
-AN;;Niederländische Antillen
 DJ;;Dschibuti
 KW;;Kuwait
 TL;;Timor-Leste
@@ -204,7 +207,7 @@ TO;;Tonga
 AQ;;Antarktis
 MC;;Monaco
 AR;;Argentinien
-MD;;Moldawien, Republik
+MD;;Moldau, Republik
 AS;;Samoa
 DO;;Dominikanische Republik
 ME;;Montenegro
@@ -212,18 +215,18 @@ PA;;Panama
 TR;;Türkei
 AT;;Österreich
 GL;;Grönland
-MF;;Saint-Martin (Französischer Teil)
+MF;;Saint Martin (Französischer Teil)
 NZ;;Neuseeland
 AU;;Australien
 GM;;Gambia
-MG;;Madagaskar
 GN;;Guinea
+MG;;Madagaskar
 AW;;Aruba
-MH;;Marschallinseln
+MH;;Marshallinseln
 TT;;Trinidad und Tobago
 ZM;;Sambia
-GP;;Gouadeloupe
-AX;;Åland Inseln
+GP;;Guadeloupe
+AX;;Åland-Inseln
 SA;;Saudi-Arabien
 PE;;Peru
 JM;;Jamaika
@@ -231,10 +234,10 @@ GQ;;Äquatorialguinea
 CA;;Kanada
 WS;;Samoa
 SB;;Salomoninseln
-PF;;Französisch Polinesien
+PF;;Französisch-Polynesien
 TV;;Tuvalu
 PG;;Papua-Neuguinea
-MK;;Mazedonien, Republik
+MK;;Mazedonien, ehemalige jugoslawische Republik
 GR;;Griechenland
 AZ;;Aserbaidschan
 TW;;Taiwan, Chinesische Provinz
@@ -242,5 +245,5 @@ SC;;Seychellen
 PH;;Philippinen
 ML;;Mali
 JO;;Jordanien
-GS;;South Georia und die Südlichen Sandwichinseln
+GS;;South Georgia und die Südlichen Sandwichinseln
 SD;;Sudan

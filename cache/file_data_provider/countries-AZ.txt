@@ -16,7 +16,7 @@ CF;;Mərkəzi Afrika Respublikası
 GW;;Qvineya Bissau
 MO;;Makao
 PL;;Polşa
-SH;;Müqəddəs Helena
+SH;;Saint Helena, Ascension and Tristan da Cunha
 CG;;Konqo
 MP;;Şimali Marian Adaları
 PM;;Müqəddəs Pyer və Migelion
@@ -67,6 +67,7 @@ FM;;Micronesia, Federated States of
 MZ;;Mozambiq
 CR;;Kosta Rika
 PW;;Palau
+SS;;Cənubi Afrika
 FO;;Faro Adaları
 ST;;Sao Tome və Prinsip
 IL;;İsrail
@@ -81,7 +82,9 @@ FR;;Fransa
 IN;;Hindistan
 LK;;Şri Lanka
 BB;;Barbados
+CW;;Curaçao
 IO;;Britaniya Hind Okeanı Sahəsi
+SX;;Sint Maarten (Dutch part)
 VU;;Vanuatu
 CX;;Kristmas Adası
 RE;;Reyunion
@@ -121,7 +124,8 @@ UM;;Birləşmiş Ştatlar Yanı Kiçik Adalar
 BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibiya
-LY;;Libyan Arab Jamahiriya
+LY;;Liberiya
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;Braziliya
 KG;;Qırğızıstan
 NC;;Yeni Kaledoniya
@@ -183,7 +187,6 @@ AM;;Ermənistan
 GF;;Fransız Gvineyası
 NR;;Nauru
 TK;;Tokelo
-AN;;Holland Antilləri
 DJ;;Cibuti
 KW;;Küveyt
 TL;;Timor Leste
@@ -216,8 +219,8 @@ MF;;Saint Martin (French part)
 NZ;;Yeni Zellandiya
 AU;;Avstraliya
 GM;;Qambiya
-MG;;Madaqaskar
 GN;;Qvineya
+MG;;Madaqaskar
 AW;;Aruba
 MH;;Marşal Adaları
 TT;;Trinidad və Tobaqo

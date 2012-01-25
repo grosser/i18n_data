@@ -16,7 +16,7 @@ CF;;Nước Cộng Hoà Trung Phi
 GW;;Ghi-nê Bi-xau
 MO;;Ma-cao
 PL;;Ba Lan
-SH;;Xan He-lê-na
+SH;;Xan He-lê-na, A-xen-siónh và Tợ-rí-x-tan đa Cun-ha
 CG;;Công-gô
 MP;;Bắc Quần Đảo Ma-ri-a-na
 PM;;Xan Pi-e và Mi-quê-lon
@@ -67,6 +67,7 @@ FM;;Mi-khợ-rô-nê-xi-a, Liên Bang
 MZ;;Mô-xam-bí-khợ
 CR;;Cốt-x-tha Ri-ca
 PW;;Pa-lau
+SS;;Nước Cộng Hoà Xu-đanh
 FO;;Quần đảo Pha-rô
 ST;;Xao Tô-mê và Pợ-rin-xi-pê
 IL;;Do Thái
@@ -81,7 +82,9 @@ FR;;Pháp
 IN;;Ấn-độ
 LK;;Tích Lan
 BB;;Bă-ba-đôxợ
+CW;;Curaçao
 IO;;Miền Đại Dương Ấn-độ Anh
+SX;;Saint Martin (vùng Pháp)
 VU;;Va-nu-a-tu
 CX;;Đảo Kh-ri-xợ-mà-xợ
 RE;;Rê-u-ni-ợnh
@@ -121,7 +124,8 @@ UM;;Quần Đảo ở xa nhỏ Mỹ
 BO;;Bô-li-vi-a, Quốc gia Đa Dân tộc
 KE;;Khi-ni-a
 NA;;Na-mi-bi-a
-LY;;Li-bia A-rập Jamahiriya
+LY;;Li-bi
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;Bra-xin
 KG;;Khư-rơ-gư-xtanh
 NC;;Niu Ca-lê-đô-ni-a
@@ -183,7 +187,6 @@ AM;;Ac-mê-ni
 GF;;Ghi-a-na Pháp
 NR;;Nau-ru
 TK;;To-ke-lau
-AN;;An-thi-li Hoà Lan
 DJ;;Gi-bu-ti
 KW;;Cu-ouai-thợ
 TL;;Thi-moa Le-xợ-te
@@ -216,8 +219,8 @@ MF;;Saint Martin (vùng Pháp)
 NZ;;Niu Xi-lân
 AU;;Úc
 GM;;Găm-bi-a
-MG;;Ma-đa-ga-xợ-ca
 GN;;Ghi-nê
+MG;;Ma-đa-ga-xợ-ca
 AW;;Ă-ru-ba
 MH;;Quần Đảo Ma-san
 TT;;Trinh-i-đat và To-ba-gô

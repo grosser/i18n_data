@@ -16,12 +16,12 @@ CF;;Centro-africana, República
 GW;;Guinea-Bissau
 MO;;Macao
 PL;;Polonia
-SH;;Santa Helena
+SH;;Santa Elena, Ascensión y Tristán de Acuña
 CG;;Congo
 MP;;Islas Marianas del Norte
 PM;;San Pedro y Miquelon
 SI;;Eslovenia
-VE;;República Bolivariana de Venezuela
+VE;;Venezuela, República Bolivariana de
 ZW;;Zimbabue
 CH;;Suiza
 GY;;Guyana
@@ -67,6 +67,7 @@ FM;;Micronesia, Estados Federados de
 MZ;;Mozambique
 CR;;Costa Rica
 PW;;Palau
+SS;;Sudán del Sur
 FO;;Islas Feroe
 ST;;Santo Tomé y Príncipe
 IL;;Israel
@@ -81,7 +82,9 @@ FR;;Francia
 IN;;India
 LK;;Sri Lanka
 BB;;Barbados
+CW;;Curasao
 IO;;Británico del Océano Índico, Territorio
+SX;;Isla de San Martín (zona holandsea)
 VU;;Vanuatu
 CX;;Isla de Navidad
 RE;;Reunión
@@ -118,10 +121,11 @@ BM;;Islas Bermudas
 LV;;Letonia
 BN;;Brunei Darussalam
 UM;;Islas menores exteriores de Estados Unidos
-BO;;Bolivia, Plurinational State of
+BO;;Bolivia, Estado plurinacional de
 KE;;Kenia
 NA;;Namibia
-LY;;Jamahiriya Islámica Libia
+LY;;Libia
+BQ;;Islas BES (Caribe Neerlandés)
 BR;;Brasil
 KG;;Kirgizstán
 NC;;Nueva Caledonia
@@ -183,7 +187,6 @@ AM;;Armenia
 GF;;Guayana Francesa
 NR;;Nauru
 TK;;Tokelau
-AN;;Antillas Holandesas
 DJ;;Yibuti
 KW;;Kuwait
 TL;;Timor-Leste
@@ -204,7 +207,7 @@ TO;;Tonga
 AQ;;Antártida
 MC;;Mónaco
 AR;;Argentina
-MD;;Macedonia, República de
+MD;;Moldavia, República de
 AS;;Samoa Americana
 DO;;República Dominicana
 ME;;Montenegro
@@ -216,8 +219,8 @@ MF;;San Martín (zona francesa)
 NZ;;Nueva Zelanda
 AU;;Australia
 GM;;Gambia
-MG;;Madagascar
 GN;;Guinea
+MG;;Madagascar
 AW;;Aruba
 MH;;Islas Marshall
 TT;;Trinidad y Tobago

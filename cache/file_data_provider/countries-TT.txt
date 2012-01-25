@@ -16,7 +16,7 @@ CF;;Üzäk Afrika Cömhüriäte
 GW;;Guinea-Bissau
 MO;;Makao
 PL;;Polonia, Polşa
-SH;;Saint Helena
+SH;;Saint Helena, Ascension and Tristan da Cunha
 CG;;Kongo
 MP;;Tönyaq Mariana Utrawları
 PM;;Saint Pierre belän Miquelon
@@ -67,6 +67,7 @@ FM;;Mikronesia, Berläşkän İlläre
 MZ;;Mozambik
 CR;;Kosta Rika
 PW;;Palau
+SS;;Sudan Cömhüriäte
 FO;;Faroe Utrawları
 ST;;Sao Tome belän Principe
 IL;;İsrael
@@ -81,7 +82,9 @@ FR;;Fransia
 IN;;Hindstan
 LK;;Şri Lanka
 BB;;Barbados
+CW;;Curaçao
 IO;;British Indian Ocean Territory
+SX;;Sint Maarten (Dutch part)
 VU;;Vanuatu
 CX;;Christmas Utrawları
 RE;;Reunion
@@ -121,7 +124,8 @@ UM;;United States Minor Outlying Islands
 BO;;Bolivia, Plurinational State of
 KE;;Kenia
 NA;;Namibia
-LY;;Libyan Arab Jamahiriya
+LY;;Liberia
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;Brazil
 KG;;Qırğızstan
 NC;;Yaña Kaledonia
@@ -183,7 +187,6 @@ AM;;Ärmänstan
 GF;;Frans Guiana
 NR;;Nauru
 TK;;Tokelauça
-AN;;Niderland Antilläre
 DJ;;Djibuti
 KW;;Küwäyt
 TL;;Timor-Leste
@@ -216,8 +219,8 @@ MF;;Saint Martin (French part)
 NZ;;Yaña Zealand
 AU;;Australia
 GM;;Gambia
-MG;;Madagaskar
 GN;;Guinea
+MG;;Madagaskar
 AW;;Aruba
 MH;;Marşal Utrawları
 TT;;Trinidad belän Tobago

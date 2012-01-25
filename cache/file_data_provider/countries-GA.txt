@@ -16,7 +16,7 @@ CF;;Poblacht na hAfraice Láir
 GW;;An Ghuine-Bhissau
 MO;;Macao
 PL;;An Pholainn
-SH;;San Héilin
+SH;;Saint Helena, Ascension agus Tristan da Cunha
 CG;;An Congó
 MP;;Oileáin Mariana Thuaidh
 PM;;St. Pierre agus Miquelon
@@ -67,6 +67,7 @@ FM;;An Mhicrinéis
 MZ;;Mósaimbíc
 CR;;Cósta Rice
 PW;;Palau
+SS;;Poblacht na Súdáine
 FO;;Oileáin Fharó
 ST;;Sao Tome agus Principe
 IL;;Iosrael
@@ -81,7 +82,9 @@ FR;;An Fhrainc
 IN;;An India
 LK;;Srí Lanca
 BB;;Barbadós
+CW;;Curasao
 IO;;Críocha Briotanacha an Aigéin Indiaigh
+SX;;Sint Maarten (ceantar Ollannach)
 VU;;Vanuatú
 CX;;Oileán na Nollag
 RE;;Réunion
@@ -118,10 +121,11 @@ BM;;Na Beirmiúdaí
 LV;;An Laitvia
 BN;;Brúiné Dárasalám
 UM;;Mion-Oileáin Imeallacha S.A.M.
-BO;;Bolivia, Plurinational State of
+BO;;An Bholaiv, Stát Ilnáisiúnta
 KE;;An Chéinia
 NA;;An Namaib
-LY;;Poblacht Arabach na Libia
+LY;;An Libia
+BQ;;Bonaire, San Eustatius agus Saba
 BR;;An Bhrasaíl
 KG;;An Chirgeastáin
 NC;;An Nua-Chaladóin
@@ -183,7 +187,6 @@ AM;;An Airméin
 GF;;An Ghuáin Fhrancach
 NR;;Nárú
 TK;;Tócalá
-AN;;Aintillí na hIsiltíre
 DJ;;Djibouti
 KW;;Cuáit
 TL;;Tíomór Thoir
@@ -204,7 +207,7 @@ TO;;Tonga
 AQ;;an Antartaice
 MC;;Monacó
 AR;;An Airgintín
-MD;;Moldáive, poblacht na
+MD;;Moldóive, Poblacht na
 AS;;Samó Meiriceánach
 DO;;An Phoblacht Dhoiminiceach
 ME;;Montainéagró
@@ -216,8 +219,8 @@ MF;;Saint Martin (An Fhrainc)
 NZ;;An Nua-Shéalainn
 AU;;An Astráil
 GM;;An Ghaimbia
-MG;;Madagascar
 GN;;An Ghuine
+MG;;Madagascar
 AW;;Aruba
 MH;;Oileáin Marshall
 TT;;Oileáin na Tríonóide agus Tobága

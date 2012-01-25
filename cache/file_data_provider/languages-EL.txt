@@ -52,7 +52,7 @@ BM;;Bambara
 GV;;Manx
 CA;;Catalan; Valencian
 MS;;Malay
-EL;;Ελληνικά, Σύγχρονα
+EL;;Ελληνικά
 NG;;Ndonga
 WA;;Walloon
 BN;;Βεγκάζης

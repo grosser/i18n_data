@@ -6,7 +6,7 @@ SE;;Sverige
 TZ;;Tanzania, Den Forenede Republik
 CD;;Den Demokratiske Republik Congo
 GU;;Guam
-MM;;Myanmar
+MM;;Burma
 DZ;;Algeriet
 MN;;Mongoliet
 PK;;Pakistan
@@ -16,7 +16,7 @@ CF;;Centralafrikanske Republik
 GW;;Guinea-Bissau
 MO;;Macao
 PL;;Polen
-SH;;Sankt Helena
+SH;;Sankt Helena, Ascension og Tristan da Cunha
 CG;;Congo
 MP;;Nordmarianerne
 PM;;Sankt Pierre og Miquelon
@@ -67,6 +67,7 @@ FM;;Mikronesiens Forenede Stater
 MZ;;Mocambique
 CR;;Costa Rica
 PW;;Palau
+SS;;Sydsudan
 FO;;Færøerne
 ST;;São Tomé og Príncipe
 IL;;Israel
@@ -81,7 +82,9 @@ FR;;Frankrig
 IN;;Indien
 LK;;Sri Lanka
 BB;;Barbados
+CW;;Curaçao
 IO;;British Indian Ocean Territory
+SX;;Sint Maarten (hollandsk del)
 VU;;Vanuatu
 CX;;Juleøen
 RE;;Réunion
@@ -110,7 +113,7 @@ LS;;Lesotho
 BJ;;Benin
 LT;;Litauen
 EG;;Egypten
-BL;;Saint Barthélemy
+BL;;Sankt Bartolomæus
 EH;;Vestsahara
 LU;;Luxemburg
 RO;;Rumænien
@@ -118,10 +121,11 @@ BM;;Bermuda
 LV;;Letland
 BN;;Brunei
 UM;;Fjerne, mindre Amerikanske øer
-BO;;Bolivia, Plurinational State of
+BO;;Bolivia, Den Plurinationale Stat
 KE;;Kenya
 NA;;Namibia
-LY;;Libyske Arabiske Jamahiriya
+LY;;Libyen
+BQ;;Bonaire, Sint Eustatius og Saba
 BR;;Brasilien
 KG;;Kirgisistan
 NC;;Ny Kaledonien
@@ -183,7 +187,6 @@ AM;;Armenien
 GF;;Fransk Guinea
 NR;;Nauru
 TK;;Tokelau
-AN;;Hollandske Antiller
 DJ;;Djibouti
 KW;;Kuwait
 TL;;Timor-Leste
@@ -204,7 +207,7 @@ TO;;Tonga
 AQ;;Antarktis
 MC;;Monaco
 AR;;Argentina
-MD;;Makedonien, Republikken
+MD;;Moldova, Republikken
 AS;;Amerikansk Samoa
 DO;;Dominikanske Republik
 ME;;Montenegro
@@ -212,12 +215,12 @@ PA;;Panama
 TR;;Tyrkiet
 AT;;Østrig
 GL;;Grønland
-MF;;Saint Martin (French part)
+MF;;Sankt Martin (Fransk del)
 NZ;;New Zealand
 AU;;Australien
 GM;;Gambia
-MG;;Madagaskar
 GN;;Guinea
+MG;;Madagaskar
 AW;;Aruba
 MH;;Marshalløerne
 TT;;Trinidad og Tobago

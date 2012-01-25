@@ -20,7 +20,7 @@ AS;;asamski
 EE;;ewe
 RU;;rosyjski
 SI;;syngaleski
-BG;;Bułgarski
+BG;;bułgarski
 PL;;polski
 HE;;hebrajski
 NA;;nauruański
@@ -71,7 +71,7 @@ SR;;serbski
 TE;;telugu
 PS;;paszto; pasztuński
 ZA;;zhuang
-IA;;interlingua (Międzynarodowe Stowarzyszenie Języków Sztucznych)
+IA;;interlingua (Międzynarodowe Stowarzyszenie Języka Pomocniczego)
 EO;;esperanto
 KK;;kazaski; kazachski
 PT;;portugalski
@@ -88,7 +88,7 @@ KM;;khmerski środkowy
 TH;;tajski
 LA;;łaciński
 HO;;hiri motu
-SU;;sudański
+SU;;sundajski
 KN;;kannada
 TI;;tigrinia
 LB;;luksemburski
@@ -134,7 +134,7 @@ CO;;korsykański
 WO;;wolof
 KW;;kornijski
 AE;;awestyjski
-HY;;armeński
+HY;;ormiański
 TR;;turecki
 FO;;farerski
 JA;;japoński

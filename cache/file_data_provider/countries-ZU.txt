@@ -16,7 +16,7 @@ CF;;Ulawulo lokuziphatha kwe Dominikhani
 GW;;Guinea-Bissau
 MO;;I-Malta
 PL;;I-Polandi
-SH;;Saint Helena
+SH;;Saint Helena, Ascension and Tristan da Cunha
 CG;;Congo
 MP;;Northern Mariana Islands
 PM;;Saint Pierre and Miquelon
@@ -67,6 +67,7 @@ FM;;Micronesia, Federated States of
 MZ;;Mozambique
 CR;;Costa Rica
 PW;;I-Paraguwayi
+SS;;I-Mzantsi Afrika
 FO;;I-Irelandi
 ST;;Sao Tome and Principe
 IL;;I-Sirayeli
@@ -81,7 +82,9 @@ FR;;Isi Frentshi
 IN;;I-Indoneshiya
 LK;;Sri Lanka
 BB;;I-Barbados
+CW;;Curaçao
 IO;;British Indian Ocean Territory
+SX;;Sint Maarten (Dutch part)
 VU;;Vanuatu
 CX;;Christmas Island
 RE;;Reunion
@@ -121,7 +124,8 @@ UM;;United States ye Melika
 BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibia
-LY;;Libyan Arab Jamahiriya
+LY;;I-Serbiya
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;I Brazili
 KG;;Kyrgyzstan
 NC;;I-Makhedoniya
@@ -183,7 +187,6 @@ AM;;I-Argentina
 GF;;French Guiana
 NR;;Nauru
 TK;;Tokelau
-AN;;I-Netherlands
 DJ;;Djibouti
 KW;;Kuwait
 TL;;Timor-Leste
@@ -216,8 +219,8 @@ MF;;Saint Martin (French part)
 NZ;;I-New Zealand
 AU;;I-Australiya
 GM;;I Jamayikha
-MG;;Madagascar
 GN;;Guinea
+MG;;Madagascar
 AW;;Aruba
 MH;;Marshall Islands
 TT;;I-Trinidad ne Tobago

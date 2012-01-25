@@ -3,8 +3,8 @@ CC;;Illes Cocos (Keeling)
 GT;;Guatemala
 JP;;Japó
 SE;;Suècia
-TZ;;Tanzània
-CD;;República Democràtica del Congo
+TZ;;Tanzània, República Unida de
+CD;;Congo, La República Democràtica del
 GU;;Guam
 MM;;Myanmar
 DZ;;Algèria
@@ -16,12 +16,12 @@ CF;;República Centreafricana
 GW;;Guinea Bissau
 MO;;Macau
 PL;;Polònia
-SH;;Saint Helena
+SH;;Saint Helena, Ascension i Tristan da Cunha
 CG;;Congo
 MP;;Illes Marianes del Nord
 PM;;Saint Pierre i Miquelon
 SI;;Eslovènia
-VE;;República Bolívariana de Veneçuela
+VE;;Veneçuela, República Bolívariana de
 ZW;;Zimbabwe
 CH;;Suïssa
 GY;;Guyana
@@ -31,14 +31,14 @@ SJ;;Svalbard i Jan Mayen
 CI;;Côte dIvoireIvoire
 MR;;Mauritània
 SK;;Eslovàquia
-VG;;Illes Verges (Britàniques)
+VG;;Illes Verges, Britàniques
 MS;;Montserrat
 SL;;Sierra Leone
 CK;;Illes Cook
 ID;;Indonèsia
 MT;;Malta
 SM;;San Marino
-VI;;Illes Verges (Americanes)
+VI;;Illes Verges, EUA
 YE;;Iemen
 CL;;Xile
 IE;;Irlanda
@@ -55,7 +55,7 @@ CN;;Xina
 FJ;;Fiji
 LC;;Saint Lucia
 MW;;Malawi
-PS;;Palestina (territori ocupat)
+PS;;Territori Palestí, Ocupat
 CO;;Colòmbia
 FK;;Illes Malvines (Falkland)
 MX;;Mèxic
@@ -63,10 +63,11 @@ PT;;Portugal
 MY;;Malàisia
 SR;;Surinam
 VN;;Vietnam
-FM;;Micronèsia (Estats Federats)
+FM;;Micronèsia, Estats Federats de
 MZ;;Moçambic
 CR;;Costa Rica
 PW;;Palau
+SS;;República del Sudan
 FO;;Illes Fèroe
 ST;;Sao Tome i Príncipe
 IL;;Israel
@@ -81,7 +82,9 @@ FR;;França
 IN;;Índia
 LK;;Sri Lanka
 BB;;Barbados
+CW;;Curaçao
 IO;;Territori Britànic de l'Oceà Índic
+SX;;Sint Maarten (part neerlandesa)
 VU;;Vanuatu
 CX;;Illa Christmas
 RE;;Reunion
@@ -110,7 +113,7 @@ LS;;Lesotho
 BJ;;Benín
 LT;;Lituània
 EG;;Egipte
-BL;;Saint-Barthélemy
+BL;;Saint Barthélemy
 EH;;Sàhara Occidental
 LU;;Luxemburg
 RO;;Romania
@@ -118,10 +121,11 @@ BM;;Bermuda
 LV;;Letònia
 BN;;Brunei (Negara Brunei Darussalam)
 UM;;Illes Perifèriques Menors dels EUA
-BO;;Bolivia, Plurinational State of
+BO;;Bolívia, Estat Plurinacional de
 KE;;Kenya
 NA;;Namíbia
 LY;;Líbia
+BQ;;Bonaire, Saint Eustatius i Saba
 BR;;Brasil
 KG;;Kirguizistan
 NC;;Nova Caledònia
@@ -155,7 +159,7 @@ HR;;Croàcia
 KN;;Saint Christopher i Nevis
 TC;;Illes Turks i Caicos
 AF;;Afganistan
-NL;;Països Baixos (Holanda)
+NL;;Països Baixos
 TD;;Txad
 AG;;Antigua i Barbuda
 HT;;Haití
@@ -183,7 +187,6 @@ AM;;Armènia
 GF;;Guaiana Francesa
 NR;;Nauru
 TK;;Tokelau
-AN;;Antilles Holandeses
 DJ;;Djibouti
 KW;;Kuwait
 TL;;Timor Oriental
@@ -204,7 +207,7 @@ TO;;Tonga
 AQ;;Antàrtida
 MC;;Mònaco
 AR;;Argentina
-MD;;Macedònia, República de
+MD;;Moldàvia, República de
 AS;;Samoa Americana
 DO;;República Dominicana
 ME;;Montenegro
@@ -212,12 +215,12 @@ PA;;Panamà
 TR;;Turquia
 AT;;Àustria
 GL;;Groenlàndia
-MF;;Saint-Martin (zona francesa)
+MF;;Saint Martin (part francesa)
 NZ;;Nova Zelanda
 AU;;Austràlia
 GM;;Gàmbia
-MG;;Madagascar
 GN;;Guinea
+MG;;Madagascar
 AW;;Aruba
 MH;;Illes Marshall
 TT;;Trinitat i Tobago
@@ -237,7 +240,7 @@ PG;;Papua Nova Guinea
 MK;;Macedònia, República de
 GR;;Grècia
 AZ;;Azerbaitjan
-TW;;Província Xinesa de Taiwan
+TW;;Taiwan, Província de Xina
 SC;;Seychelles
 PH;;Filipines
 ML;;Mali

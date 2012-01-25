@@ -1,45 +1,45 @@
-VA;;Vatikano Hiria (aita santuaren bizilekua)
-CC;;Cocos (Keeling) Uharteak
+VA;;Egoitza Santua (Vatikano Hiria)
+CC;;Cocos (Keeling) uharteak
 GT;;Guatemala
 JP;;Japonia
 SE;;Suedia
-TZ;;Tanzania
-CD;;Kongoko Herri-errepublika Demokratikoa
+TZ;;Tanzania, Errepublika Batua
+CD;;Kongoko Herri Errepublika Demokratikoa
 GU;;Guam
-MM;;Birmania
-DZ;;Algeria
+MM;;Myanmar
+DZ;;Aljeria
 MN;;Mongolia
 PK;;Pakistan
 SG;;Singapur
-VC;;San Bizente eta Grenadinak
-CF;;Ertafrikar Errepublika
+VC;;Saint Vincent eta Grenadinak
+CF;;Afrika Erdiko Errepublika
 GW;;Ginea Bissau
-MO;;Makau
+MO;;Macau
 PL;;Polonia
-SH;;Santa Elena
+SH;;Santa Helena, Ascension eta Tristan da Cunha
 CG;;Kongo
 MP;;Iparraldeko Mariana Uharteak
 PM;;Saint Pierre eta Miquelon
-SI;;Eslobenia
-VE;;Venezuela, Errepublika Bolibariarra
+SI;;Eslovenia
+VE;;Venezuela, Bolibartar Errepublika
 ZW;;Zimbabwe
 CH;;Suitza
 GY;;Guyana
 MQ;;Martinika
 PN;;Pitcairn
-SJ;;Svalbard eta Jan Mayen Uharteak
+SJ;;Svalbard eta Jan Mayen
 CI;;Côte dIvoireIvoire
 MR;;Mauritania
-SK;;Eslobakia
-VG;;Birjina Uharteak (Err. Ba.)
+SK;;Eslovakia
+VG;;Birjina uharteak, Britainiarrak
 MS;;Montserrat
 SL;;Sierra Leona
-CK;;Cook Uharteak
+CK;;Cook uharteak
 ID;;Indonesia
 MT;;Malta
 SM;;San Marino
-VI;;Birjina Uharteak, A.E.B.
-YE;;Jemen
+VI;;Birjina uharteak, A.E.B.
+YE;;Yemen
 CL;;Txile
 IE;;Irlanda
 LA;;Lao Peoples Democratic Republics Democratic Republic
@@ -48,7 +48,7 @@ SN;;Senegal
 CM;;Kamerun
 FI;;Finlandia
 LB;;Libano
-MV;;Maldibak
+MV;;Maldivak
 PR;;Puerto Rico
 SO;;Somalia
 CN;;Txina
@@ -57,22 +57,23 @@ LC;;Santa Luzia
 MW;;Malawi
 PS;;Palestinar Lurraldea, okupatua
 CO;;Kolonbia
-FK;;Malvina Uharteak (Falkland)
+FK;;Falkland uharteak (Malvina uharteak)
 MX;;Mexiko
 PT;;Portugal
 MY;;Malasia
 SR;;Surinam
-VN;;Viet Nam
+VN;;Vietnam
 FM;;Mikronesia, Estatu Federatuak
 MZ;;Mozanbike
-CR;;Kosta Rika
-PW;;Belau (lehen Palaos)
-FO;;Faroe Uharteak
-ST;;Sao Tome eta Printze
+CR;;Costa Rica
+PW;;Palau
+SS;;Sudango Errepublika
+FO;;Faroe uharteak
+ST;;Sao Tome eta Principe
 IL;;Israel
 LI;;Liechtenstein
-PY;;Paraguay
-BA;;Bosnia eta Hertzegovina
+PY;;Paraguai
+BA;;Bosnia eta Herzegovina
 CU;;Kuba
 IM;;Man uhartea
 SV;;El Salvador
@@ -81,18 +82,20 @@ FR;;Frantzia
 IN;;India
 LK;;Sri Lanka
 BB;;Barbados
+CW;;Curaçao
 IO;;Indiar Ozeanoko Lurralde Britainiarra
+SX;;Saint Martin (Frantziar zatia)
 VU;;Vanuatu
-CX;;Gabon Uhartea
+CX;;Christmas uhartea
 RE;;Reunion
 UA;;Ukrania
 SY;;Siriako Arabiar Errepublika
-CY;;Txipre
+CY;;Zipre
 IQ;;Irak
 SZ;;Swazilandia
 BD;;Bangladesh
 CZ;;Txekiar Errepublika
-IR;;Iran, Errepublika Islamikoa
+IR;;Iran, Islamiar Errepublika
 YT;;Mayotte
 BE;;Belgika
 IS;;Islandia
@@ -117,11 +120,12 @@ RO;;Errumania
 BM;;Bermuda
 LV;;Letonia
 BN;;Brunei Darussalam
-UM;;United States Minor Outlying Islands
+UM;;Ameriketako Estatu Batuetako itsasoz haraindiko uharteak
 BO;;Bolivia, Nazio-anitzeko estatua
-KE;;Kenia
+KE;;Kenya
 NA;;Namibia
-LY;;Libiar Arabiar Jamahiriya
+LY;;Libia
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;Brasil
 KG;;Kirgizistan
 NC;;Kaledonia Berria
@@ -132,12 +136,12 @@ KH;;Kanbodia
 BT;;Bhutan
 KI;;Kiribati
 NE;;Niger
-QA;;Katar
-RU;;Errusiako Federazioa
-HM;;Heard Uhartea eta McDonald Uharteak
-NF;;Norfolk Uhartea
+QA;;Qatar
+RU;;Errusiar Federakundea
+HM;;Heard eta McDonald uharteak
+NF;;Norfolk uhartea
 US;;Estatu Batuak
-BV;;Bouvet Uhartea
+BV;;Bouvet uhartea
 ER;;Eritrea
 HN;;Honduras
 NG;;Nigeria
@@ -148,19 +152,19 @@ ET;;Etiopia
 NI;;Nikaragua
 AD;;Andorra
 BY;;Bielorrusia
-KM;;Komoroak
+KM;;Komoreak
 AE;;Arabiar Emirerri Batuak
 BZ;;Belize
 HR;;Kroazia
 KN;;Saint Kitts eta Nevis
-TC;;Turk eta Caicoak Uharteak
+TC;;Turk eta Caicos uharteak
 AF;;Afganistan
-NL;;Herbeherak
+NL;;Herbehereak
 TD;;Txad
 AG;;Antigua eta Barbuda
 HT;;Haiti
 KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;Uruguay
+UY;;Uruguai
 GA;;Gabon
 HU;;Hungaria
 TF;;Hegoaldeko Lurralde Frantsesak
@@ -168,25 +172,24 @@ UZ;;Uzbekistan
 AI;;Anguilla
 DE;;Alemania
 GB;;Erresuma Batua
-KR;;Korea, Errepublika (Hego Korea)
+KR;;Korea, Errepublika
 TG;;Togo
 NO;;Norvegia
 TH;;Tailandia
-GD;;Granada
+GD;;Grenada
 NP;;Nepal
 ZA;;Hegoafrika
 AL;;Albania
 GE;;Georgia
-TJ;;Tadjikistan
+TJ;;Tajikistan
 WF;;Wallis eta Futuna
 AM;;Armenia
-GF;;Guaiana Frantsesa
+GF;;Guyana Frantsesa
 NR;;Nauru
 TK;;Tokelau
-AN;;Antilla Nederlandarrak
 DJ;;Djibuti
 KW;;Kuwait
-TL;;Timor-Leste
+TL;;Ekialdeko Timor
 AO;;Angola
 DK;;Danimarka
 GG;;Guernsey
@@ -194,18 +197,18 @@ TM;;Turkmenistan
 GH;;Ghana
 JE;;Jersey
 MA;;Maroko
-KY;;Kaiman Uharteak
+KY;;Kaiman uharteak
 NU;;Niue
 TN;;Tunisia
 DM;;Dominika
 GI;;Gibraltar
 KZ;;Kazakhstan
 TO;;Tonga
-AQ;;Antarktika
+AQ;;Antartika
 MC;;Monako
 AR;;Argentina
-MD;;Moldavia, errepublika
-AS;;Samoa Estatubatuarra
+MD;;Moldavia, Errepublika
+AS;;Samoa amerikarra
 DO;;Dominikar Errepublika
 ME;;Montenegro
 PA;;Panama
@@ -216,22 +219,22 @@ MF;;Saint Martin (Frantziar zatia)
 NZ;;Zeelanda Berria
 AU;;Australia
 GM;;Gambia
-MG;;Madagaskar
 GN;;Ginea
+MG;;Madagaskar
 AW;;Aruba
-MH;;Marshall Uharteak
+MH;;Marshall uharteak
 TT;;Trinidad eta Tobago
 ZM;;Zambia
 GP;;Guadalupe
-AX;;Åland Uharteak
-SA;;Arabia Saudi
+AX;;Åland uharteak
+SA;;Saudi Arabia
 PE;;Peru
 JM;;Jamaika
-GQ;;Ekuatore-Ginea
+GQ;;Ekuatore Ginea
 CA;;Kanada
 WS;;Samoa
-SB;;Salomon Uharteak
-PF;;Polinesia Frantsesa
+SB;;Salomon uharteak
+PF;;Frantziar Polinesia
 TV;;Tuvalu
 PG;;Papua Ginea Berria
 MK;;Mazedonia, Errepublika
@@ -242,5 +245,5 @@ SC;;Seychelleak
 PH;;Filipinak
 ML;;Mali
 JO;;Jordania
-GS;;Hegoaldeko Georgia eta Hegoaldeko Sandwich Uharteak
+GS;;Hegoaldeko Georgia eta Hegoaldeko Sandwich uharteak
 SD;;Sudan

@@ -16,7 +16,7 @@ CF;;Stredoafrická republika
 GW;;Guinea-Bissau
 MO;;Macao
 PL;;Poľsko
-SH;;Svätá Helena
+SH;;Svätá Helena, Ascension a Tristan da Cunha
 CG;;Kongo
 MP;;Severné Mariány
 PM;;Saint Pierre a Miquelon
@@ -67,6 +67,7 @@ FM;;Mikronézske federatívne štáty
 MZ;;Mozambik
 CR;;Kostarika
 PW;;Palau
+SS;;Južný Sudán
 FO;;Faerské ostrovy
 ST;;Svätý Tomáš a Princov ostrov
 IL;;Izrael
@@ -81,7 +82,9 @@ FR;;Francúzsko
 IN;;India
 LK;;Srí Lanka
 BB;;Barbados
+CW;;Curaçao
 IO;;Britské indickooceánske územie
+SX;;Sint Maarten (holandská časť)
 VU;;Vanuatu
 CX;;Vianočný ostrov
 RE;;Réunion
@@ -122,6 +125,7 @@ BO;;Bolívijská republika
 KE;;Keňa
 NA;;Namíbia
 LY;;Líbya
+BQ;;Bonaire, Sint Eustatius a Saba
 BR;;Brazília
 KG;;Kirgizsko
 NC;;Nová Kaledónia
@@ -183,7 +187,6 @@ AM;;Arménsko
 GF;;Francúzska Guyana
 NR;;Nauru
 TK;;Tokelau
-AN;;Holandské Antily
 DJ;;Džibutsko
 KW;;Kuvajt
 TL;;Východný Timor
@@ -212,12 +215,12 @@ PA;;Panama
 TR;;Turecko
 AT;;Rakúsko
 GL;;Grónsko
-MF;;Saint Martin
+MF;;Saint Martin (francúzska časť)
 NZ;;Nový Zéland
 AU;;Austrália
 GM;;Gambia
-MG;;Madagaskar
 GN;;Guinea
+MG;;Madagaskar
 AW;;Aruba
 MH;;Marshallove ostrovy
 TT;;Trinidad a Tobago

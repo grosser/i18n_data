@@ -3,7 +3,7 @@ CC;;Kokosové ostrovy
 GT;;Guatemala
 JP;;Japonsko
 SE;;Švédsko
-TZ;;Tanzánie, sjednocená republika
+TZ;;Tanzanie, sjednocená republika
 CD;;Konžská demokratická republika
 GU;;Guam
 MM;;Myanmar
@@ -11,12 +11,12 @@ DZ;;Alžírsko
 MN;;Mongolsko
 PK;;Pákistán
 SG;;Singapur
-VC;;Svatý Vincent a Grenadiny
+VC;;Svatý Vincenc a Grenadiny
 CF;;Středoafrická republika
 GW;;Guinea-Bissau
 MO;;Macao
 PL;;Polsko
-SH;;Svatá Helena
+SH;;Svatá Helena, Ascension a Tristan da Cunha
 CG;;Kongo
 MP;;Severní Mariany
 PM;;Svatý Pierre a Miquelon
@@ -24,21 +24,21 @@ SI;;Slovinsko
 VE;;Venezuela, bolívarovská republika
 ZW;;Zimbabwe
 CH;;Švýcarsko
-GY;;Guayana
+GY;;Guyana
 MQ;;Martinik
 PN;;Pitcairnovy ostrovy
 SJ;;Svalbard a Jan Mayen
 CI;;Côte dIvoireIvoire
 MR;;Mauritánie
-SK;;Slovenská republika
-VG;;Panenské ostrovy, Britské
+SK;;Slovensko
+VG;;Panenské ostrovy, britské
 MS;;Montserrat
 SL;;Sierra Leone
 CK;;Cookovy ostrovy
 ID;;Indonésie
 MT;;Malta
 SM;;San Marino
-VI;;Panenské ostrovy, U.S.
+VI;;Panenské ostrovy, americké
 YE;;Jemen
 CL;;Chile
 IE;;Irsko
@@ -57,16 +57,17 @@ LC;;Svatá Lucie
 MW;;Malawi
 PS;;Palestinské území, okupované
 CO;;Kolumbie
-FK;;Fallandské ostrovy (Malvíny)
+FK;;Falkandské ostrovy (Malvíny)
 MX;;Mexiko
 PT;;Portugalsko
 MY;;Malajsie
 SR;;Surinam
 VN;;Vietnam
 FM;;Mikronésie, federativní státy
-MZ;;Mozambik
+MZ;;Mosambik
 CR;;Kostarika
 PW;;Palau
+SS;;Jižní Súdán
 FO;;Faerské ostrovy
 ST;;Svatý Tomáš a Princův ostrov
 IL;;Izrael
@@ -75,18 +76,20 @@ PY;;Paraguay
 BA;;Bosna a Hercegovina
 CU;;Kuba
 IM;;Ostrov Man
-SV;;Salvádor
+SV;;Salvador
 CV;;Kapverdské ostrovy
 FR;;Francie
 IN;;Indie
 LK;;Srí Lanka
 BB;;Barbados
-IO;;Britské teritorium v Indickém oceánu
+CW;;Curaçao
+IO;;Britské indickooceánské území
+SX;;Svatý Martin (nizozemská část)
 VU;;Vanuatu
 CX;;Vánoční ostrov
-RE;;Reunion
+RE;;Réunion
 UA;;Ukrajina
-SY;;Sýrijská arabská republika
+SY;;Syrská arabská republika
 CY;;Kypr
 IQ;;Irák
 SZ;;Svazijsko
@@ -117,17 +120,18 @@ RO;;Rumunsko
 BM;;Bermudy
 LV;;Lotyšsko
 BN;;Brunej
-UM;;Drobné odlehlé ostrovy Spojených států
+UM;;Menší odlehlé ostrovy Spojených států
 BO;;Bolívie, mnohonárodnostní stát
 KE;;Keňa
-NA;;Namíbie
-LY;;Libyjská arabská džamáhíríja
+NA;;Namibie
+LY;;Libye
+BQ;;Bonaire, Svatý Eustach a Saba
 BR;;Brazílie
 KG;;Kyrgyzstán
 NC;;Nová Kaledonie
 RS;;Srbsko
 BS;;Bahamy
-HK;;Hong Kong
+HK;;Hongkong
 KH;;Kambodža
 BT;;Bhútán
 KI;;Kiribati
@@ -153,17 +157,17 @@ AE;;Spojené arabské emiráty
 BZ;;Belize
 HR;;Chorvatsko
 KN;;Svatý Kryštof a Nevis
-TC;;Turks a Caicois
+TC;;Turks a Caicos
 AF;;Afghánistán
-NL;;Nizozemí
+NL;;Nizozemsko
 TD;;Čad
 AG;;Antigua a Barbuda
 HT;;Haiti
 KP;;Korea, Democratic Peoples Republic ofs Republic of
 UY;;Uruguay
-GA;;Gabun
+GA;;Gabon
 HU;;Maďarsko
-TF;;Francouzská jižní teritoria
+TF;;Francouzská jižní území
 UZ;;Uzbekistán
 AI;;Anguilla
 DE;;Německo
@@ -174,7 +178,7 @@ NO;;Norsko
 TH;;Thajsko
 GD;;Grenada
 NP;;Nepál
-ZA;;Jižní Afrika
+ZA;;Jihoafrická republika
 AL;;Albánie
 GE;;Gruzie
 TJ;;Tádžikistán
@@ -183,10 +187,9 @@ AM;;Arménie
 GF;;Francouzská Guayana
 NR;;Nauru
 TK;;Tokelau
-AN;;Nizozemské Antily
 DJ;;Džibutsko
 KW;;Kuvajt
-TL;;Timor-Leste
+TL;;Východní Timor
 AO;;Angola
 DK;;Dánsko
 GG;;Guernsey
@@ -204,10 +207,10 @@ TO;;Tonga
 AQ;;Antarktida
 MC;;Monako
 AR;;Argentina
-MD;;Moldávie, republika
+MD;;Moldavsko, republika
 AS;;Americká Samoa
 DO;;Dominikánská republika
-ME;;Černá hora
+ME;;Černá Hora
 PA;;Panama
 TR;;Turecko
 AT;;Rakousko
@@ -216,15 +219,15 @@ MF;;Svatý Martin (francouzská část)
 NZ;;Nový Zéland
 AU;;Austrálie
 GM;;Gambie
-MG;;Madagaskar
 GN;;Guinea
+MG;;Madagaskar
 AW;;Aruba
 MH;;Marshallovy ostrovy
 TT;;Trinidad a Tobago
 ZM;;Zambie
 GP;;Guadeloupe
 AX;;Ålandské ostrovy
-SA;;Saudská Arábie
+SA;;Saúdská Arábie
 PE;;Peru
 JM;;Jamajka
 GQ;;Rovníková Guinea

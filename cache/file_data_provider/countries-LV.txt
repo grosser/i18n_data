@@ -1,10 +1,10 @@
 VA;;Vatikāna Pilsētvalsts
 CC;;Kokosu (Kīlinga) salas
-GT;;Guatemala
+GT;;Gvatemala
 JP;;Japāna
 SE;;Zviedrija
 TZ;;Tanzānija
-CD;;Kongo, Demokrātiskās Republikas
+CD;;Kongo Demokrātiskā Republika
 GU;;Guama
 MM;;Mjanma
 DZ;;Alžīrija
@@ -12,33 +12,33 @@ MN;;Mongolija
 PK;;Pakistāna
 SG;;Singapūra
 VC;;Sentvinsenta un Grenadīnas
-CF;;Centrāl Āfrikas Republika
+CF;;Centrālāfrikas Republika
 GW;;Gvineja-Bisava
-MO;; Makao
+MO;;Makao
 PL;;Polija
-SH;;Sv. Helēnas sala
+SH;;Svētās Helēnas Sala un Piederīgās Teritorijas
 CG;;Kongo
-MP;;Ziemeļu Marianas salas
+MP;;Ziemeļu Marianas Salas
 PM;;Senpjēra un Mikelona
 SI;;Slovēnija
 VE;;Venecuēla
-ZW;;Zimbabe
+ZW;;Zimbabve
 CH;;Šveice
 GY;;Gajāna
 MQ;;Martinika
 PN;;Pitkērna
-SJ;;Svalbāra un Jana Majena sala
+SJ;;Svalbāra
 CI;;Côte dIvoireIvoire
 MR;;Mauritānija
 SK;;Slovākija
-VG;;Virdžīnu salas, Britu
+VG;;Virdžīnas Salas, Britu
 MS;;Montserrata
 SL;;Sjerraleone
 CK;;Kuka salas
 ID;;Indonēzija
 MT;;Malta
 SM;;Sanmarīno
-VI;;Virdžīnu salas, ASV
+VI;;ASV Virdžīnas
 YE;;Jemena
 CL;;Čīle
 IE;;Īrija
@@ -48,40 +48,43 @@ SN;;Senegāla
 CM;;Kamerūna
 FI;;Somija
 LB;;Libāna
-MV;;Madīvas
-PR;;Porto Riko
+MV;;Maldīvija
+PR;;Puertoriko
 SO;;Somālija
 CN;;Ķīna
 FJ;;Fidži
 LC;;Sentlūsija
 MW;;Malāvija
-PS;;Palestīnas teritorijas, okupētās
+PS;;Palestīna
 CO;;Kolumbija
-FK;;Folklenda (Maldīvu) salas
+FK;;Folklenda (Malvinu) salas
 MX;;Meksika
 PT;;Portugāle
 MY;;Malaizija
 SR;;Surinama
 VN;;Vjetnama
-FM;;Mikronezija
+FM;;Mikronēzijas
 MZ;;Mozambika
-CR;;Kosta Rika
+CR;;Kostarika
 PW;;Palau
-FO;;Farēru salas
+SS;;Sudāna
+FO;;Fēru salas
 ST;;Santome un Prinsipi
 IL;;Izraēla
 LI;;Lihtenšteina
 PY;;Paragvaja
-BA;;Bosnija Hercogovina
+BA;;Bosnija un Hercegovina
 CU;;Kuba
-IM;;Mana sala
+IM;;Menas sala
 SV;;Salvadora
 CV;;Kaboverde
 FR;;Francija
 IN;;Indija
 LK;;Šrilanka
 BB;;Barbadosa
-IO;;Britu Indijas okeāna teritorija
+CW;;Kirasao
+IO;;Indijas Okeāna Britu teritorija
+SX;;Sintmārtena (Nīderlandes daļa)
 VU;;Vanuatu
 CX;;Ziemsvētku sala
 RE;;Reinjona
@@ -91,12 +94,12 @@ CY;;Kipra
 IQ;;Irāka
 SZ;;Svazilenda
 BD;;Bangladeša
-CZ;;Čehija
+CZ;;Čehijas Republika
 IR;;Irāna
 YT;;Majota
 BE;;Beļģija
 IS;;Islande
-BF;;Burkina Faso
+BF;;Burkinafaso
 EC;;Ekvadora
 IT;;Itālija
 OM;;Omāna
@@ -114,46 +117,47 @@ BL;;Senbartelmī
 EH;;Rietumsahāra
 LU;;Luksemburga
 RO;;Rumānija
-BM;;Bermundu salas
+BM;;Bermunda
 LV;;Latvija
-BN;;Bruneja
+BN;;Brunejas Darusalamas Valsts
 UM;;ASV Mazās Aizjūras Salas
-BO;;Bolīvija, Daudzvalstu Valsts
+BO;;Bolīvija, Daudznacionālā Valsts
 KE;;Kenija
 NA;;Namībija
-LY;;Līvija
+LY;;Lībija
+BQ;;Bonaire, Sintēstatiusa un Saba
 BR;;Brazīlija
 KG;;Kirgizstāna
 NC;;Jaunkaledonija
 RS;;Serbija
-BS;;Bahamu salas
+BS;;Bahamas
 HK;;Honkonga
-KH;;Kombodža
+KH;;Kambodža
 BT;;Butāna
 KI;;Kiribati
 NE;;Nigēra
 QA;;Katara
 RU;;Krievijas Federācija
-HM;;Hērda un Makdonalda salas
-NF;;Norfolka sala
-US;;ASV
-BV;;Buvē sala
+HM;;Hērda Sala un Makdonalda Salas
+NF;;Norfolkas Sala
+US;;Amerikas Savienotās Valstis
+BV;;Buvē Sala
 ER;;Eritreja
 HN;;Hondurasa
 NG;;Nigērija
 RW;;Ruanda
-BW;;Botsvāna
+BW;;Botsvana
 ES;;Spānija
 ET;;Etiopija
 NI;;Nikaragva
 AD;;Andora
 BY;;Baltkrievija
-KM;;Komoru salas
-AE;;Apvienotie arābu emirāti
-BZ;;Belīza
+KM;;Komoras
+AE;;Apvienotie Arābu Emirāti
+BZ;;Beliza
 HR;;Horvātija
 KN;;Sentkitsa un Nevisa
-TC;;Tērksas un Kaikosas salas
+TC;;Tērksu un Kaikosu salas
 AF;;Afganistāna
 NL;;Nīderlande
 TD;;Čada
@@ -163,7 +167,7 @@ KP;;Korea, Democratic Peoples Republic ofs Republic of
 UY;;Urugvaja
 GA;;Gabona
 HU;;Ungārija
-TF;;Franču dienvidu teritorijas
+TF;;Francijas Dienvidjūru Zemes
 UZ;;Uzbekistāna
 AI;;Angilja
 DE;;Vācija
@@ -180,16 +184,15 @@ GE;;Gruzija
 TJ;;Tadžikistāna
 WF;;Volisa un Futuna
 AM;;Armēnija
-GF;;Franču Gvineja
+GF;;Gviāna
 NR;;Nauru
 TK;;Tokelau
-AN;;Antiļas
 DJ;;Džibutija
 KW;;Kuveita
 TL;;Austrumtimora
 AO;;Angola
 DK;;Dānija
-GG;;Gurnseja
+GG;;Gērnsija
 TM;;Turkmenistāna
 GH;;Gana
 JE;;Džersija
@@ -199,15 +202,15 @@ NU;;Niue
 TN;;Tunisija
 DM;;Dominika
 GI;;Gibraltārs
-KZ;; Kazahstāna
+KZ;;Kazahstāna
 TO;;Tonga
 AQ;;Antarktika
-MC;;Monāko
+MC;;Monako
 AR;;Argentīna
-MD;;Moldova, Republika
+MD;;Moldova
 AS;;Amerikāņu Samoa
 DO;;Dominikānas Republika
-ME;;Montenegro
+ME;;Melnkalne
 PA;;Panama
 TR;;Turcija
 AT;;Austrija
@@ -216,17 +219,17 @@ MF;;Senmartēna
 NZ;;Jaunzēlande
 AU;;Austrālija
 GM;;Gambija
-MG;;Madagaskāra
 GN;;Gvineja
+MG;;Madagaskara
 AW;;Aruba
 MH;;Māršala salas
 TT;;Trinidāda un Tobāgo
 ZM;;Zambija
 GP;;Gvadelupa
-AX;;Ālandu salas
+AX;;Olande
 SA;;Saūda Arābija
 PE;;Peru
-JM;; Jamaika
+JM;;Jamaika
 GQ;;Ekvatoriālā Gvineja
 CA;;Kanāda
 WS;;Samoa
@@ -234,13 +237,13 @@ SB;;Zālamana salas
 PF;;Franču Polinēzija
 TV;;Tuvalu
 PG;;Papua-Jaungvineja
-MK;;Makedonija
+MK;;Maķedonija
 GR;;Grieķija
 AZ;;Azerbaidžāna
-TW;;Ķīnas Tautas Republikas Taivānas Province
-SC;;Seišelu salas
+TW;;Taivāna, Ķīnas Republika
+SC;;Seišelas
 PH;;Filipīnas
 ML;;Mali
 JO;;Jordānija
-GS;;Dienviddžordžija un Dienvidsendviču salas
+GS;;Indijas Okeāna Britu Teritorija
 SD;;Sudāna

@@ -16,7 +16,7 @@ CF;;Repubulika ya Santara Afurika
 GW;;Guneya-Biso
 MO;;Makawo
 PL;;Polonye
-SH;;Helena Ntagatifu
+SH;;Saint Helena, Ascension and Tristan da Cunha
 CG;;Kongo
 MP;;Ibirwa bya Mariyana y'Amajyaruguru
 PM;;Mutagatifu Petero na Mikeloni
@@ -67,6 +67,7 @@ FM;;Mikoronesiya, Leta Zishyizehamwe za
 MZ;;Mozambike
 CR;;Kosita Rika
 PW;;Palawu
+SS;;Repubulika ya Sudani
 FO;;Ibirwa bya Farowe
 ST;;Sawo Tome na Purensipe
 IL;;Isirayeli
@@ -81,7 +82,9 @@ FR;;Ubufaransa
 IN;;Ubuhinde
 LK;;Siri Lanka
 BB;;Barubadosi
+CW;;Curaçao
 IO;;Teritwari y'Inyanja y'Abahinde Nyongereza
+SX;;Sint Maarten (Dutch part)
 VU;;Vanuwatu
 CX;;Ikirwa cya Noheli
 RE;;Reyiniyo
@@ -121,7 +124,8 @@ UM;;Ibirwa Bito Bikikije Leta Zunze Ubumwe
 BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibiya
-LY;;Igihugu cya Libiya
+LY;;Liberiya
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;Burezile
 KG;;Kirigizasitani
 NC;;Nuveli Kalidoniya
@@ -183,7 +187,6 @@ AM;;Arumeniya
 GF;;Guyane Nyamfaransa
 NR;;Nawuru
 TK;;Tokelawu
-AN;;Antiye za nederilande
 DJ;;Jibuti
 KW;;Koweti
 TL;;Timoro-Lesite
@@ -216,8 +219,8 @@ MF;;Saint Martin (French part)
 NZ;;Nuveli Zelande
 AU;;Ositaraliya
 GM;;Gambiya
-MG;;Madagasikari
 GN;;Gineya
+MG;;Madagasikari
 AW;;Aruba
 MH;;Ibirwa bya Marishali
 TT;;Tirinida na Tobago

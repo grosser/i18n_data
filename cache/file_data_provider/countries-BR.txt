@@ -16,7 +16,7 @@ CF;;Central African Republic
 GW;;Guinea-Bissau
 MO;;Macao
 PL;;Polonia
-SH;;Saint Helena
+SH;;Saint Helena, Ascension and Tristan da Cunha
 CG;;Congo
 MP;;Northern Mariana Islands
 PM;;Saint Pierre and Miquelon
@@ -67,6 +67,7 @@ FM;;Micronesia, Federated States of
 MZ;;Mozambique
 CR;;Costa Rica
 PW;;Palau
+SS;;Republik Suafrika
 FO;;Faroe Islands
 ST;;Sao Tome and Principe
 IL;;Israel
@@ -81,7 +82,9 @@ FR;;Frañs
 IN;;India
 LK;;Sri Lanka
 BB;;Barbados
+CW;;Curaçao
 IO;;British Indian Ocean Territory
+SX;;Sant Marzhin (rann gallek)
 VU;;Vanuatu
 CX;;Christmas Island
 RE;;Reunion
@@ -121,7 +124,8 @@ UM;;Inizi bihan pell ar Stadoù Unanet
 BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibia
-LY;;Libyan Arab Jamahiriya
+LY;;Libya
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;Brazil
 KG;;Kyrgyzstan
 NC;;New Caledonia
@@ -183,7 +187,6 @@ AM;;Armenia
 GF;;French Guiana
 NR;;Nauru
 TK;;Tokelau
-AN;;Antilhez an Izelvroioù
 DJ;;Djibouti
 KW;;Kuwait
 TL;;Timor-Leste
@@ -216,8 +219,8 @@ MF;;Sant Marzhin (rann gallek)
 NZ;;Zeland nevez
 AU;;Aostralia
 GM;;Gambia
-MG;;Madagascar
 GN;;Guinea
+MG;;Madagascar
 AW;;Aruba
 MH;;Marshall Islands
 TT;;Trinidad ha Tobago

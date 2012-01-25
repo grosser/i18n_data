@@ -16,8 +16,8 @@ CF;;Central African Republic
 GW;;Guinea-Bissau
 MO;;Macao
 PL;;Poland
-SH;;Saint Helena
-VE;;Venezuela, Bolivarian republic of
+SH;;Saint Helena, Ascension and Tristan da Cunha
+VE;;Venezuela, Bolivarian Republic of
 CG;;Congo
 MP;;Northern Mariana Islands
 PM;;Saint Pierre and Miquelon
@@ -67,6 +67,7 @@ FM;;Micronesia, Federated States of
 MZ;;Mozambique
 CR;;Costa Rica
 PW;;Palau
+SS;;South Sudan
 FO;;Faroe Islands
 ST;;Sao Tome and Principe
 IL;;Israel
@@ -82,7 +83,9 @@ IN;;India
 LK;;Sri Lanka
 VU;;Vanuatu
 BB;;Barbados
+CW;;Curaçao
 IO;;British Indian Ocean Territory
+SX;;Sint Maarten (Dutch part)
 UA;;Ukraine
 CX;;Christmas Island
 RE;;Reunion
@@ -121,7 +124,8 @@ UM;;United States Minor Outlying Islands
 BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;Namibia
-LY;;Libyan Arab Jamahiriya
+LY;;Libya
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;Brazil
 KG;;Kyrgyzstan
 NC;;New Caledonia
@@ -166,10 +170,10 @@ GA;;Gabon
 HU;;Hungary
 TF;;French Southern Territories
 GB;;United Kingdom
+TG;;Togo
 AI;;Anguilla
 DE;;Germany
 KR;;Korea, Republic of
-TG;;Togo
 NO;;Norway
 TH;;Thailand
 GD;;Grenada
@@ -179,11 +183,10 @@ WF;;Wallis and Futuna
 AL;;Albania
 GE;;Georgia
 TJ;;Tajikistan
+TK;;Tokelau
 AM;;Armenia
 GF;;French Guiana
 NR;;Nauru
-TK;;Tokelau
-AN;;Netherlands Antilles
 DJ;;Djibouti
 KW;;Kuwait
 TL;;Timor-Leste
@@ -197,10 +200,10 @@ JE;;Jersey
 MA;;Morocco
 KY;;Cayman Islands
 NU;;Niue
+TO;;Tonga
 DM;;Dominica
 GI;;Gibraltar
 KZ;;Kazakhstan
-TO;;Tonga
 AQ;;Antarctica
 MC;;Monaco
 AR;;Argentina

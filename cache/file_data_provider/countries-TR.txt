@@ -1,9 +1,9 @@
 VA;;Vatikan
 CC;;Cocos (Keeling) Adaları
-GT;;Guetemala
+GT;;Guatemala
 JP;;Japonya
 SE;;İsveç
-TZ;;Tanzanya, Birleşik Cumhuriyeti
+TZ;;Tanzanya Birleşik Cumhuriyeti
 CD;;Kongo Demokratik Cumhuriyeti
 GU;;Guam
 MM;;Miyanmar
@@ -16,7 +16,7 @@ CF;;Orta Afrika Cumhuriyeti
 GW;;Gine-Bissau
 MO;;Makao
 PL;;Polonya
-SH;;Sen Helen
+SH;;Sen Helen, Ascension and Tristan da Cunha
 CG;;Kongo
 MP;;Kuzey Meryem Adaları
 PM;;Sen Piyer ve Miquelon
@@ -31,14 +31,14 @@ SJ;;Svalbard ve Jan Mayen Adaları
 CI;;Côte dIvoireIvoire
 MR;;Moritanya
 SK;;Slovakya
-VG;;Virgin Adaları, İngiliz
+VG;;İngiliz Virgin Adaları
 MS;;Monserat
 SL;;Sierra Leone
 CK;;Cook Adaları
 ID;;Endonezya
 MT;;Malta
 SM;;San Marino
-VI;;Virgin Adaları, A.B.D.
+VI;;Amerikan Virgin Adaları
 YE;;Yemen
 CL;;Şili
 IE;;İrlanda
@@ -53,7 +53,7 @@ PR;;Porto Riko
 SO;;Somali
 CN;;Çin
 FJ;;Fiji
-LC;;Sen Lusia
+LC;;Sen Lucia
 MW;;Malavi
 PS;;Filistin Özerk Bölgesi
 CO;;Kolombiya
@@ -63,10 +63,11 @@ PT;;Portekiz
 MY;;Malezya
 SR;;Surinam
 VN;;Vietnam
-FM;;Mikronezya, Federe Devletleri
+FM;;Mikronezya Federe Devletleri
 MZ;;Mozambik
 CR;;Kosta Rika
 PW;;Palau
+SS;;Güney Sudan
 FO;;Faroe Adaları
 ST;;Sao Tome ve Principe
 IL;;İsrail
@@ -74,14 +75,16 @@ LI;;Lihtenştayn
 PY;;Paraguay
 BA;;Bosna-Hersek
 CU;;Küba
-IM;;Man adası
+IM;;Man Adası
 SV;;El Salvador
 CV;;Verde Burnu
 FR;;Fransa
 IN;;Hindistan
 LK;;Sri Lanka
 BB;;Barbados
-IO;;Hint Okyanusu İngiliz Sömürgeleri
+CW;;Curaçao
+IO;;Britanya Hint Okyanusu Toprakları
+SX;;Sen Martin (Hollanda kısmı)
 VU;;Vanuatu
 CX;;Christmas Adası
 RE;;Reunion
@@ -92,7 +95,7 @@ IQ;;Irak
 SZ;;Svaziland
 BD;;Bangladeş
 CZ;;Çek Cumhuriyeti
-IR;;İran, İslâm Cumhuriyeti
+IR;;İran İslâm Cumhuriyeti
 YT;;Mayotte
 BE;;Belçika
 IS;;İzlanda
@@ -116,12 +119,13 @@ LU;;Lüksemburg
 RO;;Romanya
 BM;;Bermuda
 LV;;Latviya
-BN;;Bruney Darüsselam
+BN;;Brunei Krallığı
 UM;;Minor Outlying Adaları Birleşik Devletleri
-BO;;Bolivia, Plurinational State of
+BO;;Bolivya Çokuluslu Devleti
 KE;;Kenya
 NA;;Namibya
-LY;;Libya Arap Birliği
+LY;;Libya
+BQ;;Bonaire, Sint Eustatius ve Saba
 BR;;Brezilya
 KG;;Kırgızistan
 NC;;Yeni Kaledonya
@@ -129,7 +133,7 @@ RS;;Sırbistan
 BS;;Bahamalar
 HK;;Hong Kong
 KH;;Kamboçya
-BT;;Bütan
+BT;;Butan
 KI;;Kiribati
 NE;;Nijer
 QA;;Katar
@@ -146,29 +150,29 @@ BW;;Botsvana
 ES;;İspanya
 ET;;Etiyopya
 NI;;Nikaragua
-AD;;Andora
+AD;;Andorra
 BY;;Beyaz Rusya
-KM;;Komoros
+KM;;Komorlar
 AE;;Birleşik Arap Emirlikleri
 BZ;;Belize
 HR;;Hırvatistan
 KN;;Sen Kitts ve Nevis
-TC;;Turks ve Kaykos Adaları
+TC;;Türk ve Kaykos Adaları
 AF;;Afganistan
 NL;;Hollanda
 TD;;Çad
-AG;;Antiga ve Barbuda
+AG;;Antigua-Barbuda
 HT;;Haiti
 KP;;Korea, Democratic Peoples Republic ofs Republic of
 UY;;Uruguay
 GA;;Gabon
 HU;;Macaristan
-TF;;Fransa'nın Güney Bölgeleri
+TF;;Fransız Güney Bölgeleri
 UZ;;Özbekistan
-AI;;Angula
+AI;;Anguila
 DE;;Almanya
 GB;;Birleşik Krallık
-KR;;Kore, Cumhuriyeti
+KR;;Kore Cumhuriyeti
 TG;;Togo
 NO;;Norveç
 TH;;Tayland
@@ -178,15 +182,14 @@ ZA;;Güney Afrika
 AL;;Arnavutluk
 GE;;Gürcistan
 TJ;;Tacikistan
-WF;;Wallis ve Futuna Adaları
+WF;;Wallis ve Futuna
 AM;;Ermenistan
 GF;;Fransız Guyanası
 NR;;Nauru
 TK;;Tokelau
-AN;;Hollanda Antilleri
 DJ;;Cibuti
 KW;;Kuveyt
-TL;;Timor_Leste
+TL;;Timor-Leste
 AO;;Angola
 DK;;Danimarka
 GG;;Guernsey
@@ -204,7 +207,7 @@ TO;;Tonga
 AQ;;Antarktika
 MC;;Monako
 AR;;Arjantin
-MD;;Makedonya, Cumhuriyeti
+MD;;Moldova Cumhuriyeti
 AS;;Amerikan Samoası
 DO;;Dominik Cumhuriyeti
 ME;;Karadağ
@@ -213,14 +216,14 @@ TR;;Türkiye
 AT;;Avusturya
 GL;;Grönland
 MF;;Sen Martin (Fransız kısmı)
-NZ;;Yeni Zellanda
+NZ;;Yeni Zelanda
 AU;;Avustralya
 GM;;Gambiya
-MG;;Madagaskar
 GN;;Gine
+MG;;Madagaskar
 AW;;Aruba
 MH;;Marşal Adaları
-TT;;Trinidad ve Tobako
+TT;;Trinidad ve Tobago
 ZM;;Zambiya
 GP;;Guadalup
 AX;;Åland Adaları
@@ -234,13 +237,13 @@ SB;;Solomon Adaları
 PF;;Fransız Polinezyası
 TV;;Tuvalu
 PG;;Papua Yeni Gine
-MK;;Makedonya, Cumhuriyeti
+MK;;Makedonya Cumhuriyeti
 GR;;Yunanistan
 AZ;;Azerbaycan
 TW;;Tayvan, Çin Eyaleti
-SC;;Seyşel Adaları
+SC;;Seyşeller
 PH;;Filipinler
 ML;;Mali
 JO;;Ürdün
-GS;;Güney Gürcistan ve Güney Sandoviç Adası
+GS;;Güney Gürcistan ve Güney Sandöviç Adası
 SD;;Sudan

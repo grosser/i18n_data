@@ -1,185 +1,185 @@
-SE;;Northern Sami
-FY;;Western Frisian
+SE;;Паўночнасаамская
+FY;;Заходняфрызская
 OS;;Асецінская
-GL;;Galician
-LU;;Luba-Katanga
-MI;;Маоры
+GL;;Галісійская
+LU;;Луба-катанга
+MI;;Маарыйская
 LV;;Латвійская
-HA;;Hausa
+HA;;Хаўса
 BE;;Беларуская
-GN;;Guarani
-PI;;Pali
+GN;;Гуарані
+PI;;Палі
 UR;;Урду
 MK;;Македонская
-VE;;Venda
+VE;;Венда
 AR;;Арабская
-SG;;Sango
+SG;;Санго
 KA;;Грузінская
-ML;;Malayalam
-AS;;Assamese
-EE;;Ewe
+ML;;Малаялам
+AS;;Асамская
+EE;;Эве
 RU;;Руская
-SI;;Sinhala; Sinhalese
+SI;;Сінгальская
 BG;;Балгарская
 PL;;Польская
 HE;;Іўрыт
 NA;;Науру
-BH;;Мовы апачы
+BH;;Біхарскія мовы
 MN;;Мангольская
 VI;;В'етнамская
-RW;;Kinyarwanda
-NB;;Bokmål, Norwegian; Norwegian Bokmål
-AV;;Avaric
+RW;;Кіньяруанда
+NB;;Нарвежская букмал
+AV;;Аварская
 SK;;Славацкая
-BI;;Bislama
+BI;;Біслама
 MO;;Малдаўская
 SL;;Славенская
 YI;;Ідыш
-DV;;Divehi; Dhivehi; Maldivian
-ND;;Ndebele, North; North Ndebele
-SM;;Samoan
-NE;;Непальская
-AY;;Aymara
-SN;;Shona
+DV;;Мальдыўская
+ND;;Ндэбеле, поўнач
+SM;;Самаанская
+NE;;Непалі
+AY;;Аймара
+SN;;Шона
 KG;;Конга
-TA;;Tamil
-GU;;Gujarati
+TA;;Тамільская
+GU;;Гуджараці
 HI;;Хіндзі
-MR;;Marathi
+MR;;Маратхі
 AZ;;Азербайджанская
 SO;;Самалійская
-BM;;Bambara
-GV;;Manx
-CA;;Каталонская; Валенсія
+BM;;Бамбара
+GV;;Мэнская
+CA;;Каталанская
 MS;;Малайская
 EL;;Грэцкая (ад 1453)
-NG;;Ndonga
-WA;;Walloon
+NG;;Ндонга
+WA;;Валонская
 BN;;Бенгальская
-KI;;Kikuyu; Gikuyu
+KI;;Кікую
 UZ;;Узбецкая
-DZ;;Dzongkha
+DZ;;Дзонг-хэ
 MT;;Мальтыйская
-VO;;Volapük
-JV;;Javanese
+VO;;Валапюк
+JV;;Яванская
 FA;;Персідская
 SQ;;Албанская
 BO;;Тыбецкая
-KJ;;Kuanyama; Kwanyama
+KJ;;Кваньяма
 EN;;Англійская
 SR;;Сербская
-TE;;Telugu
-PS;;Pushto; Pashto
-ZA;;Zhuang; Chuang
-IA;;Interlingua (International Auxiliary Language Association)
+TE;;Тэлугу
+PS;;Афганская
+ZA;;Чжуанская
+IA;;Інтэрлінгуа
 EO;;Эсперанта
 KK;;Казахская
 PT;;Партугальская
-YO;;Yoruba
-SS;;Swati
-BR;;Breton
-KL;;Kalaallisut; Greenlandic
+YO;;Іоруба
+SS;;Свазі
+BR;;Брэтанская
+KL;;Грэнландская
 TG;;Таджыцкая
 CE;;Чачэнская
-NL;;Галандская; фламандская
-ST;;Sotho, Southern
+NL;;Галандская
+ST;;Сесута
 BS;;Баснійская
-KM;;Central Khmer
-TH;;Thai
+KM;;Цэнтральнакхмерская
+TH;;Тайская
 LA;;Лацінская
-HO;;Hiri Motu
-SU;;Sundanese
-KN;;Kannada
-TI;;Tigrinya
+HO;;Хіры-моту
+SU;;Сунданская
+KN;;Канада
+TI;;Тыгрынья
 LB;;Люксембургская
-MY;;Burmese
+MY;;Бірманская
 ID;;Інданезійская
 SV;;Шведская
-FF;;Fulah
+FF;;Фула
 KO;;Карэйская
-CH;;Chamorro
-IE;;Interlingue; Occidental
-ES;;Іспанская; касцільская
+CH;;Чамора
+IE;;Інтэрлінг
+ES;;Іспанская
 SW;;Суахілі
 TK;;Туркменская
 HR;;Харвацкая
 ET;;Эстонская
 NN;;Нарвежская нюнорск
-OC;;Occitan (post 1500)
-TL;;Tagalog
+OC;;Аксітанская (пасля 1500)
+TL;;Тагальская
 ZH;;Кітайская
-IG;;Igbo
-EU;;Баскская
+IG;;Ігба
+EU;;Басцкая
 NO;;Нарвежская
 FI;;Фінская
-HT;;Haitian; Haitian Creole
-KR;;Kanuri
-FJ;;Fijian
-AA;;Афар
+HT;;Гаіцянская трасянка
+KR;;Кануры
+FJ;;Фіджыйская
+AA;;Афарская
 HU;;Венгерская
-LG;;Ganda
+LG;;Ганда
 KS;;Кашмірская
-TN;;Tswana
-NR;;Ndebele, South; South Ndebele
+TN;;Тсвана
+NR;;Ндэбеле, поўдзень
 AB;;Абхазская
-II;;Sichuan Yi; Nuosu
+II;;Носу
 DA;;Дацкая
-TO;;Tonga (Tonga Islands)
+TO;;Тонга (астравы)
 KU;;Курдская
-LI;;Limburgan; Limburger; Limburgish
+LI;;Лімбургская
 GA;;Ірландская
 KV;;Комі
-IK;;Inupiaq
+IK;;Інупіяк
 CO;;Карсіканская
-WO;;Wolof
-KW;;Cornish
-AE;;Avestan
+WO;;Валоф
+KW;;Корнская
+AE;;Авеста
 HY;;Армянская
 TR;;Турэцкая
-FO;;Faroese
+FO;;Фарэрская
 JA;;Японская
-NV;;Navajo; Navaho
+NV;;Наваха
 AF;;Афрыкаанс
-HZ;;Herero
-OJ;;Ojibwa
-TS;;Tsonga
-CR;;Cree
-GD;;Gaelic; Scottish Gaelic
-KY;;Кыргізская
+HZ;;Герэра
+OJ;;Аджыбва
+TS;;Тсонга
+CR;;Кры
+GD;;Гэльская
+KY;;Кіргізская
 DE;;Нямецкая
-QU;;Quechua
-UG;;Uighur; Uyghur
+QU;;Кечуа
+UG;;Уйгурская
 CS;;Чэшская
-IO;;Ido
+IO;;Іда
 TT;;Татарская
-LN;;Lingala
+LN;;Лінгала
 FR;;Французская
-NY;;Chichewa; Chewa; Nyanja
-OM;;Oromo
+NY;;Чычэва
+OM;;Арома
 LO;;Лаоская
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 PA;;Панджабі
-XH;;Xhosa
+XH;;Кшоса
 CV;;Чувашская
-AK;;Akan
-RM;;Romansh
-TW;;Twi
+AK;;Акан
+RM;;Рэтараманская
+TW;;Тві
 UK;;Украінская
 IS;;Ісландская
-RN;;Рундзі
+RN;;Кірундзі
 SA;;Санскрыт
-ZU;;Зулуская
+ZU;;Зулу
 IT;;Італьянская
 BA;;Башкірская
 AM;;Амхарская
 RO;;Румынская
-TY;;Tahitian
-IU;;Inuktitut
+TY;;Таіцянская
+IU;;Інуктытут
 MG;;Малагасійская
-AN;;Aragonese
+AN;;Арагонская
 SC;;Сардзінская
 CY;;Уэльская
-MH;;Marshallese
+MH;;Маршальская
 LT;;Літоўская
-OR;;Oriya
-SD;;Sindhi
+OR;;Орыя
+SD;;Сіндхі

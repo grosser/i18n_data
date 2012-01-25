@@ -16,7 +16,7 @@ CF;;ፘመጢጘለኢፄ ጐፔሱጢ ሱፐብሑጤ
 GW;;ቢሳፅ
 MO;;ሢጢፅ
 PL;;ፖሒን፥
-SH;;Saint Helena
+SH;;Saint Helena, Ascension and Tristan da Cunha
 CG;;ኮንጎ
 MP;;Northern Mariana Islands
 PM;;Saint Pierre and Miquelon
@@ -67,6 +67,7 @@ FM;;ሡጤስኔፒ።
 MZ;;Mozambique
 CR;;Costa Rica
 PW;;Palau
+SS;;፠ቡብ ጐፔሱጢ
 FO;;Faroe Islands
 ST;;Sao Tome and Principe
 IL;;ጕስሲጔሔ
@@ -81,7 +82,9 @@ FR;;France
 IN;;ህን፥
 LK;;Sri Lanka
 BB;;ባሴቤ፦ስ
+CW;;Curaçao
 IO;;British Indian Ocean Territory
+SX;;Sint Maarten (Dutch part)
 VU;;Vanuatu
 CX;;Christmas Island
 RE;;Reunion
@@ -121,7 +124,8 @@ UM;;United States Minor Outlying Islands
 BO;;Bolivia, Plurinational State of
 KE;;Kenya
 NA;;ናሡቢ።
-LY;;ሑቢ።
+LY;;Libya
+BQ;;Bonaire, Sint Eustatius and Saba
 BR;;ብሲፑሔ
 KG;;Kyrgyzstan
 NC;;ኒፄ ጢሓ፦ኒ።
@@ -183,7 +187,6 @@ AM;;ጐሴሣኒ።
 GF;;ፘፈረንሳ፤ ጉፁጐና
 NR;;Nauru
 TK;;Tokelau
-AN;;ኔፈሴሒን፥ስ ጐንቲሔስ
 DJ;;Djibouti
 KW;;ጤፃት
 TL;;ሤስሲቅ ቲሥሴ
@@ -216,8 +219,8 @@ MF;;Saint Martin (French part)
 NZ;;ኒፄ ፑሒን፥
 AU;;ጐፄስትሳሑ።
 GM;;ጒሤቢ።
-MG;;Madagascar
 GN;;጑ኒ
+MG;;Madagascar
 AW;;Aruba
 MH;;Marshall Islands
 TT;;ትሱኒ፣፥ ጕና ቶባጕ
