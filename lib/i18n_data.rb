@@ -1,6 +1,6 @@
+require 'i18n_data/version'
+
 module I18nData
-  VERSION = File.read( File.join(File.dirname(__FILE__), '..', 'VERSION') ).strip
-  
   extend self
   
   def languages(language_code='EN')

@@ -1,8 +1,9 @@
+require 'bundler/gem_tasks'
 $LOAD_PATH << "lib"
 require 'i18n_data'
 
 task :default do
-  sh "bundle exec rspec spec"
+  sh "rspec spec/"
 end
 
 desc "write all languages to output"
@@ -64,26 +65,19 @@ task :stats do
   end
 end
 
-desc "write cache for I18nData::FileDataProvider"
-task :write_cache_for_file_data_provider do
-  require 'i18n_data/file_data_provider'
-  require 'i18n_data/live_data_provider'
-  I18nData::FileDataProvider.write_cache(I18nData::LiveDataProvider)
-end
+# extracted from https://github.com/grosser/project_template
+rule /^version:bump:.*/ do |t|
+  sh "git status | grep 'nothing to commit'" # ensure we are not dirty
+  index = ['major', 'minor','patch'].index(t.name.split(':').last)
+  file = 'lib/i18n_data/version.rb'
 
-begin
-  require 'jeweler'
-  project_name = 'i18n_data'
-  Jeweler::Tasks.new do |gem|
-    gem.name = project_name
-    gem.summary = "country/language names and 2-letter-code pairs, in 85 languages"
-    gem.email = "michael@grosser.it"
-    gem.homepage = "https://github.com/grosser/#{project_name}"
-    gem.authors = ["Michael Grosser"]
-    gem.license = "MIT"
-  end
+  version_file = File.read(file)
+  old_version, *version_parts = version_file.match(/(\d+)\.(\d+)\.(\d+)/).to_a
+  version_parts[index] = version_parts[index].to_i + 1
+  version_parts[2] = 0 if index < 2 # remove patch for minor
+  version_parts[1] = 0 if index < 1 # remove minor for major
+  new_version = version_parts * '.'
+  File.open(file,'w'){|f| f.write(version_file.sub(old_version, new_version)) }
 
-  Jeweler::GemcutterTasks.new
-rescue LoadError
-  puts "Jeweler, or one of its dependencies, is not available. Install it with: gem install jeweler"
+  sh "bundle && git add #{file} Gemfile.lock && git commit -m 'bump version to #{new_version}'"
 end

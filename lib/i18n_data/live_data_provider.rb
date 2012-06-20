@@ -1,6 +1,5 @@
 require 'open-uri'
 require 'rexml/document'
-gem 'activesupport', '> 2.2'
 require 'active_support'
 
 module I18nData
