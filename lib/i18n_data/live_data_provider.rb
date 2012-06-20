@@ -36,13 +36,9 @@ module I18nData
     def translated(type, language_code)
       @translated ||= {}
       @translated["#{type}_#{language_code}"] ||= begin
-        # TODO inject or Hash[]
-        translations = {}
-        send("english_#{type}").each do |code,name|
-          translation = translate(type, name, language_code)
-          translations[code] = translation || name
-        end
-        translations
+        Hash[send("english_#{type}").map do |code, name|
+          [code, translate(type, name, language_code) || name]
+        end]
       end
     end
 
@@ -64,7 +60,6 @@ module I18nData
 
     def english_languages
       @english_languages ||= begin
-        # TODO use inject or Hash[]
         codes = {}
         xml(:languages).elements.each('*/iso_639_entry') do |entry|
           name = entry.attributes['name'].to_s.gsub("'", "\\'")
@@ -78,7 +73,6 @@ module I18nData
 
     def english_countries
       @english_countries ||= begin
-        # TODO use inject or Hash[]
         codes = {}
         xml(:countries).elements.each('*/iso_3166_entry') do |entry|
           name = entry.attributes['name'].to_s.gsub("'", "\\'")
@@ -93,11 +87,9 @@ module I18nData
       names = data.select{|l| l =~ /^msgid/ }.map{|line| line.match(/^msgid "(.*?)"/)[1] }
       translations = data.select{|l| l =~ /^msgstr/ }.map{|line| line.match(/^msgstr "(.*?)"/)[1] }
 
-      translated = {}
-      names.each_with_index do |name,index|
-        translated[name]=translations[index]
-      end
-      translated
+      Hash[names.each_with_index.map do |name,index|
+        [name, translations[index]]
+      end]
     end
 
     def xml(type)
