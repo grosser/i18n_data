@@ -11,7 +11,7 @@ Through [pkg-isocodes](http://git.debian.org/?p=iso-codes/iso-codes.git):
 Install
 =======
 
-    sudo gem install i18n_data
+    gem install i18n_data
 
 Usage
 =====
