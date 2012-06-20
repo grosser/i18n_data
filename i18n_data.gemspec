@@ -9,5 +9,4 @@ Gem::Specification.new name, I18nData::VERSION do |s|
   s.homepage = "http://github.com/grosser/#{name}"
   s.files = `git ls-files`.split("\n")
   s.license = "MIT"
-  s.add_runtime_dependency "activesupport", ">=2.2"
 end

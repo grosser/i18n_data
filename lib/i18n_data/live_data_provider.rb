@@ -1,11 +1,9 @@
 require 'open-uri'
 require 'rexml/document'
-require 'active_support'
 
 module I18nData
   # fetches data online from debian svn
   module LiveDataProvider
-    extend ActiveSupport::Memoizable
     extend self
 
     ROOT = "http://git.debian.org/?p=iso-codes/iso-codes.git;a=blob_plain;f="
@@ -36,51 +34,60 @@ module I18nData
     end
 
     def translated(type, language_code)
-      translations = {}
-      send("english_#{type}").each do |code,name|
-        translation = translate(type, name, language_code)
-        translations[code] = translation || name
+      @translated ||= {}
+      @translated["#{type}_#{language_code}"] ||= begin
+        # TODO inject or Hash[]
+        translations = {}
+        send("english_#{type}").each do |code,name|
+          translation = translate(type, name, language_code)
+          translations[code] = translation || name
+        end
+        translations
       end
-      translations
     end
-    memoize :translated
 
     def translations(type, language_code)
-      begin
-        url = TRANSLATIONS[type]+"#{language_code.downcase}.po"
-        data = open(url).read
-      rescue
-        raise NoTranslationAvailable, "for #{type} and language code = #{language_code} (#{$!})"
-      end
+      @translations ||= {}
+      @translations["#{type}_#{language_code}"] ||= begin
+        begin
+          url = TRANSLATIONS[type]+"#{language_code.downcase}.po"
+          data = open(url).read
+        rescue
+          raise NoTranslationAvailable, "for #{type} and language code = #{language_code} (#{$!})"
+        end
 
-      data = data.force_encoding('utf-8') if data.respond_to?(:force_encoding) # 1.9
-      data = data.split("\n")
-      po_to_hash data
+        data = data.force_encoding('utf-8') if data.respond_to?(:force_encoding) # 1.9
+        data = data.split("\n")
+        po_to_hash data
+      end
     end
-    memoize :translations
 
     def english_languages
-      codes = {}
-      xml(:languages).elements.each('*/iso_639_entry') do |entry|
-        name = entry.attributes['name'].to_s.gsub("'", "\\'")
-        code = entry.attributes['iso_639_1_code'].to_s.upcase
-        next if code.empty? or name.empty?
-        codes[code] = name
+      @english_languages ||= begin
+        # TODO use inject or Hash[]
+        codes = {}
+        xml(:languages).elements.each('*/iso_639_entry') do |entry|
+          name = entry.attributes['name'].to_s.gsub("'", "\\'")
+          code = entry.attributes['iso_639_1_code'].to_s.upcase
+          next if code.empty? or name.empty?
+          codes[code] = name
+        end
+        codes
       end
-      codes
     end
-    memoize :english_languages
 
     def english_countries
-      codes = {}
-      xml(:countries).elements.each('*/iso_3166_entry') do |entry|
-        name = entry.attributes['name'].to_s.gsub("'", "\\'")
-        code = entry.attributes['alpha_2_code'].to_s.upcase
-        codes[code] = name
+      @english_countries ||= begin
+        # TODO use inject or Hash[]
+        codes = {}
+        xml(:countries).elements.each('*/iso_3166_entry') do |entry|
+          name = entry.attributes['name'].to_s.gsub("'", "\\'")
+          code = entry.attributes['alpha_2_code'].to_s.upcase
+          codes[code] = name
+        end
+        codes
       end
-      codes
     end
-    memoize :english_countries
 
     def po_to_hash(data)
       names = data.select{|l| l =~ /^msgid/ }.map{|line| line.match(/^msgid "(.*?)"/)[1] }
