@@ -1,249 +1,249 @@
-VA;;Vatican
-CC;;Insulele Cocos (Keeling)
-GT;;Guatemala
-JP;;Japonia
-SE;;Suedia
-TZ;;Republica Unită Tanzania
-CD;;Congo, Republica democrată
-GU;;Guam
-MM;;Myanmar
-DZ;;Algeria
-MN;;Mongolia
-PK;;Pakistan
-SG;;Singapore
-VC;;Sfinții Vincent și Grenadines
-CF;;Republica Central Africană
-GW;;Guinea-Bissau
-MO;;Macao
-PL;;Polonia
-SH;;Sfânta Elena, Ascension și Tristan da Cunha
-CG;;Congo
-MP;;Insulele Mariane de Nord
-PM;;Sfinții Pierre și Miquelon
-SI;;Slovenia
-VE;;Venezuela, Republica Bolivariană
-ZW;;Zimbabwe
-CH;;Elveția
-GY;;Guyana
-MQ;;Martinica
-PN;;Pitcairn
-SJ;;Svalbard și Jan Mayen
-CI;;Côte dIvoireIvoire
-MR;;Mauritania
-SK;;Slovacia
-VG;;Insulele virgine (britanice)
-MS;;Montserrat
-SL;;Sierra Leone
-CK;;Insulele Cook
-ID;;Indonezia
-MT;;Malta
-SM;;San Marino
-VI;;Insulele virgine (SUA)
-YE;;Yemen
-CL;;Chile
-IE;;Irlanda
-LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;Maurițius
-SN;;Senegal
-CM;;Camerun
-FI;;Finlanda
-LB;;Liban
-MV;;Maldive
-PR;;Puerto Rico
-SO;;Somalia
-CN;;China
-FJ;;Fiji
-LC;;Sfânta Lucia
-MW;;Malawi
-PS;;Teritoriile Palestiniene, Ocupate
-CO;;Columbia
-FK;;Insulele Falkland (Insulele Malvine)
-MX;;Mexic
-PT;;Portugalia
-MY;;Malaezia
-SR;;Suriname
-VN;;Vietnam
-FM;;Micronesia, Statele federale ale
-MZ;;Mozambic
-CR;;Costa Rica
-PW;;Palau
-SS;;Republica Sudan
-FO;;Insulele Feroe
-ST;;Sao Tome și Principe
-IL;;Israel
-LI;;Liechtenstein
-PY;;Paraguay
-BA;;Bosnia și Herțegovina
-CU;;Cuba
-IM;;Insula Man
-SV;;El Salvador
-CV;;Capul Verde
-FR;;Franța
-IN;;India
-LK;;Sri Lanka
-BB;;Barbados
-CW;;Curaçao
-IO;;Teritoriul britanic din Oceanul Indian
-SX;;Sfântul Martin (partea franceză)
-VU;;Vanuatu
-CX;;Insula Crăciunului
-RE;;Reunion
-UA;;Ucraina
-SY;;Republica Araba Siria
-CY;;Cipru
-IQ;;Irak
-SZ;;Swaziland
-BD;;Bangladeș
-CZ;;Cehia
-IR;;Iran, Republica islamică
-YT;;Mayotte
-BE;;Belgia
-IS;;Islanda
-BF;;Burkina Faso
-EC;;Ecuador
-IT;;Italia
-OM;;Oman
-BG;;Bulgaria
-BH;;Bahrein
-LR;;Liberia
-UG;;Uganda
-BI;;Burundi
-EE;;Estonia
-LS;;Lesotho
-BJ;;Benin
-LT;;Lituania
-EG;;Egipt
-BL;;Sfântul Bartolomeu
-EH;;Sahara de Vest
-LU;;Luxemburg
-RO;;România
-BM;;Bermude
-LV;;Letonia
-BN;;Brunei
-UM;;Insulele de Coasta ale Statelor Unite
-BO;;Bolivia
-KE;;Kenia
-NA;;Namibia
-LY;;Libia
-BQ;;Bonaire, Sint Eustatius and Saba
-BR;;Brazilia
-KG;;Kârgâzstan
-NC;;Noua Caledonie
-RS;;Serbia
-BS;;Bahamas
-HK;;Hong Kong
-KH;;Cambogia
-BT;;Bhutan
-KI;;Kiribati
-NE;;Niger
-QA;;Qatar
-RU;;Federația Rusă
-HM;;Insulele Heard și McDonald
-NF;;Insula Norfolk
-US;;Statele Unite
-BV;;Insula Bouvet
-ER;;Eritreea
-HN;;Honduras
-NG;;Nigeria
-RW;;Rwanda
-BW;;Botswana
-ES;;Spania
-ET;;Etiopia
-NI;;Nicaragua
-AD;;Andora
-BY;;Bielorusia
-KM;;Comoros
-AE;;Emiratele Arabe Unite
-BZ;;Belize
-HR;;Croația
-KN;;Sfinții Kitts și Nevis
-TC;;Insulele Turks și Caicos
 AF;;Afganistan
-NL;;Olanda
-TD;;Ciad
-AG;;Antigua și Barbuda
-HT;;Haiti
-KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;Uruguay
-GA;;Gabon
-HU;;Ungaria
-TF;;Teritoriile franceze de sud
-UZ;;Uzbekistan
-AI;;Anguilla
-DE;;Germania
-GB;;Regatul Unit al Marii Britanii
-KR;;Republica Coreea
-TG;;Togo
-NO;;Norvegia
-TH;;Tailanda
-GD;;Grenada
-NP;;Nepal
-ZA;;Africa de sud
-AL;;Albania
-GE;;Georgia
-TJ;;Tajikistan
-WF;;Wallis și Futuna
-AM;;Armenia
-GF;;Guiana Franceză
-NR;;Nauru
-TK;;Tokelau
-DJ;;Djibouti
-KW;;Kuweit
-TL;;Timorul de Est
-AO;;Angola
-DK;;Danemarca
-GG;;Guernsey
-TM;;Turkmenistan
-GH;;Ghana
-JE;;Jersey
-MA;;Maroc
-KY;;Insulele Caiman
-NU;;Niue
-TN;;Tunisia
-DM;;Dominica
-GI;;Gibraltar
-KZ;;Kazakhstan
-TO;;Tonga
-AQ;;Antarctica
-MC;;Monaco
-AR;;Argentina
-MD;;Moldova, Republica
-AS;;Samoa americană
-DO;;Republica Dominicană
-ME;;Muntenegru
-PA;;Panama
-TR;;Turcia
-AT;;Austria
-GL;;Groenlanda
-MF;;Sfântul Martin (partea franceză)
-NZ;;Noua Zeelandă
-AU;;Australia
-GM;;Gambia
-GN;;Guinea
-MG;;Madagascar
-AW;;Aruba
-MH;;Insulele Marshall
-TT;;Trinidad și Tobago
-ZM;;Zambia
-GP;;Guadelupa
 AX;;Insulele Åland
-SA;;Arabia Saudită
-PE;;Peru
-JM;;Jamaica
-GQ;;Guinea Ecuatorială
-CA;;Canada
-WS;;Samoa
-SB;;Insulele Solomon
-PF;;Polinezia Franceză
-TV;;Tuvalu
-PG;;Papua Noua Guinee
-MK;;Macedonia, Republica
-GR;;Grecia
+AL;;Albania
+DZ;;Algeria
+AS;;Samoa americană
+AD;;Andora
+AO;;Angola
+AI;;Anguilla
+AQ;;Antarctica
+AG;;Antigua și Barbuda
+AR;;Argentina
+AM;;Armenia
+AW;;Aruba
+AU;;Australia
+AT;;Austria
 AZ;;Azerbaijan
-TW;;Taiwan
-SC;;Seychelles
-PH;;Filipine
-ML;;Mali
+BS;;Bahamas
+BH;;Bahrein
+BD;;Bangladeș
+BB;;Barbados
+BY;;Bielorusia
+BE;;Belgia
+BZ;;Belize
+BJ;;Benin
+BM;;Bermude
+BT;;Bhutan
+BO;;Bolivia
+BQ;;Bonaire, Sint Eustatius and Saba
+BA;;Bosnia și Herțegovina
+BW;;Botswana
+BV;;Insula Bouvet
+BR;;Brazilia
+IO;;Teritoriul britanic din Oceanul Indian
+BN;;Brunei
+BG;;Bulgaria
+BF;;Burkina Faso
+BI;;Burundi
+KH;;Cambogia
+CM;;Camerun
+CA;;Canada
+CV;;Capul Verde
+KY;;Insulele Caiman
+CF;;Republica Central Africană
+TD;;Ciad
+CL;;Chile
+CN;;China
+CX;;Insula Crăciunului
+CC;;Insulele Cocos (Keeling)
+CO;;Columbia
+KM;;Comoros
+CG;;Congo
+CD;;Congo, Republica democrată
+CK;;Insulele Cook
+CR;;Costa Rica
+CI;;Côte dIvoireIvoire
+HR;;Croația
+CU;;Cuba
+CW;;Curaçao
+CY;;Cipru
+CZ;;Cehia
+DK;;Danemarca
+DJ;;Djibouti
+DM;;Dominica
+DO;;Republica Dominicană
+EC;;Ecuador
+EG;;Egipt
+SV;;El Salvador
+GQ;;Guinea Ecuatorială
+ER;;Eritreea
+EE;;Estonia
+ET;;Etiopia
+FK;;Insulele Falkland (Insulele Malvine)
+FO;;Insulele Feroe
+FJ;;Fiji
+FI;;Finlanda
+FR;;Franța
+GF;;Guiana Franceză
+PF;;Polinezia Franceză
+TF;;Teritoriile franceze de sud
+GA;;Gabon
+GM;;Gambia
+GE;;Georgia
+DE;;Germania
+GH;;Ghana
+GI;;Gibraltar
+GR;;Grecia
+GL;;Groenlanda
+GD;;Grenada
+GP;;Guadelupa
+GU;;Guam
+GT;;Guatemala
+GG;;Guernsey
+GN;;Guinea
+GW;;Guinea-Bissau
+GY;;Guyana
+HT;;Haiti
+HM;;Insulele Heard și McDonald
+VA;;Vatican
+HN;;Honduras
+HK;;Hong Kong
+HU;;Ungaria
+IS;;Islanda
+IN;;India
+ID;;Indonezia
+IR;;Iran, Republica islamică
+IQ;;Irak
+IE;;Irlanda
+IM;;Insula Man
+IL;;Israel
+IT;;Italia
+JM;;Jamaica
+JP;;Japonia
+JE;;Jersey
 JO;;Iordania
+KZ;;Kazakhstan
+KE;;Kenia
+KI;;Kiribati
+KP;;Korea, Democratic Peoples Republic ofs Republic of
+KR;;Republica Coreea
+KW;;Kuweit
+KG;;Kârgâzstan
+LA;;Lao Peoples Democratic Republics Democratic Republic
+LV;;Letonia
+LB;;Liban
+LS;;Lesotho
+LR;;Liberia
+LY;;Libia
+LI;;Liechtenstein
+LT;;Lituania
+LU;;Luxemburg
+MO;;Macao
+MK;;Macedonia, Republica
+MG;;Madagascar
+MW;;Malawi
+MY;;Malaezia
+MV;;Maldive
+ML;;Mali
+MT;;Malta
+MH;;Insulele Marshall
+MQ;;Martinica
+MR;;Mauritania
+MU;;Maurițius
+YT;;Mayotte
+MX;;Mexic
+FM;;Micronesia, Statele federale ale
+MD;;Moldova, Republica
+MC;;Monaco
+MN;;Mongolia
+ME;;Muntenegru
+MS;;Montserrat
+MA;;Maroc
+MZ;;Mozambic
+MM;;Myanmar
+NA;;Namibia
+NR;;Nauru
+NP;;Nepal
+NL;;Olanda
+NC;;Noua Caledonie
+NZ;;Noua Zeelandă
+NI;;Nicaragua
+NE;;Niger
+NG;;Nigeria
+NU;;Niue
+NF;;Insula Norfolk
+MP;;Insulele Mariane de Nord
+NO;;Norvegia
+OM;;Oman
+PK;;Pakistan
+PW;;Palau
+PS;;Teritoriile Palestiniene, Ocupate
+PA;;Panama
+PG;;Papua Noua Guinee
+PY;;Paraguay
+PE;;Peru
+PH;;Filipine
+PN;;Pitcairn
+PL;;Polonia
+PT;;Portugalia
+PR;;Puerto Rico
+QA;;Qatar
+RE;;Réunion
+RO;;România
+RU;;Federația Rusă
+RW;;Rwanda
+BL;;Sfântul Bartolomeu
+SH;;Sfânta Elena, Ascension și Tristan da Cunha
+KN;;Sfinții Kitts și Nevis
+LC;;Sfânta Lucia
+MF;;Sfântul Martin (partea franceză)
+PM;;Sfinții Pierre și Miquelon
+VC;;Sfinții Vincent și Grenadines
+WS;;Samoa
+SM;;San Marino
+ST;;Sao Tome și Principe
+SA;;Arabia Saudită
+SN;;Senegal
+RS;;Serbia
+SC;;Seychelles
+SL;;Sierra Leone
+SG;;Singapore
+SX;;Sfântul Martin (partea franceză)
+SK;;Slovacia
+SI;;Slovenia
+SB;;Insulele Solomon
+SO;;Somalia
+ZA;;Africa de sud
 GS;;Georgia de Sud și Insulele Sandwich de sud
+ES;;Spania
+LK;;Sri Lanka
 SD;;Sudan
+SR;;Suriname
+SS;;Republica Sudan
+SJ;;Svalbard și Jan Mayen
+SZ;;Swaziland
+SE;;Suedia
+CH;;Elveția
+SY;;Republica Araba Siria
+TW;;Taiwan
+TJ;;Tajikistan
+TZ;;Republica Unită Tanzania
+TH;;Tailanda
+TL;;Timorul de Est
+TG;;Togo
+TK;;Tokelau
+TO;;Tonga
+TT;;Trinidad și Tobago
+TN;;Tunisia
+TR;;Turcia
+TM;;Turkmenistan
+TC;;Insulele Turks și Caicos
+TV;;Tuvalu
+UG;;Uganda
+UA;;Ucraina
+AE;;Emiratele Arabe Unite
+GB;;Regatul Unit al Marii Britanii
+US;;Statele Unite
+UM;;Insulele de Coasta ale Statelor Unite
+UY;;Uruguay
+UZ;;Uzbekistan
+VU;;Vanuatu
+VE;;Venezuela, Republica Bolivariană
+VN;;Vietnam
+VG;;Insulele virgine (britanice)
+VI;;Insulele virgine (SUA)
+WF;;Wallis și Futuna
+EH;;Sahara de Vest
+YE;;Yemen
+ZM;;Zambia
+ZW;;Zimbabwe

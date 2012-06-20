@@ -65,6 +65,13 @@ task :stats do
   end
 end
 
+desc "write cache for I18nData::FileDataProvider"
+task :write_cache_for_file_data_provider do
+  require 'i18n_data/file_data_provider'
+  require 'i18n_data/live_data_provider'
+  I18nData::FileDataProvider.write_cache(I18nData::LiveDataProvider)
+end
+
 # extracted from https://github.com/grosser/project_template
 rule /^version:bump:.*/ do |t|
   sh "git status | grep 'nothing to commit'" # ensure we are not dirty

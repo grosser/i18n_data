@@ -1,185 +1,185 @@
-SE;;Sami nordică
-FY;;Frizona occidentală
-OS;;Osețiană
-GL;;Galiciană
-LU;;Luba-Katanganeză
-MI;;Maură
-LV;;Letonă
-HA;;Hausă
-BE;;Bielorusă
-GN;;Guarană
-PI;;Pali
-UR;;Urdu
-MK;;Macedoneană
-VE;;Vendă
-AR;;Arabă
-SG;;Sangă
-KA;;Georgiană
-ML;;Malayalam
-AS;;Asameză
-EE;;Ewe
-RU;;Rusă
-SI;;Sinhaleză
-BG;;Bulgară
-PL;;Poloneză
-HE;;Ebraică
-NA;;Naură
-BH;;Limbi Bihari
-MN;;Mongolă
-VI;;Vietnameză
-RW;;Chiniaruandeză
-NB;;Bokmål, norvegiană; Norvegiană bokmål (cărturărească)
-AV;;Avară
-SK;;Slovacă
-BI;;Bislamă
-MO;;Română
-SL;;Slovenă
-YI;;Idiș
-DV;;Divehineză; Dhivehineză; Maldivineză
-ND;;Ndebele nordică
-SM;;Samoană
-NE;;Nepaleză
-AY;;Aimară
-SN;;Șonă
-KG;;Kongo
-TA;;Tamilă
-GU;;Gujaratineză
-HI;;Hindusă
-MR;;Marathi
-AZ;;Azeră
-SO;;Somaleză
-BM;;Bambară
-GV;;Manxă
-CA;;Catalană; valenciană
-MS;;Malaeză
-EL;;Greacă modernă (din 1453)
-NG;;Ndongă
-WA;;Walloon
-BN;;Bengaleză
-KI;;Kikuyuneză; Gikuyuneză
-UZ;;Uzbecă
-DZ;;Dzongkhană
-MT;;Malteză
-VO;;Volapük
-JV;;Javaneză
-FA;;Persană
-SQ;;Albaneză
-BO;;Tibetană
-KJ;;Kuanyamană; Kwanyamană
-EN;;Engleză
-SR;;Sârbă
-TE;;Teluguă
-PS;;Paștună
-ZA;;Chuangoneză
-IA;;Interlingua (Asociația limbii auxiliare internaționale)
-EO;;Esperanto
-KK;;Cazacă
-PT;;Portugheză
-YO;;Iorubă
-SS;;Suată
-BR;;Bretonă
-KL;;Kalaallisută; Greenlandeză
-TG;;Tajikă
-CE;;Cecenă
-NL;;Olandeză; flamandă
-ST;;Soto sudică
-BS;;Bosniacă
-KM;;Khmeră centrală
-TH;;Thailandeză
-LA;;Latină
-HO;;Hiri Motuneză
-SU;;Sudaneză
-KN;;Kannada
-TI;;Tigriniană
-LB;;Luxemburgheză
-MY;;Burmeză
-ID;;Indoneziană
-SV;;Suedeză
-FF;;Fulah
-KO;;Coreeană
-CH;;Chamorro
-IE;;Interlingue; Occidentală
-ES;;Spaniolă; castiliană
-SW;;Swahili
-TK;;Turcmenă
-HR;;Croată
-ET;;Estonă
-NN;;Nynorsk, norvegiană; Norvegiană nynorsk (modernă)
-OC;;Occitană (post 1500)
-TL;;Tagalogă
-ZH;;Chineză
-IG;;Igboneză
-EU;;Bască
-NO;;Norvegiană
-FI;;Finlandeză
-HT;;Haitiană; creolă haitiană
-KR;;Kanurineză
-FJ;;Fijiană
 AA;;Afară
-HU;;Maghiară
-LG;;Ganda
-KS;;Cașmiră
-TN;;Tswană
-NR;;Ndebele sudică
 AB;;Abhază
-II;;Sichuan Yi; Nuosuneză
-DA;;Daneză
-TO;;Tonga (Insulele Tonga)
-KU;;Curdă
-LI;;Limburgă
-GA;;Irlandeză
-KV;;Komi
-IK;;Inupiacă
-CO;;Corsicană
-WO;;Wolofă
-KW;;Corneză
-AE;;Avestană
-HY;;Armeană
-TR;;Turcă
-FO;;Feroeză
-JA;;Japoneză
-NV;;Navajo; Navaho
 AF;;Afrikaans
-HZ;;Hereră
-OJ;;Ojibwaneză
-TS;;Tsongă
-CR;;Creenă
-GD;;Gaelică; gaelică scoțiană
-KY;;Kârgâză
-DE;;Germană
-QU;;Quechua
-UG;;Uighură
-CS;;Cehă
-IO;;Idoneză
-TT;;Tătară
-LN;;Lingală
-FR;;Franceză
-NY;;Chichewaneză; chewaneză; nyanjaneză
-OM;;Oromă
-LO;;Loațiană
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
-PA;;Punjabă
-XH;;Xhosă
-CV;;Ciuvașă
 AK;;Akană
-RM;;Retoromană
-TW;;Twi
-UK;;Ucraineană
-IS;;Islandeză
-RN;;Rundi
-SA;;Sanscrită
-ZU;;Zulu
-IT;;Italiană
-BA;;Bașchiră
+SQ;;Albaneză
 AM;;Amharică
-RO;;Română
-TY;;Tahitiană
-IU;;Inuktitut
-MG;;Malgașă
+AR;;Arabă
 AN;;Aragoneză
-SC;;Sardiniană
-CY;;Galeză
-MH;;Marșaleză
+HY;;Armeană
+AS;;Asameză
+AV;;Avară
+AE;;Avestană
+AY;;Aimară
+AZ;;Azeră
+BA;;Bașchiră
+BM;;Bambară
+EU;;Bască
+BE;;Bielorusă
+BN;;Bengaleză
+BH;;Limbi Bihari
+BI;;Bislamă
+BS;;Bosniacă
+BR;;Bretonă
+BG;;Bulgară
+MY;;Burmeză
+CA;;Catalană; valenciană
+CH;;Chamorro
+CE;;Cecenă
+ZH;;Chineză
+CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CV;;Ciuvașă
+KW;;Corneză
+CO;;Corsicană
+CR;;Creenă
+CS;;Cehă
+DA;;Daneză
+DV;;Divehineză; Dhivehineză; Maldivineză
+NL;;Olandeză; flamandă
+DZ;;Dzongkhană
+EN;;Engleză
+EO;;Esperanto
+ET;;Estonă
+EE;;Ewe
+FO;;Feroeză
+FJ;;Fijiană
+FI;;Finlandeză
+FR;;Franceză
+FY;;Frizona occidentală
+FF;;Fulah
+KA;;Georgiană
+DE;;Germană
+GD;;Gaelică; gaelică scoțiană
+GA;;Irlandeză
+GL;;Galiciană
+GV;;Manxă
+EL;;Greacă modernă (din 1453)
+GN;;Guarană
+GU;;Gujaratineză
+HT;;Haitiană; creolă haitiană
+HA;;Hausă
+HE;;Ebraică
+HZ;;Hereră
+HI;;Hindusă
+HO;;Hiri Motuneză
+HR;;Croată
+HU;;Maghiară
+IG;;Igboneză
+IS;;Islandeză
+IO;;Idoneză
+II;;Sichuan Yi; Nuosuneză
+IU;;Inuktitut
+IE;;Interlingue; Occidentală
+IA;;Interlingua (Asociația limbii auxiliare internaționale)
+ID;;Indoneziană
+IK;;Inupiacă
+IT;;Italiană
+JV;;Javaneză
+JA;;Japoneză
+KL;;Kalaallisută; Greenlandeză
+KN;;Kannada
+KS;;Cașmiră
+KR;;Kanurineză
+KK;;Cazacă
+KM;;Khmeră centrală
+KI;;Kikuyuneză; Gikuyuneză
+RW;;Chiniaruandeză
+KY;;Kârgâză
+KV;;Komi
+KG;;Kongo
+KO;;Coreeană
+KJ;;Kuanyamană; Kwanyamană
+KU;;Curdă
+LO;;Loațiană
+LA;;Latină
+LV;;Letonă
+LI;;Limburgă
+LN;;Lingală
 LT;;Lituaniană
+LB;;Luxemburgheză
+LU;;Luba-Katanganeză
+LG;;Ganda
+MK;;Macedoneană
+MH;;Marșaleză
+ML;;Malayalam
+MI;;Maură
+MR;;Marathi
+MS;;Malaeză
+MG;;Malgașă
+MT;;Malteză
+MO;;Română
+MN;;Mongolă
+NA;;Naură
+NV;;Navajo; Navaho
+NR;;Ndebele sudică
+ND;;Ndebele nordică
+NG;;Ndongă
+NE;;Nepaleză
+NN;;Nynorsk, norvegiană; Norvegiană nynorsk (modernă)
+NB;;Bokmål, norvegiană; Norvegiană bokmål (cărturărească)
+NO;;Norvegiană
+NY;;Chichewaneză; chewaneză; nyanjaneză
+OC;;Occitană (post 1500)
+OJ;;Ojibwaneză
 OR;;Oriană
+OM;;Oromă
+OS;;Osețiană
+PA;;Punjabă
+FA;;Persană
+PI;;Pali
+PL;;Poloneză
+PT;;Portugheză
+PS;;Paștună
+QU;;Quechua
+RM;;Retoromană
+RO;;Română
+RN;;Rundi
+RU;;Rusă
+SG;;Sangă
+SA;;Sanscrită
+SI;;Sinhaleză
+SK;;Slovacă
+SL;;Slovenă
+SE;;Sami nordică
+SM;;Samoană
+SN;;Șonă
 SD;;Sindi
+SO;;Somaleză
+ST;;Soto sudică
+ES;;Spaniolă; castiliană
+SC;;Sardiniană
+SR;;Sârbă
+SS;;Suată
+SU;;Sudaneză
+SW;;Swahili
+SV;;Suedeză
+TY;;Tahitiană
+TA;;Tamilă
+TT;;Tătară
+TE;;Teluguă
+TG;;Tajikă
+TL;;Tagalogă
+TH;;Thailandeză
+BO;;Tibetană
+TI;;Tigriniană
+TO;;Tonga (Insulele Tonga)
+TN;;Tswană
+TS;;Tsongă
+TK;;Turcmenă
+TR;;Turcă
+TW;;Twi
+UG;;Uighură
+UK;;Ucraineană
+UR;;Urdu
+UZ;;Uzbecă
+VE;;Vendă
+VI;;Vietnameză
+VO;;Volapük
+CY;;Galeză
+WA;;Walloon
+WO;;Wolofă
+XH;;Xhosă
+YI;;Idiș
+YO;;Iorubă
+ZA;;Chuangoneză
+ZU;;Zulu

@@ -1,249 +1,249 @@
-VA;;Texta Pîroz (Dewleta Bajarî ya Vatîkan)
-CC;;Grava Kokos (Kîlîng)
-GT;;Guatemala
-JP;;Japonya
-SE;;Swêd
-TZ;;Tanzanya, Komara Yekbuyî
-CD;;Komara Demokratîk a Kongo
-GU;;Guam
-MM;;Miyanmar
-DZ;;Cezayîr
-MN;;Mongolya
-PK;;Pakistan
-SG;;Sîngapur
-VC;;Saint Vincent û Grenadines
-CF;;Komara Afrikaya Navîn
-GW;;Gîneya Bisoî
-MO;;Makao
-PL;;Polonya
-SH;;Saint Helena, Ascension and Tristan da Cunha
-CG;;Kongo
-MP;;Giravên Marîyana Bakûr
-PM;;Saint Pierre û Miquelon
-SI;;Slovenya
-VE;;Komara Bolîvarî ya Venezûela
-ZW;;Zimbabwe
-CH;;Swîsre
-GY;;Guyana
-MQ;;Martinîk
-PN;;Pitkayirn
-SJ;;Svalbard û Jan Mayen
-CI;;Côte dIvoireIvoire
-MR;;Morîtanya
-SK;;Slovakya
-VG;;Giravên Virjin, Brîtanî
-MS;;Montserat
-SL;;Sîera Leone
-CK;;Giravên Cook
-ID;;Endonezya
-MT;;Malta
-SM;;San Marîno
-VI;;Giravên Virjin, D.Y.
-YE;;Yemen
-CL;;Sîlî
-IE;;Îrlanda
-LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;Morîtiyus
-SN;;Senegal
-CM;;Kamerûn
-FI;;Fînlandiya
-LB;;Lubnan
-MV;;Giravên Maldiv
-PR;;Porto Rîko
-SO;;Somalî
-CN;;Çîn
-FJ;;Fîjî
-LC;;Saint Lucia
-MW;;Malawî
-PS;;Herêma Filistîn, Bindest
-CO;;Kolombiya
-FK;;Giravên Falkland (Malvin)
-MX;;Mexîko
-PT;;Portekîz
-MY;;Malezya
-SR;;Surînam
-VN;;Viyetnam
-FM;;Mîkronesya, Dewletên Federal yên
-MZ;;Mozambîk
-CR;;Kosta Rîka
-PW;;Palawu
-SS;;Komara Sûdan
-FO;;Giravên Faroye
-ST;;Sao Tome û Prinsipe
-IL;;Îsraîl
-LI;;Lihtenstayn
-PY;;Paraguay
-BA;;Bosna Hersek
-CU;;Kûba
-IM;;Girava Man
-SV;;El Salvador
-CV;;Kap Verde
-FR;;Fransa
-IN;;Hindistan
-LK;;Srî Lanka
-BB;;Barbados
-CW;;Curaçao
-IO;;Herêma Îngîlîz a Deryaya Hindî
-SX;;Saint Martin (beşa firansî)
-VU;;Vanûatû
-CX;;Girava Noel
-RE;;Reûnyon
-UA;;Ukrayna
-SY;;Sûriye
-CY;;Kibris
-IQ;;Iraq
-SZ;;Swazîland
-BD;;Banglades
-CZ;;Komara Çek
-IR;;Îran, Komara Îslamî ya
-YT;;Mayote
-BE;;Belçîka
-IS;;Îzlanda
-BF;;Burkîna Faso
-EC;;Ekvator
-IT;;Îtalya
-OM;;Uman
-BG;;Bulgaristan
-BH;;Bahrayîn
-LR;;Lîberya
-UG;;Ûganda
-BI;;Bûrûndî
-EE;;Estonya
-LS;;Lesoto
-BJ;;Benîn
-LT;;Lîtvanya
-EG;;Misir
-BL;;Saint Barthélemy
-EH;;Sehraya Rojava
-LU;;Luksemburg
-RO;;Romanya
-BM;;Bermûda
-LV;;Latviya
-BN;;Brûney Darûssalam
-UM;;Giravên biçûk derve Emerîkayê
-BO;;Bolivia, Plurinational State of
-KE;;Kenya
-NA;;Namîbiya
-LY;;Lîberya
-BQ;;Bonaire, Sint Eustatius and Saba
-BR;;Brezîlya
-KG;;Kirgîsistan
-NC;;Kaledonyaya Nû
-RS;;Sirbistan
-BS;;Giravên Bahama
-HK;;Hong Kong
-KH;;Kamboca
-BT;;Bûtan
-KI;;Kirîbatî
-NE;;Nîjer
-QA;;Qatar
-RU;;Federasyona Rûsî
-HM;;Giravên Heard û McDonald
-NF;;Girava Norfolk
-US;;Dewletên Yekbûyî
-BV;;Girava Boyuvet
-ER;;Erître
-HN;;Honduras
-NG;;Nîjerya
-RW;;Rûanda
-BW;;Botswana
-ES;;Spanya
-ET;;Etîyopya
-NI;;Nîkaragûa
-AD;;Andora
-BY;;Belarus
-KM;;Komoros
-AE;;Mîrtiyên Ereb ên Yekbuyî
-BZ;;Belîze
-HR;;Hirvatistan
-KN;;Saint Kitts û Nevis
-TC;;Giravên Turks û Caicos
 AF;;Efxanistan
-NL;;Holanda
-TD;;Çad
-AG;;Antîguya û Barbuda
-HT;;Haîtî
-KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;Uruguay
-GA;;Gabon
-HU;;Macaristan
-TF;;Herêma Basurî ya Fransî
-UZ;;Ozbekîstan
-AI;;Angîla
-DE;;Almanya
-GB;;Şahitiya Yekbuyî
-KR;;Kore, Komara
-TG;;Togo
-NO;;Norweç
-TH;;Tayland
-GD;;Girava Grenada
-NP;;Nepal
-ZA;;Efrîka Basur
-AL;;Arnavût
-GE;;Gurcistan
-TJ;;Tacîkistan
-WF;;Walis û Futuna
-AM;;Ermenistan
-GF;;Gîneya Fransî
-NR;;Naûrû
-TK;;Tokelau
-DJ;;Cîbutî
-KW;;Kûveyt
-TL;;Tîmora Rojhilat
-AO;;Angola
-DK;;Danîmarka
-GG;;Guernsey
-TM;;Tirkmenîstan
-GH;;Gana
-JE;;Jersey
-MA;;Fas
-KY;;Giravên Kayman
-NU;;Nîûe
-TN;;Tûnis
-DM;;Domînîka
-GI;;Cebelîtariq
-KZ;;Kazaxstan
-TO;;Tonga
-AQ;;Antarktîka
-MC;;Monako
-AR;;Arjantîn
-MD;;Makedonya, Komara
-AS;;Samoya Emerîkî
-DO;;Komara Domînîk
-ME;;Montenegro
-PA;;Panama
-TR;;Tirkiye
-AT;;Awusturya
-GL;;Greenland
-MF;;Saint Martin (beşa firansî)
-NZ;;Zelandaya Nû
-AU;;Awustralya
-GM;;Gambiya
-GN;;Gîne
-MG;;Madagaskar
-AW;;Aruba
-MH;;Giravên Marsal
-TT;;Trînîdad û Tobago
-ZM;;Zambiya
-GP;;Guadelûp
 AX;;Giravên Åland
-SA;;Si'ûdî Erebistan
-PE;;Perû
-JM;;Jamayîka
-GQ;;Gîneya Ekvatorî
-CA;;Kanada
-WS;;Samoa
-SB;;Giravên Solomon
-PF;;Polînesya Fransî
-TV;;Tûvalû
-PG;;Papûa Gîneya Nû
-MK;;Makedonya, Komara
-GR;;Yewnanistan
+AL;;Arnavût
+DZ;;Cezayîr
+AS;;Samoya Emerîkî
+AD;;Andora
+AO;;Angola
+AI;;Angîla
+AQ;;Antarktîka
+AG;;Antîguya û Barbuda
+AR;;Arjantîn
+AM;;Ermenistan
+AW;;Aruba
+AU;;Awustralya
+AT;;Awusturya
 AZ;;Azerbaycan
-TW;;Tayvan, Eyaleta Çîn
-SC;;Seyselan
-PH;;Fîlîpîn
-ML;;Malî
+BS;;Giravên Bahama
+BH;;Bahrayîn
+BD;;Banglades
+BB;;Barbados
+BY;;Belarus
+BE;;Belçîka
+BZ;;Belîze
+BJ;;Benîn
+BM;;Bermûda
+BT;;Bûtan
+BO;;Bolivia, Plurinational State of
+BQ;;Bonaire, Sint Eustatius and Saba
+BA;;Bosna Hersek
+BW;;Botswana
+BV;;Girava Boyuvet
+BR;;Brezîlya
+IO;;Herêma Îngîlîz a Deryaya Hindî
+BN;;Brûney Darûssalam
+BG;;Bulgaristan
+BF;;Burkîna Faso
+BI;;Bûrûndî
+KH;;Kamboca
+CM;;Kamerûn
+CA;;Kanada
+CV;;Kap Verde
+KY;;Giravên Kayman
+CF;;Komara Afrikaya Navîn
+TD;;Çad
+CL;;Sîlî
+CN;;Çîn
+CX;;Girava Noel
+CC;;Grava Kokos (Kîlîng)
+CO;;Kolombiya
+KM;;Komoros
+CG;;Kongo
+CD;;Komara Demokratîk a Kongo
+CK;;Giravên Cook
+CR;;Kosta Rîka
+CI;;Côte dIvoireIvoire
+HR;;Hirvatistan
+CU;;Kûba
+CW;;Curaçao
+CY;;Kibris
+CZ;;Komara Çek
+DK;;Danîmarka
+DJ;;Cîbutî
+DM;;Domînîka
+DO;;Komara Domînîk
+EC;;Ekvator
+EG;;Misir
+SV;;El Salvador
+GQ;;Gîneya Ekvatorî
+ER;;Erître
+EE;;Estonya
+ET;;Etîyopya
+FK;;Giravên Falkland (Malvin)
+FO;;Giravên Faroye
+FJ;;Fîjî
+FI;;Fînlandiya
+FR;;Fransa
+GF;;Gîneya Fransî
+PF;;Polînesya Fransî
+TF;;Herêma Basurî ya Fransî
+GA;;Gabon
+GM;;Gambiya
+GE;;Gurcistan
+DE;;Almanya
+GH;;Gana
+GI;;Cebelîtariq
+GR;;Yewnanistan
+GL;;Greenland
+GD;;Girava Grenada
+GP;;Guadelûp
+GU;;Guam
+GT;;Guatemala
+GG;;Guernsey
+GN;;Gîne
+GW;;Gîneya Bisoî
+GY;;Guyana
+HT;;Haîtî
+HM;;Giravên Heard û McDonald
+VA;;Texta Pîroz (Dewleta Bajarî ya Vatîkan)
+HN;;Honduras
+HK;;Hong Kong
+HU;;Macaristan
+IS;;Îzlanda
+IN;;Hindistan
+ID;;Endonezya
+IR;;Îran, Komara Îslamî ya
+IQ;;Iraq
+IE;;Îrlanda
+IM;;Girava Man
+IL;;Îsraîl
+IT;;Îtalya
+JM;;Jamayîka
+JP;;Japonya
+JE;;Jersey
 JO;;Urdin
+KZ;;Kazaxstan
+KE;;Kenya
+KI;;Kirîbatî
+KP;;Korea, Democratic Peoples Republic ofs Republic of
+KR;;Kore, Komara
+KW;;Kûveyt
+KG;;Kirgîsistan
+LA;;Lao Peoples Democratic Republics Democratic Republic
+LV;;Latviya
+LB;;Lubnan
+LS;;Lesoto
+LR;;Lîberya
+LY;;Lîberya
+LI;;Lihtenstayn
+LT;;Lîtvanya
+LU;;Luksemburg
+MO;;Makao
+MK;;Makedonya, Komara
+MG;;Madagaskar
+MW;;Malawî
+MY;;Malezya
+MV;;Giravên Maldiv
+ML;;Malî
+MT;;Malta
+MH;;Giravên Marsal
+MQ;;Martinîk
+MR;;Morîtanya
+MU;;Morîtiyus
+YT;;Mayote
+MX;;Mexîko
+FM;;Mîkronesya, Dewletên Federal yên
+MD;;Makedonya, Komara
+MC;;Monako
+MN;;Mongolya
+ME;;Montenegro
+MS;;Montserat
+MA;;Fas
+MZ;;Mozambîk
+MM;;Miyanmar
+NA;;Namîbiya
+NR;;Naûrû
+NP;;Nepal
+NL;;Holanda
+NC;;Kaledonyaya Nû
+NZ;;Zelandaya Nû
+NI;;Nîkaragûa
+NE;;Nîjer
+NG;;Nîjerya
+NU;;Nîûe
+NF;;Girava Norfolk
+MP;;Giravên Marîyana Bakûr
+NO;;Norweç
+OM;;Uman
+PK;;Pakistan
+PW;;Palawu
+PS;;Herêma Filistîn, Bindest
+PA;;Panama
+PG;;Papûa Gîneya Nû
+PY;;Paraguay
+PE;;Perû
+PH;;Fîlîpîn
+PN;;Pitkayirn
+PL;;Polonya
+PT;;Portekîz
+PR;;Porto Rîko
+QA;;Qatar
+RE;;Reûnyon
+RO;;Romanya
+RU;;Federasyona Rûsî
+RW;;Rûanda
+BL;;Saint Barthélemy
+SH;;Saint Helena, Ascension and Tristan da Cunha
+KN;;Saint Kitts û Nevis
+LC;;Saint Lucia
+MF;;Saint Martin (beşa firansî)
+PM;;Saint Pierre û Miquelon
+VC;;Saint Vincent û Grenadines
+WS;;Samoa
+SM;;San Marîno
+ST;;Sao Tome û Prinsipe
+SA;;Si'ûdî Erebistan
+SN;;Senegal
+RS;;Sirbistan
+SC;;Seyselan
+SL;;Sîera Leone
+SG;;Sîngapur
+SX;;Saint Martin (beşa firansî)
+SK;;Slovakya
+SI;;Slovenya
+SB;;Giravên Solomon
+SO;;Somalî
+ZA;;Efrîka Basur
 GS;;Georgiaya Basûr û Giravên Sandwicha Basûr
+ES;;Spanya
+LK;;Srî Lanka
 SD;;Sûdan
+SR;;Surînam
+SS;;Komara Sûdan
+SJ;;Svalbard û Jan Mayen
+SZ;;Swazîland
+SE;;Swêd
+CH;;Swîsre
+SY;;Sûriye
+TW;;Tayvan, Eyaleta Çîn
+TJ;;Tacîkistan
+TZ;;Tanzanya, Komara Yekbuyî
+TH;;Tayland
+TL;;Tîmora Rojhilat
+TG;;Togo
+TK;;Tokelau
+TO;;Tonga
+TT;;Trînîdad û Tobago
+TN;;Tûnis
+TR;;Tirkiye
+TM;;Tirkmenîstan
+TC;;Giravên Turks û Caicos
+TV;;Tûvalû
+UG;;Ûganda
+UA;;Ukrayna
+AE;;Mîrtiyên Ereb ên Yekbuyî
+GB;;Şahitiya Yekbuyî
+US;;Dewletên Yekbûyî
+UM;;Giravên biçûk derve Emerîkayê
+UY;;Uruguay
+UZ;;Ozbekîstan
+VU;;Vanûatû
+VE;;Komara Bolîvarî ya Venezûela
+VN;;Viyetnam
+VG;;Giravên Virjin, Brîtanî
+VI;;Giravên Virjin, D.Y.
+WF;;Walis û Futuna
+EH;;Sehraya Rojava
+YE;;Yemen
+ZM;;Zambiya
+ZW;;Zimbabwe

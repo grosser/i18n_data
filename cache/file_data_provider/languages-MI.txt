@@ -1,185 +1,185 @@
-SE;;Northern Sami
-FY;;Parani
-OS;;Reo Ruhia
-GL;;Reo Itari
-LU;;Luba-Katanga
-MI;;Reo Māori
-LV;;Reo Koroātia
-HA;;Hausa
-BE;;Reo Purukeria
-GN;;Reo Purukeria
-PI;;Reo Pōrana
-UR;;Urdu
-MK;;Reo Makerōnia
-VE;;Venda
-AR;;Reo Arapia
-SG;;Sango
-KA;;Reo Tiamana
-ML;;Malayalam
-AS;;Assamese
-EE;;Ewe
-RU;;Reo Ruhia
-SI;;Raene
-BG;;Reo Purukeria
-PL;;Reo Pōrana
-HE;;Reo Hūrai
-NA;;Nauru
-BH;;Kaupapa
-MN;;Reo Makerōnia
-VI;;Raene
-RW;;Kinyarwanda
-NB;;Bokmål, Norwegian; Norwegian Bokmål
-AV;;Reo Arapia
-SK;;Karaka
-BI;;Bislama
-MO;;Reo Koroātia
-SL;;Reo Etonia
-YI;;Yiddish
-DV;;Divehi; Dhivehi; Maldivian
-ND;;Ndebele, North; North Ndebele
-SM;;Samoan
-NE;;Nepali
-AY;;Aymara
-SN;;Rakau
-KG;;Kongo
-TA;;Reo Īnia tonga
-GU;;Gujarati
-HI;;Hindi
-MR;;Reo Māori
-AZ;;Reo Koroātia
-SO;;Somali
-BM;;Bambara
-GV;;Manx
-CA;;Catalan; Valencian
-MS;;Malay
-EL;;Greek, Modern (1453-)
-NG;;Reo Etonia
-WA;;KKupu
-BN;;Bengali
-KI;;Kikuyu; Gikuyu
-UZ;;Uzbek
-DZ;;Dzongkha
-MT;;Kaupapa
-VO;;Volapük
-JV;;Reo Hapana
-FA;;Reo Koroātia
-SQ;;Reo Koroātia
-BO;;Tibetan
-KJ;;Kuanyama; Kwanyama
-EN;;Reo Pākehā - Ingarangi
-SR;;Reo Koroātia
-TE;;Telugu
-PS;;Pushto; Pashto
-ZA;;Zhuang; Chuang
-IA;;Interlingua (International Auxiliary Language Association)
-EO;;Reo Tiamana
-KK;;Kazakh
-PT;;Reo Pōtikī
-YO;;Yoruba
-SS;;Swati
-BR;;Reo Parani Uropi-Īnia
-KL;;Kalaallisut; Greenlandic
-TG;;Reo Īnia tonga
-CE;;Reo Parani
-NL;;Dutch; Flemish
-ST;;Sotho, Southern
-BS;;Reo Romeinia
-KM;;Central Khmer
-TH;;Reo Īnia tonga
-LA;;Reo Koroātia
-HO;;Reo Airana
-SU;;Sundanese
-KN;;Kannada
-TI;;Reo Airana
-LB;;Luxembourgish; Letzeburgesch
-MY;;Burmese
-ID;;Reo Etonia
-SV;;Reo Wītana
-FF;;Fulah
-KO;;Kaupapa
-CH;;Chamorro
-IE;;Interlingue; Occidental
-ES;;Spanish; Castilian
-SW;;Swahili
-TK;;Turkmen
-HR;;Reo Koroātia
-ET;;Reo Etonia
-NN;;Reo Nōwei (Nynorsk)
-OC;;Occitan (post 1500)
-TL;;Tagalog
-ZH;;Reo Hāina
-IG;;Igbo
-EU;;Tūparu
-NO;;Kaupapa
-FI;;Reo Whinarana
-HT;;Haitian; Haitian Creole
-KR;;Reo Airana
-FJ;;Fijian
 AA;;Afar
-HU;;Reo Hanekari
-LG;;Ganda
-KS;;Kashmiri
-TN;;Tswana
-NR;;Ndebele, South; South Ndebele
 AB;;Reo Koroātia
-II;;Reo Ītariana
-DA;;Reo Tenemaka
-TO;;Tonga (Tonga Islands)
-KU;;Reo Airana
-LI;;Limburgan; Limburger; Limburgish
-GA;;Reo Airana
-KV;;Komi
-IK;;Inupiaq
-CO;;Reo Etonia
-WO;;Wolof
-KW;;Reo Airana
-AE;;Avestan
-HY;;Reo Romeinia
-TR;;Reo Airana
-FO;;Faroese
-JA;;Reo Hapana
-NV;;Navajo; Navaho
 AF;;Reo Āwherika Tatimana
-HZ;;Reo Hūrai
-OJ;;Ojibwa
-TS;;Tsonga
-CR;;Reo Kariki
-GD;;Gaelic; Scottish Gaelic
-KY;;Kirghiz; Kyrgyz
-DE;;Reo Tiamana
-QU;;Quechua
-UG;;Uighur; Uyghur
-CS;;Reo Parani
-IO;;Ido
-TT;;Tatar
-LN;;Lingala
-FR;;Reo Parani
-NY;;Chichewa; Chewa; Nyanja
-OM;;Oromo
-LO;;Lao
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
-PA;;Panjabi; Punjabi
-XH;;Rakau
-CV;;Chuvash
 AK;;Reo Koroātia
-RM;;Reo Romeinia
-TW;;Twi
-UK;;Parani
-IS;;Reo Tiorangi
-RN;;Rundi
-SA;;Sanskrit
-ZU;;Purukeria
-IT;;Reo Itari
-BA;;Bashkir
+SQ;;Reo Koroātia
 AM;;Reo Arapia
-RO;;Reo Romeinia
-TY;;Reo Koroātia
-IU;;Inuktitut
-MG;;Malagasy
+AR;;Reo Arapia
 AN;;Aragonese
-SC;;Reo Makerōnia
-CY;;RakauTukutuku
-MH;;Kaupapa
+HY;;Reo Romeinia
+AS;;Assamese
+AV;;Reo Arapia
+AE;;Avestan
+AY;;Aymara
+AZ;;Reo Koroātia
+BA;;Bashkir
+BM;;Bambara
+EU;;Tūparu
+BE;;Reo Purukeria
+BN;;Bengali
+BH;;Kaupapa
+BI;;Bislama
+BS;;Reo Romeinia
+BR;;Reo Parani Uropi-Īnia
+BG;;Reo Purukeria
+MY;;Burmese
+CA;;Catalan; Valencian
+CH;;Chamorro
+CE;;Reo Parani
+ZH;;Reo Hāina
+CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CV;;Chuvash
+KW;;Reo Airana
+CO;;Reo Etonia
+CR;;Reo Kariki
+CS;;Reo Parani
+DA;;Reo Tenemaka
+DV;;Divehi; Dhivehi; Maldivian
+NL;;Dutch; Flemish
+DZ;;Dzongkha
+EN;;Reo Pākehā - Ingarangi
+EO;;Reo Tiamana
+ET;;Reo Etonia
+EE;;Ewe
+FO;;Faroese
+FJ;;Fijian
+FI;;Reo Whinarana
+FR;;Reo Parani
+FY;;Parani
+FF;;Fulah
+KA;;Reo Tiamana
+DE;;Reo Tiamana
+GD;;Gaelic; Scottish Gaelic
+GA;;Reo Airana
+GL;;Reo Itari
+GV;;Manx
+EL;;Greek, Modern (1453-)
+GN;;Reo Purukeria
+GU;;Gujarati
+HT;;Haitian; Haitian Creole
+HA;;Hausa
+HE;;Reo Hūrai
+HZ;;Reo Hūrai
+HI;;Hindi
+HO;;Reo Airana
+HR;;Reo Koroātia
+HU;;Reo Hanekari
+IG;;Igbo
+IS;;Reo Tiorangi
+IO;;Ido
+II;;Reo Ītariana
+IU;;Inuktitut
+IE;;Interlingue; Occidental
+IA;;Interlingua (International Auxiliary Language Association)
+ID;;Reo Etonia
+IK;;Inupiaq
+IT;;Reo Itari
+JV;;Reo Hapana
+JA;;Reo Hapana
+KL;;Kalaallisut; Greenlandic
+KN;;Kannada
+KS;;Kashmiri
+KR;;Reo Airana
+KK;;Kazakh
+KM;;Central Khmer
+KI;;Kikuyu; Gikuyu
+RW;;Kinyarwanda
+KY;;Kirghiz; Kyrgyz
+KV;;Komi
+KG;;Kongo
+KO;;Kaupapa
+KJ;;Kuanyama; Kwanyama
+KU;;Reo Airana
+LO;;Lao
+LA;;Reo Koroātia
+LV;;Reo Koroātia
+LI;;Limburgan; Limburger; Limburgish
+LN;;Lingala
 LT;;Reo Ītariana
+LB;;Luxembourgish; Letzeburgesch
+LU;;Luba-Katanga
+LG;;Ganda
+MK;;Reo Makerōnia
+MH;;Kaupapa
+ML;;Malayalam
+MI;;Reo Māori
+MR;;Reo Māori
+MS;;Malay
+MG;;Malagasy
+MT;;Kaupapa
+MO;;Reo Koroātia
+MN;;Reo Makerōnia
+NA;;Nauru
+NV;;Navajo; Navaho
+NR;;Ndebele, South; South Ndebele
+ND;;Ndebele, North; North Ndebele
+NG;;Reo Etonia
+NE;;Nepali
+NN;;Reo Nōwei (Nynorsk)
+NB;;Bokmål, Norwegian; Norwegian Bokmål
+NO;;Kaupapa
+NY;;Chichewa; Chewa; Nyanja
+OC;;Occitan (post 1500)
+OJ;;Ojibwa
 OR;;Oriya
+OM;;Oromo
+OS;;Reo Ruhia
+PA;;Panjabi; Punjabi
+FA;;Reo Koroātia
+PI;;Reo Pōrana
+PL;;Reo Pōrana
+PT;;Reo Pōtikī
+PS;;Pushto; Pashto
+QU;;Quechua
+RM;;Reo Romeinia
+RO;;Reo Romeinia
+RN;;Rundi
+RU;;Reo Ruhia
+SG;;Sango
+SA;;Sanskrit
+SI;;Raene
+SK;;Karaka
+SL;;Reo Etonia
+SE;;Northern Sami
+SM;;Samoan
+SN;;Rakau
 SD;;Sindhi
+SO;;Somali
+ST;;Sotho, Southern
+ES;;Spanish; Castilian
+SC;;Reo Makerōnia
+SR;;Reo Koroātia
+SS;;Swati
+SU;;Sundanese
+SW;;Swahili
+SV;;Reo Wītana
+TY;;Reo Koroātia
+TA;;Reo Īnia tonga
+TT;;Tatar
+TE;;Telugu
+TG;;Reo Īnia tonga
+TL;;Tagalog
+TH;;Reo Īnia tonga
+BO;;Tibetan
+TI;;Reo Airana
+TO;;Tonga (Tonga Islands)
+TN;;Tswana
+TS;;Tsonga
+TK;;Turkmen
+TR;;Reo Airana
+TW;;Twi
+UG;;Uighur; Uyghur
+UK;;Parani
+UR;;Urdu
+UZ;;Uzbek
+VE;;Venda
+VI;;Raene
+VO;;Volapük
+CY;;RakauTukutuku
+WA;;KKupu
+WO;;Wolof
+XH;;Rakau
+YI;;Yiddish
+YO;;Yoruba
+ZA;;Zhuang; Chuang
+ZU;;Purukeria

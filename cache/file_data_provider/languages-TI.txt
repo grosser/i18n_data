@@ -1,185 +1,185 @@
-SE;;Northern Sami
-FY;;ፍሪስኛ
-OS;;Ossetian; Ossetic
-GL;;ጋለጋኛ
-LU;;Luba-Katanga
-MI;;ማዮሪኛ
-LV;;ላትቪያን
-HA;;ሃውሳኛ
-BE;;ቤላራሻኛ
-GN;;ጓራኒኛ
-PI;;Pali
-UR;;ኡርዱኛ
-MK;;ማከዶኒኛ
-VE;;Venda
-AR;;ዐርቢኛ
-SG;;ሳንጎኛ
-KA;;ጊዮርጊያን
-ML;;ማላያላምኛ
-AS;;አሳሜዛዊ
-EE;;Ewe
-RU;;ራሽኛ
-SI;;ስንሃልኛ
-BG;;ቡልጋሪኛ
-PL;;ፖሊሽ
-HE;;ዕብራስጥ
-NA;;ናኡሩ
-BH;;ኮሪያኛ
-MN;;ሞንጎላዊኛ
-VI;;ቪትናምኛ
-RW;;ኪንያርዋንድኛ
-NB;;Bokmål, Norwegian; Norwegian Bokmål
-AV;;Avaric
-SK;;ስሎቫክኛ
-BI;;ቢስላምኛ
-MO;;ሞልዳቫዊና
-SL;;ስሎቪኛ
-YI;;ይዲሻዊኛ
-DV;;Divehi; Dhivehi; Maldivian
-ND;;Ndebele, North; North Ndebele
-SM;;ሳሞአኛ
-NE;;ኔፓሊኛ
-AY;;አያማርኛ
-SN;;ሾናኛ
-KG;;Kongo
-TA;;ታሚልኛ
-GU;;ጉጃርቲኛ
-HI;;ሐንድኛ
-MR;;ማራዚኛ
-AZ;;አዜርባይጃንኛ
-SO;;ሱማልኛ
-BM;;Bambara
-GV;;Manx
-CA;;Catalan; Valencian
-MS;;ማላይኛ
-EL;;Greek, Modern (1453-)
-NG;;Ndonga
-WA;;Walloon
-BN;;በንጋሊኛ
-KI;;Kikuyu; Gikuyu
-UZ;;ኡዝበክኛ
-DZ;;ድዞንግኻኛ
-MT;;ማልቲስኛ
-VO;;Volapük
-JV;;ጃቫንኛ
-FA;;ፐርሲያኛ
-SQ;;ልቤኒኛ
-BO;;ትበትንኛ
-KJ;;Kuanyama; Kwanyama
-EN;;እንግሊዝኛ
-SR;;ሰርቢኛ
-TE;;ተሉጉኛ
-PS;;Pushto; Pashto
-ZA;;Zhuang; Chuang
-IA;;Interlingua (International Auxiliary Language Association)
-EO;;ኤስፐራንቶ
-KK;;ካዛክኛ
-PT;;ፖርቱጋሊኛ
-YO;;ዮሩባዊኛ
-SS;;ስዋቲኛ
-BR;;ብሬቶንኛ
-KL;;Kalaallisut; Greenlandic
-TG;;ታጂኪኛ
-CE;;Chechen
-NL;;Dutch; Flemish
-ST;;ሶዞኛ
-BS;;Bosnian
-KM;;Central Khmer
-TH;;ታይኛ
-LA;;ላቲንኛ
-HO;;Hiri Motu
-SU;;ሱዳንኛ
-KN;;ካናዳኛ
-TI;;ትግርኛ
-LB;;Luxembourgish; Letzeburgesch
-MY;;ቡርማኛ
-ID;;እንዶኒሲኛ
-SV;;ስዊድንኛ
-FF;;Fulah
-KO;;ኮሪያኛ
-CH;;Chamorro
-IE;;እንተርሊንግወ
-ES;;Spanish; Castilian
-SW;;ስዋሂሊኛ
-TK;;ቱርክመንኛ
-HR;;ክሮሽያንኛ
-ET;;ኤስቶኒአን
-NN;;Norwegian Nynorsk; Nynorsk, Norwegian
-OC;;Occitan (post 1500)
-TL;;ታጋሎገኛ
-ZH;;ቻይንኛ
-IG;;Igbo
-EU;;ባስክኛ
-NO;;ኖርዌጂያን
-FI;;ፊኒሽ
-HT;;Haitian; Haitian Creole
-KR;;Kanuri
-FJ;;ፊጂኛ
 AA;;አፋርኛ
-HU;;ሀንጋሪኛ
-LG;;Ganda
-KS;;ካሽሚርኛ
-TN;;ጽዋናዊኛ
-NR;;Ndebele, South; South Ndebele
 AB;;አብሐዚኛ
-II;;Sichuan Yi; Nuosu
-DA;;ዴኒሽ
-TO;;ቶንጋ
-KU;;ኩርድሽኛ
-LI;;Limburgan; Limburger; Limburgish
-GA;;አይሪሽ
-KV;;Komi
-IK;;እኑፒያቅኛ
-CO;;ኮርሲካኛ
-WO;;ዎሎፍኛ
-KW;;Cornish
-AE;;Avestan
-HY;;አርመናዊ
-TR;;ቱርክኛ
-FO;;ፋሮኛ
-JA;;ጃፓንኛ
-NV;;Navajo; Navaho
 AF;;አፍሪቃንስኛ
-HZ;;Herero
-OJ;;Ojibwa
-TS;;ጾንጋኛ
-CR;;Cree
-GD;;Gaelic; Scottish Gaelic
-KY;;ኪርጊዝኛ
-DE;;ጀርመን
-QU;;ኵቿኛ
-UG;;ኡዊግሁርኛ
-CS;;ቼክኛ
-IO;;Ido
-TT;;ታታርኛ
-LN;;ሊንጋላኛ
-FR;;ፈረንሳይኛ
-NY;;Chichewa; Chewa; Nyanja
-OM;;ኦሮምኛ
-LO;;ላውስኛ
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
-PA;;Panjabi; Punjabi
-XH;;ዞሳኛ
-CV;;Chuvash
 AK;;Akan
-RM;;ሮማኒያን
-TW;;ትዊኛ
-UK;;ዩክረኒኛ
-IS;;አይስላንድኛ
-RN;;ሩንዲኛ
-SA;;ሳንስክሪትኛ
-ZU;;ዙሉኛ
-IT;;ጣሊያንኛ
-BA;;ባስኪርኛ
+SQ;;ልቤኒኛ
 AM;;አማርኛ
-RO;;ሮማኒያን
-TY;;Tahitian
-IU;;እኑክቲቱትኛ
-MG;;ማላጋስኛ
+AR;;ዐርቢኛ
 AN;;Aragonese
-SC;;Sardinian
-CY;;ወልሽ
-MH;;Marshallese
+HY;;አርመናዊ
+AS;;አሳሜዛዊ
+AV;;Avaric
+AE;;Avestan
+AY;;አያማርኛ
+AZ;;አዜርባይጃንኛ
+BA;;ባስኪርኛ
+BM;;Bambara
+EU;;ባስክኛ
+BE;;ቤላራሻኛ
+BN;;በንጋሊኛ
+BH;;ኮሪያኛ
+BI;;ቢስላምኛ
+BS;;Bosnian
+BR;;ብሬቶንኛ
+BG;;ቡልጋሪኛ
+MY;;ቡርማኛ
+CA;;Catalan; Valencian
+CH;;Chamorro
+CE;;Chechen
+ZH;;ቻይንኛ
+CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CV;;Chuvash
+KW;;Cornish
+CO;;ኮርሲካኛ
+CR;;Cree
+CS;;ቼክኛ
+DA;;ዴኒሽ
+DV;;Divehi; Dhivehi; Maldivian
+NL;;Dutch; Flemish
+DZ;;ድዞንግኻኛ
+EN;;እንግሊዝኛ
+EO;;ኤስፐራንቶ
+ET;;ኤስቶኒአን
+EE;;Ewe
+FO;;ፋሮኛ
+FJ;;ፊጂኛ
+FI;;ፊኒሽ
+FR;;ፈረንሳይኛ
+FY;;ፍሪስኛ
+FF;;Fulah
+KA;;ጊዮርጊያን
+DE;;ጀርመን
+GD;;Gaelic; Scottish Gaelic
+GA;;አይሪሽ
+GL;;ጋለጋኛ
+GV;;Manx
+EL;;Greek, Modern (1453-)
+GN;;ጓራኒኛ
+GU;;ጉጃርቲኛ
+HT;;Haitian; Haitian Creole
+HA;;ሃውሳኛ
+HE;;ዕብራስጥ
+HZ;;Herero
+HI;;ሐንድኛ
+HO;;Hiri Motu
+HR;;ክሮሽያንኛ
+HU;;ሀንጋሪኛ
+IG;;Igbo
+IS;;አይስላንድኛ
+IO;;Ido
+II;;Sichuan Yi; Nuosu
+IU;;እኑክቲቱትኛ
+IE;;እንተርሊንግወ
+IA;;Interlingua (International Auxiliary Language Association)
+ID;;እንዶኒሲኛ
+IK;;እኑፒያቅኛ
+IT;;ጣሊያንኛ
+JV;;ጃቫንኛ
+JA;;ጃፓንኛ
+KL;;Kalaallisut; Greenlandic
+KN;;ካናዳኛ
+KS;;ካሽሚርኛ
+KR;;Kanuri
+KK;;ካዛክኛ
+KM;;Central Khmer
+KI;;Kikuyu; Gikuyu
+RW;;ኪንያርዋንድኛ
+KY;;ኪርጊዝኛ
+KV;;Komi
+KG;;Kongo
+KO;;ኮሪያኛ
+KJ;;Kuanyama; Kwanyama
+KU;;ኩርድሽኛ
+LO;;ላውስኛ
+LA;;ላቲንኛ
+LV;;ላትቪያን
+LI;;Limburgan; Limburger; Limburgish
+LN;;ሊንጋላኛ
 LT;;ሊቱአኒያን
+LB;;Luxembourgish; Letzeburgesch
+LU;;Luba-Katanga
+LG;;Ganda
+MK;;ማከዶኒኛ
+MH;;Marshallese
+ML;;ማላያላምኛ
+MI;;ማዮሪኛ
+MR;;ማራዚኛ
+MS;;ማላይኛ
+MG;;ማላጋስኛ
+MT;;ማልቲስኛ
+MO;;ሞልዳቫዊና
+MN;;ሞንጎላዊኛ
+NA;;ናኡሩ
+NV;;Navajo; Navaho
+NR;;Ndebele, South; South Ndebele
+ND;;Ndebele, North; North Ndebele
+NG;;Ndonga
+NE;;ኔፓሊኛ
+NN;;Norwegian Nynorsk; Nynorsk, Norwegian
+NB;;Bokmål, Norwegian; Norwegian Bokmål
+NO;;ኖርዌጂያን
+NY;;Chichewa; Chewa; Nyanja
+OC;;Occitan (post 1500)
+OJ;;Ojibwa
 OR;;ኦሪያኛ
+OM;;ኦሮምኛ
+OS;;Ossetian; Ossetic
+PA;;Panjabi; Punjabi
+FA;;ፐርሲያኛ
+PI;;Pali
+PL;;ፖሊሽ
+PT;;ፖርቱጋሊኛ
+PS;;Pushto; Pashto
+QU;;ኵቿኛ
+RM;;ሮማኒያን
+RO;;ሮማኒያን
+RN;;ሩንዲኛ
+RU;;ራሽኛ
+SG;;ሳንጎኛ
+SA;;ሳንስክሪትኛ
+SI;;ስንሃልኛ
+SK;;ስሎቫክኛ
+SL;;ስሎቪኛ
+SE;;Northern Sami
+SM;;ሳሞአኛ
+SN;;ሾናኛ
 SD;;ሲንድሂኛ
+SO;;ሱማልኛ
+ST;;ሶዞኛ
+ES;;Spanish; Castilian
+SC;;Sardinian
+SR;;ሰርቢኛ
+SS;;ስዋቲኛ
+SU;;ሱዳንኛ
+SW;;ስዋሂሊኛ
+SV;;ስዊድንኛ
+TY;;Tahitian
+TA;;ታሚልኛ
+TT;;ታታርኛ
+TE;;ተሉጉኛ
+TG;;ታጂኪኛ
+TL;;ታጋሎገኛ
+TH;;ታይኛ
+BO;;ትበትንኛ
+TI;;ትግርኛ
+TO;;ቶንጋ
+TN;;ጽዋናዊኛ
+TS;;ጾንጋኛ
+TK;;ቱርክመንኛ
+TR;;ቱርክኛ
+TW;;ትዊኛ
+UG;;ኡዊግሁርኛ
+UK;;ዩክረኒኛ
+UR;;ኡርዱኛ
+UZ;;ኡዝበክኛ
+VE;;Venda
+VI;;ቪትናምኛ
+VO;;Volapük
+CY;;ወልሽ
+WA;;Walloon
+WO;;ዎሎፍኛ
+XH;;ዞሳኛ
+YI;;ይዲሻዊኛ
+YO;;ዮሩባዊኛ
+ZA;;Zhuang; Chuang
+ZU;;ዙሉኛ

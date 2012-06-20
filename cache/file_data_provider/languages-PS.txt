@@ -1,185 +1,185 @@
-SE;;Northern Sami
-FY;;Western Frisian
-OS;;Ossetian; Ossetic
-GL;;Galician
-LU;;Luba-Katanga
-MI;;Maori
-LV;;Latvian
-HA;;Hausa
-BE;;Belarusian
-GN;;Guarani
-PI;;Pali
-UR;;Urdu
-MK;;مقدوني
-VE;;Venda
-AR;;عربي
-SG;;Sango
-KA;;Georgian
-ML;;Malayalam
-AS;;Assamese
-EE;;Ewe
-RU;;روسي
-SI;;Sinhala; Sinhalese
-BG;;Bulgarian
-PL;;پولنډي
-HE;;عبري
-NA;;Nauru
-BH;;ایټالوي
-MN;;مغولي
-VI;;Vietnamese
-RW;;Kinyarwanda
-NB;;Bokmål, Norwegian; Norwegian Bokmål
-AV;;Avaric
-SK;;Slovak
-BI;;Bislama
-MO;;Moldavian; Moldovan
-SL;;Slovenian
-YI;;Yiddish
-DV;;Divehi; Dhivehi; Maldivian
-ND;;Ndebele, North; North Ndebele
-SM;;Samoan
-NE;;Nepali
-AY;;Aymara
-SN;;Shona
-KG;;Kongo
-TA;;Tamil
-GU;;Gujarati
-HI;;هندي
-MR;;Marathi
-AZ;;Azerbaijani
-SO;;Somali
-BM;;Bambara
-GV;;Manx
-CA;;Catalan; Valencian
-MS;;ملایا
-EL;;Greek, Modern (1453-)
-NG;;Ndonga
-WA;;Walloon
-BN;;Bengali
-KI;;Kikuyu; Gikuyu
-UZ;;ازبکي
-DZ;;Dzongkha
-MT;;Maltese
-VO;;Volapük
-JV;;Javanese
-FA;;فارسي
-SQ;;Albanian
-BO;;Tibetan
-KJ;;Kuanyama; Kwanyama
-EN;;انګلیسي
-SR;;Serbian
-TE;;Telugu
-PS;;Pushto; Pashto
-ZA;;Zhuang; Chuang
-IA;;Interlingua (International Auxiliary Language Association)
-EO;;Esperanto
-KK;;Kazakh
-PT;;پورتګالي
-YO;;Yoruba
-SS;;Swati
-BR;;Breton
-KL;;Kalaallisut; Greenlandic
-TG;;تاجک
-CE;;Chechen
-NL;;Dutch; Flemish
-ST;;Sotho, Southern
-BS;;Bosnian
-KM;;Central Khmer
-TH;;Thai
-LA;;لاتیني
-HO;;Hiri Motu
-SU;;Sundanese
-KN;;Kannada
-TI;;Tigrinya
-LB;;Luxembourgish; Letzeburgesch
-MY;;Burmese
-ID;;Indonesian
-SV;;سویډنی
-FF;;Fulah
-KO;;Korean
-CH;;Chamorro
-IE;;Interlingue; Occidental
-ES;;Spanish; Castilian
-SW;;Swahili
-TK;;ترکمني
-HR;;Croatian
-ET;;حبشي
-NN;;Norwegian Nynorsk; Nynorsk, Norwegian
-OC;;Occitan (post 1500)
-TL;;Tagalog
-ZH;;چیني
-IG;;Igbo
-EU;;Basque
-NO;;Norwegian
-FI;;فینلنډي
-HT;;Haitian; Haitian Creole
-KR;;Kanuri
-FJ;;Fijian
 AA;;Afar
-HU;;Hungarian
-LG;;Ganda
-KS;;Kashmiri
-TN;;Tswana
-NR;;Ndebele, South; South Ndebele
 AB;;Abkhazian
-II;;Sichuan Yi; Nuosu
-DA;;Danish
-TO;;Tonga (Tonga Islands)
-KU;;کردي
-LI;;Limburgan; Limburger; Limburgish
-GA;;Irish
-KV;;Komi
-IK;;Inupiaq
-CO;;Corsican
-WO;;Wolof
-KW;;Cornish
-AE;;Avestan
-HY;;ارمني
-TR;;Turkish
-FO;;Faroese
-JA;;جاپانی
-NV;;Navajo; Navaho
 AF;;Afrikaans
-HZ;;Herero
-OJ;;Ojibwa
-TS;;Tsonga
-CR;;Cree
-GD;;Gaelic; Scottish Gaelic
-KY;;Kirghiz; Kyrgyz
-DE;;الماني
-QU;;Quechua
-UG;;Uighur; Uyghur
-CS;;Czech
-IO;;Ido
-TT;;تاتار
-LN;;Lingala
-FR;;فرانسوي
-NY;;Chichewa; Chewa; Nyanja
-OM;;Oromo
-LO;;Lao
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
-PA;;Panjabi; Punjabi
-XH;;Xhosa
-CV;;Chuvash
 AK;;Akan
-RM;;Romansh
-TW;;Twi
-UK;;Ukrainian
-IS;;Icelandic
-RN;;Rundi
-SA;;سنسکریټ
-ZU;;Zulu
-IT;;ایټالوي
-BA;;Bashkir
+SQ;;Albanian
 AM;;Amharic
-RO;;Romanian
-TY;;Tahitian
-IU;;Inuktitut
-MG;;ملغاسي
+AR;;عربي
 AN;;Aragonese
-SC;;Sardinian
-CY;;Welsh
-MH;;Marshallese
+HY;;ارمني
+AS;;Assamese
+AV;;Avaric
+AE;;Avestan
+AY;;Aymara
+AZ;;Azerbaijani
+BA;;Bashkir
+BM;;Bambara
+EU;;Basque
+BE;;Belarusian
+BN;;Bengali
+BH;;ایټالوي
+BI;;Bislama
+BS;;Bosnian
+BR;;Breton
+BG;;Bulgarian
+MY;;Burmese
+CA;;Catalan; Valencian
+CH;;Chamorro
+CE;;Chechen
+ZH;;چیني
+CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CV;;Chuvash
+KW;;Cornish
+CO;;Corsican
+CR;;Cree
+CS;;Czech
+DA;;Danish
+DV;;Divehi; Dhivehi; Maldivian
+NL;;Dutch; Flemish
+DZ;;Dzongkha
+EN;;انګلیسي
+EO;;Esperanto
+ET;;حبشي
+EE;;Ewe
+FO;;Faroese
+FJ;;Fijian
+FI;;فینلنډي
+FR;;فرانسوي
+FY;;Western Frisian
+FF;;Fulah
+KA;;Georgian
+DE;;الماني
+GD;;Gaelic; Scottish Gaelic
+GA;;Irish
+GL;;Galician
+GV;;Manx
+EL;;Greek, Modern (1453-)
+GN;;Guarani
+GU;;Gujarati
+HT;;Haitian; Haitian Creole
+HA;;Hausa
+HE;;عبري
+HZ;;Herero
+HI;;هندي
+HO;;Hiri Motu
+HR;;Croatian
+HU;;Hungarian
+IG;;Igbo
+IS;;Icelandic
+IO;;Ido
+II;;Sichuan Yi; Nuosu
+IU;;Inuktitut
+IE;;Interlingue; Occidental
+IA;;Interlingua (International Auxiliary Language Association)
+ID;;Indonesian
+IK;;Inupiaq
+IT;;ایټالوي
+JV;;Javanese
+JA;;جاپانی
+KL;;Kalaallisut; Greenlandic
+KN;;Kannada
+KS;;Kashmiri
+KR;;Kanuri
+KK;;Kazakh
+KM;;Central Khmer
+KI;;Kikuyu; Gikuyu
+RW;;Kinyarwanda
+KY;;Kirghiz; Kyrgyz
+KV;;Komi
+KG;;Kongo
+KO;;Korean
+KJ;;Kuanyama; Kwanyama
+KU;;کردي
+LO;;Lao
+LA;;لاتیني
+LV;;Latvian
+LI;;Limburgan; Limburger; Limburgish
+LN;;Lingala
 LT;;Lithuanian
+LB;;Luxembourgish; Letzeburgesch
+LU;;Luba-Katanga
+LG;;Ganda
+MK;;مقدوني
+MH;;Marshallese
+ML;;Malayalam
+MI;;Maori
+MR;;Marathi
+MS;;ملایا
+MG;;ملغاسي
+MT;;Maltese
+MO;;Moldavian; Moldovan
+MN;;مغولي
+NA;;Nauru
+NV;;Navajo; Navaho
+NR;;Ndebele, South; South Ndebele
+ND;;Ndebele, North; North Ndebele
+NG;;Ndonga
+NE;;Nepali
+NN;;Norwegian Nynorsk; Nynorsk, Norwegian
+NB;;Bokmål, Norwegian; Norwegian Bokmål
+NO;;Norwegian
+NY;;Chichewa; Chewa; Nyanja
+OC;;Occitan (post 1500)
+OJ;;Ojibwa
 OR;;Oriya
+OM;;Oromo
+OS;;Ossetian; Ossetic
+PA;;Panjabi; Punjabi
+FA;;فارسي
+PI;;Pali
+PL;;پولنډي
+PT;;پورتګالي
+PS;;Pushto; Pashto
+QU;;Quechua
+RM;;Romansh
+RO;;Romanian
+RN;;Rundi
+RU;;روسي
+SG;;Sango
+SA;;سنسکریټ
+SI;;Sinhala; Sinhalese
+SK;;Slovak
+SL;;Slovenian
+SE;;Northern Sami
+SM;;Samoan
+SN;;Shona
 SD;;Sindhi
+SO;;Somali
+ST;;Sotho, Southern
+ES;;Spanish; Castilian
+SC;;Sardinian
+SR;;Serbian
+SS;;Swati
+SU;;Sundanese
+SW;;Swahili
+SV;;سویډنی
+TY;;Tahitian
+TA;;Tamil
+TT;;تاتار
+TE;;Telugu
+TG;;تاجک
+TL;;Tagalog
+TH;;Thai
+BO;;Tibetan
+TI;;Tigrinya
+TO;;Tonga (Tonga Islands)
+TN;;Tswana
+TS;;Tsonga
+TK;;ترکمني
+TR;;Turkish
+TW;;Twi
+UG;;Uighur; Uyghur
+UK;;Ukrainian
+UR;;Urdu
+UZ;;ازبکي
+VE;;Venda
+VI;;Vietnamese
+VO;;Volapük
+CY;;Welsh
+WA;;Walloon
+WO;;Wolof
+XH;;Xhosa
+YI;;Yiddish
+YO;;Yoruba
+ZA;;Zhuang; Chuang
+ZU;;Zulu

@@ -1,249 +1,249 @@
-VA;;Borgríkið Vatíkanið
-CC;;Kókoseyjar (Keeling-eyjar)
-GT;;Gvatemala
-JP;;Japan
-SE;;Svíþjóð
-TZ;;Tansanía, sameinaða lýðveldið
-CD;;Kongó, sambandslýðveldið
-GU;;Gvam
-MM;;Mjanmar
-DZ;;Búlgaría
-MN;;Mongólía
-PK;;Pakistan
-SG;;Singapúr
-VC;;Sankti Vincent og Grenadineeyjar
-CF;;Miðafríkulýðveldið
-GW;;Gínea-Bissá
-MO;;Makaó
-PL;;Pólland
-SH;;Sankti Helena, Ascension og Tristan da Cunha
-CG;;Kongó
-MP;;Norður-Maríanaeyjar
-PM;;Sankti Pierre og Miquelon
-SI;;Slóvenía
-VE;;Venesúela, bólívaríska lýðveldið
-ZW;;Simbabve
-CH;;Sviss
-GY;;Gvæjana
-MQ;;Martiník
-PN;;Pitkairn-eyja
-SJ;;Svalbarði og Jan Mayen
-CI;;Côte dIvoireIvoire
-MR;;Máritanía
-SK;;Slóvakía
-VG;;Jómfrúareyjar, bresku
-MS;;Montserrat
-SL;;Síerra Leóne
-CK;;Cook-eyjar
-ID;;Indónesía
-MT;;Malta
-SM;;San Marínó
-VI;;Jómfrúareyjar, BNA
-YE;;Jemen
-CL;;Chile
-IE;;Írland
-LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;Máritus
-SN;;Senegal
-CM;;Kamerún
-FI;;Finnland
-LB;;Líbanon
-MV;;Maldíveyjar
-PR;;Puerto Ríko
-SO;;Sómalía
-CN;;Kína
-FJ;;Fídjieyjar
-LC;;Sankti Lúsía
-MW;;Malaví
-PS;;Palestína, herteknu svæðin
-CO;;Kólumbía
-FK;;Falklandseyjar (Malvinaeyjar)
-MX;;Mexíkó
-PT;;Portúgal
-MY;;Malasía
-SR;;Súrínam
-VN;;Víetnam
-FM;;Míkrónesía, Sambandsríki
-MZ;;Mósambík
-CR;;Kosta Ríka
-PW;;Palá
-SS;;Suður-Súdan
-FO;;Færeyjar
-ST;;Saó Tóme og Prinsípe
-IL;;Ísrael
-LI;;Liechtenstein
-PY;;Paragvæ
-BA;;Bosnía og Herzegóvína
-CU;;Kúba
-IM;;Eyjan Mön
-SV;;El Salvador
-CV;;Grænhöfðaeyjar
-FR;;Frakkland
-IN;;Indland
-LK;;Srí Lanka
-BB;;Barbados
-CW;;Curaçao
-IO;;Bresku Indlandshafseyjar
-SX;;Sankti Maarten (hollenski hluti)
-VU;;Vanuatú
-CX;;Jólaeyja
-RE;;Réunion
-UA;;Úkraína
-SY;;Sýrlenska arabalýðveldið
-CY;;Kýpur
-IQ;;Írak
-SZ;;Svasíland
-BD;;Bangladess
-CZ;;Lýðveldið Tékkland
-IR;;Íran, íslamska lýðveldið
-YT;;Mayott
-BE;;Belgía
-IS;;Ísland
-BF;;Búrkína Fasó
-EC;;Ekvador
-IT;;Ítalía
-OM;;Óman
-BG;;Búlgaría
-BH;;Barein
-LR;;Líbería
-UG;;Úganda
-BI;;Búrúndí
-EE;;Eistland
-LS;;Lesótó
-BJ;;Benín
-LT;;Litháen
-EG;;Egyptaland
-BL;;Sankti Bartelemí
-EH;;Vestur-Sahara
-LU;;Lúxemborg
-RO;;Rúmenía
-BM;;Bermúda
-LV;;Lettland
-BN;;Brúnei Darussalam
-UM;;Ytri-smáeyjar Bandaríkjanna
-BO;;Bólivía, fjölþjóðaríkið
-KE;;Kenía
-NA;;Namibía
-LY;;Líbýa
-BQ;;Bonaire, Sankti Eustatius og Saba
-BR;;Brasilía
-KG;;Kirgisistan
-NC;;Nýja Kaledónía
-RS;;Serbía
-BS;;Bahamaeyjar
-HK;;Hong Kong
-KH;;Kambódía
-BT;;Bútan
-KI;;Kíribatí
-NE;;Níger
-QA;;Katar
-RU;;Rússneska sambandið
-HM;;Heard-eyja og McDonald-eyjur
-NF;;Norfolkeyja
-US;;Bandaríkin
-BV;;Bouvet eyja
-ER;;Erítrea
-HN;;Hondúras
-NG;;Nígería
-RW;;Rúanda
-BW;;Botsvana
-ES;;Spánn
-ET;;Eþíópía
-NI;;Níkaragva
-AD;;Andorra
-BY;;Hvítarússland
-KM;;Kómoreyjar
-AE;;Sameinuðu arabísku furstadæmin
-BZ;;Belís
-HR;;Króatía
-KN;;Sankti Kitts og Neviseyjur
-TC;;Turks og Kaikós eyjar
 AF;;Afganistan
-NL;;Holland
-TD;;Tsjad
-AG;;Antigúa og Barbúda
-HT;;Haítí
-KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;Úrúgvæ
-GA;;Gabon
-HU;;Ungverjaland
-TF;;Frönsku suðurhafshéruðin
-UZ;;Úsbekistan
-AI;;Angvíla
-DE;;Þýskaland
-GB;;Breska samveldið
-KR;;Lýðveldið Suður-Kórea
-TG;;Tógó
-NO;;Noregur
-TH;;Tæland
-GD;;Grenada
-NP;;Nepal
-ZA;;Suður Afríka
-AL;;Albanía
-GE;;Georgía
-TJ;;Tadsíkistan
-WF;;Wallis- og Fútúnaeyjar
-AM;;Argentína
-GF;;Franska Gvæjana
-NR;;Nárú
-TK;;Tókelá
-DJ;;Djíbútí
-KW;;Kúveit
-TL;;Tímor-Leste
-AO;;Angóla
-DK;;Danmörk
-GG;;Guernsey
-TM;;Túrkmenistan
-GH;;Gana
-JE;;Jersey
-MA;;Marokkó
-KY;;Cayman-eyjar
-NU;;Niue
-TN;;Túnis
-DM;;Dóminíka
-GI;;Gíbraltar
-KZ;;Kasakstan
-TO;;Tonga
-AQ;;Suðurskautslandið
-MC;;Mónakó
-AR;;Argentína
-MD;;Moldóvíska lýðveldið
-AS;;Ameríka - Norður Ameríka
-DO;;Lýðveldið Dóminíka
-ME;;Svartfjallaland
-PA;;Panama
-TR;;Tyrkland
-AT;;Austurríki
-GL;;Grænland
-MF;;Sankti Martin (franski hluti)
-NZ;;Nýja Sjáland
-AU;;Ástralía
-GM;;Gambía
-GN;;Gínea
-MG;;Madagaskar
-AW;;Arúba
-MH;;Marshalleyjar
-TT;;Trínidad og Tóbagó
-ZM;;Sambía
-GP;;Gvadalúp
 AX;;Álandseyjar
-SA;;Sádí-Arabía
-PE;;Perú
-JM;;Jamaíka
-GQ;;Miðbaugs-Gínea
-CA;;Kanada
-WS;;Samóa
-SB;;Salómonseyjar
-PF;;Franska Pólýnesía
-TV;;Túvalú
-PG;;Papúa Nýja-Gínea
-MK;;Lýðveldið Makedónía
-GR;;Grikkland
+AL;;Albanía
+DZ;;Búlgaría
+AS;;Ameríka - Norður Ameríka
+AD;;Andorra
+AO;;Angóla
+AI;;Angvíla
+AQ;;Suðurskautslandið
+AG;;Antigúa og Barbúda
+AR;;Argentína
+AM;;Argentína
+AW;;Arúba
+AU;;Ástralía
+AT;;Austurríki
 AZ;;Azerbaijan
-TW;;Tævan, hérað í Kína
-SC;;Seychelles-eyjar
-PH;;Filippseyjar
-ML;;Malí
+BS;;Bahamaeyjar
+BH;;Barein
+BD;;Bangladess
+BB;;Barbados
+BY;;Hvítarússland
+BE;;Belgía
+BZ;;Belís
+BJ;;Benín
+BM;;Bermúda
+BT;;Bútan
+BO;;Bólivía, fjölþjóðaríkið
+BQ;;Bonaire, Sankti Eustatius og Saba
+BA;;Bosnía og Herzegóvína
+BW;;Botsvana
+BV;;Bouvet eyja
+BR;;Brasilía
+IO;;Bresku Indlandshafseyjar
+BN;;Brúnei Darussalam
+BG;;Búlgaría
+BF;;Búrkína Fasó
+BI;;Búrúndí
+KH;;Kambódía
+CM;;Kamerún
+CA;;Kanada
+CV;;Grænhöfðaeyjar
+KY;;Cayman-eyjar
+CF;;Miðafríkulýðveldið
+TD;;Tsjad
+CL;;Chile
+CN;;Kína
+CX;;Jólaeyja
+CC;;Kókoseyjar (Keeling-eyjar)
+CO;;Kólumbía
+KM;;Kómoreyjar
+CG;;Kongó
+CD;;Kongó, sambandslýðveldið
+CK;;Cook-eyjar
+CR;;Kosta Ríka
+CI;;Côte dIvoireIvoire
+HR;;Króatía
+CU;;Kúba
+CW;;Curaçao
+CY;;Kýpur
+CZ;;Lýðveldið Tékkland
+DK;;Danmörk
+DJ;;Djíbútí
+DM;;Dóminíka
+DO;;Lýðveldið Dóminíka
+EC;;Ekvador
+EG;;Egyptaland
+SV;;El Salvador
+GQ;;Miðbaugs-Gínea
+ER;;Erítrea
+EE;;Eistland
+ET;;Eþíópía
+FK;;Falklandseyjar (Malvinaeyjar)
+FO;;Færeyjar
+FJ;;Fídjieyjar
+FI;;Finnland
+FR;;Frakkland
+GF;;Franska Gvæjana
+PF;;Franska Pólýnesía
+TF;;Frönsku suðurhafshéruðin
+GA;;Gabon
+GM;;Gambía
+GE;;Georgía
+DE;;Þýskaland
+GH;;Gana
+GI;;Gíbraltar
+GR;;Grikkland
+GL;;Grænland
+GD;;Grenada
+GP;;Gvadalúp
+GU;;Gvam
+GT;;Gvatemala
+GG;;Guernsey
+GN;;Gínea
+GW;;Gínea-Bissá
+GY;;Gvæjana
+HT;;Haítí
+HM;;Heard-eyja og McDonald-eyjur
+VA;;Borgríkið Vatíkanið
+HN;;Hondúras
+HK;;Hong Kong
+HU;;Ungverjaland
+IS;;Ísland
+IN;;Indland
+ID;;Indónesía
+IR;;Íran, íslamska lýðveldið
+IQ;;Írak
+IE;;Írland
+IM;;Eyjan Mön
+IL;;Ísrael
+IT;;Ítalía
+JM;;Jamaíka
+JP;;Japan
+JE;;Jersey
 JO;;Jórdanía
+KZ;;Kasakstan
+KE;;Kenía
+KI;;Kíribatí
+KP;;Korea, Democratic Peoples Republic ofs Republic of
+KR;;Lýðveldið Suður-Kórea
+KW;;Kúveit
+KG;;Kirgisistan
+LA;;Lao Peoples Democratic Republics Democratic Republic
+LV;;Lettland
+LB;;Líbanon
+LS;;Lesótó
+LR;;Líbería
+LY;;Líbýa
+LI;;Liechtenstein
+LT;;Litháen
+LU;;Lúxemborg
+MO;;Makaó
+MK;;Lýðveldið Makedónía
+MG;;Madagaskar
+MW;;Malaví
+MY;;Malasía
+MV;;Maldíveyjar
+ML;;Malí
+MT;;Malta
+MH;;Marshalleyjar
+MQ;;Martiník
+MR;;Máritanía
+MU;;Máritus
+YT;;Mayott
+MX;;Mexíkó
+FM;;Míkrónesía, Sambandsríki
+MD;;Moldóvíska lýðveldið
+MC;;Mónakó
+MN;;Mongólía
+ME;;Svartfjallaland
+MS;;Montserrat
+MA;;Marokkó
+MZ;;Mósambík
+MM;;Mjanmar
+NA;;Namibía
+NR;;Nárú
+NP;;Nepal
+NL;;Holland
+NC;;Nýja Kaledónía
+NZ;;Nýja Sjáland
+NI;;Níkaragva
+NE;;Níger
+NG;;Nígería
+NU;;Niue
+NF;;Norfolkeyja
+MP;;Norður-Maríanaeyjar
+NO;;Noregur
+OM;;Óman
+PK;;Pakistan
+PW;;Palá
+PS;;Palestína, herteknu svæðin
+PA;;Panama
+PG;;Papúa Nýja-Gínea
+PY;;Paragvæ
+PE;;Perú
+PH;;Filippseyjar
+PN;;Pitkairn-eyja
+PL;;Pólland
+PT;;Portúgal
+PR;;Puerto Ríko
+QA;;Katar
+RE;;Réunion
+RO;;Rúmenía
+RU;;Rússneska sambandið
+RW;;Rúanda
+BL;;Sankti Bartelemí
+SH;;Sankti Helena, Ascension og Tristan da Cunha
+KN;;Sankti Kitts og Neviseyjur
+LC;;Sankti Lúsía
+MF;;Sankti Martin (franski hluti)
+PM;;Sankti Pierre og Miquelon
+VC;;Sankti Vincent og Grenadineeyjar
+WS;;Samóa
+SM;;San Marínó
+ST;;Saó Tóme og Prinsípe
+SA;;Sádí-Arabía
+SN;;Senegal
+RS;;Serbía
+SC;;Seychelles-eyjar
+SL;;Síerra Leóne
+SG;;Singapúr
+SX;;Sankti Maarten (hollenski hluti)
+SK;;Slóvakía
+SI;;Slóvenía
+SB;;Salómonseyjar
+SO;;Sómalía
+ZA;;Suður Afríka
 GS;;Suður-Georgía og Suður-Sandwich eyjar
+ES;;Spánn
+LK;;Srí Lanka
 SD;;Súdan
+SR;;Súrínam
+SS;;Suður-súdan
+SJ;;Svalbarði og Jan Mayen
+SZ;;Svasíland
+SE;;Svíþjóð
+CH;;Sviss
+SY;;Sýrlenska arabalýðveldið
+TW;;Tævan, hérað í Kína
+TJ;;Tadsíkistan
+TZ;;Tansanía, sameinaða lýðveldið
+TH;;Tæland
+TL;;Tímor-Leste
+TG;;Tógó
+TK;;Tókelá
+TO;;Tonga
+TT;;Trínidad og Tóbagó
+TN;;Túnis
+TR;;Tyrkland
+TM;;Túrkmenistan
+TC;;Turks og Kaikós eyjar
+TV;;Túvalú
+UG;;Úganda
+UA;;Úkraína
+AE;;Sameinuðu arabísku furstadæmin
+GB;;Breska samveldið
+US;;Bandaríkin
+UM;;Ytri-smáeyjar Bandaríkjanna
+UY;;Úrúgvæ
+UZ;;Úsbekistan
+VU;;Vanuatú
+VE;;Venesúela, bólívaríska lýðveldið
+VN;;Víetnam
+VG;;Jómfrúareyjar, bresku
+VI;;Jómfrúareyjar, BNA
+WF;;Wallis- og Fútúnaeyjar
+EH;;Vestur-Sahara
+YE;;Jemen
+ZM;;Sambía
+ZW;;Simbabve

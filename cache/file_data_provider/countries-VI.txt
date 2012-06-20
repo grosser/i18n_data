@@ -1,249 +1,249 @@
-VA;;Toà Thánh (Bang Thành Phố Va-ti-canh)
-CC;;Quần đảo Co-co-xợ (Khi-lịng)
-GT;;Gua-tê-ma-la
-JP;;Nhật
-SE;;Thuỵ Điển
-TZ;;Nước Cộng Hoà Thống Nhất Than-xa-ni-a
-CD;;Cộng hoà Dân chủ Công-gô
-GU;;Gu-ăm
-MM;;Miến Điện
-DZ;;An-giê-ri
-MN;;Mông Cổ
-PK;;Pa-ki-xợ-thănh
-SG;;Xin-ga-po
-VC;;Xan Vinh-xen và Gou-en-a-đinh
-CF;;Nước Cộng Hoà Trung Phi
-GW;;Ghi-nê Bi-xau
-MO;;Ma-cao
-PL;;Ba Lan
-SH;;Xan He-lê-na, A-xen-siónh và Tợ-rí-x-tan đa Cun-ha
-CG;;Công-gô
-MP;;Bắc Quần Đảo Ma-ri-a-na
-PM;;Xan Pi-e và Mi-quê-lon
-SI;;Xlô-ven
-VE;;Nước Cộng Hoà Bo-li-va-ri Vê-nê-xu-ê-la
-ZW;;Xim-ba-bu-ê
-CH;;Thụy Sĩ
-GY;;Guy-a-na
-MQ;;Ma-thi-ni-khợ
-PN;;Pi-thợ-khenh
-SJ;;Xợ-van-bat và Ian-may-en
-CI;;Côte dIvoireIvoire
-MR;;Mô-ri-ta-ni-a
-SK;;Xlô-vác
-VG;;Quần Đảo Vơ-chin Anh
-MS;;Mon-xe-rạc
-SL;;Xi-ê-ra Lê-ô-nê
-CK;;Quần đảo Khu-khợ
-ID;;Nam Dương
-MT;;Moa-ta
-SM;;Xan Ma-ri-nô
-VI;;Quần Đảo Vơ-chin Mỹ
-YE;;Y-ê-men
-CL;;Chi-lê
-IE;;Ái Nhĩ Lan
-LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;Mô-ri-sơ-xợ
-SN;;Xê-nê-gan
-CM;;Ca-mơ-runh
-FI;;Phần Lan
-LB;;Le-ba-non
-MV;;Mal-đi-vợx
-PR;;Pu-éc-thô Ri-cô
-SO;;Xo-ma-li
-CN;;Trung Quốc
-FJ;;Phi-gi
-LC;;Xan Lu-xi
-MW;;Ma-la-uy
-PS;;Miền Pa-le-xtin bị Chiếm Đóng
-CO;;Cô-lôm-bi-a
-FK;;Quần Đảo Phoa-kh-lận-đợ (Man-vi-na)
-MX;;Mê-hi-cô
-PT;;Bồ Đào Nha
-MY;;Ma-lai-xi-a
-SR;;Xu-ri-na-me
-VN;;Việt Nam
-FM;;Mi-khợ-rô-nê-xi-a, Liên Bang
-MZ;;Mô-xam-bí-khợ
-CR;;Cốt-x-tha Ri-ca
-PW;;Pa-lau
-SS;;Nước Cộng Hoà Xu-đanh
-FO;;Quần đảo Pha-rô
-ST;;Xao Tô-mê và Pợ-rin-xi-pê
-IL;;Do Thái
-LI;;Likh-ten-xtainh
-PY;;Pa-ra-guay
-BA;;Bô-xni-a và Hẻ-xê-gô-vi-na
-CU;;Cu-ba
-IM;;Đảo Man
-SV;;En-xan-va-đoa
-CV;;Cáp-ve-đẹ
-FR;;Pháp
-IN;;Ấn-độ
-LK;;Tích Lan
-BB;;Bă-ba-đôxợ
-CW;;Curaçao
-IO;;Miền Đại Dương Ấn-độ Anh
-SX;;Saint Martin (vùng Pháp)
-VU;;Va-nu-a-tu
-CX;;Đảo Kh-ri-xợ-mà-xợ
-RE;;Rê-u-ni-ợnh
-UA;;U-cợ-rainh
-SY;;Cộng hoà A-rập Xi-ri-a
-CY;;Síp
-IQ;;I-rắc
-SZ;;Xouă-xi-lan
-BD;;Bang-la-đesợ
-CZ;;Cộng hoà Séc
-IR;;Ba Tư, Cộng hoà Hồi giáo
-YT;;May-o-thợ
-BE;;Bỉ
-IS;;Băng Đảo
-BF;;Buốc-khi-na Pha-xô
-EC;;Ê-cu-a-đoa
-IT;;Ý
-OM;;Ô-man
-BG;;Bua-ga-ri
-BH;;Ba-rainh
-LR;;Li-bê-ri-a
-UG;;U-gan-đa
-BI;;Bu-run-đi
-EE;;E-xợ-tô-ni-a
-LS;;Lê-xô-thô
-BJ;;Bê-ninh
-LT;;Li-tu-a-ni-a
-EG;;Ai Cập
-BL;;Saint Barthélemy
-EH;;Tây Sa-ha-ra
-LU;;Lục Xâm Bảo
-RO;;Rô-ma-ni
-BM;;Be-mu-đa
-LV;;Lát-vi-a
-BN;;Bợru-này Đa-ru-xa-làm
-UM;;Quần Đảo ở xa nhỏ Mỹ
-BO;;Bô-li-vi-a, Quốc gia Đa Dân tộc
-KE;;Khi-ni-a
-NA;;Na-mi-bi-a
-LY;;Li-bi
-BQ;;Bonaire, Sint Eustatius and Saba
-BR;;Bra-xin
-KG;;Khư-rơ-gư-xtanh
-NC;;Niu Ca-lê-đô-ni-a
-RS;;Xéc-bi
-BS;;Ba-ha-ma
-HK;;Hông Kông
-KH;;Căm Bốt
-BT;;Bu-thănh
-KI;;Ki-ri-ba-ti
-NE;;Ni-gie
-QA;;Ca-tă
-RU;;Liên Bang Nga
-HM;;Đảo He-ợ-đợ và Quần Đảo Mợc-đo-nậ-đợ
-NF;;Đảo Noa-phọ-khợ
-US;;Mỹ
-BV;;Quần đảo Bu-vê
-ER;;Ê-ri-tơ-rê-a
-HN;;Hôn-đu-ra-xợ
-NG;;Ni-giê-ri-a
-RW;;Ru-oanh-đa
-BW;;Bốt-xoă-na
-ES;;Tây Ban Nha
-ET;;Ê-ti-ô-pi-a
-NI;;Ni-ca-ra-gua
-AD;;Ăn-đoa-râ
-BY;;Be-la-ruxợ
-KM;;Cô-mô-rô-xợ
-AE;;Các Tiểu Vương Quốc A-rập Thống Nhất
-BZ;;Bê-li-xê
-HR;;Cợ-rô-a-ti-a
-KN;;Xan-kít và Nê-vi
-TC;;Quần Đảo Tuốc và Cai-cox
 AF;;A Phú Hãn
-NL;;Hoà Lan
-TD;;Chê-đ
-AG;;Ănh-thí-gua và Ba-bu-đa
-HT;;Ha-i-ti
-KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;U-ru-guay
-GA;;Ga-bon
-HU;;Hun-ga-ri
-TF;;Miền Nam Pháp
-UZ;;U-xợ-bê-khi-xtanh
-AI;;Ăng-ouí-la
-DE;;Đức
-GB;;Vương Quốc Anh Thống Nhất
-KR;;Cộng hoà Nam Hàn
-TG;;Tô-gô
-NO;;Na Uy
-TH;;Thái Lan
-GD;;Gợ-rê-na-đa
-NP;;Nê-pan
-ZA;;Nam Phi
-AL;;An-ba-ni
-GE;;Gi-oa-gi-a
-TJ;;Tha-gi-ki-xthanh
-WF;;Oua-li-xợ va Phu-tu-na
-AM;;Ac-mê-ni
-GF;;Ghi-a-na Pháp
-NR;;Nau-ru
-TK;;To-ke-lau
-DJ;;Gi-bu-ti
-KW;;Cu-ouai-thợ
-TL;;Thi-moa Le-xợ-te
-AO;;Ăng-gô-la
-DK;;Đan Mạch
-GG;;Gơnh-xị
-TM;;Tuốc-mê-ni-xtanh
-GH;;Ga-na
-JE;;Giơ-xị
-MA;;Mo-ro-cô
-KY;;Quần đảo Cay-man
-NU;;Ni-u-e
-TN;;Tu-ni-xi-a
-DM;;Đô-mi-ni-cạ
-GI;;Gi-boa-tha
-KZ;;Kha-xa-kh-x-thanh
-TO;;Tông-ga
-AQ;;Nam Cực
-MC;;Mo-na-cô
-AR;;Á-căn-đình
-MD;;Nước Cộng Hoà Mổ-đô-vạ
-AS;;Xa-mô-a Mỹ
-DO;;Cộng hoà Đô-mi-ni-cạ
-ME;;Mon-te-nê-gợ-rô
-PA;;Pa-na-ma
-TR;;Thổ Nhĩ Kỳ
-AT;;Ao
-GL;;Đảo Băng
-MF;;Saint Martin (vùng Pháp)
-NZ;;Niu Xi-lân
-AU;;Úc
-GM;;Găm-bi-a
-GN;;Ghi-nê
-MG;;Ma-đa-ga-xợ-ca
-AW;;Ă-ru-ba
-MH;;Quần Đảo Ma-san
-TT;;Trinh-i-đat và To-ba-gô
-ZM;;Xam-bi-a
-GP;;Gu-a-đe-lup
 AX;;Quần đảo A-lanh
-SA;;A-rập Xau-đi
-PE;;Pê-ru
-JM;;Gia-mê-ca
-GQ;;Ghi-nê Xích Đạo
-CA;;Ca-na-đa
-WS;;Xa-mô-a
-SB;;Quần đảo Xô-lô-mông
-PF;;Pô-li-nê-xi Pháp
-TV;;Tu-va-lu
-PG;;Pa-pu-a Niu Ghi-nê
-MK;;Nước Cộng Hoà Ma-xê-đô-ni
-GR;;Hy Lạp
+AL;;An-ba-ni
+DZ;;An-giê-ri
+AS;;Xa-mô-a Mỹ
+AD;;Ăn-đoa-râ
+AO;;Ăng-gô-la
+AI;;Ăng-ouí-la
+AQ;;Nam Cực
+AG;;Ănh-thí-gua và Ba-bu-đa
+AR;;Á-căn-đình
+AM;;Ac-mê-ni
+AW;;Ă-ru-ba
+AU;;Úc
+AT;;Ao
 AZ;;Ai-xợ-bai-gianh
-TW;;Đài Loan, Tỉnh Trung Quốc
-SC;;Xây-sen
-PH;;Phi-li-pi-nợ
-ML;;Ma-li
+BS;;Ba-ha-ma
+BH;;Ba-rainh
+BD;;Bang-la-đesợ
+BB;;Bă-ba-đôxợ
+BY;;Be-la-ruxợ
+BE;;Bỉ
+BZ;;Bê-li-xê
+BJ;;Bê-ninh
+BM;;Be-mu-đa
+BT;;Bu-thănh
+BO;;Bô-li-vi-a, Quốc gia Đa Dân tộc
+BQ;;Bông-Ne, Xin E-u-xờ-ta-ti-tút và Xa-ba
+BA;;Bô-xni-a và Hẻ-xê-gô-vi-na
+BW;;Bốt-xoă-na
+BV;;Quần đảo Bu-vê
+BR;;Bra-xin
+IO;;Miền Đại Dương Ấn-độ Anh
+BN;;Bợru-này Đa-ru-xa-làm
+BG;;Bua-ga-ri
+BF;;Buốc-khi-na Pha-xô
+BI;;Bu-run-đi
+KH;;Căm Bốt
+CM;;Ca-mơ-runh
+CA;;Ca-na-đa
+CV;;Cáp-ve-đẹ
+KY;;Quần đảo Cay-man
+CF;;Nước Cộng Hoà Trung Phi
+TD;;Chê-đ
+CL;;Chi-lê
+CN;;Trung Quốc
+CX;;Đảo Kh-ri-xợ-mà-xợ
+CC;;Quần đảo Co-co-xợ (Khi-lịng)
+CO;;Cô-lôm-bi-a
+KM;;Cô-mô-rô-xợ
+CG;;Công-gô
+CD;;Cộng hoà Dân chủ Công-gô
+CK;;Quần đảo Khu-khợ
+CR;;Cốt-x-tha Ri-ca
+CI;;Côte dIvoireIvoire
+HR;;Cợ-rô-a-ti-a
+CU;;Cu-ba
+CW;;Cu-ra-cao
+CY;;Síp
+CZ;;Cộng hoà Séc
+DK;;Đan Mạch
+DJ;;Gi-bu-ti
+DM;;Đô-mi-ni-cạ
+DO;;Cộng hoà Đô-mi-ni-cạ
+EC;;Ê-cu-a-đoa
+EG;;Ai Cập
+SV;;En-xan-va-đoa
+GQ;;Ghi-nê Xích Đạo
+ER;;Ê-ri-tơ-rê-a
+EE;;E-xợ-tô-ni-a
+ET;;Ê-ti-ô-pi-a
+FK;;Quần Đảo Phoa-kh-lận-đợ (Man-vi-na)
+FO;;Quần đảo Pha-rô
+FJ;;Phi-gi
+FI;;Phần Lan
+FR;;Pháp
+GF;;Ghi-a-na Pháp
+PF;;Pô-li-nê-xi Pháp
+TF;;Miền Nam Pháp
+GA;;Ga-bon
+GM;;Găm-bi-a
+GE;;Gi-oa-gi-a
+DE;;Đức
+GH;;Ga-na
+GI;;Gi-boa-tha
+GR;;Hy Lạp
+GL;;Đảo Băng
+GD;;Gợ-rê-na-đa
+GP;;Gu-a-đe-lup
+GU;;Gu-ăm
+GT;;Gua-tê-ma-la
+GG;;Gơnh-xị
+GN;;Ghi-nê
+GW;;Ghi-nê Bi-xau
+GY;;Guy-a-na
+HT;;Ha-i-ti
+HM;;Đảo He-ợ-đợ và Quần Đảo Mợc-đo-nậ-đợ
+VA;;Toà Thánh (Bang Thành Phố Va-ti-canh)
+HN;;Hôn-đu-ra-xợ
+HK;;Hông Kông
+HU;;Hun-ga-ri
+IS;;Băng Đảo
+IN;;Ấn-độ
+ID;;Nam Dương
+IR;;Ba Tư, Cộng hoà Hồi giáo
+IQ;;I-rắc
+IE;;Ái Nhĩ Lan
+IM;;Đảo Man
+IL;;Do Thái
+IT;;Ý
+JM;;Gia-mê-ca
+JP;;Nhật
+JE;;Giơ-xị
 JO;;Gi-oa-đanh
+KZ;;Kha-xa-kh-x-thanh
+KE;;Khi-ni-a
+KI;;Ki-ri-ba-ti
+KP;;Korea, Democratic Peoples Republic ofs Republic of
+KR;;Cộng hoà Nam Hàn
+KW;;Cu-ouai-thợ
+KG;;Khư-rơ-gư-xtanh
+LA;;Lao Peoples Democratic Republics Democratic Republic
+LV;;Lát-vi-a
+LB;;Le-ba-non
+LS;;Lê-xô-thô
+LR;;Li-bê-ri-a
+LY;;Li-bi
+LI;;Likh-ten-xtainh
+LT;;Li-tu-a-ni-a
+LU;;Lục Xâm Bảo
+MO;;Ma-cao
+MK;;Nước Cộng Hoà Ma-xê-đô-ni
+MG;;Ma-đa-ga-xợ-ca
+MW;;Ma-la-uy
+MY;;Ma-lai-xi-a
+MV;;Mal-đi-vợx
+ML;;Ma-li
+MT;;Moa-ta
+MH;;Quần Đảo Ma-san
+MQ;;Ma-thi-ni-khợ
+MR;;Mô-ri-ta-ni-a
+MU;;Mô-ri-sơ-xợ
+YT;;May-o-thợ
+MX;;Mê-hi-cô
+FM;;Mi-khợ-rô-nê-xi-a, Liên Bang
+MD;;Nước Cộng Hoà Mổ-đô-vạ
+MC;;Mo-na-cô
+MN;;Mông Cổ
+ME;;Mon-te-nê-gợ-rô
+MS;;Mon-xe-rạc
+MA;;Mo-ro-cô
+MZ;;Mô-xam-bí-khợ
+MM;;Miến Điện
+NA;;Na-mi-bi-a
+NR;;Nau-ru
+NP;;Nê-pan
+NL;;Hoà Lan
+NC;;Niu Ca-lê-đô-ni-a
+NZ;;Niu Xi-lân
+NI;;Ni-ca-ra-gua
+NE;;Ni-gie
+NG;;Ni-giê-ri-a
+NU;;Ni-u-e
+NF;;Đảo Noa-phọ-khợ
+MP;;Bắc Quần Đảo Ma-ri-a-na
+NO;;Na Uy
+OM;;Ô-man
+PK;;Pa-ki-xợ-thănh
+PW;;Pa-lau
+PS;;Miền Pa-le-xtin bị Chiếm Đóng
+PA;;Pa-na-ma
+PG;;Pa-pu-a Niu Ghi-nê
+PY;;Pa-ra-guay
+PE;;Pê-ru
+PH;;Phi-li-pi-nợ
+PN;;Pi-thợ-khenh
+PL;;Ba Lan
+PT;;Bồ Đào Nha
+PR;;Pu-éc-thô Ri-cô
+QA;;Ca-tă
+RE;;Rê-u-ni-ợnh
+RO;;Rô-ma-ni
+RU;;Liên Bang Nga
+RW;;Ru-oanh-đa
+BL;;Saint Barthélemy
+SH;;Xan He-lê-na, A-xen-siónh và Tợ-rí-x-tan đa Cun-ha
+KN;;Xan-kít và Nê-vi
+LC;;Xan Lu-xi
+MF;;Saint Martin (vùng Pháp)
+PM;;Xan Pi-e và Mi-quê-lon
+VC;;Xan Vinh-xen và Gou-en-a-đinh
+WS;;Xa-mô-a
+SM;;Xan Ma-ri-nô
+ST;;Xao Tô-mê và Pợ-rin-xi-pê
+SA;;A-rập Xau-đi
+SN;;Xê-nê-gan
+RS;;Xéc-bi
+SC;;Xây-sen
+SL;;Xi-ê-ra Lê-ô-nê
+SG;;Xin-ga-po
+SX;;Xin Mác-Ten (vùng Hà Lan)
+SK;;Xlô-vác
+SI;;Xlô-ven
+SB;;Quần đảo Xô-lô-mông
+SO;;Xo-ma-li
+ZA;;Nam Phi
 GS;;Nam Gi-oa-gi-a va Nam Quần Đảo Xan-oui-chợ
+ES;;Tây Ban Nha
+LK;;Tích Lan
 SD;;Xu-đanh
+SR;;Xu-ri-na-me
+SS;;Nam Xu-đăng
+SJ;;Xợ-van-bat và Ian-may-en
+SZ;;Xouă-xi-lan
+SE;;Thuỵ Điển
+CH;;Thụy Sĩ
+SY;;Cộng hoà A-rập Xi-ri-a
+TW;;Đài Loan, Tỉnh Trung Quốc
+TJ;;Tha-gi-ki-xthanh
+TZ;;Nước Cộng Hoà Thống Nhất Than-xa-ni-a
+TH;;Thái Lan
+TL;;Thi-moa Le-xợ-te
+TG;;Tô-gô
+TK;;To-ke-lau
+TO;;Tông-ga
+TT;;Trinh-i-đat và To-ba-gô
+TN;;Tu-ni-xi-a
+TR;;Thổ Nhĩ Kỳ
+TM;;Tuốc-mê-ni-xtanh
+TC;;Quần Đảo Tuốc và Cai-cox
+TV;;Tu-va-lu
+UG;;U-gan-đa
+UA;;U-cờ-rai-na
+AE;;Các Tiểu Vương Quốc A-rập Thống Nhất
+GB;;Vương Quốc Anh Thống Nhất
+US;;Mỹ
+UM;;Quần Đảo ở xa nhỏ Mỹ
+UY;;U-ru-guay
+UZ;;U-xợ-bê-khi-xtanh
+VU;;Va-nu-a-tu
+VE;;Nước Cộng Hoà Bo-li-va-ri Vê-nê-xu-ê-la
+VN;;Việt Nam
+VG;;Quần Đảo Vơ-chin Anh
+VI;;Quần Đảo Vơ-chin Mỹ
+WF;;Oua-li-xợ va Phu-tu-na
+EH;;Tây Sa-ha-ra
+YE;;Y-ê-men
+ZM;;Xam-bi-a
+ZW;;Xim-ba-bu-ê

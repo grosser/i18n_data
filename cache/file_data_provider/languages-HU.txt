@@ -1,185 +1,185 @@
-SE;;északi lapp
-FY;;nyugati fríz
-OS;;oszét
-GL;;galíciai
-LU;;luba-katanga
-MI;;maori
-LV;;lett
-HA;;hausza
-BE;;belorusz
-GN;;guarani
-PI;;páli
-UR;;urdu
-MK;;macedón
-VE;;venda
-AR;;arab
-SG;;szango
-KA;;grúz
-ML;;malajálam
-AS;;asszami
-EE;;eve
-RU;;orosz
-SI;;szimhala; szingaléz
-BG;;bolgár
-PL;;lengyel
-HE;;héber
-NA;;nauru
-BH;;bihari nyelvek
-MN;;mongol
-VI;;vietnami
-RW;;kinyarvanda
-NB;;Bokmal, norvég, norvég bokmal
-AV;;avar
-SK;;szlovák
-BI;;biszlama
-MO;;Moldvai; moldovai
-SL;;szlovén
-YI;;jiddis
-DV;;divehi; maldív
-ND;;ndebele, északi; északi ndebele
-SM;;szamoai
-NE;;nepáli
-AY;;ajmara
-SN;;sona
-KG;;kongo
-TA;;tamil
-GU;;gudzsaráti
-HI;;hindi
-MR;;maráthi
-AZ;;azeri
-SO;;szomáli
-BM;;bambara
-GV;;manx
-CA;;katalán; valenciai
-MS;;maláj
-EL;;modern görög (1453-)
-NG;;ndonga
-WA;;vallon
-BN;;bengáli
-KI;;kikuju; gikuju
-UZ;;üzbég
-DZ;;dzongkha
-MT;;máltai
-VO;;volapük
-JV;;jávai
-FA;;perzsa
-SQ;;albán
-BO;;tibeti
-KJ;;kuanyama; kwanyama
-EN;;angol
-SR;;szerb
-TE;;telugu
-PS;;Pushto; Pashto
-ZA;;dzsuang; csuang
-IA;;interlingva (Nemzetközi Segédnyelv Egyesület)
-EO;;eszperantó
-KK;;kazak
-PT;;portugál
-YO;;joruba
-SS;;szvázi
-BR;;breton
-KL;;kalaallisut; grönlandi
-TG;;tádzsik
-CE;;csecsen
-NL;;holland, flamand
-ST;;szoto, déli
-BS;;bosnyák
-KM;;középkhmer
-TH;;thai
-LA;;latin
-HO;;hiri-motu
-SU;;szundai
-KN;;kannada
-TI;;tigrinya
-LB;;luxemburgi
-MY;;burmai
-ID;;indonéz
-SV;;svéd
-FF;;ful
-KO;;koreai
-CH;;csamorro
-IE;;interlingue; occidental
-ES;;spanyol, kasztíliai
-SW;;szuahéli
-TK;;türkmen
-HR;;horvát
-ET;;észt
-NN;;norvég nynorsk; nynorsk, norvég
-OC;;okcitán (1500 után)
-TL;;tagalog
-ZH;;kínai
-IG;;igbo
-EU;;baszk
-NO;;norvég
-FI;;finn
-HT;;haiti; haiti kreol
-KR;;kanuri
-FJ;;fidzsi
 AA;;afar
-HU;;magyar
-LG;;ganda
-KS;;kasmíri
-TN;;csvana
-NR;;ndebele, déli; déli ndebele
 AB;;abház
-II;;Szecsuán Yi; Nuosu
-DA;;dán
-TO;;tonga (Tonga-szigetek)
-KU;;kurd
-LI;;limburgi
-GA;;ír
-KV;;komi
-IK;;inupiak
-CO;;korzikai
-WO;;wolof
-KW;;cornwalli
-AE;;avesztai
-HY;;örmény
-TR;;török
-FO;;feröeri
-JA;;japán
-NV;;navaho
 AF;;afrikaans
-HZ;;herero
-OJ;;ozsibva
-TS;;conga
-CR;;krí
-GD;;kelta; skót kelta
-KY;;kirgiz
-DE;;német
-QU;;kecsua
-UG;;ujgur
-CS;;cseh
-IO;;ido
-TT;;tatár
-LN;;lingala
-FR;;francia
-NY;;csicseva; cseva; nyandzsa
-OM;;oromo
-LO;;lao
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
-PA;;pandzsábi
-XH;;xhosza
-CV;;csuvas
 AK;;akan
-RM;;rétoromán
-TW;;tvi
-UK;;ukrán
-IS;;izlandi
-RN;;rundi
-SA;;szankszrit
-ZU;;zulu
-IT;;olasz
-BA;;baskír
+SQ;;albán
 AM;;amhara
-RO;;román
-TY;;tahiti
-IU;;inuktitut
-MG;;malagas
+AR;;arab
 AN;;aragóniai
-SC;;szárd
-CY;;walesi
-MH;;Marshall-szigeteki
+HY;;örmény
+AS;;asszami
+AV;;avar
+AE;;avesztai
+AY;;ajmara
+AZ;;azeri
+BA;;baskír
+BM;;bambara
+EU;;baszk
+BE;;belorusz
+BN;;bengáli
+BH;;bihari nyelvek
+BI;;biszlama
+BS;;bosnyák
+BR;;breton
+BG;;bolgár
+MY;;burmai
+CA;;katalán; valenciai
+CH;;csamorro
+CE;;csecsen
+ZH;;kínai
+CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CV;;csuvas
+KW;;cornwalli
+CO;;korzikai
+CR;;krí
+CS;;cseh
+DA;;dán
+DV;;divehi; maldív
+NL;;holland, flamand
+DZ;;dzongkha
+EN;;angol
+EO;;eszperantó
+ET;;észt
+EE;;eve
+FO;;feröeri
+FJ;;fidzsi
+FI;;finn
+FR;;francia
+FY;;nyugati fríz
+FF;;ful
+KA;;grúz
+DE;;német
+GD;;kelta; skót kelta
+GA;;ír
+GL;;galíciai
+GV;;manx
+EL;;modern görög (1453-)
+GN;;guarani
+GU;;gudzsaráti
+HT;;haiti; haiti kreol
+HA;;hausza
+HE;;héber
+HZ;;herero
+HI;;hindi
+HO;;hiri-motu
+HR;;horvát
+HU;;magyar
+IG;;igbo
+IS;;izlandi
+IO;;ido
+II;;Szecsuán Yi; Nuosu
+IU;;inuktitut
+IE;;interlingue; occidental
+IA;;interlingva (Nemzetközi Segédnyelv Egyesület)
+ID;;indonéz
+IK;;inupiak
+IT;;olasz
+JV;;jávai
+JA;;japán
+KL;;kalaallisut; grönlandi
+KN;;kannada
+KS;;kasmíri
+KR;;kanuri
+KK;;kazak
+KM;;középkhmer
+KI;;kikuju; gikuju
+RW;;kinyarvanda
+KY;;kirgiz
+KV;;komi
+KG;;kongo
+KO;;koreai
+KJ;;kuanyama; kwanyama
+KU;;kurd
+LO;;lao
+LA;;latin
+LV;;lett
+LI;;limburgi
+LN;;lingala
 LT;;litván
+LB;;luxemburgi
+LU;;luba-katanga
+LG;;ganda
+MK;;macedón
+MH;;Marshall-szigeteki
+ML;;malajálam
+MI;;maori
+MR;;maráthi
+MS;;maláj
+MG;;malagas
+MT;;máltai
+MO;;Moldvai; moldovai
+MN;;mongol
+NA;;nauru
+NV;;navaho
+NR;;ndebele, déli; déli ndebele
+ND;;ndebele, északi; északi ndebele
+NG;;ndonga
+NE;;nepáli
+NN;;norvég nynorsk; nynorsk, norvég
+NB;;Bokmal, norvég, norvég bokmal
+NO;;norvég
+NY;;csicseva; cseva; nyandzsa
+OC;;okcitán (1500 után)
+OJ;;ozsibva
 OR;;orija
+OM;;oromo
+OS;;oszét
+PA;;pandzsábi
+FA;;perzsa
+PI;;páli
+PL;;lengyel
+PT;;portugál
+PS;;Pushto; Pashto
+QU;;kecsua
+RM;;rétoromán
+RO;;román
+RN;;rundi
+RU;;orosz
+SG;;szango
+SA;;szankszrit
+SI;;szimhala; szingaléz
+SK;;szlovák
+SL;;szlovén
+SE;;északi lapp
+SM;;szamoai
+SN;;sona
 SD;;szindhi
+SO;;szomáli
+ST;;szoto, déli
+ES;;spanyol, kasztíliai
+SC;;szárd
+SR;;szerb
+SS;;szvázi
+SU;;szundai
+SW;;szuahéli
+SV;;svéd
+TY;;tahiti
+TA;;tamil
+TT;;tatár
+TE;;telugu
+TG;;tádzsik
+TL;;tagalog
+TH;;thai
+BO;;tibeti
+TI;;tigrinya
+TO;;tonga (Tonga-szigetek)
+TN;;csvana
+TS;;conga
+TK;;türkmen
+TR;;török
+TW;;tvi
+UG;;ujgur
+UK;;ukrán
+UR;;urdu
+UZ;;üzbég
+VE;;venda
+VI;;vietnami
+VO;;volapük
+CY;;walesi
+WA;;vallon
+WO;;wolof
+XH;;xhosza
+YI;;jiddis
+YO;;joruba
+ZA;;dzsuang; csuang
+ZU;;zulu

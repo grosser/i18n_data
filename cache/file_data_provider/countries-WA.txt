@@ -1,249 +1,249 @@
-VA;;Vatican
-CC;;Iyes Cocos (Keeling)
-GT;;Gwatemala
-JP;;Djapon
-SE;;Suwede
-TZ;;Tanzaneye
-CD;;Congo-Kinshasa, Republike Democratike do Congo
-GU;;Gwam
-MM;;Birmaneye
-DZ;;Aldjereye
-MN;;Mongoleye
-PK;;Pakistan
-SG;;Singapour
-VC;;Sint Vincint et les Grenadines
-CF;;Cintrafrike
-GW;;Guinêye-Bissaw
-MO;;Macao
-PL;;Pologne
-SH;;Saint Helena, Ascension and Tristan da Cunha
-CG;;Congo-Brazza
-MP;;Iyes Marianes bijhreces
-PM;;Sint Pierre et Miquelon
-SI;;Esloveneye
-VE;;Republike Bolivaryinne do Venezwela
-ZW;;Zimbabwè
-CH;;Swisse
-GY;;Guyana
-MQ;;Martinike
-PN;;Pitcairn
-SJ;;Iyes Svalbard eyet Jan Mayen
-CI;;Côte dIvoireIvoire
-MR;;Moritanreye
-SK;;Eslovakeye
-VG;;Iyes Viedjes britanikes
-MS;;Montserrat
-SL;;Siera Leyone
-CK;;Iyes Cook
-ID;;Indonezeye
-MT;;Male
-SM;;Sint Marin
-VI;;Iyes Viedjes etazunyinnes
-YE;;Yemen
-CL;;Tchili
-IE;;Irlande
-LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;Iye Môrice
-SN;;Senegål
-CM;;Camrone
-FI;;Finlande
-LB;;Liban
-MV;;Maldives
-PR;;Porto Rico
-SO;;Somaleye
-CN;;Chine
-FJ;;Fidji
-LC;;Sinte Luceye
-MW;;Malawi
-PS;;Palestene
-CO;;Colombeye
-FK;;Iyes Malouwines
-MX;;Mecsike
-PT;;Portugal
-MY;;Malaizeye
-SR;;Suriname
-VN;;Vietnam
-FM;;Micronezeye
-MZ;;Mozambike
-CR;;Costa Rica
-PW;;Palawou
-SS;;Republike do Soudan
-FO;;Iyes Faeroyé
-ST;;São Tomé et Prince
-IL;;Israyel
-LI;;Lîchtensteyn
-PY;;Paragway
-BA;;Bosneye
-CU;;Cuba
-IM;;Iye di Man
-SV;;El Salvador
-CV;;Cap Vert
-FR;;France
-IN;;Inde
-LK;;Sri Lanka
-BB;;Bårbades
-CW;;Curaçao
-IO;;Teritweres britanikes di l' Oceyan Indyin
-SX;;Sint Maarten (Dutch part)
-VU;;Vanouatou
-CX;;Iye Christmas
-RE;;Reyunion
-UA;;Oucrinne
-SY;;Sireye
-CY;;Chipe
-IQ;;Irak
-SZ;;Suwazilande
-BD;;Bangladesh
-CZ;;Tchekeye
-IR;;Iran
-YT;;Mayote
-BE;;Beldjike
-IS;;Izlande
-BF;;Bourkina Fasso
-EC;;Ecwåteur
-IT;;Itåleye
-OM;;Oman
-BG;;Bulgåreye
-BH;;Bareyn
-LR;;Liberia
-UG;;Ouganda
-BI;;Bouroundi
-EE;;Estoneye
-LS;;Lessoto
-BJ;;Benin
-LT;;Litwaneye
-EG;;Edjipe
-BL;;Saint Barthélemy
-EH;;Sara Coûtchantrece
-LU;;Lussimbork
-RO;;Roumaneye
-BM;;Bermudes
-LV;;Letoneye
-BN;;Bruney
-UM;;Iyes mineures des Estats Unis
-BO;;Bolivia, Plurinational State of
-KE;;Kenia
-NA;;Namibeye
-LY;;Liberia
-BQ;;Bonaire, Sint Eustatius and Saba
-BR;;Braezi
-KG;;Kirguiztan
-NC;;Nouve Caledoneye
-RS;;Serbeye
-BS;;Bahamas
-HK;;Hong Kong
-KH;;Cambodje
-BT;;Boutan
-KI;;Kiribati
-NE;;Nidjer
-QA;;Katar
-RU;;Rûsseye
-HM;;Iyeas Heard et McDonald
-NF;;Iye Norfolk
-US;;Estats Unis
-BV;;Iye Bouvet
-ER;;Eritrêye
-HN;;Honduras
-NG;;Nidjeria
-RW;;Rwanda
-BW;;Boswana
-ES;;Espagne
-ET;;Etiopeye
-NI;;Nicaragwa
-AD;;Andore
-BY;;Belaruss
-KM;;Comores
-AE;;Emirats Arabes Unis
-BZ;;Belize
-HR;;Crowåceye
-KN;;St Kitts & Nevis
-TC;;Iyes Turks et Caicos
 AF;;Afganistan
-NL;;Bas Payis
-TD;;Tchad
-AG;;Antigua eyet Barbuda
-HT;;Hayiti
-KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;Ourougway
-GA;;Gabon
-HU;;Hongreye
-TF;;Teritweres francès do sud
-UZ;;Ouzbekistan
-AI;;Anguila
-DE;;Almagne
-GB;;Rweyåme Uni
-KR;;Corêye (nonnrece)
-TG;;Togo
-NO;;Norvedje
-TH;;Taylande
-GD;;Grenåde
-NP;;Nepal
-ZA;;Nonne Afrike
-AL;;Albaneye
-GE;;Djeyordjeye
-TJ;;Tadjikistan
-WF;;Wallis et Futuna
-AM;;Årmeneye
-GF;;Guyane francesse
-NR;;Nawouro
-TK;;Tokelau
-DJ;;Djibouti
-KW;;Kuweyt
-TL;;Timor Ess
-AO;;Angola
-DK;;Daenmåtche
-GG;;Guernsey
-TM;;Turcmenistan
-GH;;Gana
-JE;;Djersey
-MA;;Marok
-KY;;Iyes Cayman
-NU;;Niuwé
-TN;;Tunizeye
-DM;;Dominike
-GI;;Djibraltar
-KZ;;Kazaxhtan
-TO;;Tonga
-AQ;;Antartike
-MC;;Monaco
-AR;;Årdjintene
-MD;;Macedoneye
-AS;;Samowa amerikinne
-DO;;Republike Dominikinne
-ME;;Montenegro
-PA;;Panama
-TR;;Turkeye
-AT;;Otriche
-GL;;Groenlande
-MF;;Saint Martin (French part)
-NZ;;Nouve Zelande
-AU;;Ostraleye
-GM;;Gambeye
-GN;;Guinêye
-MG;;Madagascar
-AW;;Arouba
-MH;;Iyes Marshall
-TT;;Trinité et Tobago
-ZM;;Zambeye
-GP;;Gwadeloupe
 AX;;Iyes Åland
-SA;;Arabeye Sawoudite
-PE;;Perou
-JM;;Djamayike
-GQ;;Guinêye Ecwåtoriåle
-CA;;Canada
-WS;;Samowa
-SB;;Iyes Solomon
-PF;;Polinezeye francesse
-TV;;Touvalou
-PG;;Papouwazeye Nouve Guinêye
-MK;;Macedoneye
-GR;;Grece
+AL;;Albaneye
+DZ;;Aldjereye
+AS;;Samowa amerikinne
+AD;;Andore
+AO;;Angola
+AI;;Anguila
+AQ;;Antartike
+AG;;Antigua eyet Barbuda
+AR;;Årdjintene
+AM;;Årmeneye
+AW;;Arouba
+AU;;Ostraleye
+AT;;Otriche
 AZ;;Azerbaydjan
-TW;;Taiwan, Province di Chine
-SC;;Seycheles
-PH;;Filipenes
-ML;;Mali
+BS;;Bahamas
+BH;;Bareyn
+BD;;Bangladesh
+BB;;Bårbades
+BY;;Belaruss
+BE;;Beldjike
+BZ;;Belize
+BJ;;Benin
+BM;;Bermudes
+BT;;Boutan
+BO;;Bolivia, Plurinational State of
+BQ;;Bonaire, Sint Eustatius and Saba
+BA;;Bosneye
+BW;;Boswana
+BV;;Iye Bouvet
+BR;;Braezi
+IO;;Teritweres britanikes di l' Oceyan Indyin
+BN;;Bruney
+BG;;Bulgåreye
+BF;;Bourkina Fasso
+BI;;Bouroundi
+KH;;Cambodje
+CM;;Camrone
+CA;;Canada
+CV;;Cap Vert
+KY;;Iyes Cayman
+CF;;Cintrafrike
+TD;;Tchad
+CL;;Tchili
+CN;;Chine
+CX;;Iye Christmas
+CC;;Iyes Cocos (Keeling)
+CO;;Colombeye
+KM;;Comores
+CG;;Congo-Brazza
+CD;;Congo-Kinshasa, Republike Democratike do Congo
+CK;;Iyes Cook
+CR;;Costa Rica
+CI;;Côte dIvoireIvoire
+HR;;Crowåceye
+CU;;Cuba
+CW;;Curaçao
+CY;;Chipe
+CZ;;Tchekeye
+DK;;Daenmåtche
+DJ;;Djibouti
+DM;;Dominike
+DO;;Republike Dominikinne
+EC;;Ecwåteur
+EG;;Edjipe
+SV;;El Salvador
+GQ;;Guinêye Ecwåtoriåle
+ER;;Eritrêye
+EE;;Estoneye
+ET;;Etiopeye
+FK;;Iyes Malouwines
+FO;;Iyes Faeroyé
+FJ;;Fidji
+FI;;Finlande
+FR;;France
+GF;;Guyane francesse
+PF;;Polinezeye francesse
+TF;;Teritweres francès do sud
+GA;;Gabon
+GM;;Gambeye
+GE;;Djeyordjeye
+DE;;Almagne
+GH;;Gana
+GI;;Djibraltar
+GR;;Grece
+GL;;Groenlande
+GD;;Grenåde
+GP;;Gwadeloupe
+GU;;Gwam
+GT;;Gwatemala
+GG;;Guernsey
+GN;;Guinêye
+GW;;Guinêye-Bissaw
+GY;;Guyana
+HT;;Hayiti
+HM;;Iyeas Heard et McDonald
+VA;;Vatican
+HN;;Honduras
+HK;;Hong Kong
+HU;;Hongreye
+IS;;Izlande
+IN;;Inde
+ID;;Indonezeye
+IR;;Iran
+IQ;;Irak
+IE;;Irlande
+IM;;Iye di Man
+IL;;Israyel
+IT;;Itåleye
+JM;;Djamayike
+JP;;Djapon
+JE;;Djersey
 JO;;Djordaneye
+KZ;;Kazaxhtan
+KE;;Kenia
+KI;;Kiribati
+KP;;Korea, Democratic Peoples Republic ofs Republic of
+KR;;Corêye (nonnrece)
+KW;;Kuweyt
+KG;;Kirguiztan
+LA;;Lao Peoples Democratic Republics Democratic Republic
+LV;;Letoneye
+LB;;Liban
+LS;;Lessoto
+LR;;Liberia
+LY;;Liberia
+LI;;Lîchtensteyn
+LT;;Litwaneye
+LU;;Lussimbork
+MO;;Macao
+MK;;Macedoneye
+MG;;Madagascar
+MW;;Malawi
+MY;;Malaizeye
+MV;;Maldives
+ML;;Mali
+MT;;Male
+MH;;Iyes Marshall
+MQ;;Martinike
+MR;;Moritanreye
+MU;;Iye Môrice
+YT;;Mayote
+MX;;Mecsike
+FM;;Micronezeye
+MD;;Macedoneye
+MC;;Monaco
+MN;;Mongoleye
+ME;;Montenegro
+MS;;Montserrat
+MA;;Marok
+MZ;;Mozambike
+MM;;Birmaneye
+NA;;Namibeye
+NR;;Nawouro
+NP;;Nepal
+NL;;Bas Payis
+NC;;Nouve Caledoneye
+NZ;;Nouve Zelande
+NI;;Nicaragwa
+NE;;Nidjer
+NG;;Nidjeria
+NU;;Niuwé
+NF;;Iye Norfolk
+MP;;Iyes Marianes bijhreces
+NO;;Norvedje
+OM;;Oman
+PK;;Pakistan
+PW;;Palawou
+PS;;Palestene
+PA;;Panama
+PG;;Papouwazeye Nouve Guinêye
+PY;;Paragway
+PE;;Perou
+PH;;Filipenes
+PN;;Pitcairn
+PL;;Pologne
+PT;;Portugal
+PR;;Porto Rico
+QA;;Katar
+RE;;Reyunion
+RO;;Roumaneye
+RU;;Rûsseye
+RW;;Rwanda
+BL;;Saint Barthélemy
+SH;;Saint Helena, Ascension and Tristan da Cunha
+KN;;St Kitts & Nevis
+LC;;Sinte Luceye
+MF;;Saint Martin (French part)
+PM;;Sint Pierre et Miquelon
+VC;;Sint Vincint et les Grenadines
+WS;;Samowa
+SM;;Sint Marin
+ST;;São Tomé et Prince
+SA;;Arabeye Sawoudite
+SN;;Senegål
+RS;;Serbeye
+SC;;Seycheles
+SL;;Siera Leyone
+SG;;Singapour
+SX;;Sint Maarten (Dutch part)
+SK;;Eslovakeye
+SI;;Esloveneye
+SB;;Iyes Solomon
+SO;;Somaleye
+ZA;;Nonne Afrike
 GS;;Iyes Sandwich do sud
+ES;;Espagne
+LK;;Sri Lanka
 SD;;Soudan
+SR;;Suriname
+SS;;Republike do Soudan
+SJ;;Iyes Svalbard eyet Jan Mayen
+SZ;;Suwazilande
+SE;;Suwede
+CH;;Swisse
+SY;;Sireye
+TW;;Taiwan, Province di Chine
+TJ;;Tadjikistan
+TZ;;Tanzaneye
+TH;;Taylande
+TL;;Timor Ess
+TG;;Togo
+TK;;Tokelau
+TO;;Tonga
+TT;;Trinité et Tobago
+TN;;Tunizeye
+TR;;Turkeye
+TM;;Turcmenistan
+TC;;Iyes Turks et Caicos
+TV;;Touvalou
+UG;;Ouganda
+UA;;Oucrinne
+AE;;Emirats Arabes Unis
+GB;;Rweyåme Uni
+US;;Estats Unis
+UM;;Iyes mineures des Estats Unis
+UY;;Ourougway
+UZ;;Ouzbekistan
+VU;;Vanouatou
+VE;;Republike Bolivaryinne do Venezwela
+VN;;Vietnam
+VG;;Iyes Viedjes britanikes
+VI;;Iyes Viedjes etazunyinnes
+WF;;Wallis et Futuna
+EH;;Sara Coûtchantrece
+YE;;Yemen
+ZM;;Zambeye
+ZW;;Zimbabwè

@@ -1,249 +1,249 @@
-VA;;Vatikanstaten
-CC;;Kokosøyane
-GT;;Guatemala
-JP;;Japan
-SE;;Sverige
-TZ;;Tanzania
-CD;;Den demokratiske republikken Kongo
-GU;;Guam
-MM;;Myanmar; Burma
-DZ;;Algerie
-MN;;Mongolia
-PK;;Pakistan
-SG;;Singapore
-VC;;Saint Vincent og Grenadinane
-CF;;Den sentralafrikanske republikken
-GW;;Guinea-Bissau
-MO;;Macao
-PL;;Polen
-SH;;Saint Helena, Ascension and Tristan da Cunha
-CG;;Kongo
-MP;;Nord-Marianane
-PM;;Saint-Pierre-et-Miquelon
-SI;;Slovenia
-VE;;Republikken Venezuela
-ZW;;Zimbabwe
-CH;;Sveits
-GY;;Guyana
-MQ;;Martinique
-PN;;Pitcairn
-SJ;;Svalbard og Jan Mayen
-CI;;Côte dIvoireIvoire
-MR;;Mauritania
-SK;;Slovakia
-VG;;Jomfruøyane (Storbritannia)
-MS;;Montserrat
-SL;;Sierra Leone
-CK;;Cookøyane
-ID;;Indonesia
-MT;;Malta
-SM;;San Marino
-VI;;Jomfruøyane (USA)
-YE;;Jemen
-CL;;Chile
-IE;;Irland
-LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;Mauritius
-SN;;Senegal
-CM;;Kamerun
-FI;;Finland
-LB;;Libanon
-MV;;Maldivane
-PR;;Puerto Rico
-SO;;Somalia
-CN;;Kina
-FJ;;Fiji
-LC;;St. Lucia; Saint Lucia
-MW;;Malawi
-PS;;Palestinske territorium, Okkuperte
-CO;;Colombia
-FK;;Falklandsøyane
-MX;;Mexico
-PT;;Portugual
-MY;;Malaysia
-SR;;Surinam
-VN;;Vietnam
-FM;;Mikronesiaføderasjonen
-MZ;;Mosambik
-CR;;Costa Rica
-PW;;Palau
-SS;;Republikken Sudan
-FO;;Færøyane
-ST;;São Tomé og Príncipe
-IL;;Israel
-LI;;Liechtenstein
-PY;;Paraguay
-BA;;Bosnia-Hercegovina
-CU;;Cuba
-IM;;Øya Man
-SV;;El Salvador
-CV;;Kapp Verde
-FR;;Frankrike
-IN;;India
-LK;;Sri Lanka
-BB;;Barbados
-CW;;Curaçao
-IO;;Det britiske området i Indiahavet
-SX;;Sint Maarten (Dutch part)
-VU;;Vanuatu
-CX;;Christmasøya
-RE;;Réunion
-UA;;Ukraina
-SY;;Syria
-CY;;Kypros
-IQ;;Irak
-SZ;;Swaziland
-BD;;Bangladesh
-CZ;;Tsjekkia
-IR;;Iran
-YT;;Mayotte
-BE;;Belgia
-IS;;Island
-BF;;Burkina Faso
-EC;;Ecuador
-IT;;Italia
-OM;;Oman
-BG;;Bulgaria
-BH;;Bahrain
-LR;;Liberia
-UG;;Uganda
-BI;;Burundi
-EE;;Estland
-LS;;Lesotho
-BJ;;Benin
-LT;;Litauen
-EG;;Egypt
-BL;;Saint Barthélemy
-EH;;Vest-Sahara
-LU;;Luxembourg; Luxemburg
-RO;;Romania
-BM;;Bermuda
-LV;;Latvia
-BN;;Brunei
-UM;;Mindre utanforliggjande øyar til USA
-BO;;Bolivia, Plurinational State of
-KE;;Kenya
-NA;;Namibia
-LY;;Liberia
-BQ;;Bonaire, Sint Eustatius and Saba
-BR;;Brasil
-KG;;Kirgisistan
-NC;;Ny-Caledonia
-RS;;Serbia
-BS;;Bahamas
-HK;;Hongkong
-KH;;Kambodsja
-BT;;Bhutan
-KI;;Kiribati
-NE;;Niger
-QA;;Qatar
-RU;;Russland
-HM;;Heard- og McDonaldøyane
-NF;;Norfolkøya; Norfolk Island
-US;;USA; Sambandsstatane
-BV;;Bouvetøya
-ER;;Eritrea
-HN;;Honduras
-NG;;Nigeria
-RW;;Rwanda
-BW;;Botswana
-ES;;Spania
-ET;;Etiopia
-NI;;Nicaragua
-AD;;Andorra
-BY;;Kviterussland
-KM;;Komorane
-AE;;Dei sameinte arabiske emirata
-BZ;;Belize
-HR;;Kroatia
-KN;;St. Kitts og Nevis; Saint Kitts og Nevis
-TC;;Turks- og Caicosøyane
 AF;;Afghanistan
-NL;;Nederland
-TD;;Tsjad
-AG;;Antigua og Barbuda
-HT;;Haiti
-KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;Uruguay
-GA;;Gabon
-HU;;Ungarn
-TF;;Franske sørlege territorium
-UZ;;Usbekistan
-AI;;Anguilla
-DE;;Tyskland
-GB;;Storbritannia
-KR;;Sør-Korea
-TG;;Togo
-NO;;Noreg
-TH;;Thailand
-GD;;Grenada
-NP;;Nepal
-ZA;;Sør-Afrika
-AL;;Albania
-GE;;Georgia
-TJ;;Tadsjikistan
-WF;;Wallis- og Futunaøyane
-AM;;Armenia
-GF;;Fransk Guyana
-NR;;Nauru
-TK;;Tokelau
-DJ;;Djibouti
-KW;;Kuwait
-TL;;Aust-Timor
-AO;;Angola
-DK;;Danmark
-GG;;Guernsey
-TM;;Turkmenistan
-GH;;Ghana
-JE;;Jersey
-MA;;Marokko
-KY;;Caymanøyane
-NU;;Niue
-TN;;Tunisia
-DM;;Dominica
-GI;;Gibraltar
-KZ;;Kasakhstan
-TO;;Tonga
-AQ;;Antarktika
-MC;;Monaco
-AR;;Argentina
-MD;;Makedonia, Republikken
-AS;;Amerikansk Samoa
-DO;;Den dominikanske republikken
-ME;;Montenegro
-PA;;Panama
-TR;;Tyrkia
-AT;;Austerrike
-GL;;Grønland
-MF;;Saint Martin (French part)
-NZ;;New Zealand; Ny-Zealand
-AU;;Australia
-GM;;Gambia
-GN;;Guinea
-MG;;Madagaskar
-AW;;Aruba
-MH;;Marshalløyane
-TT;;Trinidad og Tobago
-ZM;;Zambia
-GP;;Guadeloupe
 AX;;Åland
-SA;;Saudi-Arabia
-PE;;Peru
-JM;;Jamaica
-GQ;;Ekvatorial-Guinea
-CA;;Canada
-WS;;Samoa
-SB;;Salomonøyane
-PF;;Fransk Polynesia
-TV;;Tuvalu
-PG;;Papua Ny-Guinea
-MK;;Makedonia, Republikken
-GR;;Hellas
+AL;;Albania
+DZ;;Algerie
+AS;;Amerikansk Samoa
+AD;;Andorra
+AO;;Angola
+AI;;Anguilla
+AQ;;Antarktika
+AG;;Antigua og Barbuda
+AR;;Argentina
+AM;;Armenia
+AW;;Aruba
+AU;;Australia
+AT;;Austerrike
 AZ;;Aserbajdsjan
-TW;;Taiwan
-SC;;Seychellane
-PH;;Filippinane
-ML;;Mali
+BS;;Bahamas
+BH;;Bahrain
+BD;;Bangladesh
+BB;;Barbados
+BY;;Kviterussland
+BE;;Belgia
+BZ;;Belize
+BJ;;Benin
+BM;;Bermuda
+BT;;Bhutan
+BO;;Bolivia, Plurinational State of
+BQ;;Bonaire, Sint Eustatius and Saba
+BA;;Bosnia-Hercegovina
+BW;;Botswana
+BV;;Bouvetøya
+BR;;Brasil
+IO;;Det britiske området i Indiahavet
+BN;;Brunei
+BG;;Bulgaria
+BF;;Burkina Faso
+BI;;Burundi
+KH;;Kambodsja
+CM;;Kamerun
+CA;;Canada
+CV;;Kapp Verde
+KY;;Caymanøyane
+CF;;Den sentralafrikanske republikken
+TD;;Tsjad
+CL;;Chile
+CN;;Kina
+CX;;Christmasøya
+CC;;Kokosøyane
+CO;;Colombia
+KM;;Komorane
+CG;;Kongo
+CD;;Den demokratiske republikken Kongo
+CK;;Cookøyane
+CR;;Costa Rica
+CI;;Côte dIvoireIvoire
+HR;;Kroatia
+CU;;Cuba
+CW;;Curaçao
+CY;;Kypros
+CZ;;Tsjekkia
+DK;;Danmark
+DJ;;Djibouti
+DM;;Dominica
+DO;;Den dominikanske republikken
+EC;;Ecuador
+EG;;Egypt
+SV;;El Salvador
+GQ;;Ekvatorial-Guinea
+ER;;Eritrea
+EE;;Estland
+ET;;Etiopia
+FK;;Falklandsøyane
+FO;;Færøyane
+FJ;;Fiji
+FI;;Finland
+FR;;Frankrike
+GF;;Fransk Guyana
+PF;;Fransk Polynesia
+TF;;Franske sørlege territorium
+GA;;Gabon
+GM;;Gambia
+GE;;Georgia
+DE;;Tyskland
+GH;;Ghana
+GI;;Gibraltar
+GR;;Hellas
+GL;;Grønland
+GD;;Grenada
+GP;;Guadeloupe
+GU;;Guam
+GT;;Guatemala
+GG;;Guernsey
+GN;;Guinea
+GW;;Guinea-Bissau
+GY;;Guyana
+HT;;Haiti
+HM;;Heard- og McDonaldøyane
+VA;;Vatikanstaten
+HN;;Honduras
+HK;;Hongkong
+HU;;Ungarn
+IS;;Island
+IN;;India
+ID;;Indonesia
+IR;;Iran
+IQ;;Irak
+IE;;Irland
+IM;;Øya Man
+IL;;Israel
+IT;;Italia
+JM;;Jamaica
+JP;;Japan
+JE;;Jersey
 JO;;Jordan
+KZ;;Kasakhstan
+KE;;Kenya
+KI;;Kiribati
+KP;;Korea, Democratic Peoples Republic ofs Republic of
+KR;;Sør-Korea
+KW;;Kuwait
+KG;;Kirgisistan
+LA;;Lao Peoples Democratic Republics Democratic Republic
+LV;;Latvia
+LB;;Libanon
+LS;;Lesotho
+LR;;Liberia
+LY;;Liberia
+LI;;Liechtenstein
+LT;;Litauen
+LU;;Luxembourg; Luxemburg
+MO;;Macao
+MK;;Makedonia, Republikken
+MG;;Madagaskar
+MW;;Malawi
+MY;;Malaysia
+MV;;Maldivane
+ML;;Mali
+MT;;Malta
+MH;;Marshalløyane
+MQ;;Martinique
+MR;;Mauritania
+MU;;Mauritius
+YT;;Mayotte
+MX;;Mexico
+FM;;Mikronesiaføderasjonen
+MD;;Makedonia, Republikken
+MC;;Monaco
+MN;;Mongolia
+ME;;Montenegro
+MS;;Montserrat
+MA;;Marokko
+MZ;;Mosambik
+MM;;Myanmar; Burma
+NA;;Namibia
+NR;;Nauru
+NP;;Nepal
+NL;;Nederland
+NC;;Ny-Caledonia
+NZ;;New Zealand; Ny-Zealand
+NI;;Nicaragua
+NE;;Niger
+NG;;Nigeria
+NU;;Niue
+NF;;Norfolkøya; Norfolk Island
+MP;;Nord-Marianane
+NO;;Noreg
+OM;;Oman
+PK;;Pakistan
+PW;;Palau
+PS;;Palestinske territorium, Okkuperte
+PA;;Panama
+PG;;Papua Ny-Guinea
+PY;;Paraguay
+PE;;Peru
+PH;;Filippinane
+PN;;Pitcairn
+PL;;Polen
+PT;;Portugual
+PR;;Puerto Rico
+QA;;Qatar
+RE;;Réunion
+RO;;Romania
+RU;;Russland
+RW;;Rwanda
+BL;;Saint Barthélemy
+SH;;Saint Helena, Ascension and Tristan da Cunha
+KN;;St. Kitts og Nevis; Saint Kitts og Nevis
+LC;;St. Lucia; Saint Lucia
+MF;;Saint Martin (French part)
+PM;;Saint-Pierre-et-Miquelon
+VC;;Saint Vincent og Grenadinane
+WS;;Samoa
+SM;;San Marino
+ST;;São Tomé og Príncipe
+SA;;Saudi-Arabia
+SN;;Senegal
+RS;;Serbia
+SC;;Seychellane
+SL;;Sierra Leone
+SG;;Singapore
+SX;;Sint Maarten (Dutch part)
+SK;;Slovakia
+SI;;Slovenia
+SB;;Salomonøyane
+SO;;Somalia
+ZA;;Sør-Afrika
 GS;;Sør-Georgia og dei sørlege Sandwichøyane
+ES;;Spania
+LK;;Sri Lanka
 SD;;Sudan
+SR;;Surinam
+SS;;Republikken Sudan
+SJ;;Svalbard og Jan Mayen
+SZ;;Swaziland
+SE;;Sverige
+CH;;Sveits
+SY;;Syria
+TW;;Taiwan
+TJ;;Tadsjikistan
+TZ;;Tanzania
+TH;;Thailand
+TL;;Aust-Timor
+TG;;Togo
+TK;;Tokelau
+TO;;Tonga
+TT;;Trinidad og Tobago
+TN;;Tunisia
+TR;;Tyrkia
+TM;;Turkmenistan
+TC;;Turks- og Caicosøyane
+TV;;Tuvalu
+UG;;Uganda
+UA;;Ukraina
+AE;;Dei sameinte arabiske emirata
+GB;;Storbritannia
+US;;USA; Sambandsstatane
+UM;;Mindre utanforliggjande øyar til USA
+UY;;Uruguay
+UZ;;Usbekistan
+VU;;Vanuatu
+VE;;Republikken Venezuela
+VN;;Vietnam
+VG;;Jomfruøyane (Storbritannia)
+VI;;Jomfruøyane (USA)
+WF;;Wallis- og Futunaøyane
+EH;;Vest-Sahara
+YE;;Jemen
+ZM;;Zambia
+ZW;;Zimbabwe

@@ -1,249 +1,249 @@
-VA;;Holy See (Vatican City State)
-CC;;Cocos (Keeling) Islands
-GT;;Reo Peina Raki Rāwhiti
-JP;;Hapana
-SE;;Wītana
-TZ;;Reo Romeinia
-CD;;Congo, The Democratic Republic of the
-GU;;Reo Peina Raki Rāwhiti
-MM;;Kaupapa
-DZ;;Purukeria
-MN;;Mongolia
-PK;;Pakistan
-SG;;Singapore
-VC;;Saint Vincent and the Grenadines
-CF;;Reo Romeinia
-GW;;Guinea-Bissau
-MO;;Kaupapa
-PL;;Pōrana
-SH;;Saint Helena, Ascension and Tristan da Cunha
-CG;;Congo
-MP;;Northern Mariana Islands
-PM;;Saint Pierre and Miquelon
-SI;;RiriAhea
-VE;;Reo Romeinia
-ZW;;Zimbabwe
-CH;;Witerana
-GY;;Guyana
-MQ;;Martinique
-PN;;Pitcairn
-SJ;;Svalbard and Jan Mayen
-CI;;Côte dIvoireIvoire
-MR;;Reo Ītariana
-SK;;Karaka
-VG;;Virgin Islands, British
-MS;;Montserrat
-SL;;Sierra Leone
-CK;;Cook Islands
-ID;;Mea Tākaro
-MT;;Kaupapa
-SM;;San Marino
-VI;;Whinarana
-YE;;Yemen
-CL;;Reo Hāina
-IE;;Airana
-LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;Reo Ītariana
-SN;;Senegal
-CM;;Cameroon
-FI;;Whinarana
-LB;;Lebanon
-MV;;Kaupapa
-PR;;Puerto Rico
-SO;;Romeinia
-CN;;Reo Hāina
-FJ;;Fiji
-LC;;Ruhia
-MW;;Kaupapa
-PS;;Palestinian Territory, Occupied
-CO;;Kāpehu
-FK;;Falkland Islands (Malvinas)
-MX;;Mea Mahi
-PT;;Potukara
-MY;;Kaupapa
-SR;;Suriname
-VN;;Raene
-FM;;Micronesia, Federated States of
-MZ;;Mozambique
-CR;;Costa Rica
-PW;;Potukara
-SS;;Ateria
-FO;;Airana
-ST;;Sao Tome and Principe
-IL;;Iharaira
-LI;;Liechtenstein
-PY;;Potukara
-BA;;Bosnia and Herzegovina
-CU;;Kāpehu
-IM;;Isle of Man
-SV;;Ōrite Tātai
-CV;;Cape Verde
-FR;;Parani
-IN;;Mea Tākaro
-LK;;Sri Lanka
-BB;;Raranga
-CW;;Curaçao
-IO;;British Indian Ocean Territory
-SX;;Sint Maarten (Dutch part)
-VU;;Vanuatu
-CX;;Christmas Island
-RE;;Reunion
-UA;;Parani
-SY;;Reo Romeinia
-CY;;Cyprus
-IQ;;Iharaira
-SZ;;Taiwana
-BD;;Reo Pākehā
-CZ;;Reo Romeinia
-IR;;Reo Romeinia
-YT;;Mayotte
-BE;;Peretiama
-IS;;Tiorangi
-BF;;Burkina Faso
-EC;;Kaiwhakatika
-IT;;Itari
-OM;;Oman
-BG;;Purukeria
-BH;;Parahi
-LR;;Reo Koroātia
-UG;;Reo Peina Raki Rāwhiti
-BI;;Burundi
-EE;;Etonia
-LS;;Lesotho
-BJ;;Benin
-LT;;Reo Ītariana
-EG;;Kaiwhakamahi mutunga
-BL;;Saint Barthélemy
-EH;;Western Sahara
-LU;;Kaitango Hē
-RO;;Romeinia
-BM;;Bermuda
-LV;;Reo Koroātia
-BN;;Brunei Darussalam
-UM;;Amerika
-BO;;Bolivia, Plurinational State of
-KE;;Kenya
-NA;;Namibia
-LY;;Reo Koroātia
-BQ;;Bonaire, Sint Eustatius and Saba
-BR;;Parahi
-KG;;Kyrgyzstan
-NC;;Reo Makerōnia
-RS;;Reo Koroātia
-BS;;Kaupapa
-HK;;Hong Kong
-KH;;Kāpehu
-BT;;Bhutan
-KI;;Kiribati
-NE;;Niger
-QA;;Kaupapa
-RU;;Russian Federation
-HM;;Heard Island and McDonald Islands
-NF;;Norfolk Island
-US;;Amerika
-BV;;Bouvet Island
-ER;;Eritrea
-HN;;Tangi
-NG;;Reo Koroātia
-RW;;Reo Peina Raki Rāwhiti
-BW;;Botswana
-ES;;Peina
-ET;;Etonia
-NI;;Potukara
-AD;;Andorra
-BY;;Ahi
-KM;;Comoros
-AE;;United Arab Emirates
-BZ;;Peretiama
-HR;;Reo Koroātia
-KN;;Saint Kitts and Nevis
-TC;;Turks and Caicos Islands
 AF;;Afghanistan
-NL;;Horana
-TD;;Reo Hāina
-AG;;Reo Peina Raki Rāwhiti
-HT;;Haiti
-KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;Hanekari
-GA;;Gabon
-HU;;Hanekari
-TF;;French Southern Territories
-UZ;;Uzbekistan
-AI;;Anguilla
-DE;;Tiamana
-GB;;United Kingdom
-KR;;Reo Romeinia
-TG;;Togo
-NO;;Nōwe
-TH;;Taiwana
-GD;;Airana
-NP;;Nepal
-ZA;;Ateria
-AL;;Albania
-GE;;Reo Koroātia
-TJ;;Taiwana
-WF;;Wallis and Futuna
-AM;;Reo Parani Uropi-Īnia
-GF;;French Guiana
-NR;;Nauru
-TK;;Tokelau
-DJ;;Djibouti
-KW;;Kuwait
-TL;;Timor-Leste
-AO;;Angola
-DK;;Tenemaka
-GG;;Guernsey
-TM;;Turkmenistan
-GH;;Reo Hāina
-JE;;Jersey
-MA;;Morocco
-KY;;Cayman Islands
-NU;;Niue
-TN;;Ruhia
-DM;;Romeinia
-GI;;Gibraltar
-KZ;;Taiwana
-TO;;Tonga
-AQ;;Antarctica
-MC;;Monaco
-AR;;Reo Parani Uropi-Īnia
-MD;;Reo Romeinia
-AS;;Reo Arapia
-DO;;Reo Romeinia
-ME;;Montenegro
-PA;;Kaupapa
-TR;;Mea Tākaro
-AT;;Ateria
-GL;;Airana
-MF;;Saint Martin (French part)
-NZ;;Aotearoa
-AU;;Ahitereiria
-GM;;Romeinia
-GN;;Guinea
-MG;;Madagascar
-AW;;Aruba
-MH;;Marshall Islands
-TT;;Reo Māori
-ZM;;Romeinia
-GP;;Guadeloupe
 AX;;Airana
-SA;;Saudi Arabia
-PE;;Ahi
-JM;;Romeinia
-GQ;;Equatorial Guinea
-CA;;Reo Peina Raki Rāwhiti
-WS;;Samoa
-SB;;Solomon Islands
-PF;;French Polynesia
-TV;;Tuvalu
-PG;;Papua New Guinea
-MK;;Reo Romeinia
-GR;;Reo Kariki
+AL;;Albania
+DZ;;Purukeria
+AS;;Reo Arapia
+AD;;Andorra
+AO;;Angola
+AI;;Anguilla
+AQ;;Antarctica
+AG;;Reo Peina Raki Rāwhiti
+AR;;Reo Parani Uropi-Īnia
+AM;;Reo Parani Uropi-Īnia
+AW;;Aruba
+AU;;Ahitereiria
+AT;;Ateria
 AZ;;Reo Koroātia
-TW;;Taiwan, Province of China
-SC;;Seychelles
-PH;;Philippines
-ML;;Kaupapa
+BS;;Kaupapa
+BH;;Parahi
+BD;;Reo Pākehā
+BB;;Raranga
+BY;;Ahi
+BE;;Peretiama
+BZ;;Peretiama
+BJ;;Benin
+BM;;Bermuda
+BT;;Bhutan
+BO;;Bolivia, Plurinational State of
+BQ;;Bonaire, Sint Eustatius and Saba
+BA;;Bosnia and Herzegovina
+BW;;Botswana
+BV;;Bouvet Island
+BR;;Parahi
+IO;;British Indian Ocean Territory
+BN;;Brunei Darussalam
+BG;;Purukeria
+BF;;Burkina Faso
+BI;;Burundi
+KH;;Kāpehu
+CM;;Cameroon
+CA;;Reo Peina Raki Rāwhiti
+CV;;Cape Verde
+KY;;Cayman Islands
+CF;;Reo Romeinia
+TD;;Reo Hāina
+CL;;Reo Hāina
+CN;;Reo Hāina
+CX;;Christmas Island
+CC;;Cocos (Keeling) Islands
+CO;;Kāpehu
+KM;;Comoros
+CG;;Congo
+CD;;Congo, The Democratic Republic of the
+CK;;Cook Islands
+CR;;Costa Rica
+CI;;Côte dIvoireIvoire
+HR;;Reo Koroātia
+CU;;Kāpehu
+CW;;Curaçao
+CY;;Cyprus
+CZ;;Reo Romeinia
+DK;;Tenemaka
+DJ;;Djibouti
+DM;;Romeinia
+DO;;Reo Romeinia
+EC;;Kaiwhakatika
+EG;;Kaiwhakamahi mutunga
+SV;;Ōrite Tātai
+GQ;;Equatorial Guinea
+ER;;Eritrea
+EE;;Etonia
+ET;;Etonia
+FK;;Falkland Islands (Malvinas)
+FO;;Airana
+FJ;;Fiji
+FI;;Whinarana
+FR;;Parani
+GF;;French Guiana
+PF;;French Polynesia
+TF;;French Southern Territories
+GA;;Gabon
+GM;;Romeinia
+GE;;Reo Koroātia
+DE;;Tiamana
+GH;;Reo Hāina
+GI;;Gibraltar
+GR;;Reo Kariki
+GL;;Airana
+GD;;Airana
+GP;;Guadeloupe
+GU;;Reo Peina Raki Rāwhiti
+GT;;Reo Peina Raki Rāwhiti
+GG;;Guernsey
+GN;;Guinea
+GW;;Guinea-Bissau
+GY;;Guyana
+HT;;Haiti
+HM;;Heard Island and McDonald Islands
+VA;;Holy See (Vatican City State)
+HN;;Tangi
+HK;;Hong Kong
+HU;;Hanekari
+IS;;Tiorangi
+IN;;Mea Tākaro
+ID;;Mea Tākaro
+IR;;Reo Romeinia
+IQ;;Iharaira
+IE;;Airana
+IM;;Isle of Man
+IL;;Iharaira
+IT;;Itari
+JM;;Romeinia
+JP;;Hapana
+JE;;Jersey
 JO;;Kaupapa
+KZ;;Taiwana
+KE;;Kenya
+KI;;Kiribati
+KP;;Korea, Democratic Peoples Republic ofs Republic of
+KR;;Reo Romeinia
+KW;;Kuwait
+KG;;Kyrgyzstan
+LA;;Lao Peoples Democratic Republics Democratic Republic
+LV;;Reo Koroātia
+LB;;Lebanon
+LS;;Lesotho
+LR;;Reo Koroātia
+LY;;Reo Koroātia
+LI;;Liechtenstein
+LT;;Reo Ītariana
+LU;;Kaitango Hē
+MO;;Kaupapa
+MK;;Reo Romeinia
+MG;;Madagascar
+MW;;Kaupapa
+MY;;Kaupapa
+MV;;Kaupapa
+ML;;Kaupapa
+MT;;Kaupapa
+MH;;Marshall Islands
+MQ;;Martinique
+MR;;Reo Ītariana
+MU;;Reo Ītariana
+YT;;Mayotte
+MX;;Mea Mahi
+FM;;Micronesia, Federated States of
+MD;;Reo Romeinia
+MC;;Monaco
+MN;;Mongolia
+ME;;Montenegro
+MS;;Montserrat
+MA;;Morocco
+MZ;;Mozambique
+MM;;Kaupapa
+NA;;Namibia
+NR;;Nauru
+NP;;Nepal
+NL;;Horana
+NC;;Reo Makerōnia
+NZ;;Aotearoa
+NI;;Potukara
+NE;;Niger
+NG;;Reo Koroātia
+NU;;Niue
+NF;;Norfolk Island
+MP;;Northern Mariana Islands
+NO;;Nōwe
+OM;;Oman
+PK;;Pakistan
+PW;;Potukara
+PS;;Palestinian Territory, Occupied
+PA;;Kaupapa
+PG;;Papua New Guinea
+PY;;Potukara
+PE;;Ahi
+PH;;Philippines
+PN;;Pitcairn
+PL;;Pōrana
+PT;;Potukara
+PR;;Puerto Rico
+QA;;Kaupapa
+RE;;Réunion
+RO;;Romeinia
+RU;;Russian Federation
+RW;;Reo Peina Raki Rāwhiti
+BL;;Saint Barthélemy
+SH;;Saint Helena, Ascension and Tristan da Cunha
+KN;;Saint Kitts and Nevis
+LC;;Ruhia
+MF;;Saint Martin (French part)
+PM;;Saint Pierre and Miquelon
+VC;;Saint Vincent and the Grenadines
+WS;;Samoa
+SM;;San Marino
+ST;;Sao Tome and Principe
+SA;;Saudi Arabia
+SN;;Senegal
+RS;;Reo Koroātia
+SC;;Seychelles
+SL;;Sierra Leone
+SG;;Singapore
+SX;;Sint Maarten (Dutch part)
+SK;;Karaka
+SI;;RiriAhea
+SB;;Solomon Islands
+SO;;Romeinia
+ZA;;Ateria
 GS;;South Georgia and the South Sandwich Islands
+ES;;Peina
+LK;;Sri Lanka
 SD;;Tangi
+SR;;Suriname
+SS;;Ateria
+SJ;;Svalbard and Jan Mayen
+SZ;;Taiwana
+SE;;Wītana
+CH;;Witerana
+SY;;Reo Romeinia
+TW;;Taiwan, Province of China
+TJ;;Taiwana
+TZ;;Reo Romeinia
+TH;;Taiwana
+TL;;Timor-Leste
+TG;;Togo
+TK;;Tokelau
+TO;;Tonga
+TT;;Reo Māori
+TN;;Ruhia
+TR;;Mea Tākaro
+TM;;Turkmenistan
+TC;;Turks and Caicos Islands
+TV;;Tuvalu
+UG;;Reo Peina Raki Rāwhiti
+UA;;Parani
+AE;;United Arab Emirates
+GB;;United Kingdom
+US;;Amerika
+UM;;Amerika
+UY;;Hanekari
+UZ;;Uzbekistan
+VU;;Vanuatu
+VE;;Reo Romeinia
+VN;;Raene
+VG;;Virgin Islands, British
+VI;;Whinarana
+WF;;Wallis and Futuna
+EH;;Western Sahara
+YE;;Yemen
+ZM;;Romeinia
+ZW;;Zimbabwe

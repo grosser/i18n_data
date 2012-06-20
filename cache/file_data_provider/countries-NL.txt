@@ -1,249 +1,249 @@
-VA;;Vaticaanstad
-CC;;Cocoseilanden
-GT;;Guatemala
-JP;;Japan
-SE;;Zweden
-TZ;;Tanzania
-CD;;Congo, Democratische Republiek
-GU;;Guam
-MM;;Myanmar
-DZ;;Algerije
-MN;;Mongolië
-PK;;Pakistan
-SG;;Singapore
-VC;;Saint Vincent en de Grenadines
-CF;;Centraal-Afrikaanse Republiek
-GW;;Guinee-Bissau
-MO;;Macau
-PL;;Polen
-SH;;Sint-Helena, Ascension en Tristan da Cunha
-CG;;Congo
-MP;;Noordelijke Marianen
-PM;;Saint-Pierre en Miquelon
-SI;;Slovenië
-VE;;Venezuela, Bolivariaanse Republiek
-ZW;;Zimbabwe
-CH;;Zwitserland
-GY;;Guyana
-MQ;;Martinique
-PN;;Pitcairneilanden
-SJ;;Spitsbergen en Jan Mayen
-CI;;Côte dIvoireIvoire
-MR;;Mauritanië
-SK;;Slowakije, Slovakije
-VG;;Maagdeneilanden, Britse
-MS;;Montserrat
-SL;;Sierra Leone
-CK;;Cookeilanden
-ID;;Indonesië
-MT;;Malta
-SM;;San Marino
-VI;;Amerikaanse Maagdeneilanden
-YE;;Jemen
-CL;;Chili
-IE;;Ierland
-LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;Mauritius
-SN;;Senegal
-CM;;Kameroen
-FI;;Finland
-LB;;Libanon
-MV;;Maldiven
-PR;;Puerto Rico
-SO;;Somalië
-CN;;China
-FJ;;Fiji
-LC;;Saint Lucia
-MW;;Malawi
-PS;;Palestina
-CO;;Colombia
-FK;;Falklandeilanden
-MX;;Mexico
-PT;;Portugal
-MY;;Maleisië
-SR;;Suriname
-VN;;Vietnam
-FM;;Micronesia
-MZ;;Mozambique
-CR;;Costa Rica
-PW;;Palau
-SS;;Zuid-Soedan
-FO;;Faeröer
-ST;;Sao Tomé en Principe
-IL;;Israël
-LI;;Liechtenstein
-PY;;Paraguay
-BA;;Bosnië en Herzegovina
-CU;;Cuba
-IM;;Eiland Man
-SV;;El Salvador
-CV;;Kaapverdië
-FR;;Frankrijk
-IN;;India
-LK;;Sri Lanka
-BB;;Barbados
-CW;;Curaçao
-IO;;Brits Territorium in de Indische Oceaan
-SX;;Sint Maarten (Nederlands deel)
-VU;;Vanuatu
-CX;;Christmaseiland
-RE;;Réunion
-UA;;Oekraïne
-SY;;Syrië
-CY;;Cyprus
-IQ;;Irak
-SZ;;Swaziland
-BD;;Bangladesh
-CZ;;Tsjechië
-IR;;Iran
-YT;;Mayotte
-BE;;België
-IS;;IJsland
-BF;;Burkina Faso
-EC;;Ecuador
-IT;;Italië
-OM;;Oman
-BG;;Bulgarije
-BH;;Bahrein
-LR;;Liberia
-UG;;Oeganda
-BI;;Burundi
-EE;;Estland
-LS;;Lesotho
-BJ;;Benin
-LT;;Litouwen
-EG;;Egypte
-BL;;Saint-Barthélemy
-EH;;Westelijke Sahara
-LU;;Luxemburg
-RO;;Roemenië
-BM;;Bermuda
-LV;;Letland
-BN;;Brunei
-UM;;Kleine Pacifische eilanden van de Verenigde Staten
-BO;;Bolivia, Multinationale Staat
-KE;;Kenia
-NA;;Namibië
-LY;;Libië
-BQ;;Bonaire, Sint Eustatius en Saba
-BR;;Brazilië
-KG;;Kirgizië
-NC;;Nieuw-Caledonië
-RS;;Servië
-BS;;Bahama's
-HK;;Hongkong
-KH;;Cambodja
-BT;;Bhutan
-KI;;Kiribati
-NE;;Niger
-QA;;Qatar
-RU;;Rusland
-HM;;Heardeiland en McDonaldeilanden
-NF;;Norfolk
-US;;Verenigde Staten
-BV;;Bouvet eiland
-ER;;Eritrea
-HN;;Honduras
-NG;;Nigeria
-RW;;Rwanda
-BW;;Botswana
-ES;;Spanje
-ET;;Ethiopië
-NI;;Nicaragua
-AD;;Andorra
-BY;;Wit-Rusland
-KM;;Comoren
-AE;;Verenigde Arabische Emiraten
-BZ;;Belize
-HR;;Kroatië
-KN;;Saint Kitts en Nevis
-TC;;Turks- en Caicoseilanden
 AF;;Afghanistan
-NL;;Nederland
-TD;;Tsjaad
-AG;;Antigua en Barbuda
-HT;;Haïti
-KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;Uruguay
-GA;;Gabon
-HU;;Hongarije
-TF;;Franse Zuidelijke Gebieden
-UZ;;Oezbekistan
-AI;;Anguilla
-DE;;Duitsland
-GB;;Verenigd Koninkrijk
-KR;;Zuid-Korea
-TG;;Togo
-NO;;Noorwegen
-TH;;Thailand
-GD;;Grenada
-NP;;Nepal
-ZA;;Zuid-Afrika
-AL;;Albanië
-GE;;Georgië
-TJ;;Tadzjikistan
-WF;;Wallis en Futuna
-AM;;Armenië
-GF;;Frans-Guyana
-NR;;Nauru
-TK;;Tokelau-eilanden
-DJ;;Djibouti
-KW;;Koeweit
-TL;;Oost-Timor
-AO;;Angola
-DK;;Denemarken
-GG;;Guernsey
-TM;;Turkmenistan
-GH;;Ghana
-JE;;Jersey
-MA;;Marokko
-KY;;Caymaneilanden
-NU;;Niue
-TN;;Tunesië
-DM;;Dominica
-GI;;Gibraltar
-KZ;;Kazachstan
-TO;;Tonga
-AQ;;Antarctica
-MC;;Monaco
-AR;;Argentinië
-MD;;Moldavië, Republiek
-AS;;Amerikaans-Samoa
-DO;;Dominicaanse Republiek
-ME;;Montenegro
-PA;;Panama
-TR;;Turkije
-AT;;Oostenrijk
-GL;;Groenland
-MF;;Sint-Maarten
-NZ;;Nieuw-Zeeland
-AU;;Australië
-GM;;Gambia
-GN;;Guinee
-MG;;Madagaskar
-AW;;Aruba
-MH;;Marshalleilanden
-TT;;Trinidad en Tobago
-ZM;;Zambia
-GP;;Guadeloupe
 AX;;Åland-eilanden
-SA;;Saoedi-Arabië
-PE;;Peru
-JM;;Jamaica
-GQ;;Equatoriaal-Guinea
-CA;;Canada
-WS;;Samoa
-SB;;Salomonseilanden
-PF;;Frans-Polynesië
-TV;;Tuvalu
-PG;;Papoea-Nieuw-Guinea
-MK;;Macedonië
-GR;;Griekenland
+AL;;Albanië
+DZ;;Algerije
+AS;;Amerikaans-Samoa
+AD;;Andorra
+AO;;Angola
+AI;;Anguilla
+AQ;;Antarctica
+AG;;Antigua en Barbuda
+AR;;Argentinië
+AM;;Armenië
+AW;;Aruba
+AU;;Australië
+AT;;Oostenrijk
 AZ;;Azerbeidzjan
-TW;;Taiwan
-SC;;Seychellen
-PH;;Filipijnen
-ML;;Mali
+BS;;Bahama's
+BH;;Bahrein
+BD;;Bangladesh
+BB;;Barbados
+BY;;Wit-Rusland
+BE;;België
+BZ;;Belize
+BJ;;Benin
+BM;;Bermuda
+BT;;Bhutan
+BO;;Bolivia, Multinationale Staat
+BQ;;Bonaire, Sint Eustatius en Saba
+BA;;Bosnië en Herzegovina
+BW;;Botswana
+BV;;Bouvet eiland
+BR;;Brazilië
+IO;;Brits Territorium in de Indische Oceaan
+BN;;Brunei
+BG;;Bulgarije
+BF;;Burkina Faso
+BI;;Burundi
+KH;;Cambodja
+CM;;Kameroen
+CA;;Canada
+CV;;Kaapverdië
+KY;;Caymaneilanden
+CF;;Centraal-Afrikaanse Republiek
+TD;;Tsjaad
+CL;;Chili
+CN;;China
+CX;;Christmaseiland
+CC;;Cocoseilanden
+CO;;Colombia
+KM;;Comoren
+CG;;Congo
+CD;;Congo, Democratische Republiek
+CK;;Cookeilanden
+CR;;Costa Rica
+CI;;Côte dIvoireIvoire
+HR;;Kroatië
+CU;;Cuba
+CW;;Curaçao
+CY;;Cyprus
+CZ;;Tsjechië
+DK;;Denemarken
+DJ;;Djibouti
+DM;;Dominica
+DO;;Dominicaanse Republiek
+EC;;Ecuador
+EG;;Egypte
+SV;;El Salvador
+GQ;;Equatoriaal-Guinea
+ER;;Eritrea
+EE;;Estland
+ET;;Ethiopië
+FK;;Falklandeilanden
+FO;;Faeröer
+FJ;;Fiji
+FI;;Finland
+FR;;Frankrijk
+GF;;Frans-Guyana
+PF;;Frans-Polynesië
+TF;;Franse Zuidelijke Gebieden
+GA;;Gabon
+GM;;Gambia
+GE;;Georgië
+DE;;Duitsland
+GH;;Ghana
+GI;;Gibraltar
+GR;;Griekenland
+GL;;Groenland
+GD;;Grenada
+GP;;Guadeloupe
+GU;;Guam
+GT;;Guatemala
+GG;;Guernsey
+GN;;Guinee
+GW;;Guinee-Bissau
+GY;;Guyana
+HT;;Haïti
+HM;;Heardeiland en McDonaldeilanden
+VA;;Vaticaanstad
+HN;;Honduras
+HK;;Hongkong
+HU;;Hongarije
+IS;;IJsland
+IN;;India
+ID;;Indonesië
+IR;;Iran
+IQ;;Irak
+IE;;Ierland
+IM;;Eiland Man
+IL;;Israël
+IT;;Italië
+JM;;Jamaica
+JP;;Japan
+JE;;Jersey
 JO;;Jordanië
+KZ;;Kazachstan
+KE;;Kenia
+KI;;Kiribati
+KP;;Korea, Democratic Peoples Republic ofs Republic of
+KR;;Zuid-Korea
+KW;;Koeweit
+KG;;Kirgizië
+LA;;Lao Peoples Democratic Republics Democratic Republic
+LV;;Letland
+LB;;Libanon
+LS;;Lesotho
+LR;;Liberia
+LY;;Libië
+LI;;Liechtenstein
+LT;;Litouwen
+LU;;Luxemburg
+MO;;Macau
+MK;;Macedonië
+MG;;Madagaskar
+MW;;Malawi
+MY;;Maleisië
+MV;;Maldiven
+ML;;Mali
+MT;;Malta
+MH;;Marshalleilanden
+MQ;;Martinique
+MR;;Mauritanië
+MU;;Mauritius
+YT;;Mayotte
+MX;;Mexico
+FM;;Micronesia
+MD;;Moldavië, Republiek
+MC;;Monaco
+MN;;Mongolië
+ME;;Montenegro
+MS;;Montserrat
+MA;;Marokko
+MZ;;Mozambique
+MM;;Myanmar
+NA;;Namibië
+NR;;Nauru
+NP;;Nepal
+NL;;Nederland
+NC;;Nieuw-Caledonië
+NZ;;Nieuw-Zeeland
+NI;;Nicaragua
+NE;;Niger
+NG;;Nigeria
+NU;;Niue
+NF;;Norfolk
+MP;;Noordelijke Marianen
+NO;;Noorwegen
+OM;;Oman
+PK;;Pakistan
+PW;;Palau
+PS;;Palestina
+PA;;Panama
+PG;;Papoea-Nieuw-Guinea
+PY;;Paraguay
+PE;;Peru
+PH;;Filipijnen
+PN;;Pitcairneilanden
+PL;;Polen
+PT;;Portugal
+PR;;Puerto Rico
+QA;;Qatar
+RE;;Réunion
+RO;;Roemenië
+RU;;Rusland
+RW;;Rwanda
+BL;;Saint-Barthélemy
+SH;;Sint-Helena, Ascension en Tristan da Cunha
+KN;;Saint Kitts en Nevis
+LC;;Saint Lucia
+MF;;Sint-Maarten
+PM;;Saint-Pierre en Miquelon
+VC;;Saint Vincent en de Grenadines
+WS;;Samoa
+SM;;San Marino
+ST;;Sao Tomé en Principe
+SA;;Saoedi-Arabië
+SN;;Senegal
+RS;;Servië
+SC;;Seychellen
+SL;;Sierra Leone
+SG;;Singapore
+SX;;Sint Maarten (Nederlands deel)
+SK;;Slowakije, Slovakije
+SI;;Slovenië
+SB;;Salomonseilanden
+SO;;Somalië
+ZA;;Zuid-Afrika
 GS;;Zuid-Georgië en de Zuidelijke Sandwicheilanden
+ES;;Spanje
+LK;;Sri Lanka
 SD;;Soedan
+SR;;Suriname
+SS;;Zuid-Soedan
+SJ;;Spitsbergen en Jan Mayen
+SZ;;Swaziland
+SE;;Zweden
+CH;;Zwitserland
+SY;;Syrië
+TW;;Taiwan
+TJ;;Tadzjikistan
+TZ;;Tanzania
+TH;;Thailand
+TL;;Oost-Timor
+TG;;Togo
+TK;;Tokelau-eilanden
+TO;;Tonga
+TT;;Trinidad en Tobago
+TN;;Tunesië
+TR;;Turkije
+TM;;Turkmenistan
+TC;;Turks- en Caicoseilanden
+TV;;Tuvalu
+UG;;Oeganda
+UA;;Oekraïne
+AE;;Verenigde Arabische Emiraten
+GB;;Verenigd Koninkrijk
+US;;Verenigde Staten
+UM;;Kleine Pacifische eilanden van de Verenigde Staten
+UY;;Uruguay
+UZ;;Oezbekistan
+VU;;Vanuatu
+VE;;Venezuela, Bolivariaanse Republiek
+VN;;Vietnam
+VG;;Maagdeneilanden, Britse
+VI;;Amerikaanse Maagdeneilanden
+WF;;Wallis en Futuna
+EH;;Westelijke Sahara
+YE;;Jemen
+ZM;;Zambia
+ZW;;Zimbabwe

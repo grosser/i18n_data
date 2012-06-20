@@ -1,249 +1,249 @@
-VA;;Szentszék (Vatikánvárosi Állam)
-CC;;Cocos (Keeling) -szigetek
-GT;;Guatemala
-JP;;Japán
-SE;;Svédország
-TZ;;Tanzánia
-CD;;Kongói Demokratikus Köztársaság
-GU;;Guam
-MM;;Mianmar
-DZ;;Algéria
-MN;;Mongólia
-PK;;Pakisztán
-SG;;Szingapúr
-VC;;Saint Vincent és a Grenadines-szigetek
-CF;;Közép-afrikai Köztársaság
-GW;;Bissau-Guinea
-MO;;Makaó
-PL;;Lengyelország
-SH;;Szent Ilona, Ascension és Tristan da Cunha
-CG;;Kongó
-MP;;Északi Mariana-szigetek
-PM;;Saint-Pierre és Miquelon
-SI;;Szlovénia
-VE;;Venezuela
-ZW;;Zimbabwe
-CH;;Svájc
-GY;;Guyana
-MQ;;Martinique
-PN;;Pitcairn-szigetek
-SJ;;Svalbard-szigetek és Jan Mayen-sziget
-CI;;Côte dIvoireIvoire
-MR;;Mauritánia
-SK;;Szlovákia
-VG;;Virgin-szigetek (brit)
-MS;;Montserrat
-SL;;Sierra Leone
-CK;;Cook-szigetek
-ID;;Indonézia
-MT;;Málta
-SM;;San Marino
-VI;;Virgin-szigetek (USA)
-YE;;Jemen
-CL;;Chile
-IE;;Írország
-LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;Mauritius
-SN;;Szenegál
-CM;;Kamerun
-FI;;Finnország
-LB;;Libanon
-MV;;Maldív-szigetek
-PR;;Puerto Rico
-SO;;Szomália
-CN;;Kína
-FJ;;Fidzsi-szigetek
-LC;;Saint Lucia
-MW;;Malawi
-PS;;Palesztin Nemzeti Hatóság
-CO;;Kolumbia
-FK;;Falkland-szigetek (Malvinas)
-MX;;Mexikó
-PT;;Portugália
-MY;;Malajzia
-SR;;Suriname
-VN;;Vietnam
-FM;;Mikronézia, Államszövetség
-MZ;;Mozambik
-CR;;Costa Rica
-PW;;Palau
-SS;;Szudáni Köztársaság
-FO;;Feröer
-ST;;São Tomé és Príncipe
-IL;;Izrael
-LI;;Liechtenstein
-PY;;Paraguay
-BA;;Bosznia-Hercegovina
-CU;;Kuba
-IM;;Man
-SV;;Salvador
-CV;;Zöld-foki-szigetek
-FR;;Franciaország
-IN;;India
-LK;;Srí Lanka
-BB;;Barbados
-CW;;Curaçao
-IO;;Brit indiai óceáni terület
-SX;;Szent Martin (holland oldal)
-VU;;Vanuatu
-CX;;Karácsony-sziget
-RE;;Réunion
-UA;;Ukrajna
-SY;;Szíriai Arab Köztársaság
-CY;;Ciprus
-IQ;;Irak
-SZ;;Szváziföld
-BD;;Banglades
-CZ;;Cseh Köztársaság
-IR;;Irán
-YT;;Mayotte
-BE;;Belgium
-IS;;Izland
-BF;;Burkina Faso
-EC;;Ecuador
-IT;;Olaszország
-OM;;Omán
-BG;;Bulgária
-BH;;Bahrein
-LR;;Libéria
-UG;;Uganda
-BI;;Burundi
-EE;;Észtország
-LS;;Lesotho
-BJ;;Benin
-LT;;Litvánia
-EG;;Egyiptom
-BL;;Saint Barthélemy
-EH;;Nyugat-Szahara
-LU;;Luxemburg
-RO;;Románia
-BM;;Bermuda
-LV;;Lettország
-BN;;Brunei Darussalam Állam
-UM;;Amerikai Csendes-óceáni-szigetek
-BO;;Bolívia
-KE;;Kenya
-NA;;Namíbia
-LY;;Líbia
-BQ;;Bonaire, Saint Eustatius és Saba
-BR;;Brazília
-KG;;Kirgizisztán
-NC;;Új-Kaledónia
-RS;;Szerbia
-BS;;Bahama-szigetek
-HK;;Hongkong
-KH;;Kambodzsa
-BT;;Bhután
-KI;;Kiribati
-NE;;Niger
-QA;;Katar
-RU;;Orosz Föderáció
-HM;;Heard-sziget és McDonald-szigetek
-NF;;Norfolk-sziget
-US;;Egyesült Államok
-BV;;Bouvet-sziget
-ER;;Eritrea
-HN;;Honduras
-NG;;Nigéria
-RW;;Ruanda
-BW;;Botswana
-ES;;Spanyolország
-ET;;Etiópia
-NI;;Nicaragua
-AD;;Andorra
-BY;;Fehéroroszország
-KM;;Comore-szigetek
-AE;;Egyesült Arab Emírségek
-BZ;;Belize
-HR;;Horvátország
-KN;;St. Kitts és Nevis
-TC;;Turks- és Caicos-szigetek
 AF;;Afganisztán
-NL;;Hollandia
-TD;;Csád
-AG;;Antigua és Barbuda
-HT;;Haiti
-KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;Uruguay
-GA;;Gabon
-HU;;Magyarország
-TF;;Francia déli területek
-UZ;;Üzbegisztán
-AI;;Anguilla
-DE;;Németország
-GB;;Nagy-Britannia (Egyesült Királyság)
-KR;;Koreai Köztársaság
-TG;;Togo
-NO;;Norvégia
-TH;;Thaiföld
-GD;;Grenada
-NP;;Nepál
-ZA;;Dél-Afrika
-AL;;Albánia
-GE;;Grúzia
-TJ;;Tádzsikisztán
-WF;;Wallis és Futuna
-AM;;Örményország
-GF;;Francia Guyana
-NR;;Nauru
-TK;;Tokelau-szigetek
-DJ;;Dzsibuti
-KW;;Kuvait
-TL;;Kelet-Timor
-AO;;Angola
-DK;;Dánia
-GG;;Guernsey
-TM;;Türkmenisztán
-GH;;Ghána
-JE;;Jersey
-MA;;Marokkó
-KY;;Kajmán-szigetek
-NU;;Niue
-TN;;Tunézia
-DM;;Dominika
-GI;;Gibraltár
-KZ;;Kazahsztán
-TO;;Tonga
-AQ;;Antarktisz
-MC;;Monaco
-AR;;Argentína
-MD;;Moldova
-AS;;Amerikai Szamoa
-DO;;Dominikai Köztársaság
-ME;;Montenegró
-PA;;Panama
-TR;;Törökország
-AT;;Ausztria
-GL;;Grönland
-MF;;Saint Martin (francia oldal)
-NZ;;Új-Zéland
-AU;;Ausztrália
-GM;;Gambia
-GN;;Guinea
-MG;;Madagaszkár
-AW;;Aruba
-MH;;Marshall-szigetek
-TT;;Trinidad és Tobago
-ZM;;Zambia
-GP;;Guadeloupe
 AX;;Åland-szigetek
-SA;;Szaúd-Arábia
-PE;;Peru
-JM;;Jamaica
-GQ;;Egyenlítői-Guinea
-CA;;Kanada
-WS;;Szamoa
-SB;;Salamon-szigetek
-PF;;Francia Polinézia
-TV;;Tuvalu
-PG;;Pápua Új-Guinea
-MK;;Macedón Köztársaság
-GR;;Görögország
+AL;;Albánia
+DZ;;Algéria
+AS;;Amerikai Szamoa
+AD;;Andorra
+AO;;Angola
+AI;;Anguilla
+AQ;;Antarktisz
+AG;;Antigua és Barbuda
+AR;;Argentína
+AM;;Örményország
+AW;;Aruba
+AU;;Ausztrália
+AT;;Ausztria
 AZ;;Azerbajdzsán
-TW;;Tajvan, Kínai Tartomány
-SC;;Seychelles-szigetek
-PH;;Fülöp-szigetek
-ML;;Mali
+BS;;Bahama-szigetek
+BH;;Bahrein
+BD;;Banglades
+BB;;Barbados
+BY;;Fehéroroszország
+BE;;Belgium
+BZ;;Belize
+BJ;;Benin
+BM;;Bermuda
+BT;;Bhután
+BO;;Bolívia
+BQ;;Bonaire, Saint Eustatius és Saba
+BA;;Bosznia-Hercegovina
+BW;;Botswana
+BV;;Bouvet-sziget
+BR;;Brazília
+IO;;Brit indiai óceáni terület
+BN;;Brunei Darussalam Állam
+BG;;Bulgária
+BF;;Burkina Faso
+BI;;Burundi
+KH;;Kambodzsa
+CM;;Kamerun
+CA;;Kanada
+CV;;Zöld-foki-szigetek
+KY;;Kajmán-szigetek
+CF;;Közép-afrikai Köztársaság
+TD;;Csád
+CL;;Chile
+CN;;Kína
+CX;;Karácsony-sziget
+CC;;Cocos (Keeling) -szigetek
+CO;;Kolumbia
+KM;;Comore-szigetek
+CG;;Kongó
+CD;;Kongói Demokratikus Köztársaság
+CK;;Cook-szigetek
+CR;;Costa Rica
+CI;;Côte dIvoireIvoire
+HR;;Horvátország
+CU;;Kuba
+CW;;Curaçao
+CY;;Ciprus
+CZ;;Cseh Köztársaság
+DK;;Dánia
+DJ;;Dzsibuti
+DM;;Dominika
+DO;;Dominikai Köztársaság
+EC;;Ecuador
+EG;;Egyiptom
+SV;;Salvador
+GQ;;Egyenlítői-Guinea
+ER;;Eritrea
+EE;;Észtország
+ET;;Etiópia
+FK;;Falkland-szigetek (Malvinas)
+FO;;Feröer
+FJ;;Fidzsi-szigetek
+FI;;Finnország
+FR;;Franciaország
+GF;;Francia Guyana
+PF;;Francia Polinézia
+TF;;Francia déli területek
+GA;;Gabon
+GM;;Gambia
+GE;;Grúzia
+DE;;Németország
+GH;;Ghána
+GI;;Gibraltár
+GR;;Görögország
+GL;;Grönland
+GD;;Grenada
+GP;;Guadeloupe
+GU;;Guam
+GT;;Guatemala
+GG;;Guernsey
+GN;;Guinea
+GW;;Bissau-Guinea
+GY;;Guyana
+HT;;Haiti
+HM;;Heard-sziget és McDonald-szigetek
+VA;;Szentszék (Vatikánvárosi Állam)
+HN;;Honduras
+HK;;Hongkong
+HU;;Magyarország
+IS;;Izland
+IN;;India
+ID;;Indonézia
+IR;;Irán
+IQ;;Irak
+IE;;Írország
+IM;;Man
+IL;;Izrael
+IT;;Olaszország
+JM;;Jamaica
+JP;;Japán
+JE;;Jersey
 JO;;Jordánia
+KZ;;Kazahsztán
+KE;;Kenya
+KI;;Kiribati
+KP;;Korea, Democratic Peoples Republic ofs Republic of
+KR;;Koreai Köztársaság
+KW;;Kuvait
+KG;;Kirgizisztán
+LA;;Lao Peoples Democratic Republics Democratic Republic
+LV;;Lettország
+LB;;Libanon
+LS;;Lesotho
+LR;;Libéria
+LY;;Líbia
+LI;;Liechtenstein
+LT;;Litvánia
+LU;;Luxemburg
+MO;;Makaó
+MK;;Macedón Köztársaság
+MG;;Madagaszkár
+MW;;Malawi
+MY;;Malajzia
+MV;;Maldív-szigetek
+ML;;Mali
+MT;;Málta
+MH;;Marshall-szigetek
+MQ;;Martinique
+MR;;Mauritánia
+MU;;Mauritius
+YT;;Mayotte
+MX;;Mexikó
+FM;;Mikronézia, Államszövetség
+MD;;Moldova
+MC;;Monaco
+MN;;Mongólia
+ME;;Montenegró
+MS;;Montserrat
+MA;;Marokkó
+MZ;;Mozambik
+MM;;Mianmar
+NA;;Namíbia
+NR;;Nauru
+NP;;Nepál
+NL;;Hollandia
+NC;;Új-Kaledónia
+NZ;;Új-Zéland
+NI;;Nicaragua
+NE;;Niger
+NG;;Nigéria
+NU;;Niue
+NF;;Norfolk-sziget
+MP;;Északi Mariana-szigetek
+NO;;Norvégia
+OM;;Omán
+PK;;Pakisztán
+PW;;Palau
+PS;;Palesztin Nemzeti Hatóság
+PA;;Panama
+PG;;Pápua Új-Guinea
+PY;;Paraguay
+PE;;Peru
+PH;;Fülöp-szigetek
+PN;;Pitcairn-szigetek
+PL;;Lengyelország
+PT;;Portugália
+PR;;Puerto Rico
+QA;;Katar
+RE;;Réunion
+RO;;Románia
+RU;;Orosz Föderáció
+RW;;Ruanda
+BL;;Saint Barthélemy
+SH;;Szent Ilona, Ascension és Tristan da Cunha
+KN;;St. Kitts és Nevis
+LC;;Saint Lucia
+MF;;Saint Martin (francia oldal)
+PM;;Saint-Pierre és Miquelon
+VC;;Saint Vincent és a Grenadines-szigetek
+WS;;Szamoa
+SM;;San Marino
+ST;;São Tomé és Príncipe
+SA;;Szaúd-Arábia
+SN;;Szenegál
+RS;;Szerbia
+SC;;Seychelles-szigetek
+SL;;Sierra Leone
+SG;;Szingapúr
+SX;;Szent Martin (holland oldal)
+SK;;Szlovákia
+SI;;Szlovénia
+SB;;Salamon-szigetek
+SO;;Szomália
+ZA;;Dél-Afrika
 GS;;Dél-Georgia és Déli-Sandwich-szigetek
+ES;;Spanyolország
+LK;;Srí Lanka
 SD;;Szudán
+SR;;Suriname
+SS;;Szudáni Köztársaság
+SJ;;Svalbard-szigetek és Jan Mayen-sziget
+SZ;;Szváziföld
+SE;;Svédország
+CH;;Svájc
+SY;;Szíriai Arab Köztársaság
+TW;;Tajvan, Kínai Tartomány
+TJ;;Tádzsikisztán
+TZ;;Tanzánia
+TH;;Thaiföld
+TL;;Kelet-Timor
+TG;;Togo
+TK;;Tokelau-szigetek
+TO;;Tonga
+TT;;Trinidad és Tobago
+TN;;Tunézia
+TR;;Törökország
+TM;;Türkmenisztán
+TC;;Turks- és Caicos-szigetek
+TV;;Tuvalu
+UG;;Uganda
+UA;;Ukrajna
+AE;;Egyesült Arab Emírségek
+GB;;Nagy-Britannia (Egyesült Királyság)
+US;;Egyesült Államok
+UM;;Amerikai Csendes-óceáni-szigetek
+UY;;Uruguay
+UZ;;Üzbegisztán
+VU;;Vanuatu
+VE;;Venezuela
+VN;;Vietnam
+VG;;Virgin-szigetek (brit)
+VI;;Virgin-szigetek (USA)
+WF;;Wallis és Futuna
+EH;;Nyugat-Szahara
+YE;;Jemen
+ZM;;Zambia
+ZW;;Zimbabwe

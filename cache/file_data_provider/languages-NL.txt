@@ -1,185 +1,185 @@
-SE;;Noord-Sami
-FY;;Fries
-OS;;Ossetisch, Osseets
-GL;;Galiciaans
-LU;;Luba-Katanga
-MI;;Maori
-LV;;Lets
-HA;;Hausa
-BE;;Wit-Russisch, Belarussisch
-GN;;Guarani
-PI;;Pali
-UR;;Urdu
-MK;;Macedonisch
-VE;;Venda
-AR;;Arabisch
-SG;;Sangho
-KA;;Georgisch
-ML;;Malayalam
-AS;;Assamees, Assami
-EE;;Ewe
-RU;;Russisch
-SI;;Sinhala; Sinhalees
-BG;;Bulgaars
-PL;;Pools
-HE;;Hebreeuws
-NA;;Nauruaans
-BH;;Bihari-talen
-MN;;Mongools
-VI;;Vietnamees
-RW;;Kinyarwanda
-NB;;Bokmål, Noors; Noors Bokmål
-AV;;Avaars, Awari
-SK;;Slovaaks, Slowaaks
-BI;;Bislama
-MO;;Moldavisch
-SL;;Sloveens
-YI;;Jiddisch
-DV;;Divehi; Maldiviaans
-ND;;Ndbele, Noord; Noord-Ndebele
-SM;;Samoaans
-NE;;Nepalees
-AY;;Aymara
-SN;;Shona
-KG;;Kongo
-TA;;Tamil
-GU;;Gujarati
-HI;;Hindi
-MR;;Marathi
-AZ;;Azeri, Azerbeidzjaans
-SO;;Somali
-BM;;Bambara
-GV;;Manx
-CA;;Catalaans; Valenciaans
-MS;;Maleis
-EL;;Grieks, Modern (1453-)
-NG;;Ndonga
-WA;;Waals
-BN;;Bengaals
-KI;;Kikuyu; Gikuyu
-UZ;;Oezbeeks
-DZ;;Dzongkha
-MT;;Maltees
-VO;;Volapük
-JV;;Javaans
-FA;;Perzisch
-SQ;;Albanees
-BO;;Tibetaans
-KJ;;Kuanyama; Kwanyama
-EN;;Engels
-SR;;Servisch
-TE;;Telugu
-PS;;Pasjtoe
-ZA;;Zhuang; Chuang
-IA;;Interlingua (International Auxiliary Language Association)
-EO;;Esperanto
-KK;;Kazachs
-PT;;Portugees
-YO;;Yoruba
-SS;;Swati
-BR;;Bretons, Bretoens
-KL;;Kalaallisut; Groenlands
-TG;;Tadzjieks
-CE;;Tsjetsjeens
-NL;;Nederlands
-ST;;Zuid-Sothaans
-BS;;Bosnisch
-KM;;Centraal Khmer
-TH;;Thai
-LA;;Latijn
-HO;;Hiri Motu
-SU;;Soendanees, Sundanees
-KN;;Kannada, Kanarees
-TI;;Tigrinya
-LB;;Luxemburgs; Lëtzebuergesch
-MY;;Burmees
-ID;;Indonesisch
-SV;;Zweeds
-FF;;Fulah
-KO;;Koreaans
-CH;;Chamorro
-IE;;Interlingue; Occidental
-ES;;Spaans; Castiliaans
-SW;;Swahili
-TK;;Turkmeens
-HR;;Kroatisch
-ET;;Estlands
-NN;;Nynorsk-Noors; Noors, Nynorsk
-OC;;Occitaans (na 1500)
-TL;;Tagalog
-ZH;;Chinees
-IG;;Igbo
-EU;;Baskisch
-NO;;Noors
-FI;;Fins
-HT;;Haïtiaans; Haïtiaans Creools
-KR;;Kanuri
-FJ;;Fijisch
 AA;;Afar, Hamitisch
-HU;;Hongaars
-LG;;Ganda
-KS;;Kashmiri
-TN;;Tswana
-NR;;Ndbele, Zuid; Zuid-Ndebele
 AB;;Abchazisch
-II;;Sitsjuan Yi; Nuosu
-DA;;Deens
-TO;;Tonga (Tonga-eilanden)
-KU;;Koerdisch
-LI;;Limburgs
-GA;;Iers
-KV;;Komi
-IK;;Inupiak
-CO;;Corsicaans
-WO;;Wolof
-KW;;Cornish
-AE;;Avestisch
-HY;;Armeens
-TR;;Turks
-FO;;Faeröers
-JA;;Japans
-NV;;Navajo; Navaho
 AF;;Afrikaans
-HZ;;Herero
-OJ;;Ojibwa
-TS;;Tsonga
-CR;;Cree
-GD;;Gaelisch; Schots
-KY;;Kirgizisch
-DE;;Duits
-QU;;Quechua
-UG;;Oeigoers; Oejgoers
-CS;;Tsjechisch
-IO;;Ido
-TT;;Tatar
-LN;;Lingala
-FR;;Frans
-NY;;Tsjewa; Tsjitsjewa; Nyanja
-OM;;Oromo
-LO;;Lao
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
-PA;;Panjabi; Punjabi
-XH;;Xhosa
-CV;;Tsjoevasjisch
 AK;;Akaans
-RM;;Romaans
-TW;;Twi
-UK;;Oekraïens
-IS;;IJslands
-RN;;Rundi
-SA;;Sanskriet
-ZU;;Zoeloe
-IT;;Italiaans
-BA;;Basjkiers, Basjkirisch
+SQ;;Albanees
 AM;;Amhaars, Amharisch
-RO;;Roemeens
-TY;;Tahitisch
-IU;;Inuktitut
-MG;;Malagassisch
+AR;;Arabisch
 AN;;Aragonees
-SC;;Sardijns
-CY;;Welsh
-MH;;Marshallees
+HY;;Armeens
+AS;;Assamees, Assami
+AV;;Avaars, Awari
+AE;;Avestisch
+AY;;Aymara
+AZ;;Azeri, Azerbeidzjaans
+BA;;Basjkiers, Basjkirisch
+BM;;Bambara
+EU;;Baskisch
+BE;;Wit-Russisch, Belarussisch
+BN;;Bengaals
+BH;;Bihari-talen
+BI;;Bislama
+BS;;Bosnisch
+BR;;Bretons, Bretoens
+BG;;Bulgaars
+MY;;Burmees
+CA;;Catalaans; Valenciaans
+CH;;Chamorro
+CE;;Tsjetsjeens
+ZH;;Chinees
+CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CV;;Tsjoevasjisch
+KW;;Cornish
+CO;;Corsicaans
+CR;;Cree
+CS;;Tsjechisch
+DA;;Deens
+DV;;Divehi; Maldiviaans
+NL;;Nederlands
+DZ;;Dzongkha
+EN;;Engels
+EO;;Esperanto
+ET;;Estlands
+EE;;Ewe
+FO;;Faeröers
+FJ;;Fijisch
+FI;;Fins
+FR;;Frans
+FY;;Fries
+FF;;Fulah
+KA;;Georgisch
+DE;;Duits
+GD;;Gaelisch; Schots
+GA;;Iers
+GL;;Galiciaans
+GV;;Manx
+EL;;Grieks, Modern (1453-)
+GN;;Guarani
+GU;;Gujarati
+HT;;Haïtiaans; Haïtiaans Creools
+HA;;Hausa
+HE;;Hebreeuws
+HZ;;Herero
+HI;;Hindi
+HO;;Hiri Motu
+HR;;Kroatisch
+HU;;Hongaars
+IG;;Igbo
+IS;;IJslands
+IO;;Ido
+II;;Sitsjuan Yi; Nuosu
+IU;;Inuktitut
+IE;;Interlingue; Occidental
+IA;;Interlingua (International Auxiliary Language Association)
+ID;;Indonesisch
+IK;;Inupiak
+IT;;Italiaans
+JV;;Javaans
+JA;;Japans
+KL;;Kalaallisut; Groenlands
+KN;;Kannada, Kanarees
+KS;;Kashmiri
+KR;;Kanuri
+KK;;Kazachs
+KM;;Centraal Khmer
+KI;;Kikuyu; Gikuyu
+RW;;Kinyarwanda
+KY;;Kirgizisch
+KV;;Komi
+KG;;Kongo
+KO;;Koreaans
+KJ;;Kuanyama; Kwanyama
+KU;;Koerdisch
+LO;;Lao
+LA;;Latijn
+LV;;Lets
+LI;;Limburgs
+LN;;Lingala
 LT;;Litouws
+LB;;Luxemburgs; Lëtzebuergesch
+LU;;Luba-Katanga
+LG;;Ganda
+MK;;Macedonisch
+MH;;Marshallees
+ML;;Malayalam
+MI;;Maori
+MR;;Marathi
+MS;;Maleis
+MG;;Malagassisch
+MT;;Maltees
+MO;;Moldavisch
+MN;;Mongools
+NA;;Nauruaans
+NV;;Navajo; Navaho
+NR;;Ndbele, Zuid; Zuid-Ndebele
+ND;;Ndbele, Noord; Noord-Ndebele
+NG;;Ndonga
+NE;;Nepalees
+NN;;Nynorsk-Noors; Noors, Nynorsk
+NB;;Bokmål, Noors; Noors Bokmål
+NO;;Noors
+NY;;Tsjewa; Tsjitsjewa; Nyanja
+OC;;Occitaans (na 1500)
+OJ;;Ojibwa
 OR;;Oriya
+OM;;Oromo
+OS;;Ossetisch, Osseets
+PA;;Panjabi; Punjabi
+FA;;Perzisch
+PI;;Pali
+PL;;Pools
+PT;;Portugees
+PS;;Pasjtoe
+QU;;Quechua
+RM;;Romaans
+RO;;Roemeens
+RN;;Rundi
+RU;;Russisch
+SG;;Sangho
+SA;;Sanskriet
+SI;;Sinhala; Sinhalees
+SK;;Slovaaks, Slowaaks
+SL;;Sloveens
+SE;;Noord-Sami
+SM;;Samoaans
+SN;;Shona
 SD;;Sindhi
+SO;;Somali
+ST;;Zuid-Sothaans
+ES;;Spaans; Castiliaans
+SC;;Sardijns
+SR;;Servisch
+SS;;Swati
+SU;;Soendanees, Sundanees
+SW;;Swahili
+SV;;Zweeds
+TY;;Tahitisch
+TA;;Tamil
+TT;;Tatar
+TE;;Telugu
+TG;;Tadzjieks
+TL;;Tagalog
+TH;;Thai
+BO;;Tibetaans
+TI;;Tigrinya
+TO;;Tonga (Tonga-eilanden)
+TN;;Tswana
+TS;;Tsonga
+TK;;Turkmeens
+TR;;Turks
+TW;;Twi
+UG;;Oeigoers; Oejgoers
+UK;;Oekraïens
+UR;;Urdu
+UZ;;Oezbeeks
+VE;;Venda
+VI;;Vietnamees
+VO;;Volapük
+CY;;Welsh
+WA;;Waals
+WO;;Wolof
+XH;;Xhosa
+YI;;Jiddisch
+YO;;Yoruba
+ZA;;Zhuang; Chuang
+ZU;;Zoeloe

@@ -1,249 +1,249 @@
-VA;;Svätá stolica (Vatikánsky mestský štát)
-CC;;Kokosové ostrovy
-GT;;Guatemala
-JP;;Japonsko
-SE;;Švédsko
-TZ;;Tanzánijská zjednotená republika
-CD;;Konžská demokratická republika
-GU;;Guam
-MM;;Mjanmarsko
-DZ;;Alžírsko
-MN;;Mongolsko
-PK;;Pakistan
-SG;;Singapur
-VC;;Svätý Vincent a Grenadíny
-CF;;Stredoafrická republika
-GW;;Guinea-Bissau
-MO;;Macao
-PL;;Poľsko
-SH;;Svätá Helena, Ascension a Tristan da Cunha
-CG;;Kongo
-MP;;Severné Mariány
-PM;;Saint Pierre a Miquelon
-SI;;Slovinsko
-VE;;Venezuelská bolívarovská republika
-ZW;;Zimbabwe
-CH;;Švajčiarsko
-GY;;Guyana
-MQ;;Martinik
-PN;;Pitcairnove ostrovy
-SJ;;Svalbard a Jan Mayen
-CI;;Côte dIvoireIvoire
-MR;;Mauritánia
-SK;;Slovensko
-VG;;Panenské ostrovy, Britské
-MS;;Montserrat
-SL;;Sierra Leone
-CK;;Cookove ostrovy
-ID;;Indonézia
-MT;;Malta
-SM;;San Maríno
-VI;;Panenské ostrovy, Americké
-YE;;Jemen
-CL;;Čile
-IE;;Írsko
-LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;Maurícius
-SN;;Senegal
-CM;;Kamerun
-FI;;Fínsko
-LB;;Libanon
-MV;;Maldivy
-PR;;Portoriko
-SO;;Somálsko
-CN;;Čína
-FJ;;Fidži
-LC;;Svätá Lucia
-MW;;Malawi
-PS;;palestínske územie, Okupované
-CO;;Kolumbia
-FK;;Falklandy (Malvíny)
-MX;;Mexiko
-PT;;Portugalsko
-MY;;Malajzia
-SR;;Surinam
-VN;;Vietnam
-FM;;Mikronézske federatívne štáty
-MZ;;Mozambik
-CR;;Kostarika
-PW;;Palau
-SS;;Južný Sudán
-FO;;Faerské ostrovy
-ST;;Svätý Tomáš a Princov ostrov
-IL;;Izrael
-LI;;Lichtenštajnsko
-PY;;Paraguaj
-BA;;Bosna a Hercegovina
-CU;;Kuba
-IM;;Man
-SV;;Salvádor
-CV;;Kapverdy
-FR;;Francúzsko
-IN;;India
-LK;;Srí Lanka
-BB;;Barbados
-CW;;Curaçao
-IO;;Britské indickooceánske územie
-SX;;Sint Maarten (holandská časť)
-VU;;Vanuatu
-CX;;Vianočný ostrov
-RE;;Réunion
-UA;;Ukrajina
-SY;;Sýrska arabská republika
-CY;;Cyprus
-IQ;;Irak
-SZ;;Svazijsko
-BD;;Bangladéš
-CZ;;Česká republika
-IR;;Iránska islamská republika
-YT;;Mayotte
-BE;;Belgicko
-IS;;Island
-BF;;Burkina Faso
-EC;;Ekvádor
-IT;;Taliansko
-OM;;Omán
-BG;;Bulharsko
-BH;;Bahrajn
-LR;;Libéria
-UG;;Uganda
-BI;;Burundi
-EE;;Estónsko
-LS;;Lesotho
-BJ;;Benin
-LT;;Litva
-EG;;Egypt
-BL;;Svätý Bartolomej
-EH;;Západná Sahara
-LU;;Luxembursko
-RO;;Rumunsko
-BM;;Bermudy
-LV;;Lotyšsko
-BN;;Brunejsko-darussalamský štát
-UM;;Menšie odľahlé ostrovy Spojených štátov
-BO;;Bolívijská republika
-KE;;Keňa
-NA;;Namíbia
-LY;;Líbya
-BQ;;Bonaire, Sint Eustatius a Saba
-BR;;Brazília
-KG;;Kirgizsko
-NC;;Nová Kaledónia
-RS;;Srbsko
-BS;;Bahamy
-HK;;Hongkong
-KH;;Kambodža
-BT;;Bhután
-KI;;Kiribati
-NE;;Niger
-QA;;Katar
-RU;;Ruská federácia
-HM;;Heardov ostrov
-NF;;Norfolk
-US;;Spojené štáty
-BV;;Bouvetov ostrov
-ER;;Eritrea
-HN;;Honduras
-NG;;Nigéria
-RW;;Rwanda
-BW;;Botswana
-ES;;Španielsko
-ET;;Etiópia
-NI;;Nikaragua
-AD;;Andorra
-BY;;Bielorusko
-KM;;Komory
-AE;;Spojené arabské emiráty
-BZ;;Belize
-HR;;Chorvátsko
-KN;;Svätý Krištof a Nevis
-TC;;Ostrovy Turks a Caicos
 AF;;Afganistan
-NL;;Holandsko
-TD;;Čad
-AG;;Antigua a Barbuda
-HT;;Haiti
-KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;Uruguaj
-GA;;Gabon
-HU;;Maďarsko
-TF;;Francúzske južné a antarktické územia
-UZ;;Uzbekistan
-AI;;Anguilla
-DE;;Nemecko
-GB;;Spojené kráľovstvo
-KR;;Kórejská republika
-TG;;Togo
-NO;;Nórsko
-TH;;Thajsko
-GD;;Grenada
-NP;;Nepál
-ZA;;Južná Afrika
-AL;;Albánsko
-GE;;Gruzínsko
-TJ;;Tadžikistan
-WF;;Wallis a Futuna
-AM;;Arménsko
-GF;;Francúzska Guyana
-NR;;Nauru
-TK;;Tokelau
-DJ;;Džibutsko
-KW;;Kuvajt
-TL;;Východný Timor
-AO;;Angola
-DK;;Dánsko
-GG;;Guernsey
-TM;;Turkménsko
-GH;;Ghana
-JE;;Jersey
-MA;;Maroko
-KY;;Kajmanie ostrovy
-NU;;Niue
-TN;;Tunisko
-DM;;Dominika
-GI;;Gibraltár
-KZ;;Kazachstan
-TO;;Tonga
-AQ;;Antarktída
-MC;;Monako
-AR;;Argentína
-MD;;Moldavská republika
-AS;;Americká Samoa
-DO;;Dominikánska republika
-ME;;Čierna Hora
-PA;;Panama
-TR;;Turecko
-AT;;Rakúsko
-GL;;Grónsko
-MF;;Saint Martin (francúzska časť)
-NZ;;Nový Zéland
-AU;;Austrália
-GM;;Gambia
-GN;;Guinea
-MG;;Madagaskar
-AW;;Aruba
-MH;;Marshallove ostrovy
-TT;;Trinidad a Tobago
-ZM;;Zambia
-GP;;Guadeloupe
 AX;;Ålandy
-SA;;Saudská Arábia
-PE;;Peru
-JM;;Jamajka
-GQ;;Rovníková Guinea
-CA;;Kanada
-WS;;Samoa
-SB;;Šalamúnove ostrovy
-PF;;Francúzska Polynézia
-TV;;Tuvalu
-PG;;Papua - Nová Guinea
-MK;;Macedónska republika
-GR;;Grécko
+AL;;Albánsko
+DZ;;Alžírsko
+AS;;Americká Samoa
+AD;;Andorra
+AO;;Angola
+AI;;Anguilla
+AQ;;Antarktída
+AG;;Antigua a Barbuda
+AR;;Argentína
+AM;;Arménsko
+AW;;Aruba
+AU;;Austrália
+AT;;Rakúsko
 AZ;;Azerbajdžan
-TW;;Taiwan, provincia Číny
-SC;;Seychely
-PH;;Filipíny
-ML;;Mali
+BS;;Bahamy
+BH;;Bahrajn
+BD;;Bangladéš
+BB;;Barbados
+BY;;Bielorusko
+BE;;Belgicko
+BZ;;Belize
+BJ;;Benin
+BM;;Bermudy
+BT;;Bhután
+BO;;Bolívijská republika
+BQ;;Bonaire, Sint Eustatius a Saba
+BA;;Bosna a Hercegovina
+BW;;Botswana
+BV;;Bouvetov ostrov
+BR;;Brazília
+IO;;Britské indickooceánske územie
+BN;;Brunejsko-darussalamský štát
+BG;;Bulharsko
+BF;;Burkina Faso
+BI;;Burundi
+KH;;Kambodža
+CM;;Kamerun
+CA;;Kanada
+CV;;Kapverdy
+KY;;Kajmanie ostrovy
+CF;;Stredoafrická republika
+TD;;Čad
+CL;;Čile
+CN;;Čína
+CX;;Vianočný ostrov
+CC;;Kokosové ostrovy
+CO;;Kolumbia
+KM;;Komory
+CG;;Kongo
+CD;;Konžská demokratická republika
+CK;;Cookove ostrovy
+CR;;Kostarika
+CI;;Côte dIvoireIvoire
+HR;;Chorvátsko
+CU;;Kuba
+CW;;Curaçao
+CY;;Cyprus
+CZ;;Česká republika
+DK;;Dánsko
+DJ;;Džibutsko
+DM;;Dominika
+DO;;Dominikánska republika
+EC;;Ekvádor
+EG;;Egypt
+SV;;Salvádor
+GQ;;Rovníková Guinea
+ER;;Eritrea
+EE;;Estónsko
+ET;;Etiópia
+FK;;Falklandy (Malvíny)
+FO;;Faerské ostrovy
+FJ;;Fidži
+FI;;Fínsko
+FR;;Francúzsko
+GF;;Francúzska Guyana
+PF;;Francúzska Polynézia
+TF;;Francúzske južné a antarktické územia
+GA;;Gabon
+GM;;Gambia
+GE;;Gruzínsko
+DE;;Nemecko
+GH;;Ghana
+GI;;Gibraltár
+GR;;Grécko
+GL;;Grónsko
+GD;;Grenada
+GP;;Guadeloupe
+GU;;Guam
+GT;;Guatemala
+GG;;Guernsey
+GN;;Guinea
+GW;;Guinea-Bissau
+GY;;Guyana
+HT;;Haiti
+HM;;Heardov ostrov
+VA;;Svätá stolica (Vatikánsky mestský štát)
+HN;;Honduras
+HK;;Hongkong
+HU;;Maďarsko
+IS;;Island
+IN;;India
+ID;;Indonézia
+IR;;Iránska islamská republika
+IQ;;Irak
+IE;;Írsko
+IM;;Man
+IL;;Izrael
+IT;;Taliansko
+JM;;Jamajka
+JP;;Japonsko
+JE;;Jersey
 JO;;Jordánsko
+KZ;;Kazachstan
+KE;;Keňa
+KI;;Kiribati
+KP;;Korea, Democratic Peoples Republic ofs Republic of
+KR;;Kórejská republika
+KW;;Kuvajt
+KG;;Kirgizsko
+LA;;Lao Peoples Democratic Republics Democratic Republic
+LV;;Lotyšsko
+LB;;Libanon
+LS;;Lesotho
+LR;;Libéria
+LY;;Líbya
+LI;;Lichtenštajnsko
+LT;;Litva
+LU;;Luxembursko
+MO;;Macao
+MK;;Macedónska republika
+MG;;Madagaskar
+MW;;Malawi
+MY;;Malajzia
+MV;;Maldivy
+ML;;Mali
+MT;;Malta
+MH;;Marshallove ostrovy
+MQ;;Martinik
+MR;;Mauritánia
+MU;;Maurícius
+YT;;Mayotte
+MX;;Mexiko
+FM;;Mikronézske federatívne štáty
+MD;;Moldavská republika
+MC;;Monako
+MN;;Mongolsko
+ME;;Čierna Hora
+MS;;Montserrat
+MA;;Maroko
+MZ;;Mozambik
+MM;;Mjanmarsko
+NA;;Namíbia
+NR;;Nauru
+NP;;Nepál
+NL;;Holandsko
+NC;;Nová Kaledónia
+NZ;;Nový Zéland
+NI;;Nikaragua
+NE;;Niger
+NG;;Nigéria
+NU;;Niue
+NF;;Norfolk
+MP;;Severné Mariány
+NO;;Nórsko
+OM;;Omán
+PK;;Pakistan
+PW;;Palau
+PS;;palestínske územie, Okupované
+PA;;Panama
+PG;;Papua - Nová Guinea
+PY;;Paraguaj
+PE;;Peru
+PH;;Filipíny
+PN;;Pitcairnove ostrovy
+PL;;Poľsko
+PT;;Portugalsko
+PR;;Portoriko
+QA;;Katar
+RE;;Réunion
+RO;;Rumunsko
+RU;;Ruská federácia
+RW;;Rwanda
+BL;;Svätý Bartolomej
+SH;;Svätá Helena, Ascension a Tristan da Cunha
+KN;;Svätý Krištof a Nevis
+LC;;Svätá Lucia
+MF;;Saint Martin (francúzska časť)
+PM;;Saint Pierre a Miquelon
+VC;;Svätý Vincent a Grenadíny
+WS;;Samoa
+SM;;San Maríno
+ST;;Svätý Tomáš a Princov ostrov
+SA;;Saudská Arábia
+SN;;Senegal
+RS;;Srbsko
+SC;;Seychely
+SL;;Sierra Leone
+SG;;Singapur
+SX;;Sint Maarten (holandská časť)
+SK;;Slovensko
+SI;;Slovinsko
+SB;;Šalamúnove ostrovy
+SO;;Somálsko
+ZA;;Južná Afrika
 GS;;Južná Georgia a Južné Sandwichove ostrovy
+ES;;Španielsko
+LK;;Srí Lanka
 SD;;Sudán
+SR;;Surinam
+SS;;Južný Sudán
+SJ;;Svalbard a Jan Mayen
+SZ;;Svazijsko
+SE;;Švédsko
+CH;;Švajčiarsko
+SY;;Sýrska arabská republika
+TW;;Taiwan, provincia Číny
+TJ;;Tadžikistan
+TZ;;Tanzánijská zjednotená republika
+TH;;Thajsko
+TL;;Východný Timor
+TG;;Togo
+TK;;Tokelau
+TO;;Tonga
+TT;;Trinidad a Tobago
+TN;;Tunisko
+TR;;Turecko
+TM;;Turkménsko
+TC;;Ostrovy Turks a Caicos
+TV;;Tuvalu
+UG;;Uganda
+UA;;Ukrajina
+AE;;Spojené arabské emiráty
+GB;;Spojené kráľovstvo
+US;;Spojené štáty
+UM;;Menšie odľahlé ostrovy Spojených štátov
+UY;;Uruguaj
+UZ;;Uzbekistan
+VU;;Vanuatu
+VE;;Venezuelská bolívarovská republika
+VN;;Vietnam
+VG;;Panenské ostrovy, Britské
+VI;;Panenské ostrovy, Americké
+WF;;Wallis a Futuna
+EH;;Západná Sahara
+YE;;Jemen
+ZM;;Zambia
+ZW;;Zimbabwe

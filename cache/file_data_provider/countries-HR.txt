@@ -1,249 +1,249 @@
-VA;;Vatikan
-CC;;Cocos (Keeling) otoci
-GT;;Gvatemala
-JP;;Japan
-SE;;Švedska
-TZ;;Tanzanija
-CD;;Demokratska Republika Kongo
-GU;;Guam
-MM;;Mjanmar
-DZ;;Alžir
-MN;;Mongolija
-PK;;Pakistan
-SG;;Singapur
-VC;;Sveti Vincent i Grenadini
-CF;;Centralnoafrička Republika
-GW;;Gvineja Bisau
-MO;;Makao
-PL;;Poljska
-SH;;Sveta Helena, Ascension i Tristan da Cunha
-CG;;Kongo
-MP;;Sjevernomarijanski otoci
-PM;;Sveti Pierre i Miquelon
-SI;;Slovenija
-VE;;Venecuela
-ZW;;Zimbabve
-CH;;Švicarska
-GY;;Gvajana
-MQ;;Martinik
-PN;;Pitcairn
-SJ;;Svalbard i Jan Mayen
-CI;;Côte dIvoireIvoire
-MR;;Mauritanija
-SK;;Slovačka
-VG;;Djevičanski otoci
-MS;;Montserrat
-SL;;Siera Leone
-CK;;Cookovi otoci
-ID;;Indonezija
-MT;;Malta
-SM;;San Marino
-VI;;Američki Djevičanski otoci
-YE;;Jemen
-CL;;Čile
-IE;;Irska
-LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;Mauricijus
-SN;;Senegal
-CM;;Kamerun
-FI;;Finska
-LB;;Libanon
-MV;;Maldivi
-PR;;Portoriko
-SO;;Somalija
-CN;;Kina
-FJ;;Fidži
-LC;;Sveta Lucija
-MW;;Malavi
-PS;;Palestina
-CO;;Kolumbija
-FK;;Falklandski otoci
-MX;;Meksiko
-PT;;Portugal
-MY;;Malezija
-SR;;Surinam
-VN;;Vijetnam
-FM;;Mikronezija
-MZ;;Mozambik
-CR;;Kostarika
-PW;;Palau
-SS;;Republika Sudan
-FO;;Farski otoci
-ST;;Sao Tome i Principe
-IL;;Izrael
-LI;;Lihtenštajn
-PY;;Paragvaj
-BA;;Bosna i Hercegovina
-CU;;Kuba
-IM;;Otok Man
-SV;;El Salvador
-CV;;Zelenortski otoci
-FR;;Francuska
-IN;;Indija
-LK;;Šri Lanka
-BB;;Barbados
-CW;;Curaçao
-IO;;Britanski Teritorij Indijskog Oceana
-SX;;Saint Martin (francuski dio)
-VU;;Vanuatu
-CX;;Božićni otok
-RE;;Reunion
-UA;;Ukrajina
-SY;;Sirija
-CY;;Cipar
-IQ;;Irak
-SZ;;Svaziland
-BD;;Bangladeš
-CZ;;Češka
-IR;;Iran
-YT;;Mayotte
-BE;;Belgija
-IS;;Island
-BF;;Burkina Faso
-EC;;Ekvador
-IT;;Italija
-OM;;Oman
-BG;;Bugarska
-BH;;Bahrein
-LR;;Liberija
-UG;;Uganda
-BI;;Burundi
-EE;;Estonija
-LS;;Lesoto
-BJ;;Benin
-LT;;Litva
-EG;;Egipat
-BL;;Sveti Barthélemy
-EH;;Zapadna Sahara
-LU;;Luksemburg
-RO;;Rumunjska
-BM;;Bermudi
-LV;;Latvija
-BN;;Brunej
-UM;;Američki mali izvanjski otoci
-BO;;Bolivija
-KE;;Kenija
-NA;;Namibija
-LY;;Libija
-BQ;;Bonaire, Sint Eustatius and Saba
-BR;;Brazil
-KG;;Kirgistan
-NC;;Nova Kaledonija
-RS;;Srbija
-BS;;Bahami
-HK;;Hong Kong
-KH;;Kambodža
-BT;;Butan
-KI;;Kiribati
-NE;;Niger
-QA;;Katar
-RU;;Rusija
-HM;;Otok Heard i MacDonaldovi otoci
-NF;;Otok Norfolk
-US;;Sjedinjene Države
-BV;;Otok Bouvet
-ER;;Eritreja
-HN;;Honduras
-NG;;Nigerija
-RW;;Ruanda
-BW;;Botsvana
-ES;;Španjolska
-ET;;Etiopija
-NI;;Nikaragva
-AD;;Andora
-BY;;Bjelorusija
-KM;;Komori
-AE;;Ujedinjeni Arapski Emirati
-BZ;;Belize
-HR;;Hrvatska
-KN;;Sveti Kitts i Nevis
-TC;;Otoci Turks i Caicos
 AF;;Afganistan
-NL;;Nizozemska
-TD;;Čad
-AG;;Antigua i Barbuda
-HT;;Haiti
-KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;Urugvaj
-GA;;Gabon
-HU;;Mađarska
-TF;;Francuski Južni Teritoriji
-UZ;;Uzbekistan
-AI;;Anguila
-DE;;Njemačka
-GB;;Velika Britanija
-KR;;Južna Koreja
-TG;;Togo
-NO;;Norveška
-TH;;Tajland
-GD;;Grenada
-NP;;Nepal
-ZA;;Južna Afrika
-AL;;Albanija
-GE;;Gruzija
-TJ;;Tadžikistan
-WF;;Wallis i Futuna
-AM;;Armenija
-GF;;Francuska Gvajana
-NR;;Nauru
-TK;;Tokelau
-DJ;;Džibuti
-KW;;Kuvajt
-TL;;Istočni Timor
-AO;;Angola
-DK;;Danska
-GG;;Guernsey
-TM;;Turkmenistan
-GH;;Gana
-JE;;Jersey
-MA;;Maroko
-KY;;Kajmanski otoci
-NU;;Niue
-TN;;Tunis
-DM;;Dominika
-GI;;Gibraltar
-KZ;;Kazahstan
-TO;;Tonga
-AQ;;Antarktika
-MC;;Monako
-AR;;Argentina
-MD;;Moldova
-AS;;Američka Samoa
-DO;;Dominikanska Republika
-ME;;Crna Gora
-PA;;Panama
-TR;;Turska
-AT;;Austrija
-GL;;Grenland
-MF;;Saint Martin (francuski dio)
-NZ;;Novi Zeland
-AU;;Australija
-GM;;Gambija
-GN;;Gvineja
-MG;;Madagaskar
-AW;;Aruba
-MH;;Maršalovi otoci
-TT;;Trinidad i Tobago
-ZM;;Zambija
-GP;;Gvadalupa
 AX;;Alandski otoci
-SA;;Saudijska Arabija
-PE;;Peru
-JM;;Jamajka
-GQ;;Ekvatorijalna Gvineja
+AL;;Albanija
+DZ;;Alžir
+AS;;Američka Samoa
+AD;;Andora
+AO;;Angola
+AI;;Angvila
+AQ;;Antarktika
+AG;;Antigva i Barbuda
+AR;;Argentina
+AM;;Armenija
+AW;;Aruba
+AU;;Australija
+AT;;Austrija
+AZ;;Azerbajdžan
+BS;;Bahami
+BH;;Bahrein
+BD;;Bangladeš
+BB;;Barbados
+BY;;Bjelorusija
+BE;;Belgija
+BZ;;Belize
+BJ;;Benin
+BM;;Bermudi
+BT;;Butan
+BO;;Plurinacionalna Država Bolivija
+BQ;;Bonaire, Sveti Eustahije i Saba
+BA;;Bosna i Hercegovina
+BW;;Bocvana
+BV;;Otok Bouvet
+BR;;Brazil
+IO;;Britanski Teritorij Indijskog Oceana
+BN;;Brunej Darussalam
+BG;;Bugarska
+BF;;Burkina Faso
+BI;;Burundi
+KH;;Kambodža
+CM;;Kamerun
 CA;;Kanada
-WS;;Samoa
-SB;;Solomonski otoci
+CV;;Zelenortski otoci
+KY;;Kajmanski otoci
+CF;;Srednjoafrička Republika
+TD;;Čad
+CL;;Čile
+CN;;Kina
+CX;;Božićni otok
+CC;;Kokosovi (Keeling) otoci
+CO;;Kolumbija
+KM;;Komori
+CG;;Kongo
+CD;;Demokratska Republika Kongo
+CK;;Cookovo Otočje
+CR;;Kostarika
+CI;;Côte dIvoireIvoire
+HR;;Hrvatska
+CU;;Kuba
+CW;;Curaçao
+CY;;Cipar
+CZ;;Češka
+DK;;Danska
+DJ;;Džibuti
+DM;;Dominika
+DO;;Dominikanska Republika
+EC;;Ekvador
+EG;;Egipat
+SV;;Salvador
+GQ;;Ekvatorijalna Gvineja
+ER;;Eritreja
+EE;;Estonija
+ET;;Etiopija
+FK;;Falklandski otoci
+FO;;Ovčji otoci
+FJ;;Fidži
+FI;;Finska
+FR;;Francuska
+GF;;Francuska Gvajana
 PF;;Francuska Polinezija
-TV;;Tuvalu
-PG;;Papua Nova Gvineja
-MK;;Makedonija
+TF;;Francuski Južni Teritoriji
+GA;;Gabon
+GM;;Gambija
+GE;;Gruzija
+DE;;Njemačka
+GH;;Gana
+GI;;Gibraltar
 GR;;Grčka
-AZ;;Azerbejdžan
-TW;;Kineska Pokrajina Tajvan
-SC;;Sejšeli
-PH;;Filipini
-ML;;Mali
+GL;;Grenland
+GD;;Grenada
+GP;;Gvadalupa
+GU;;Guam
+GT;;Gvatemala
+GG;;Guernsey
+GN;;Gvineja
+GW;;Gvineja Bisau
+GY;;Gvajana
+HT;;Haiti
+HM;;Otok Heard i McDonaldovi otoci
+VA;;Vatikan (Sveta Stolica)
+HN;;Honduras
+HK;;Hong Kong
+HU;;Mađarska
+IS;;Island
+IN;;Indija
+ID;;Indonezija
+IR;;Iran
+IQ;;Irak
+IE;;Irska
+IM;;Otok Man
+IL;;Izrael
+IT;;Italija
+JM;;Jamajka
+JP;;Japan
+JE;;Jersey
 JO;;Jordan
+KZ;;Kazahstan
+KE;;Kenija
+KI;;Kiribati
+KP;;Korea, Democratic Peoples Republic ofs Republic of
+KR;;Južna Koreja
+KW;;Kuvajt
+KG;;Kirgistan
+LA;;Lao Peoples Democratic Republics Democratic Republic
+LV;;Latvija
+LB;;Libanon
+LS;;Lesoto
+LR;;Liberija
+LY;;Libija
+LI;;Lihtenštajn
+LT;;Litva
+LU;;Luksemburg
+MO;;Makao
+MK;;Makedonija
+MG;;Madagaskar
+MW;;Malavi
+MY;;Malezija
+MV;;Maldivi
+ML;;Mali
+MT;;Malta
+MH;;Maršalovi Otoci
+MQ;;Martinik
+MR;;Mauritanija
+MU;;Mauricijus
+YT;;Mayotte
+MX;;Meksiko
+FM;;Mikronezija
+MD;;Republika Moldova
+MC;;Monako
+MN;;Mongolija
+ME;;Crna Gora
+MS;;Montserrat
+MA;;Maroko
+MZ;;Mozambik
+MM;;Mjanmar
+NA;;Namibija
+NR;;Nauru
+NP;;Nepal
+NL;;Nizozemska
+NC;;Nova Kaledonija
+NZ;;Novi Zeland
+NI;;Nikaragva
+NE;;Niger
+NG;;Nigerija
+NU;;Niue
+NF;;Otok Norfolk
+MP;;Sjevernomarijanski otoci
+NO;;Norveška
+OM;;Oman
+PK;;Pakistan
+PW;;Palau
+PS;;Palestina
+PA;;Panama
+PG;;Papua Nova Gvineja
+PY;;Paragvaj
+PE;;Peru
+PH;;Filipini
+PN;;Pitcairn
+PL;;Poljska
+PT;;Portugal
+PR;;Portoriko
+QA;;Katar
+RE;;Réunion
+RO;;Rumunjska
+RU;;Rusija
+RW;;Ruanda
+BL;;Sveti Bartolomej
+SH;;Sveta Helena, Ascension i Tristan da Cunha
+KN;;Sveti Kitts i Nevis
+LC;;Sveta Lucija
+MF;;Sveti Martin (francuski dio)
+PM;;Sveti Petar i Mikelon
+VC;;Sveti Vincent i Grenadini
+WS;;Samoa
+SM;;San Marino
+ST;;Sveti Toma i Princip
+SA;;Saudijska Arabija
+SN;;Senegal
+RS;;Srbija
+SC;;Sejšeli
+SL;;Sijera Leone
+SG;;Singapur
+SX;;Sveti Martin (nizozemski dio)
+SK;;Slovačka
+SI;;Slovenija
+SB;;Solomonski otoci
+SO;;Somalija
+ZA;;Južna Afrika
 GS;;Južna Georgija i otočje Južni Sandwich
+ES;;Španjolska
+LK;;Šri Lanka
 SD;;Sudan
+SR;;Surinam
+SS;;Južni Sudan
+SJ;;Svalbard i Jan Mayen
+SZ;;Svazi
+SE;;Švedska
+CH;;Švicarska
+SY;;Sirija
+TW;;Kineska Pokrajina Tajvan
+TJ;;Tadžikistan
+TZ;;Tanzanija
+TH;;Tajland
+TL;;Istočni Timor
+TG;;Togo
+TK;;Tokelau
+TO;;Tonga
+TT;;Trinidad i Tobago
+TN;;Tunis
+TR;;Turska
+TM;;Turkmenistan
+TC;;Otoci Turks i Caicos
+TV;;Tuvalu
+UG;;Uganda
+UA;;Ukrajina
+AE;;Ujedinjeni Arapski Emirati
+GB;;Ujedinjeno Kraljevstvo
+US;;Sjedinjene Države
+UM;;Mali udaljeni otoci SAD-a
+UY;;Urugvaj
+UZ;;Uzbekistan
+VU;;Vanuatu
+VE;;Bolivarijanska Republika Venezuela
+VN;;Vijetnam
+VG;;Djevičanski otoci
+VI;;Američki Djevičanski otoci
+WF;;Wallis i Futuna
+EH;;Zapadna Sahara
+YE;;Jemen
+ZM;;Zambija
+ZW;;Zimbabve

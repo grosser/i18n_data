@@ -1,249 +1,249 @@
-VA;;Suí Naofa (Stát Chathair na Vatacáine)
-CC;;Oileáin Cocos (Oileáin Keeling)
-GT;;Guatamala
-JP;;An tSeapáin
-SE;;An tSualainn
-TZ;;An Tansáin
-CD;;Poblacht Dhaonlathach an Chongó
-GU;;Guam
-MM;;Maenmar
-DZ;;An Ailgéir
-MN;;An Mhongóil
-PK;;An Phacastáin
-SG;;Singeapór
-VC;;Saint Vincent agus na Grenadines
-CF;;Poblacht na hAfraice Láir
-GW;;An Ghuine-Bhissau
-MO;;Macao
-PL;;An Pholainn
-SH;;Saint Helena, Ascension agus Tristan da Cunha
-CG;;An Congó
-MP;;Oileáin Mariana Thuaidh
-PM;;St. Pierre agus Miquelon
-SI;;An tSlóivéin
-VE;;Veiniséala, Poblacht Bolivar
-ZW;;An tSiombáib
-CH;;An Eilvéis
-GY;;An Ghuáin
-MQ;;Martainíc
-PN;;Pitcairn
-SJ;;Svalbard agus Jan Mayen
-CI;;Côte dIvoireIvoire
-MR;;An Mháratáin
-SK;;An tSlóvaic
-VG;;Oileáin Bhriotanacha na Maighdean
-MS;;Montsarat
-SL;;Siarra Leon
-CK;;Oileáin Cook
-ID;;An Indinéis
-MT;;Málta
-SM;;San Mairíne
-VI;;Oileáin na Maighdean, S.A.M.
-YE;;Éimin
-CL;;An tSile
-IE;;Éire
-LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;Oileán Mhuirís
-SN;;An tSeineagáil
-CM;;Camarún
-FI;;An Fhionlainn
-LB;;An Liobáin
-MV;;Oileáin Mhaildíve
-PR;;Portó Ríce
-SO;;An tSomáil
-CN;;An tSín
-FJ;;Fidsí
-LC;;Saint Lucia
-MW;;An Mhaláiv
-PS;;Críoch na bPalaistíneach, faoi fhorghabháil
-CO;;An Cholóim
-FK;;Oileáin Fháclainne (Malvinas)
-MX;;Meicsiceo
-PT;;An Phortaingéil
-MY;;An Mhalaeisia
-SR;;Suranam
-VN;;Vítneam
-FM;;An Mhicrinéis
-MZ;;Mósaimbíc
-CR;;Cósta Rice
-PW;;Palau
-SS;;Poblacht na Súdáine
-FO;;Oileáin Fharó
-ST;;Sao Tome agus Principe
-IL;;Iosrael
-LI;;Lichtinstéin
-PY;;Paragua
-BA;;An Bhoisnia-Heirseagaivéin
-CU;;Cúba
-IM;;Oileán Mhanann
-SV;;An tSalvadóir
-CV;;Rinn Verde
-FR;;An Fhrainc
-IN;;An India
-LK;;Srí Lanca
-BB;;Barbadós
-CW;;Curasao
-IO;;Críocha Briotanacha an Aigéin Indiaigh
-SX;;Sint Maarten (ceantar Ollannach)
-VU;;Vanuatú
-CX;;Oileán na Nollag
-RE;;Réunion
-UA;;An Úcráin
-SY;;Poblacht Arabach na Siria
-CY;;An Chipir
-IQ;;An Iaráic
-SZ;;An tSuasalainn
-BD;;An Bhanglaidéis
-CZ;;Poblacht na Seice
-IR;;An Iaráin
-YT;;Mayotte
-BE;;An Bheilg
-IS;;An Íoslainn
-BF;;Buircíne Fasó
-EC;;Eacuadór
-IT;;An Iodáil
-OM;;Oman
-BG;;An Bhulgáir
-BH;;Bairéin
-LR;;An Libéir
-UG;;Uganda
-BI;;An Bhurúin
-EE;;An Eastóin
-LS;;Leosóta
-BJ;;Beinin
-LT;;An Liotuáin
-EG;;An Éigipt
-BL;;San Parthalán
-EH;;An Sahára Thiar
-LU;;Lucsamburg
-RO;;An Rómáin
-BM;;Na Beirmiúdaí
-LV;;An Laitvia
-BN;;Brúiné Dárasalám
-UM;;Mion-Oileáin Imeallacha S.A.M.
-BO;;An Bholaiv, Stát Ilnáisiúnta
-KE;;An Chéinia
-NA;;An Namaib
-LY;;An Libia
-BQ;;Bonaire, San Eustatius agus Saba
-BR;;An Bhrasaíl
-KG;;An Chirgeastáin
-NC;;An Nua-Chaladóin
-RS;;An tSeirbia
-BS;;Na Bahámaí
-HK;;Hong Cong
-KH;;An Chambóid
-BT;;An Bhútáin
-KI;;Cireabaití
-NE;;An Nígir
-QA;;Catar
-RU;;Cónaidhm na Rúise
-HM;;Oileán Heard agus Oileáin McDonald
-NF;;Oileán Norfolk
-US;;Na Stáit Aontaithe
-BV;;Oileán Bouvet
-ER;;An Eiritré
-HN;;Hondúras
-NG;;An Nigéir
-RW;;Ruanda
-BW;;An Bhotsuáin
-ES;;An Spáinn
-ET;;An Aetóip
-NI;;Nicearagua
-AD;;Andóra
-BY;;An Bhílearúis
-KM;;Oileán Chomóra
-AE;;Aontas na nÉimíríochtaí Arabacha
-BZ;;An Bheilís
-HR;;An Chróit
-KN;;Saint Kitts agus Nevis
-TC;;Oileáin Turks agus Caicos
 AF;;An Afganastáin
-NL;;An Ísiltír
-TD;;Sead
-AG;;Antigua agus Barbuda
-HT;;Háítí
-KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;Uragua
-GA;;An Ghabúin
-HU;;An Ungáir
-TF;;Críocha Francacha Theas
-UZ;;Úisbéiceastáin
-AI;;Anguilla
-DE;;An Ghearmáin
-GB;;An Ríocht Aontaithe
-KR;;Poblacht na Cóiré
-TG;;Tóga
-NO;;An Iorua
-TH;;An Téalainn
-GD;;Grenada
-NP;;Neipeal
-ZA;;An Afraic Theas
-AL;;An Albáin
-GE;;An tSeoirsia
-TJ;;An Táidsíceastáin
-WF;;Oileáin Vailís agus Futúna
-AM;;An Airméin
-GF;;An Ghuáin Fhrancach
-NR;;Nárú
-TK;;Tócalá
-DJ;;Djibouti
-KW;;Cuáit
-TL;;Tíomór Thoir
-AO;;Angóla
-DK;;An Danmhairg
-GG;;Geansaí
-TM;;An Tuircméanastáin
-GH;;Gána
-JE;;Geirsí
-MA;;Maracó
-KY;;Oileáin Cayman
-NU;;Niue
-TN;;An Túinéis
-DM;;Doiminice
-GI;;Giobráltar
-KZ;;An Chasacstáin
-TO;;Tonga
-AQ;;an Antartaice
-MC;;Monacó
-AR;;An Airgintín
-MD;;Moldóive, Poblacht na
-AS;;Samó Meiriceánach
-DO;;An Phoblacht Dhoiminiceach
-ME;;Montainéagró
-PA;;Panama
-TR;;An Tuirc
-AT;;An Ostair
-GL;;An Ghraonlainn
-MF;;Saint Martin (An Fhrainc)
-NZ;;An Nua-Shéalainn
-AU;;An Astráil
-GM;;An Ghaimbia
-GN;;An Ghuine
-MG;;Madagascar
-AW;;Aruba
-MH;;Oileáin Marshall
-TT;;Oileáin na Tríonóide agus Tobága
-ZM;;An tSaimbia
-GP;;Guadalúip
 AX;;Oileáin Åland
-SA;;An Araib Shádach
-PE;;Peiriú
-JM;;Iamáice
-GQ;;An Ghuine Mheánchiorclach
-CA;;Ceanada
-WS;;Samó
-SB;;Oileán Solomon
-PF;;Polainéis na Fraince
-TV;;Tuvalú
-PG;;Papua Nua-Ghuine
-MK;;Poblacht na Macadóine
-GR;;An Ghréig
+AL;;An Albáin
+DZ;;An Ailgéir
+AS;;Samó Meiriceánach
+AD;;Andóra
+AO;;Angóla
+AI;;Anguilla
+AQ;;an Antartaice
+AG;;Antigua agus Barbuda
+AR;;An Airgintín
+AM;;An Airméin
+AW;;Aruba
+AU;;An Astráil
+AT;;An Ostair
 AZ;;An Asarbaiseáin
-TW;;An Téaváin, Cúige na Síne
-SC;;Na Séiséil
-PH;;Na hOileáin Fhilipíneacha
-ML;;Mailí
+BS;;Na Bahámaí
+BH;;Bairéin
+BD;;An Bhanglaidéis
+BB;;Barbadós
+BY;;An Bhílearúis
+BE;;An Bheilg
+BZ;;An Bheilís
+BJ;;Beinin
+BM;;Na Beirmiúdaí
+BT;;An Bhútáin
+BO;;An Bholaiv, Stát Ilnáisiúnta
+BQ;;Bonaire, San Eustatius agus Saba
+BA;;An Bhoisnia-Heirseagaivéin
+BW;;An Bhotsuáin
+BV;;Oileán Bouvet
+BR;;An Bhrasaíl
+IO;;Críocha Briotanacha an Aigéin Indiaigh
+BN;;Brúiné Dárasalám
+BG;;An Bhulgáir
+BF;;Buircíne Fasó
+BI;;An Bhurúin
+KH;;An Chambóid
+CM;;Camarún
+CA;;Ceanada
+CV;;Rinn Verde
+KY;;Oileáin Cayman
+CF;;Poblacht na hAfraice Láir
+TD;;Sead
+CL;;An tSile
+CN;;An tSín
+CX;;Oileán na Nollag
+CC;;Oileáin Cocos (Oileáin Keeling)
+CO;;An Cholóim
+KM;;Oileán Chomóra
+CG;;An Congó
+CD;;Poblacht Dhaonlathach an Chongó
+CK;;Oileáin Cook
+CR;;Cósta Rice
+CI;;Côte dIvoireIvoire
+HR;;An Chróit
+CU;;Cúba
+CW;;Curasao
+CY;;An Chipir
+CZ;;Poblacht na Seice
+DK;;An Danmhairg
+DJ;;Djibouti
+DM;;Doiminice
+DO;;An Phoblacht Dhoiminiceach
+EC;;Eacuadór
+EG;;An Éigipt
+SV;;An tSalvadóir
+GQ;;An Ghuine Mheánchiorclach
+ER;;An Eiritré
+EE;;An Eastóin
+ET;;An Aetóip
+FK;;Oileáin Fháclainne (Malvinas)
+FO;;Oileáin Fharó
+FJ;;Fidsí
+FI;;An Fhionlainn
+FR;;An Fhrainc
+GF;;An Ghuáin Fhrancach
+PF;;Polainéis na Fraince
+TF;;Críocha Francacha Theas
+GA;;An Ghabúin
+GM;;An Ghaimbia
+GE;;An tSeoirsia
+DE;;An Ghearmáin
+GH;;Gána
+GI;;Giobráltar
+GR;;An Ghréig
+GL;;An Ghraonlainn
+GD;;Grenada
+GP;;Guadalúip
+GU;;Guam
+GT;;Guatamala
+GG;;Geansaí
+GN;;An Ghuine
+GW;;An Ghuine-Bhissau
+GY;;An Ghuáin
+HT;;Háítí
+HM;;Oileán Heard agus Oileáin McDonald
+VA;;Suí Naofa (Stát Chathair na Vatacáine)
+HN;;Hondúras
+HK;;Hong Cong
+HU;;An Ungáir
+IS;;An Íoslainn
+IN;;An India
+ID;;An Indinéis
+IR;;An Iaráin
+IQ;;An Iaráic
+IE;;Éire
+IM;;Oileán Mhanann
+IL;;Iosrael
+IT;;An Iodáil
+JM;;Iamáice
+JP;;An tSeapáin
+JE;;Geirsí
 JO;;An Iordáin
+KZ;;An Chasacstáin
+KE;;An Chéinia
+KI;;Cireabaití
+KP;;Korea, Democratic Peoples Republic ofs Republic of
+KR;;Poblacht na Cóiré
+KW;;Cuáit
+KG;;An Chirgeastáin
+LA;;Lao Peoples Democratic Republics Democratic Republic
+LV;;An Laitvia
+LB;;An Liobáin
+LS;;Leosóta
+LR;;An Libéir
+LY;;An Libia
+LI;;Lichtinstéin
+LT;;An Liotuáin
+LU;;Lucsamburg
+MO;;Macao
+MK;;Poblacht na Macadóine
+MG;;Madagascar
+MW;;An Mhaláiv
+MY;;An Mhalaeisia
+MV;;Oileáin Mhaildíve
+ML;;Mailí
+MT;;Málta
+MH;;Oileáin Marshall
+MQ;;Martainíc
+MR;;An Mháratáin
+MU;;Oileán Mhuirís
+YT;;Mayotte
+MX;;Meicsiceo
+FM;;An Mhicrinéis
+MD;;Moldóive, Poblacht na
+MC;;Monacó
+MN;;An Mhongóil
+ME;;Montainéagró
+MS;;Montsarat
+MA;;Maracó
+MZ;;Mósaimbíc
+MM;;Maenmar
+NA;;An Namaib
+NR;;Nárú
+NP;;Neipeal
+NL;;An Ísiltír
+NC;;An Nua-Chaladóin
+NZ;;An Nua-Shéalainn
+NI;;Nicearagua
+NE;;An Nígir
+NG;;An Nigéir
+NU;;Niue
+NF;;Oileán Norfolk
+MP;;Oileáin Mariana Thuaidh
+NO;;An Iorua
+OM;;Oman
+PK;;An Phacastáin
+PW;;Palau
+PS;;Críoch na bPalaistíneach, faoi fhorghabháil
+PA;;Panama
+PG;;Papua Nua-Ghuine
+PY;;Paragua
+PE;;Peiriú
+PH;;Na hOileáin Fhilipíneacha
+PN;;Pitcairn
+PL;;An Pholainn
+PT;;An Phortaingéil
+PR;;Portó Ríce
+QA;;Catar
+RE;;Réunion
+RO;;An Rómáin
+RU;;Cónaidhm na Rúise
+RW;;Ruanda
+BL;;San Parthalán
+SH;;Saint Helena, Ascension agus Tristan da Cunha
+KN;;Saint Kitts agus Nevis
+LC;;Saint Lucia
+MF;;Saint Martin (An Fhrainc)
+PM;;St. Pierre agus Miquelon
+VC;;Saint Vincent agus na Grenadines
+WS;;Samó
+SM;;San Mairíne
+ST;;Sao Tome agus Principe
+SA;;An Araib Shádach
+SN;;An tSeineagáil
+RS;;An tSeirbia
+SC;;Na Séiséil
+SL;;Siarra Leon
+SG;;Singeapór
+SX;;Sint Maarten (ceantar Ollannach)
+SK;;An tSlóvaic
+SI;;An tSlóivéin
+SB;;Oileán Solomon
+SO;;An tSomáil
+ZA;;An Afraic Theas
 GS;;An tSeoirsia Theas agus Sandwich Theas
+ES;;An Spáinn
+LK;;Srí Lanca
 SD;;An tSúdáin
+SR;;Suranam
+SS;;Poblacht na Súdáine
+SJ;;Svalbard agus Jan Mayen
+SZ;;An tSuasalainn
+SE;;An tSualainn
+CH;;An Eilvéis
+SY;;Poblacht Arabach na Siria
+TW;;An Téaváin, Cúige na Síne
+TJ;;An Táidsíceastáin
+TZ;;An Tansáin
+TH;;An Téalainn
+TL;;Tíomór Thoir
+TG;;Tóga
+TK;;Tócalá
+TO;;Tonga
+TT;;Oileáin na Tríonóide agus Tobága
+TN;;An Túinéis
+TR;;An Tuirc
+TM;;An Tuircméanastáin
+TC;;Oileáin Turks agus Caicos
+TV;;Tuvalú
+UG;;Uganda
+UA;;An Úcráin
+AE;;Aontas na nÉimíríochtaí Arabacha
+GB;;An Ríocht Aontaithe
+US;;Na Stáit Aontaithe
+UM;;Mion-Oileáin Imeallacha S.A.M.
+UY;;Uragua
+UZ;;Úisbéiceastáin
+VU;;Vanuatú
+VE;;Veiniséala, Poblacht Bolivar
+VN;;Vítneam
+VG;;Oileáin Bhriotanacha na Maighdean
+VI;;Oileáin na Maighdean, S.A.M.
+WF;;Oileáin Vailís agus Futúna
+EH;;An Sahára Thiar
+YE;;Éimin
+ZM;;An tSaimbia
+ZW;;An tSiombáib

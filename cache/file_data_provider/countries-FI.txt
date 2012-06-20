@@ -1,249 +1,249 @@
-VA;;Pyhä istuin (Vatikaanivaltio)
-CC;;Kookossaaret
-GT;;Guatemala
-JP;;Japani
-SE;;Ruotsi
-TZ;;Tansanian yhdistynyt tasavalta
-CD;;Kongon demokraattinen tasavalta
-GU;;Guam
-MM;;Myanmar
-DZ;;Algeria
-MN;;Mongolia
-PK;;Pakistan
-SG;;Singapore
-VC;;Saint Vincent ja Grenadiinit
-CF;;Keski-Afrikan tasavalta
-GW;;Guinea-Bissau
-MO;;Macao
-PL;;Puola
-SH;;Saint Helena, Ascension ja Tristan da Cunha
-CG;;Kongo
-MP;;Pohjois-Mariaanit
-PM;;Saint-Pierre ja Miquelon
-SI;;Slovenia
-VE;;Venezuelan bolivariaanien tasavalta
-ZW;;Zimbabwe
-CH;;Sveitsi
-GY;;Guyana
-MQ;;Martinique
-PN;;Pitcairn
-SJ;;Svalbard ja Jan Mayen
-CI;;Côte dIvoireIvoire
-MR;;Mauritania
-SK;;Slovakia
-VG;;Neitsytsaaret, Brittiläiset
-MS;;Montserrat
-SL;;Sierra Leone
-CK;;Cookinsaaret
-ID;;Indonesia
-MT;;Malta
-SM;;San Marino
-VI;;Neitsytsaaret, Yhdysvaltain
-YE;;Jemen
-CL;;Chile
-IE;;Irlanti
-LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;Mauritius
-SN;;Senegal
-CM;;Kamerun
-FI;;Suomi
-LB;;Libanon
-MV;;Malediivit
-PR;;Puerto Rico
-SO;;Somalia
-CN;;Kiina
-FJ;;Fidži
-LC;;Saint Lucia
-MW;;Malawi
-PS;;Palestiinalaisalueet, miehitetty
-CO;;Kolumbia
-FK;;Falklandinsaaret
-MX;;Meksiko
-PT;;Portugali
-MY;;Malesia
-SR;;Suriname
-VN;;Vietnam
-FM;;Mikronesian liittovaltio
-MZ;;Mosambik
-CR;;Costa Rica
-PW;;Palau
-SS;;Sudan
-FO;;Färsaaret
-ST;;São Tomé ja Príncipe
-IL;;Israel
-LI;;Liechtenstein
-PY;;Paraguay
-BA;;Bosnia-Hertsegovina
-CU;;Kuuba
-IM;;Mansaari
-SV;;El Salvador
-CV;;Kap Verde
-FR;;Ranska
-IN;;Intia
-LK;;Sri Lanka
-BB;;Barbados
-CW;;Curaçao
-IO;;Brittiläinen Intian valtameren alue
-SX;;Sint Maarten (hollantilainen osa)
-VU;;Vanuatu
-CX;;Joulusaari
-RE;;Réunion
-UA;;Ukraina
-SY;;Syyrian arabitasavalta
-CY;;Kypros
-IQ;;Irak
-SZ;;Swazimaa
-BD;;Bangladesh
-CZ;;Tšekin tasavalta
-IR;;Iranin islamilainen tasavalta
-YT;;Mayotte
-BE;;Belgia
-IS;;Islanti
-BF;;Burkina Faso
-EC;;Ecuador
-IT;;Italia
-OM;;Oman
-BG;;Bulgaria
-BH;;Bahrain
-LR;;Liberia
-UG;;Uganda
-BI;;Burundi
-EE;;Viro
-LS;;Lesotho
-BJ;;Benin
-LT;;Liettua
-EG;;Egypti
-BL;;Saint Barthélemy
-EH;;Länsi-Sahara
-LU;;Luxemburg
-RO;;Romania
-BM;;Bermuda
-LV;;Latvia
-BN;;Brunei Darussalamin valtio
-UM;;Yhdysvaltain pienet erillissaaret
-BO;;Bolivia, monikansallinen valtio
-KE;;Kenia
-NA;;Namibia
-LY;;Libya
-BQ;;Bonaire, Sint Eustatius ja Saba
-BR;;Brasilia
-KG;;Kirgisia
-NC;;Uusi-Kaledonia
-RS;;Serbia
-BS;;Bahama
-HK;;Hong Kong
-KH;;Kambodža
-BT;;Bhutan
-KI;;Kiribati
-NE;;Niger
-QA;;Qatar
-RU;;Venäjän federaatio
-HM;;Heard ja McDonaldinsaaret
-NF;;Norfolkinsaari
-US;;Yhdysvallat
-BV;;Bouvet'nsaari
-ER;;Eritrea
-HN;;Honduras
-NG;;Nigeria
-RW;;Ruanda
-BW;;Botswana
-ES;;Espanja
-ET;;Etiopia
-NI;;Nicaragua
-AD;;Andorra
-BY;;Valko-Venäjä
-KM;;Komorit
-AE;;Yhdistyneet arabiemiirikunnat
-BZ;;Belize
-HR;;Kroatia
-KN;;Saint Kitts ja Nevis
-TC;;Turks- ja Caicossaaret
 AF;;Afghanistan
-NL;;Alankomaat
-TD;;Tšad
-AG;;Antigua ja Barbuda
-HT;;Haiti
-KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;Uruguay
-GA;;Gabon
-HU;;Unkari
-TF;;Ranskan eteläiset alueet
-UZ;;Uzbekistan
-AI;;Anguilla
-DE;;Saksa
-GB;;Yhdistynyt kuningaskunta
-KR;;Korean tasavalta
-TG;;Togo
-NO;;Norja
-TH;;Thaimaa
-GD;;Grenada
-NP;;Nepal
-ZA;;Etelä-Afrikka
-AL;;Albania
-GE;;Georgia
-TJ;;Tadžikistan
-WF;;Wallis ja Futuna
-AM;;Armenia
-GF;;Ranskan Guayana
-NR;;Nauru
-TK;;Tokelau
-DJ;;Djibouti
-KW;;Kuwait
-TL;;Itä-Timor
-AO;;Angola
-DK;;Tanska
-GG;;Guernsey
-TM;;Turkmenistan
-GH;;Ghana
-JE;;Jersey
-MA;;Marokko
-KY;;Caymansaaret
-NU;;Niue
-TN;;Tunisia
-DM;;Dominica
-GI;;Gibraltar
-KZ;;Kazakstan
-TO;;Tonga
-AQ;;Antarktis
-MC;;Monaco
-AR;;Argentiina
-MD;;Moldovan tasavalta
-AS;;Amerikan Samoa
-DO;;Dominikaaninen tasavalta
-ME;;Montenegro
-PA;;Panama
-TR;;Turkki
-AT;;Itävalta
-GL;;Grönlanti
-MF;;Saint-Martin (ranskalainen osa)
-NZ;;Uusi-Seelanti
-AU;;Australia
-GM;;Gambia
-GN;;Guinea
-MG;;Madagaskar
-AW;;Aruba
-MH;;Marshallinsaaret
-TT;;Trinidad ja Tobago
-ZM;;Sambia
-GP;;Guadeloupe
 AX;;Ahvenanmaa
-SA;;Saudi-Arabia
-PE;;Peru
-JM;;Jamaika
-GQ;;Päiväntasaajan Guinea
-CA;;Kanada
-WS;;Samoa
-SB;;Salomonsaaret
-PF;;Ranskan Polynesia
-TV;;Tuvalu
-PG;;Papua-Uusi-Guinea
-MK;;Makedonian tasavalta
-GR;;Kreikka
+AL;;Albania
+DZ;;Algeria
+AS;;Amerikan Samoa
+AD;;Andorra
+AO;;Angola
+AI;;Anguilla
+AQ;;Antarktis
+AG;;Antigua ja Barbuda
+AR;;Argentiina
+AM;;Armenia
+AW;;Aruba
+AU;;Australia
+AT;;Itävalta
 AZ;;Azerbaidžan
-TW;;Taiwan, Kiinan provinssi
-SC;;Seychellit
-PH;;Filippiinit
-ML;;Mali
+BS;;Bahama
+BH;;Bahrain
+BD;;Bangladesh
+BB;;Barbados
+BY;;Valko-Venäjä
+BE;;Belgia
+BZ;;Belize
+BJ;;Benin
+BM;;Bermuda
+BT;;Bhutan
+BO;;Bolivia, monikansallinen valtio
+BQ;;Bonaire, Sint Eustatius ja Saba
+BA;;Bosnia-Hertsegovina
+BW;;Botswana
+BV;;Bouvet'nsaari
+BR;;Brasilia
+IO;;Brittiläinen Intian valtameren alue
+BN;;Brunei Darussalamin valtio
+BG;;Bulgaria
+BF;;Burkina Faso
+BI;;Burundi
+KH;;Kambodža
+CM;;Kamerun
+CA;;Kanada
+CV;;Kap Verde
+KY;;Caymansaaret
+CF;;Keski-Afrikan tasavalta
+TD;;Tšad
+CL;;Chile
+CN;;Kiina
+CX;;Joulusaari
+CC;;Kookossaaret
+CO;;Kolumbia
+KM;;Komorit
+CG;;Kongo
+CD;;Kongon demokraattinen tasavalta
+CK;;Cookinsaaret
+CR;;Costa Rica
+CI;;Côte dIvoireIvoire
+HR;;Kroatia
+CU;;Kuuba
+CW;;Curaçao
+CY;;Kypros
+CZ;;Tšekin tasavalta
+DK;;Tanska
+DJ;;Djibouti
+DM;;Dominica
+DO;;Dominikaaninen tasavalta
+EC;;Ecuador
+EG;;Egypti
+SV;;El Salvador
+GQ;;Päiväntasaajan Guinea
+ER;;Eritrea
+EE;;Viro
+ET;;Etiopia
+FK;;Falklandinsaaret
+FO;;Färsaaret
+FJ;;Fidži
+FI;;Suomi
+FR;;Ranska
+GF;;Ranskan Guayana
+PF;;Ranskan Polynesia
+TF;;Ranskan eteläiset alueet
+GA;;Gabon
+GM;;Gambia
+GE;;Georgia
+DE;;Saksa
+GH;;Ghana
+GI;;Gibraltar
+GR;;Kreikka
+GL;;Grönlanti
+GD;;Grenada
+GP;;Guadeloupe
+GU;;Guam
+GT;;Guatemala
+GG;;Guernsey
+GN;;Guinea
+GW;;Guinea-Bissau
+GY;;Guyana
+HT;;Haiti
+HM;;Heard ja McDonaldinsaaret
+VA;;Pyhä istuin (Vatikaanivaltio)
+HN;;Honduras
+HK;;Hong Kong
+HU;;Unkari
+IS;;Islanti
+IN;;Intia
+ID;;Indonesia
+IR;;Iranin islamilainen tasavalta
+IQ;;Irak
+IE;;Irlanti
+IM;;Mansaari
+IL;;Israel
+IT;;Italia
+JM;;Jamaika
+JP;;Japani
+JE;;Jersey
 JO;;Jordania
+KZ;;Kazakstan
+KE;;Kenia
+KI;;Kiribati
+KP;;Korea, Democratic Peoples Republic ofs Republic of
+KR;;Korean tasavalta
+KW;;Kuwait
+KG;;Kirgisia
+LA;;Lao Peoples Democratic Republics Democratic Republic
+LV;;Latvia
+LB;;Libanon
+LS;;Lesotho
+LR;;Liberia
+LY;;Libya
+LI;;Liechtenstein
+LT;;Liettua
+LU;;Luxemburg
+MO;;Macao
+MK;;Makedonian tasavalta
+MG;;Madagaskar
+MW;;Malawi
+MY;;Malesia
+MV;;Malediivit
+ML;;Mali
+MT;;Malta
+MH;;Marshallinsaaret
+MQ;;Martinique
+MR;;Mauritania
+MU;;Mauritius
+YT;;Mayotte
+MX;;Meksiko
+FM;;Mikronesian liittovaltio
+MD;;Moldovan tasavalta
+MC;;Monaco
+MN;;Mongolia
+ME;;Montenegro
+MS;;Montserrat
+MA;;Marokko
+MZ;;Mosambik
+MM;;Myanmar
+NA;;Namibia
+NR;;Nauru
+NP;;Nepal
+NL;;Alankomaat
+NC;;Uusi-Kaledonia
+NZ;;Uusi-Seelanti
+NI;;Nicaragua
+NE;;Niger
+NG;;Nigeria
+NU;;Niue
+NF;;Norfolkinsaari
+MP;;Pohjois-Mariaanit
+NO;;Norja
+OM;;Oman
+PK;;Pakistan
+PW;;Palau
+PS;;Palestiinalaisalueet, miehitetty
+PA;;Panama
+PG;;Papua-Uusi-Guinea
+PY;;Paraguay
+PE;;Peru
+PH;;Filippiinit
+PN;;Pitcairn
+PL;;Puola
+PT;;Portugali
+PR;;Puerto Rico
+QA;;Qatar
+RE;;Réunion
+RO;;Romania
+RU;;Venäjän federaatio
+RW;;Ruanda
+BL;;Saint Barthélemy
+SH;;Saint Helena, Ascension ja Tristan da Cunha
+KN;;Saint Kitts ja Nevis
+LC;;Saint Lucia
+MF;;Saint-Martin (ranskalainen osa)
+PM;;Saint-Pierre ja Miquelon
+VC;;Saint Vincent ja Grenadiinit
+WS;;Samoa
+SM;;San Marino
+ST;;São Tomé ja Príncipe
+SA;;Saudi-Arabia
+SN;;Senegal
+RS;;Serbia
+SC;;Seychellit
+SL;;Sierra Leone
+SG;;Singapore
+SX;;Sint Maarten (hollantilainen osa)
+SK;;Slovakia
+SI;;Slovenia
+SB;;Salomonsaaret
+SO;;Somalia
+ZA;;Etelä-Afrikka
 GS;;Etelä-Georgia ja Eteläiset Sandwichinsaaret
+ES;;Espanja
+LK;;Sri Lanka
 SD;;Sudan
+SR;;Suriname
+SS;;Etelä-Sudan
+SJ;;Svalbard ja Jan Mayen
+SZ;;Swazimaa
+SE;;Ruotsi
+CH;;Sveitsi
+SY;;Syyrian arabitasavalta
+TW;;Taiwan, Kiinan provinssi
+TJ;;Tadžikistan
+TZ;;Tansanian yhdistynyt tasavalta
+TH;;Thaimaa
+TL;;Itä-Timor
+TG;;Togo
+TK;;Tokelau
+TO;;Tonga
+TT;;Trinidad ja Tobago
+TN;;Tunisia
+TR;;Turkki
+TM;;Turkmenistan
+TC;;Turks- ja Caicossaaret
+TV;;Tuvalu
+UG;;Uganda
+UA;;Ukraina
+AE;;Yhdistyneet arabiemiirikunnat
+GB;;Yhdistynyt kuningaskunta
+US;;Yhdysvallat
+UM;;Yhdysvaltain pienet erillissaaret
+UY;;Uruguay
+UZ;;Uzbekistan
+VU;;Vanuatu
+VE;;Venezuelan bolivariaanien tasavalta
+VN;;Vietnam
+VG;;Neitsytsaaret, Brittiläiset
+VI;;Neitsytsaaret, Yhdysvaltain
+WF;;Wallis ja Futuna
+EH;;Länsi-Sahara
+YE;;Jemen
+ZM;;Sambia
+ZW;;Zimbabwe

@@ -1,249 +1,249 @@
-VA;;Holy See (Vatican City State)
-CC;;Cocos (Keeling) Islands
-GT;;I-Guwathemala
-JP;;I-Japhani
-SE;;Isi-Swideni
-TZ;;Ulawulo lokuziphatha kwe Dominikhani
-CD;;Congo, The Democratic Republic of the
-GU;;I-Guwathemala
-MM;;I-Panama
-DZ;;I-Buligariya
-MN;;Mongolia
-PK;;Pakistan
-SG;;Singapore
-VC;;I-St. Vincent ne Grenadines
-CF;;Ulawulo lokuziphatha kwe Dominikhani
-GW;;Guinea-Bissau
-MO;;I-Malta
-PL;;I-Polandi
-SH;;Saint Helena, Ascension and Tristan da Cunha
-CG;;Congo
-MP;;Northern Mariana Islands
-PM;;Saint Pierre and Miquelon
-SI;;Isi-Sloveniya
-VE;;Ulawulo lokuziphatha kwe Dominikhani
-ZW;;Zimbabwe
-CH;;I-Switzerland
-GY;;Guyana
-MQ;;Martinique
-PN;;Pitcairn
-SJ;;Svalbard and Jan Mayen
-CI;;Côte dIvoireIvoire
-MR;;I-Lithuwaniya
-SK;;Isi-Slovaki
-VG;;Virgin Islands, British
-MS;;Montserrat
-SL;;Sierra Leone
-CK;;Cook Islands
-ID;;I-Indoneshiya
-MT;;I-Malta
-SM;;San Marino
-VI;;I-Finilandi
-YE;;Yemen
-CL;;I-Chile
-IE;;I-Irelandi
-LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;I-Lithuwaniya
-SN;;Senegal
-CM;;Cameroon
-FI;;I-Finilandi
-LB;;Lebanon
-MV;;I-Malta
-PR;;Puerto Rico
-SO;;I-Romaniya
-CN;;Isi-Shayina
-FJ;;Fiji
-LC;;St. Lucia
-MW;;I-Malta
-PS;;Palestinian Territory, Occupied
-CO;;I Kholombiya
-FK;;Falkland Islands (Malvinas)
-MX;;I-Mexico
-PT;;I-Phothugali
-MY;;I-Malta
-SR;;Suriname
-VN;;I-Vietnami
-FM;;Micronesia, Federated States of
-MZ;;Mozambique
-CR;;Costa Rica
-PW;;I-Paraguwayi
-SS;;I-Mzantsi Afrika
-FO;;I-Irelandi
-ST;;Sao Tome and Principe
-IL;;I-Sirayeli
-LI;;Liechtenstein
-PY;;I-Paraguwayi
-BA;;Bosnia and Herzegovina
-CU;;I Kholombiya
-IM;;Isle of Man
-SV;;I-El Salvador
-CV;;Cape Verde
-FR;;Isi Frentshi
-IN;;I-Indoneshiya
-LK;;Sri Lanka
-BB;;I-Barbados
-CW;;Curaçao
-IO;;British Indian Ocean Territory
-SX;;Sint Maarten (Dutch part)
-VU;;Vanuatu
-CX;;Christmas Island
-RE;;Reunion
-UA;;I-Ukraine
-SY;;Ulawulo lokuziphatha kwe Dominikhani
-CY;;Cyprus
-IQ;;I-Sirayeli
-SZ;;I-Thayilandi
-BD;;Isi-Bhangladeshi
-CZ;;Ulawulo lokuziphatha kwe Dominikhani
-IR;;Ulawulo lokuziphatha kwe Dominikhani
-YT;;Mayotte
-BE;;Isi-Bhelijiyamu
-IS;;I-Icelandi
-BF;;Burkina Faso
-EC;;Equador
-IT;;I-Ithali
-OM;;Oman
-BG;;I-Buligariya
-BH;;I Brazili
-LR;;I-Serbiya
-UG;;I Khanada
-BI;;Burundi
-EE;;I-Estoniya
-LS;;Lesotho
-BJ;;Benin
-LT;;I-Lithuwaniya
-EG;;Amandla
-BL;;Saint Barthélemy
-EH;;Western Sahara
-LU;;I-Luxembourg
-RO;;I-Romaniya
-BM;;Bermuda
-LV;;I-Latviya
-BN;;Brunei Darussalam
-UM;;United States ye Melika
-BO;;Bolivia, Plurinational State of
-KE;;Kenya
-NA;;Namibia
-LY;;I-Serbiya
-BQ;;Bonaire, Sint Eustatius and Saba
-BR;;I Brazili
-KG;;Kyrgyzstan
-NC;;I-Makhedoniya
-RS;;I-Serbiya
-BS;;I-Panama
-HK;;Hong Kong
-KH;;I Kholombiya
-BT;;Bhutan
-KI;;Kiribati
-NE;;Niger
-QA;;I-Malta
-RU;;Russian Federation
-HM;;Heard Island and McDonald Islands
-NF;;Norfolk Island
-US;;United States ye Melika
-BV;;Bouvet Island
-ER;;Eritrea
-HN;;I-Hondurasi
-NG;;I-Serbiya
-RW;;I Khanada
-BW;;Botswana
-ES;;Isi-Spayini
-ET;;I-Estoniya
-NI;;I-Paraguwayi
-AD;;Andorra
-BY;;I Bhelarusi
-KM;;Comoros
-AE;;United Arab Emirates
-BZ;;Isi-Bhelijiyamu
-HR;;I-Crowathiya
-KN;;St. Kitts no Nevis
-TC;;Turks and Caicos Islands
 AF;;Afghanistan
-NL;;I-Netherlands
-TD;;Isi-Shayina
-AG;;Antigua no Barbuda
-HT;;Haiti
-KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;I-Uruguwayi
-GA;;Gabon
-HU;;I-Hungariya
-TF;;French Southern Territories
-UZ;;Uzbekistan
-AI;;Anguilla
-DE;;Isi-Jalimani
-GB;;United Kingdom
-KR;;Ulawulo lokuziphatha kwe Dominikhani
-TG;;Togo
-NO;;I-Noweyi
-TH;;I-Thayilandi
-GD;;I-Grenada
-NP;;Nepal
-ZA;;I-Mzantsi Afrika
-AL;;Albania
-GE;;I-Serbiya
-TJ;;I-Tayiwani
-WF;;Wallis and Futuna
-AM;;I-Argentina
-GF;;French Guiana
-NR;;Nauru
-TK;;Tokelau
-DJ;;Djibouti
-KW;;Kuwait
-TL;;Timor-Leste
-AO;;Angola
-DK;;Isi-Denimaki
-GG;;Guernsey
-TM;;Turkmenistan
-GH;;Isi-Shayina
-JE;;Jersey
-MA;;Morocco
-KY;;Cayman Islands
-NU;;Niue
-TN;;Isi-Rashiya
-DM;;I-Romaniya
-GI;;Gibraltar
-KZ;;I-Tayiwani
-TO;;Tonga
-AQ;;Antarctica
-MC;;Monaco
-AR;;I-Argentina
-MD;;Ulawulo lokuziphatha kwe Dominikhani
-AS;;Melika, Mntla
-DO;;Ulawulo lokuziphatha kwe Dominikhani
-ME;;Montenegro
-PA;;I-Panama
-TR;;I-Turkey
-AT;;I-Austriyiya
-GL;;I-Grenada
-MF;;Saint Martin (French part)
-NZ;;I-New Zealand
-AU;;I-Australiya
-GM;;I Jamayikha
-GN;;Guinea
-MG;;Madagascar
-AW;;Aruba
-MH;;Marshall Islands
-TT;;I-Trinidad ne Tobago
-ZM;;I Jamayikha
-GP;;Guadeloupe
 AX;;I-Irelandi
-SA;;Saudi Arabia
-PE;;I-Peru
-JM;;I Jamayikha
-GQ;;Equatorial Guinea
-CA;;I Khanada
-WS;;Samoa
-SB;;Solomon Islands
-PF;;French Polynesia
-TV;;Tuvalu
-PG;;Papua New Guinea
-MK;;Ulawulo lokuziphatha kwe Dominikhani
-GR;;I-Grisi
+AL;;Albania
+DZ;;I-Buligariya
+AS;;Melika, Mntla
+AD;;Andorra
+AO;;Angola
+AI;;Anguilla
+AQ;;Antarctica
+AG;;Antigua no Barbuda
+AR;;I-Argentina
+AM;;I-Argentina
+AW;;Aruba
+AU;;I-Australiya
+AT;;I-Austriyiya
 AZ;;I-Azerbayijani
-TW;;Taiwan, Province of China
-SC;;Seychelles
-PH;;Philippines
-ML;;I-Malta
+BS;;I-Panama
+BH;;I Brazili
+BD;;Isi-Bhangladeshi
+BB;;I-Barbados
+BY;;I Bhelarusi
+BE;;Isi-Bhelijiyamu
+BZ;;Isi-Bhelijiyamu
+BJ;;Benin
+BM;;Bermuda
+BT;;Bhutan
+BO;;Bolivia, Plurinational State of
+BQ;;Bonaire, Sint Eustatius and Saba
+BA;;Bosnia and Herzegovina
+BW;;Botswana
+BV;;Bouvet Island
+BR;;I Brazili
+IO;;British Indian Ocean Territory
+BN;;Brunei Darussalam
+BG;;I-Buligariya
+BF;;Burkina Faso
+BI;;Burundi
+KH;;I Kholombiya
+CM;;Cameroon
+CA;;I Khanada
+CV;;Cape Verde
+KY;;Cayman Islands
+CF;;Ulawulo lokuziphatha kwe Dominikhani
+TD;;Isi-Shayina
+CL;;I-Chile
+CN;;Isi-Shayina
+CX;;Christmas Island
+CC;;Cocos (Keeling) Islands
+CO;;I Kholombiya
+KM;;Comoros
+CG;;Congo
+CD;;Congo, The Democratic Republic of the
+CK;;Cook Islands
+CR;;Costa Rica
+CI;;Côte dIvoireIvoire
+HR;;I-Crowathiya
+CU;;I Kholombiya
+CW;;Curaçao
+CY;;Cyprus
+CZ;;Ulawulo lokuziphatha kwe Dominikhani
+DK;;Isi-Denimaki
+DJ;;Djibouti
+DM;;I-Romaniya
+DO;;Ulawulo lokuziphatha kwe Dominikhani
+EC;;Equador
+EG;;Amandla
+SV;;I-El Salvador
+GQ;;Equatorial Guinea
+ER;;Eritrea
+EE;;I-Estoniya
+ET;;I-Estoniya
+FK;;Falkland Islands (Malvinas)
+FO;;I-Irelandi
+FJ;;Fiji
+FI;;I-Finilandi
+FR;;Isi Frentshi
+GF;;French Guiana
+PF;;French Polynesia
+TF;;French Southern Territories
+GA;;Gabon
+GM;;I Jamayikha
+GE;;I-Serbiya
+DE;;Isi-Jalimani
+GH;;Isi-Shayina
+GI;;Gibraltar
+GR;;I-Grisi
+GL;;I-Grenada
+GD;;I-Grenada
+GP;;Guadeloupe
+GU;;I-Guwathemala
+GT;;I-Guwathemala
+GG;;Guernsey
+GN;;Guinea
+GW;;Guinea-Bissau
+GY;;Guyana
+HT;;Haiti
+HM;;Heard Island and McDonald Islands
+VA;;Holy See (Vatican City State)
+HN;;I-Hondurasi
+HK;;Hong Kong
+HU;;I-Hungariya
+IS;;I-Icelandi
+IN;;I-Indoneshiya
+ID;;I-Indoneshiya
+IR;;Ulawulo lokuziphatha kwe Dominikhani
+IQ;;I-Sirayeli
+IE;;I-Irelandi
+IM;;Isle of Man
+IL;;I-Sirayeli
+IT;;I-Ithali
+JM;;I Jamayikha
+JP;;I-Japhani
+JE;;Jersey
 JO;;Isi-Koreyani
+KZ;;I-Tayiwani
+KE;;Kenya
+KI;;Kiribati
+KP;;Korea, Democratic Peoples Republic ofs Republic of
+KR;;Ulawulo lokuziphatha kwe Dominikhani
+KW;;Kuwait
+KG;;Kyrgyzstan
+LA;;Lao Peoples Democratic Republics Democratic Republic
+LV;;I-Latviya
+LB;;Lebanon
+LS;;Lesotho
+LR;;I-Serbiya
+LY;;I-Serbiya
+LI;;Liechtenstein
+LT;;I-Lithuwaniya
+LU;;I-Luxembourg
+MO;;I-Malta
+MK;;Ulawulo lokuziphatha kwe Dominikhani
+MG;;Madagascar
+MW;;I-Malta
+MY;;I-Malta
+MV;;I-Malta
+ML;;I-Malta
+MT;;I-Malta
+MH;;Marshall Islands
+MQ;;Martinique
+MR;;I-Lithuwaniya
+MU;;I-Lithuwaniya
+YT;;Mayotte
+MX;;I-Mexico
+FM;;Micronesia, Federated States of
+MD;;Ulawulo lokuziphatha kwe Dominikhani
+MC;;Monaco
+MN;;Mongolia
+ME;;Montenegro
+MS;;Montserrat
+MA;;Morocco
+MZ;;Mozambique
+MM;;I-Panama
+NA;;Namibia
+NR;;Nauru
+NP;;Nepal
+NL;;I-Netherlands
+NC;;I-Makhedoniya
+NZ;;I-New Zealand
+NI;;I-Paraguwayi
+NE;;Niger
+NG;;I-Serbiya
+NU;;Niue
+NF;;Norfolk Island
+MP;;Northern Mariana Islands
+NO;;I-Noweyi
+OM;;Oman
+PK;;Pakistan
+PW;;I-Paraguwayi
+PS;;Palestinian Territory, Occupied
+PA;;I-Panama
+PG;;Papua New Guinea
+PY;;I-Paraguwayi
+PE;;I-Peru
+PH;;Philippines
+PN;;Pitcairn
+PL;;I-Polandi
+PT;;I-Phothugali
+PR;;Puerto Rico
+QA;;I-Malta
+RE;;Réunion
+RO;;I-Romaniya
+RU;;Russian Federation
+RW;;I Khanada
+BL;;Saint Barthélemy
+SH;;Saint Helena, Ascension and Tristan da Cunha
+KN;;St. Kitts no Nevis
+LC;;St. Lucia
+MF;;Saint Martin (French part)
+PM;;Saint Pierre and Miquelon
+VC;;I-St. Vincent ne Grenadines
+WS;;Samoa
+SM;;San Marino
+ST;;Sao Tome and Principe
+SA;;Saudi Arabia
+SN;;Senegal
+RS;;I-Serbiya
+SC;;Seychelles
+SL;;Sierra Leone
+SG;;Singapore
+SX;;Sint Maarten (Dutch part)
+SK;;Isi-Slovaki
+SI;;Isi-Sloveniya
+SB;;Solomon Islands
+SO;;I-Romaniya
+ZA;;I-Mzantsi Afrika
 GS;;South Georgia and the South Sandwich Islands
+ES;;Isi-Spayini
+LK;;Sri Lanka
 SD;;Umsindo
+SR;;Suriname
+SS;;I-Mzantsi Afrika
+SJ;;Svalbard and Jan Mayen
+SZ;;I-Thayilandi
+SE;;Isi-Swideni
+CH;;I-Switzerland
+SY;;Ulawulo lokuziphatha kwe Dominikhani
+TW;;Taiwan, Province of China
+TJ;;I-Tayiwani
+TZ;;Ulawulo lokuziphatha kwe Dominikhani
+TH;;I-Thayilandi
+TL;;Timor-Leste
+TG;;Togo
+TK;;Tokelau
+TO;;Tonga
+TT;;I-Trinidad ne Tobago
+TN;;Isi-Rashiya
+TR;;I-Turkey
+TM;;Turkmenistan
+TC;;Turks and Caicos Islands
+TV;;Tuvalu
+UG;;I Khanada
+UA;;I-Ukraine
+AE;;United Arab Emirates
+GB;;United Kingdom
+US;;United States ye Melika
+UM;;United States ye Melika
+UY;;I-Uruguwayi
+UZ;;Uzbekistan
+VU;;Vanuatu
+VE;;Ulawulo lokuziphatha kwe Dominikhani
+VN;;I-Vietnami
+VG;;Virgin Islands, British
+VI;;I-Finilandi
+WF;;Wallis and Futuna
+EH;;Western Sahara
+YE;;Yemen
+ZM;;I Jamayikha
+ZW;;Zimbabwe

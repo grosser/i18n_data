@@ -1,249 +1,249 @@
-VA;;Holy See (Vatican City State)
-CC;;Cocos (Keeling) Islands
-GT;;Guatemala
-JP;;ጃፓን
-SE;;ስዊድን
-TZ;;Tanzania, United Republic of
-CD;;Congo, The Democratic Republic of the
-GU;;Guam
-MM;;Myanmar
-DZ;;አልጄሪያ
-MN;;ሞንጎሊያ
-PK;;Pakistan
-SG;;ሲንጋፖር
-VC;;Saint Vincent and the Grenadines
-CF;;የመካከለኛው አፍሪካ ሪፐብሊክ
-GW;;ቢሳዎ
-MO;;Macao
-PL;;ፖላንድ
-SH;;Saint Helena, Ascension and Tristan da Cunha
-CG;;Congo
-MP;;Northern Mariana Islands
-PM;;Saint Pierre and Miquelon
-SI;;ስሎቬኒያ
-VE;;ዶሚኒክ ሪፑብሊክ
-ZW;;Zimbabwe
-CH;;ስዊዘርላንድ
-GY;;ጉያና
-MQ;;Martinique
-PN;;Pitcairn
-SJ;;Svalbard and Jan Mayen
-CI;;Côte dIvoireIvoire
-MR;;ሞሪቴኒያ
-SK;;ስሎቫኪያ
-VG;;Virgin Islands, British
-MS;;Montserrat
-SL;;Sierra Leone
-CK;;Cook Islands
-ID;;ኢንዶኔዢያ
-MT;;ማልታ
-SM;;San Marino
-VI;;Virgin Islands, U.S.
-YE;;የመን
-CL;;ቺሊ
-IE;;አየርላንድ
-LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;ማሩሸስ
-SN;;ሴኔጋል
-CM;;ካሜሩን
-FI;;ፊንላንድ
-LB;;ሊባኖስ
-MV;;Maldives
-PR;;ፖርታ ሪኮ
-SO;;ሱማሌ
-CN;;ቻይና
-FJ;;ፊጂ
-LC;;Saint Lucia
-MW;;Malawi
-PS;;Palestinian Territory, Occupied
-CO;;ኮሎምቢያ
-FK;;Falkland Islands (Malvinas)
-MX;;ሜክሲኮ
-PT;;Portugal
-MY;;ማሌዢያ
-SR;;Suriname
-VN;;Viet Nam
-FM;;Micronesia, Federated States of
-MZ;;Mozambique
-CR;;Costa Rica
-PW;;Palau
-SS;;ዶሚኒክ ሪፑብሊክ
-FO;;Faroe Islands
-ST;;Sao Tome and Principe
-IL;;እስራኤል
-LI;;Liechtenstein
-PY;;Paraguay
-BA;;ቦስኒያ እና ሄርዞጎቪኒያ
-CU;;Cuba
-IM;;Isle of Man
-SV;;El Salvador
-CV;;ኬፕ ቬርዴ
-FR;;France
-IN;;ህንድ
-LK;;Sri Lanka
-BB;;ባርቤዶስ
-CW;;Curaçao
-IO;;British Indian Ocean Territory
-SX;;Sint Maarten (Dutch part)
-VU;;Vanuatu
-CX;;Christmas Island
-RE;;Reunion
-UA;;Ukraine
-SY;;Syrian Arab Republic
-CY;;ሳይፕረስ
-IQ;;ኢራቅ
-SZ;;Swaziland
-BD;;Bangladesh
-CZ;;ቼክ ሪፑብሊክ
-IR;;Iran, Islamic Republic of
-YT;;Mayotte
-BE;;ቤልጄም
-IS;;አይስላንድ
-BF;;Burkina Faso
-EC;;ኢኳዶር
-IT;;ጣሊያን
-OM;;Oman
-BG;;ቡልጌሪያ
-BH;;ባህሬን
-LR;;Liberia
-UG;;ዩጋንዳ
-BI;;Burundi
-EE;;ኤስቶኒያ
-LS;;Lesotho
-BJ;;Benin
-LT;;ሊቱዌኒያ
-EG;;ግብጽ
-BL;;Saint Barthélemy
-EH;;ምዕራባዊ ሳህራ
-LU;;Luxembourg
-RO;;ሮሜኒያ
-BM;;ቤርሙዳ
-LV;;ላትቪያ
-BN;;Brunei Darussalam
-UM;;United States Minor Outlying Islands
-BO;;Bolivia, Plurinational State of
-KE;;Kenya
-NA;;ናሚቢያ
-LY;;Libya
-BQ;;Bonaire, Sint Eustatius and Saba
-BR;;ብራዚል
-KG;;Kyrgyzstan
-NC;;ኒው ካሌዶኒያ
-RS;;አዘርባጃን
-BS;;Bahamas
-HK;;Hong Kong
-KH;;ካምቦዲያ
-BT;;ቡህታን
-KI;;Kiribati
-NE;;Niger
-QA;;Qatar
-RU;;Russian Federation
-HM;;Heard Island and McDonald Islands
-NF;;Norfolk Island
-US;;አሜሪካ
-BV;;Bouvet Island
-ER;;ኤርትራ
-HN;;Honduras
-NG;;ናይጄሪያ
-RW;;Rwanda
-BW;;Botswana
-ES;;ስፔን
-ET;;ኢትዮጵያ
-NI;;Nicaragua
-AD;;አንዶራ
-BY;;ቤላሩስ
-KM;;ኮሞሮስ
-AE;;የተባበሩት አረብ ኤምሬትስ
-BZ;;ቤሊዘ
-HR;;ክሮኤሽያ
-KN;;Saint Kitts and Nevis
-TC;;Turks and Caicos Islands
 AF;;Afghanistan
-NL;;ኔዘርላንድ
-TD;;ቻድ
-AG;;Antigua and Barbuda
-HT;;ሀይቲ
-KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;Uruguay
-GA;;Gabon
-HU;;ሀንጋሪ
-TF;;የፈረንሳይ ደቡባዊ ግዛቶች
-UZ;;ዩዝበኪስታን
-AI;;Anguilla
-DE;;ጀርመን
-GB;;እንግሊዝ
-KR;;Korea, Republic of
-TG;;Togo
-NO;;ኖርዌ
-TH;;ታይላንድ
-GD;;Grenada
-NP;;ኔፓል
-ZA;;ደቡብ አፍሪካ
-AL;;አልባኒያ
-GE;;ጆርጂያ
-TJ;;ታጃኪስታን
-WF;;Wallis and Futuna
-AM;;አርሜኒያ
-GF;;የፈረንሳይ ጉዊአና
-NR;;Nauru
-TK;;Tokelau
-DJ;;Djibouti
-KW;;ክዌት
-TL;;ምስራቅ ቲሞር
-AO;;Angola
-DK;;ዴንማርክ
-GG;;Guernsey
-TM;;Turkmenistan
-GH;;Ghana
-JE;;Jersey
-MA;;ሞሮኮ
-KY;;Cayman Islands
-NU;;Niue
-TN;;ቱኒዚያ
-DM;;ዶሚኒካ
-GI;;Gibraltar
-KZ;;Kazakhstan
-TO;;Tonga
-AQ;;Antarctica
-MC;;Monaco
-AR;;አርጀንቲና
-MD;;ዶሚኒክ ሪፑብሊክ
-AS;;American Samoa
-DO;;ዶሚኒክ ሪፑብሊክ
-ME;;Montenegro
-PA;;Panama
-TR;;ቱርክ
-AT;;ኦስትሪያ
-GL;;Greenland
-MF;;Saint Martin (French part)
-NZ;;ኒው ዚላንድ
-AU;;አውስትሬሊያ
-GM;;ጋምቢያ
-GN;;ጊኒ
-MG;;Madagascar
-AW;;Aruba
-MH;;Marshall Islands
-TT;;ትሪኒዳድ እና ቶባጎ
-ZM;;ዛምቢያ
-GP;;Guadeloupe
 AX;;Åland Islands
-SA;;ሳውድአረቢያ
-PE;;ፔሩ
-JM;;ጃማይካ
-GQ;;ኢኳቶሪያል ጊኒ
-CA;;Canada
-WS;;Samoa
-SB;;Solomon Islands
-PF;;የፈረንሳይ ፖሊኔዢያ
-TV;;Tuvalu
-PG;;ፓፑዋ ኒው ጊኒ
-MK;;ዶሚኒክ ሪፑብሊክ
-GR;;ግሪክ
+AL;;አልባኒያ
+DZ;;አልጄሪያ
+AS;;American Samoa
+AD;;አንዶራ
+AO;;Angola
+AI;;Anguilla
+AQ;;Antarctica
+AG;;Antigua and Barbuda
+AR;;አርጀንቲና
+AM;;አርሜኒያ
+AW;;Aruba
+AU;;አውስትሬሊያ
+AT;;ኦስትሪያ
 AZ;;አዘርባጃን
-TW;;Taiwan, Province of China
-SC;;Seychelles
-PH;;Philippines
-ML;;Mali
+BS;;Bahamas
+BH;;ባህሬን
+BD;;Bangladesh
+BB;;ባርቤዶስ
+BY;;ቤላሩስ
+BE;;ቤልጄም
+BZ;;ቤሊዘ
+BJ;;Benin
+BM;;ቤርሙዳ
+BT;;ቡህታን
+BO;;Bolivia, Plurinational State of
+BQ;;Bonaire, Sint Eustatius and Saba
+BA;;ቦስኒያ እና ሄርዞጎቪኒያ
+BW;;Botswana
+BV;;Bouvet Island
+BR;;ብራዚል
+IO;;British Indian Ocean Territory
+BN;;Brunei Darussalam
+BG;;ቡልጌሪያ
+BF;;Burkina Faso
+BI;;Burundi
+KH;;ካምቦዲያ
+CM;;ካሜሩን
+CA;;Canada
+CV;;ኬፕ ቬርዴ
+KY;;Cayman Islands
+CF;;የመካከለኛው አፍሪካ ሪፐብሊክ
+TD;;ቻድ
+CL;;ቺሊ
+CN;;ቻይና
+CX;;Christmas Island
+CC;;Cocos (Keeling) Islands
+CO;;ኮሎምቢያ
+KM;;ኮሞሮስ
+CG;;Congo
+CD;;Congo, The Democratic Republic of the
+CK;;Cook Islands
+CR;;Costa Rica
+CI;;Côte dIvoireIvoire
+HR;;ክሮኤሽያ
+CU;;Cuba
+CW;;Curaçao
+CY;;ሳይፕረስ
+CZ;;ቼክ ሪፑብሊክ
+DK;;ዴንማርክ
+DJ;;Djibouti
+DM;;ዶሚኒካ
+DO;;ዶሚኒክ ሪፑብሊክ
+EC;;ኢኳዶር
+EG;;ግብጽ
+SV;;El Salvador
+GQ;;ኢኳቶሪያል ጊኒ
+ER;;ኤርትራ
+EE;;ኤስቶኒያ
+ET;;ኢትዮጵያ
+FK;;Falkland Islands (Malvinas)
+FO;;Faroe Islands
+FJ;;ፊጂ
+FI;;ፊንላንድ
+FR;;France
+GF;;የፈረንሳይ ጉዊአና
+PF;;የፈረንሳይ ፖሊኔዢያ
+TF;;የፈረንሳይ ደቡባዊ ግዛቶች
+GA;;Gabon
+GM;;ጋምቢያ
+GE;;ጆርጂያ
+DE;;ጀርመን
+GH;;Ghana
+GI;;Gibraltar
+GR;;ግሪክ
+GL;;Greenland
+GD;;Grenada
+GP;;Guadeloupe
+GU;;Guam
+GT;;Guatemala
+GG;;Guernsey
+GN;;ጊኒ
+GW;;ቢሳዎ
+GY;;ጉያና
+HT;;ሀይቲ
+HM;;Heard Island and McDonald Islands
+VA;;Holy See (Vatican City State)
+HN;;Honduras
+HK;;Hong Kong
+HU;;ሀንጋሪ
+IS;;አይስላንድ
+IN;;ህንድ
+ID;;ኢንዶኔዢያ
+IR;;Iran, Islamic Republic of
+IQ;;ኢራቅ
+IE;;አየርላንድ
+IM;;Isle of Man
+IL;;እስራኤል
+IT;;ጣሊያን
+JM;;ጃማይካ
+JP;;ጃፓን
+JE;;Jersey
 JO;;ጆርዳን
+KZ;;Kazakhstan
+KE;;Kenya
+KI;;Kiribati
+KP;;Korea, Democratic Peoples Republic ofs Republic of
+KR;;Korea, Republic of
+KW;;ክዌት
+KG;;Kyrgyzstan
+LA;;Lao Peoples Democratic Republics Democratic Republic
+LV;;ላትቪያ
+LB;;ሊባኖስ
+LS;;Lesotho
+LR;;Liberia
+LY;;Libya
+LI;;Liechtenstein
+LT;;ሊቱዌኒያ
+LU;;Luxembourg
+MO;;Macao
+MK;;ዶሚኒክ ሪፑብሊክ
+MG;;Madagascar
+MW;;Malawi
+MY;;ማሌዢያ
+MV;;Maldives
+ML;;Mali
+MT;;ማልታ
+MH;;Marshall Islands
+MQ;;Martinique
+MR;;ሞሪቴኒያ
+MU;;ማሩሸስ
+YT;;Mayotte
+MX;;ሜክሲኮ
+FM;;Micronesia, Federated States of
+MD;;ዶሚኒክ ሪፑብሊክ
+MC;;Monaco
+MN;;ሞንጎሊያ
+ME;;Montenegro
+MS;;Montserrat
+MA;;ሞሮኮ
+MZ;;Mozambique
+MM;;Myanmar
+NA;;ናሚቢያ
+NR;;Nauru
+NP;;ኔፓል
+NL;;ኔዘርላንድ
+NC;;ኒው ካሌዶኒያ
+NZ;;ኒው ዚላንድ
+NI;;Nicaragua
+NE;;Niger
+NG;;ናይጄሪያ
+NU;;Niue
+NF;;Norfolk Island
+MP;;Northern Mariana Islands
+NO;;ኖርዌ
+OM;;Oman
+PK;;Pakistan
+PW;;Palau
+PS;;Palestinian Territory, Occupied
+PA;;Panama
+PG;;ፓፑዋ ኒው ጊኒ
+PY;;Paraguay
+PE;;ፔሩ
+PH;;Philippines
+PN;;Pitcairn
+PL;;ፖላንድ
+PT;;Portugal
+PR;;ፖርታ ሪኮ
+QA;;Qatar
+RE;;Réunion
+RO;;ሮሜኒያ
+RU;;Russian Federation
+RW;;Rwanda
+BL;;Saint Barthélemy
+SH;;Saint Helena, Ascension and Tristan da Cunha
+KN;;Saint Kitts and Nevis
+LC;;Saint Lucia
+MF;;Saint Martin (French part)
+PM;;Saint Pierre and Miquelon
+VC;;Saint Vincent and the Grenadines
+WS;;Samoa
+SM;;San Marino
+ST;;Sao Tome and Principe
+SA;;ሳውድአረቢያ
+SN;;ሴኔጋል
+RS;;አዘርባጃን
+SC;;Seychelles
+SL;;Sierra Leone
+SG;;ሲንጋፖር
+SX;;Sint Maarten (Dutch part)
+SK;;ስሎቫኪያ
+SI;;ስሎቬኒያ
+SB;;Solomon Islands
+SO;;ሱማሌ
+ZA;;ደቡብ አፍሪካ
 GS;;South Georgia and the South Sandwich Islands
+ES;;ስፔን
+LK;;Sri Lanka
 SD;;ሱዳን
+SR;;Suriname
+SS;;ዶሚኒክ ሪፑብሊክ
+SJ;;Svalbard and Jan Mayen
+SZ;;Swaziland
+SE;;ስዊድን
+CH;;ስዊዘርላንድ
+SY;;Syrian Arab Republic
+TW;;Taiwan, Province of China
+TJ;;ታጃኪስታን
+TZ;;Tanzania, United Republic of
+TH;;ታይላንድ
+TL;;ምስራቅ ቲሞር
+TG;;Togo
+TK;;Tokelau
+TO;;Tonga
+TT;;ትሪኒዳድ እና ቶባጎ
+TN;;ቱኒዚያ
+TR;;ቱርክ
+TM;;Turkmenistan
+TC;;Turks and Caicos Islands
+TV;;Tuvalu
+UG;;ዩጋንዳ
+UA;;Ukraine
+AE;;የተባበሩት አረብ ኤምሬትስ
+GB;;እንግሊዝ
+US;;አሜሪካ
+UM;;United States Minor Outlying Islands
+UY;;Uruguay
+UZ;;ዩዝበኪስታን
+VU;;Vanuatu
+VE;;ዶሚኒክ ሪፑብሊክ
+VN;;Viet Nam
+VG;;Virgin Islands, British
+VI;;Virgin Islands, U.S.
+WF;;Wallis and Futuna
+EH;;ምዕራባዊ ሳህራ
+YE;;የመን
+ZM;;ዛምቢያ
+ZW;;Zimbabwe

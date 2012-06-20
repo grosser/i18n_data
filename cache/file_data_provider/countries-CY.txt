@@ -1,249 +1,249 @@
-VA;;Yr Esgobaeth Sanctaidd (Talaith Dinas y Fatican)
-CC;;Ynysoedd Cocos (Keeling)
-GT;;Gwatemala
-JP;;Japan
-SE;;Sweden
-TZ;;Tanzania, Gweriniaeth Unedig
-CD;;Congo, Gweriniath Democrataidd y
-GU;;Guam
-MM;;Myanmar
-DZ;;Algeria
-MN;;Mongolia
-PK;;Pacistan
-SG;;Singapore
-VC;;Saint Vincent a'r Grenadines
-CF;;Gweriniaeth Canol Affrica
-GW;;Guinea-Bissau
-MO;;Macao
-PL;;Gwlad Pwyl
-SH;;Saint Helena, Ascension and Tristan da Cunha
-CG;;Congo
-MP;;Ynysoedd Northern Mariana
-PM;;Saint Pierre a Miquelon
-SI;;Slofenia
-VE;;Gweriniaeth Bolifiaidd Venezuela
-ZW;;Zimbabwe
-CH;;Y Swistir
-GY;;Guyana
-MQ;;Martinique
-PN;;Pitcairn
-SJ;;Svalbard a Jan Mayen
-CI;;Côte dIvoireIvoire
-MR;;Mauritania
-SK;;Slofacia
-VG;;Ynysoedd Virgin, Prydeinig
-MS;;Montserrat
-SL;;Sierra Leone
-CK;;Ynysoedd Cook
-ID;;Indonesia
-MT;;Malta
-SM;;San Marino
-VI;;Ynysoedd Virgin, U.D.A.
-YE;;Yemen
-CL;;Chile
-IE;;Iwerddon
-LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;Mauritius
-SN;;Senegal
-CM;;Cameroon
-FI;;Y Ffindir
-LB;;Lebanon
-MV;;Maldives
-PR;;Puerto Rico
-SO;;Somalia
-CN;;Tsieina
-FJ;;Ffiji
-LC;;Saint Lucia
-MW;;Malawi
-PS;;Tiriogaeth Palesteina, Meddianedig
-CO;;Colombia
-FK;;Ynysoedd y Falklands (Malvinas)
-MX;;Mecsico
-PT;;Portiwgal
-MY;;Malaysia
-SR;;Suriname
-VN;;Fiet Nam
-FM;;Micronesia, Taliaethau Ffedereiddiol
-MZ;;Mozambique
-CR;;Costa Rica
-PW;;Palau
-SS;;Gweriniaeth y Swdan
-FO;;Ynysoedd y Ffaro
-ST;;Sao Tome a Principe
-IL;;Israel
-LI;;Liechtenstein
-PY;;Paraguay
-BA;;Bosnia a Herzegovina
-CU;;Ciwba
-IM;;Ynys Manaw
-SV;;El Salvador
-CV;;Cape Verde
-FR;;Ffrainc
-IN;;India
-LK;;Sri Lanka
-BB;;Barbados
-CW;;Curaçao
-IO;;British Indian Ocean Territory
-SX;;Sint Maarten (Dutch part)
-VU;;Vanuatu
-CX;;Ynys y Nadolig
-RE;;Reunion
-UA;;Wcrain
-SY;;Gweriniaeth Arabaidd Syria
-CY;;Cyprus
-IQ;;Irac
-SZ;;Swaziland
-BD;;Bangladesh
-CZ;;Y Weriniaeth Tsiec
-IR;;Iran, Gweriniaeth Islamaidd
-YT;;Mayotte
-BE;;Gwlad Belg
-IS;;Gwlad yr Iâ
-BF;;Burkina Faso
-EC;;Ecwador
-IT;;Yr Eidal
-OM;;Oman
-BG;;Bwlgaria
-BH;;Bahrain
-LR;;Liberia
-UG;;Uganda
-BI;;Burundi
-EE;;Estonia
-LS;;Lesotho
-BJ;;Benin
-LT;;Lithwania
-EG;;Yr Aifft
-BL;;Saint Barthélemy
-EH;;Western Sahara
-LU;;Luxembourg
-RO;;Rwmania
-BM;;Bermuda
-LV;;Latfia
-BN;;Brunei Darussalam
-UM;;United States Minor Outlying Islands
-BO;;Bolivia, Plurinational State of
-KE;;Kenya
-NA;;Namibia
-LY;;Liberia
-BQ;;Bonaire, Sint Eustatius and Saba
-BR;;Brasil
-KG;;Kyrgyzstan
-NC;;Caledonia Newydd
-RS;;Azerbaijan
-BS;;Y Bahamas
-HK;;Hong Kong
-KH;;Cambodia
-BT;;Bhutan
-KI;;Kiribati
-NE;;Niger
-QA;;Qatar
-RU;;Ffederasiwn Rwsia
-HM;;Ynys Heard ac yr Ynysoedd McDonald
-NF;;Ynys Norfolk
-US;;Yr Unol Daliaethau
-BV;;Ynys Bouvet
-ER;;Eritrea
-HN;;Honduras
-NG;;Nigeria
-RW;;Rwanda
-BW;;Botswana
-ES;;Sbaen
-ET;;Ethiopia
-NI;;Nicaragua
-AD;;Andorra
-BY;;Belarws
-KM;;Comoros
-AE;;Emiriaethau Arabaidd Unedig
-BZ;;Belîs
-HR;;Croatia
-KN;;Saint Kitts a Nevis
-TC;;Ynysoedd y Turks a Caicos
 AF;;Afghanistan
-NL;;Yr Iseldiroedd
-TD;;Chad
-AG;;Antigua ac Barbuda
-HT;;Haiti
-KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;Uruguay
-GA;;Gabon
-HU;;Hwngari
-TF;;French Southern Territories
-UZ;;Wsbecistan
-AI;;Anguilla
-DE;;Yr Almaen
-GB;;Prydain Fawr
-KR;;Corëa, Gweriniaeth
-TG;;Togo
-NO;;Norwy
-TH;;Gwlad Thai
-GD;;Grenada
-NP;;Nepal
-ZA;;De Affrica
-AL;;Albania
-GE;;Georgia
-TJ;;Tajikistan
-WF;;Wallis a Futuna
-AM;;Armenia
-GF;;Guiana Ffrangeg
-NR;;Nauru
-TK;;Tokelau
-DJ;;Djibouti
-KW;;Coweit
-TL;;Timor-Leste
-AO;;Angola
-DK;;Denmarc
-GG;;Guernsey
-TM;;Turkmenistan
-GH;;Ghana
-JE;;Jersey
-MA;;Moroco
-KY;;Ynysoedd y Cayman
-NU;;Niue
-TN;;Twnisia
-DM;;Dominica
-GI;;Gibraltar
-KZ;;Kazakhstan
-TO;;Tonga
-AQ;;Antarctica
-MC;;Monaco
-AR;;Yr Ariannin
-MD;;Macedonia, Gweriniaeth
-AS;;American Samoa
-DO;;Gweriniaeth Dominica
-ME;;Serbia a Montenegro
-PA;;Panama
-TR;;Twrci
-AT;;Awstria
-GL;;Greenland
-MF;;Saint Martin (French part)
-NZ;;Seland Newydd
-AU;;Awstralia
-GM;;Gambia
-GN;;Guinea
-MG;;Madagascar
-AW;;Aruba
-MH;;Ynysoedd Marshall
-TT;;Trinidad a Tobago
-ZM;;Zambia
-GP;;Guadeloupe
 AX;;Ynysoedd Åland
-SA;;Saudi Arabia
-PE;;Periw
-JM;;Jamaica
-GQ;;Guinea Cyhydeddol
-CA;;Canada
-WS;;Samoa
-SB;;Ynysoedd Solomon
-PF;;Polynesia Ffrangeg
-TV;;Tuvalu
-PG;;Papua Guinea Newydd
-MK;;Macedonia, Gweriniaeth
-GR;;Groeg
+AL;;Albania
+DZ;;Algeria
+AS;;American Samoa
+AD;;Andorra
+AO;;Angola
+AI;;Anguilla
+AQ;;Antarctica
+AG;;Antigua ac Barbuda
+AR;;Yr Ariannin
+AM;;Armenia
+AW;;Aruba
+AU;;Awstralia
+AT;;Awstria
 AZ;;Azerbaijan
-TW;;Taiwan, Talaith Tseina
-SC;;Seychelles
-PH;;Pilipinas
-ML;;Mali
+BS;;Y Bahamas
+BH;;Bahrain
+BD;;Bangladesh
+BB;;Barbados
+BY;;Belarws
+BE;;Gwlad Belg
+BZ;;Belîs
+BJ;;Benin
+BM;;Bermuda
+BT;;Bhutan
+BO;;Bolifia, Gwladwriaeth Amlgenedlaethol
+BQ;;Bonaire, Sint Eustatius a Saba
+BA;;Bosnia a Herzegovina
+BW;;Botswana
+BV;;Ynys Bouvet
+BR;;Brasil
+IO;;British Indian Ocean Territory
+BN;;Brunei Darussalam
+BG;;Bwlgaria
+BF;;Burkina Faso
+BI;;Burundi
+KH;;Cambodia
+CM;;Cameroon
+CA;;Canada
+CV;;Cape Verde
+KY;;Ynysoedd y Cayman
+CF;;Gweriniaeth Canol Affrica
+TD;;Chad
+CL;;Chile
+CN;;Tsieina
+CX;;Ynys y Nadolig
+CC;;Ynysoedd Cocos (Keeling)
+CO;;Colombia
+KM;;Comoros
+CG;;Congo
+CD;;Congo, Gweriniaeth Ddemocrataidd y
+CK;;Ynysoedd Cook
+CR;;Costa Rica
+CI;;Côte dIvoireIvoire
+HR;;Croatia
+CU;;Ciwba
+CW;;Curaçao
+CY;;Cyprus
+CZ;;Y Weriniaeth Tsiec
+DK;;Denmarc
+DJ;;Djibouti
+DM;;Dominica
+DO;;Gweriniaeth Dominica
+EC;;Ecwador
+EG;;Yr Aifft
+SV;;El Salvador
+GQ;;Guinea Cyhydeddol
+ER;;Eritrea
+EE;;Estonia
+ET;;Ethiopia
+FK;;Ynysoedd y Falklands (Malvinas)
+FO;;Ynysoedd y Ffaro
+FJ;;Ffiji
+FI;;Y Ffindir
+FR;;Ffrainc
+GF;;Guiana Ffrangeg
+PF;;Polynesia Ffrangeg
+TF;;French Southern Territories
+GA;;Gabon
+GM;;Gambia
+GE;;Georgia
+DE;;Yr Almaen
+GH;;Ghana
+GI;;Gibraltar
+GR;;Groeg
+GL;;Greenland
+GD;;Grenada
+GP;;Guadeloupe
+GU;;Guam
+GT;;Gwatemala
+GG;;Guernsey
+GN;;Guinea
+GW;;Guinea-Bissau
+GY;;Guyana
+HT;;Haiti
+HM;;Ynys Heard ac Ynysoedd McDonald
+VA;;Yr Esgobaeth Sanctaidd (Talaith Dinas y Fatican)
+HN;;Honduras
+HK;;Hong Kong
+HU;;Hwngari
+IS;;Gwlad yr Iâ
+IN;;India
+ID;;Indonesia
+IR;;Iran, Gweriniaeth Islamaidd
+IQ;;Irac
+IE;;Iwerddon
+IM;;Ynys Manaw
+IL;;Israel
+IT;;Yr Eidal
+JM;;Jamaica
+JP;;Japan
+JE;;Jersey
 JO;;Gwlad Yr Iorddonen
-GS;;De Georgia ac Ynysoedd Sandwich y De
+KZ;;Kazakhstan
+KE;;Kenya
+KI;;Kiribati
+KP;;Korea, Democratic Peoples Republic ofs Republic of
+KR;;Corëa, Gweriniaeth
+KW;;Coweit
+KG;;Kyrgyzstan
+LA;;Lao Peoples Democratic Republics Democratic Republic
+LV;;Latfia
+LB;;Lebanon
+LS;;Lesotho
+LR;;Liberia
+LY;;Libya
+LI;;Liechtenstein
+LT;;Lithwania
+LU;;Lwcsembwrg
+MO;;Macao
+MK;;Macedonia, Gweriniaeth
+MG;;Madagascar
+MW;;Malawi
+MY;;Malaysia
+MV;;Maldives
+ML;;Mali
+MT;;Malta
+MH;;Ynysoedd Marshall
+MQ;;Martinique
+MR;;Mauritania
+MU;;Mauritius
+YT;;Mayotte
+MX;;Mecsico
+FM;;Micronesia, Taleithiau Cyfunol
+MD;;Moldofa, Gweriniaeth
+MC;;Monaco
+MN;;Mongolia
+ME;;Montenegro
+MS;;Montserrat
+MA;;Moroco
+MZ;;Mozambique
+MM;;Myanmar
+NA;;Namibia
+NR;;Nauru
+NP;;Nepal
+NL;;Yr Iseldiroedd
+NC;;Caledonia Newydd
+NZ;;Seland Newydd
+NI;;Nicaragua
+NE;;Niger
+NG;;Nigeria
+NU;;Niue
+NF;;Ynys Norfolk
+MP;;Ynysoedd Northern Mariana
+NO;;Norwy
+OM;;Oman
+PK;;Pacistan
+PW;;Palau
+PS;;Tiriogaeth Palesteina, Meddianedig
+PA;;Panama
+PG;;Papua Guinea Newydd
+PY;;Paraguay
+PE;;Periw
+PH;;Pilipinas
+PN;;Pitcairn
+PL;;Gwlad Pwyl
+PT;;Portiwgal
+PR;;Puerto Rico
+QA;;Qatar
+RE;;Réunion
+RO;;Rwmania
+RU;;Ffederasiwn Rwsia
+RW;;Rwanda
+BL;;Saint Barthélemy
+SH;;Saint Helena, Dyrchafael a Tristan da Cunha
+KN;;Saint Kitts a Nevis
+LC;;Saint Lucia
+MF;;Saint Martin (rhan Ffrengig)
+PM;;Saint Pierre a Miquelon
+VC;;Saint Vincent a'r Grenadines
+WS;;Samoa
+SM;;San Marino
+ST;;Sao Tome a Principe
+SA;;Saudi Arabia
+SN;;Senegal
+RS;;Serbia
+SC;;Seychelles
+SL;;Sierra Leone
+SG;;Singapore
+SX;;Sint Maarten (Rhan Iseldiraidd)
+SK;;Slofacia
+SI;;Slofenia
+SB;;Ynysoedd Solomon
+SO;;Somalia
+ZA;;De Affrica
+GS;;De Georgia ac Ynysoedd De Sandwich
+ES;;Sbaen
+LK;;Sri Lanka
 SD;;Y Swdan
+SR;;Suriname
+SS;;De Swdan
+SJ;;Svalbard a Jan Mayen
+SZ;;Swaziland
+SE;;Sweden
+CH;;Y Swistir
+SY;;Gweriniaeth Arabaidd Syria
+TW;;Taiwan, Talaith o Tseina
+TJ;;Tajikistan
+TZ;;Tanzania, Gweriniaeth Unedig
+TH;;Gwlad Thai
+TL;;Timor-Leste
+TG;;Togo
+TK;;Tokelau
+TO;;Tonga
+TT;;Trinidad a Tobago
+TN;;Twnisia
+TR;;Twrci
+TM;;Turkmenistan
+TC;;Ynysoedd y Turks a Caicos
+TV;;Tuvalu
+UG;;Uganda
+UA;;Wcrain
+AE;;Emiriaethau Arabaidd Unedig
+GB;;Y Deyrnas Unedig
+US;;Yr Unol Daleithiau
+UM;;Mân Ynysoedd Pellenig yr Unol Daleithiau
+UY;;Uruguay
+UZ;;Wsbecistan
+VU;;Vanuatu
+VE;;Venezuela, Gweriniaeth Bolifaraidd
+VN;;Fietnam
+VG;;Ynysoedd Virgin, Prydeinig
+VI;;Ynysoedd Virgin, U.D.A.
+WF;;Wallis a Futuna
+EH;;Gorllewin Sahara
+YE;;Yemen
+ZM;;Zambia
+ZW;;Zimbabwe

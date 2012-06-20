@@ -1,249 +1,249 @@
-VA;;Faatikaan
-CC;;Cocos (Keeling) Islands
-GT;;Guatemala
-JP;;Jabbaan
-SE;;Iswidhan
-TZ;;Tansaaniya
-CD;;Kuuriyada Waqooyi
-GU;;Guam
-MM;;Myanmar
-DZ;;Algeria
-MN;;Mongolia
-PK;;Bakistaan
-SG;;Singapore
-VC;;Saint Vincent and the Grenadines
-CF;;Central African Republic
-GW;;Guinea-Bissau
-MO;;Macao
-PL;;Booland
-SH;;Saint Helena, Ascension and Tristan da Cunha
-CG;;Congo
-MP;;Northern Mariana Islands
-PM;;Saint Pierre and Miquelon
-SI;;Slovenia
-VE;;Kuuriyada Waqooyi
-ZW;;Simbaabwe
-CH;;Swiiserlaand
-GY;;Guyana
-MQ;;Martinique
-PN;;Pitcairn
-SJ;;Svalbard and Jan Mayen
-CI;;Côte dIvoireIvoire
-MR;;Muritaaniya
-SK;;Slovakia
-VG;;Virgin Islands, British
-MS;;Montserrat
-SL;;Siraaliyoon
-CK;;Cook Islands
-ID;;Indoneesiya
-MT;;Maalda
-SM;;San Marino
-VI;;Virgin Islands, U.S.
-YE;;Yaman
-CL;;Jili
-IE;;Ayrlaanda
-LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;Mauritius
-SN;;Senegal
-CM;;Kameruun
-FI;;Fiinlaand
-LB;;Lubnaan
-MV;;Maaldiqeen
-PR;;Puerto Rico
-SO;;Soomaaliya
-CN;;Shiinaha
-FJ;;Fiji
-LC;;Saint Lucia
-MW;;Malaawi
-PS;;Palestinian Territory, Occupied
-CO;;Colombia
-FK;;Falkland Islands (Malvinas)
-MX;;Meksiko
-PT;;Bortuqaal
-MY;;Malaysia
-SR;;Suriname
-VN;;Fiyetnaam
-FM;;Micronesia, Federated States of
-MZ;;Musambiig
-CR;;Costa Rica
-PW;;Palau
-SS;;Koonfur Afrika
-FO;;Faroe Islands
-ST;;Sao Tome and Principe
-IL;;Israa'iil
-LI;;Liechtenstein
-PY;;Paraguay
-BA;;Boosniya Heersigoviina
-CU;;Kuuba
-IM;;Isle of Man
-SV;;El Salvador
-CV;;Cape Verde
-FR;;Faransiis
-IN;;Hindiya
-LK;;Siirilaanka
-BB;;Baarbadoos
-CW;;Curaçao
-IO;;British Indian Ocean Territory
-SX;;Sint Maarten (Dutch part)
-VU;;Vanuatu
-CX;;Christmas Island
-RE;;Reunion
-UA;;Ukraine
-SY;;Suuriya
-CY;;Cyprus
-IQ;;Ciraaq
-SZ;;Swaziland
-BD;;Bangaala-Deesh
-CZ;;Czech Republic
-IR;;Iiraan
-YT;;Mayotte
-BE;;Beljiyam
-IS;;Iislaand
-BF;;Burkina Faso
-EC;;Ecuador
-IT;;Talyaani
-OM;;Cumaan
-BG;;Bulgaria
-BH;;Baxrayn
-LR;;Laybeeriya
-UG;;Ugaanda
-BI;;Burundi
-EE;;Estonia
-LS;;Losooto
-BJ;;Beniin
-LT;;Lithuania
-EG;;Masar
-BL;;Saint Barthélemy
-EH;;Western Sahara
-LU;;Luksemboorg
-RO;;Rumaaniya
-BM;;Bermuda
-LV;;Laatfiya
-BN;;Brunei Darussalam
-UM;;United States Minor Outlying Islands
-BO;;Bolivia, Plurinational State of
-KE;;Kiiniya
-NA;;Namiibiya
-LY;;Laybeeriya
-BQ;;Bonaire, Sint Eustatius and Saba
-BR;;Braasiil
-KG;;Kyrgyzstan
-NC;;New Caledonia
-RS;;Laybeeriya
-BS;;Bahamas
-HK;;Hong Kong
-KH;;Kamboodiya
-BT;;Bhutan
-KI;;Kiribati
-NE;;Niger
-QA;;Qadar
-RU;;Ruush
-HM;;Heard Island and McDonald Islands
-NF;;Norfolk Island
-US;;Qaramada Midoobey ee Maraykanka
-BV;;Bouvet Island
-ER;;Eritrea
-HN;;Honduras
-NG;;Nayjeeriya
-RW;;Rwanda
-BW;;Botswana
-ES;;Isbeyn
-ET;;Itoobiya
-NI;;Nikaraaguwa
-AD;;Andorra
-BY;;Belarus
-KM;;Comoros
-AE;;Imaaraadka Carabta ee Midoobay
-BZ;;Belize
-HR;;Korweeshiya
-KN;;Saint Kitts and Nevis
-TC;;Turks and Caicos Islands
 AF;;Afgaanistaan
-NL;;Netherlands
-TD;;Jaad
-AG;;Antigua and Barbuda
-HT;;Haiti
-KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;Uruguay
-GA;;Gabon
-HU;;Hangeri
-TF;;French Southern Territories
-UZ;;Uzbekistan
-AI;;Anguilla
-DE;;Jarmal
-GB;;United Kingdom
-KR;;Korea, Republic of
-TG;;Toogo
-NO;;Noorweey
-TH;;Taylaand
-GD;;Giriinaada
-NP;;Nepal
-ZA;;Koonfur Afrika
-AL;;Albania
-GE;;Georgia
-TJ;;Tajikistan
-WF;;Wallis and Futuna
-AM;;Armeeniya
-GF;;French Guiana
-NR;;Nauru
-TK;;Tokelau
-DJ;;Jabuuti
-KW;;Kuwayt
-TL;;Timor-Leste
-AO;;Angoola
-DK;;Danmaark
-GG;;Guernsey
-TM;;Turkmenistan
-GH;;Ghana
-JE;;Jersey
-MA;;Marooko
-KY;;Cayman Islands
-NU;;Niue
-TN;;Tuniisiya
-DM;;Dominica
-GI;;Gibraltar
-KZ;;Kasaakhistaan
-TO;;Tonga
-AQ;;Antarctica
-MC;;Moonako
-AR;;Argentina
-MD;;Makadooniya
-AS;;American Samoa
-DO;;Dominican Republic
-ME;;Montenegro
-PA;;Panama
-TR;;Turki
-AT;;Osteeriya
-GL;;Greenland
-MF;;Saint Martin (French part)
-NZ;;Neyuusilaand
-AU;;Awstraaliya
-GM;;Gambia
-GN;;Gini
-MG;;Madagascar
-AW;;Aruba
-MH;;Marshall Islands
-TT;;Trinidad and Tobago
-ZM;;Saambiya
-GP;;Guadeloupe
 AX;;Åland Islands
-SA;;Sacuudi Carabiya
-PE;;Peru
-JM;;Jameyka
-GQ;;Equatorial Guinea
-CA;;Kanada
-WS;;Samoa
-SB;;Solomon Islands
-PF;;French Polynesia
-TV;;Tuvalu
-PG;;Papua New Guinea
-MK;;Makadooniya
-GR;;Giriigga
+AL;;Albania
+DZ;;Algeria
+AS;;American Samoa
+AD;;Andorra
+AO;;Angoola
+AI;;Anguilla
+AQ;;Antarctica
+AG;;Antigua and Barbuda
+AR;;Argentina
+AM;;Armeeniya
+AW;;Aruba
+AU;;Awstraaliya
+AT;;Osteeriya
 AZ;;Azerbaijan
-TW;;Taiwan, Province of China
-SC;;Seychelles
-PH;;Filibiin
-ML;;Maali
+BS;;Bahamas
+BH;;Baxrayn
+BD;;Bangaala-Deesh
+BB;;Baarbadoos
+BY;;Belarus
+BE;;Beljiyam
+BZ;;Belize
+BJ;;Beniin
+BM;;Bermuda
+BT;;Bhutan
+BO;;Bolivia, Plurinational State of
+BQ;;Bonaire, Sint Eustatius and Saba
+BA;;Boosniya Heersigoviina
+BW;;Botswana
+BV;;Bouvet Island
+BR;;Braasiil
+IO;;British Indian Ocean Territory
+BN;;Brunei Darussalam
+BG;;Bulgaria
+BF;;Burkina Faso
+BI;;Burundi
+KH;;Kamboodiya
+CM;;Kameruun
+CA;;Kanada
+CV;;Cape Verde
+KY;;Cayman Islands
+CF;;Central African Republic
+TD;;Jaad
+CL;;Jili
+CN;;Shiinaha
+CX;;Christmas Island
+CC;;Cocos (Keeling) Islands
+CO;;Colombia
+KM;;Comoros
+CG;;Congo
+CD;;Kuuriyada Waqooyi
+CK;;Cook Islands
+CR;;Costa Rica
+CI;;Côte dIvoireIvoire
+HR;;Korweeshiya
+CU;;Kuuba
+CW;;Curaçao
+CY;;Cyprus
+CZ;;Czech Republic
+DK;;Danmaark
+DJ;;Jabuuti
+DM;;Dominica
+DO;;Dominican Republic
+EC;;Ecuador
+EG;;Masar
+SV;;El Salvador
+GQ;;Equatorial Guinea
+ER;;Eritrea
+EE;;Estonia
+ET;;Itoobiya
+FK;;Falkland Islands (Malvinas)
+FO;;Faroe Islands
+FJ;;Fiji
+FI;;Fiinlaand
+FR;;Faransiis
+GF;;French Guiana
+PF;;French Polynesia
+TF;;French Southern Territories
+GA;;Gabon
+GM;;Gambia
+GE;;Georgia
+DE;;Jarmal
+GH;;Ghana
+GI;;Gibraltar
+GR;;Giriigga
+GL;;Greenland
+GD;;Giriinaada
+GP;;Guadeloupe
+GU;;Guam
+GT;;Guatemala
+GG;;Guernsey
+GN;;Gini
+GW;;Guinea-Bissau
+GY;;Guyana
+HT;;Haiti
+HM;;Heard Island and McDonald Islands
+VA;;Faatikaan
+HN;;Honduras
+HK;;Hong Kong
+HU;;Hangeri
+IS;;Iislaand
+IN;;Hindiya
+ID;;Indoneesiya
+IR;;Iiraan
+IQ;;Ciraaq
+IE;;Ayrlaanda
+IM;;Isle of Man
+IL;;Israa'iil
+IT;;Talyaani
+JM;;Jameyka
+JP;;Jabbaan
+JE;;Jersey
 JO;;Urdun
+KZ;;Kasaakhistaan
+KE;;Kiiniya
+KI;;Kiribati
+KP;;Korea, Democratic Peoples Republic ofs Republic of
+KR;;Korea, Republic of
+KW;;Kuwayt
+KG;;Kyrgyzstan
+LA;;Lao Peoples Democratic Republics Democratic Republic
+LV;;Laatfiya
+LB;;Lubnaan
+LS;;Losooto
+LR;;Laybeeriya
+LY;;Laybeeriya
+LI;;Liechtenstein
+LT;;Lithuania
+LU;;Luksemboorg
+MO;;Macao
+MK;;Makadooniya
+MG;;Madagascar
+MW;;Malaawi
+MY;;Malaysia
+MV;;Maaldiqeen
+ML;;Maali
+MT;;Maalda
+MH;;Marshall Islands
+MQ;;Martinique
+MR;;Muritaaniya
+MU;;Mauritius
+YT;;Mayotte
+MX;;Meksiko
+FM;;Micronesia, Federated States of
+MD;;Makadooniya
+MC;;Moonako
+MN;;Mongolia
+ME;;Montenegro
+MS;;Montserrat
+MA;;Marooko
+MZ;;Musambiig
+MM;;Myanmar
+NA;;Namiibiya
+NR;;Nauru
+NP;;Nepal
+NL;;Netherlands
+NC;;New Caledonia
+NZ;;Neyuusilaand
+NI;;Nikaraaguwa
+NE;;Niger
+NG;;Nayjeeriya
+NU;;Niue
+NF;;Norfolk Island
+MP;;Northern Mariana Islands
+NO;;Noorweey
+OM;;Cumaan
+PK;;Bakistaan
+PW;;Palau
+PS;;Palestinian Territory, Occupied
+PA;;Panama
+PG;;Papua New Guinea
+PY;;Paraguay
+PE;;Peru
+PH;;Filibiin
+PN;;Pitcairn
+PL;;Booland
+PT;;Bortuqaal
+PR;;Puerto Rico
+QA;;Qadar
+RE;;Réunion
+RO;;Rumaaniya
+RU;;Ruush
+RW;;Rwanda
+BL;;Saint Barthélemy
+SH;;Saint Helena, Ascension and Tristan da Cunha
+KN;;Saint Kitts and Nevis
+LC;;Saint Lucia
+MF;;Saint Martin (French part)
+PM;;Saint Pierre and Miquelon
+VC;;Saint Vincent and the Grenadines
+WS;;Samoa
+SM;;San Marino
+ST;;Sao Tome and Principe
+SA;;Sacuudi Carabiya
+SN;;Senegal
+RS;;Laybeeriya
+SC;;Seychelles
+SL;;Siraaliyoon
+SG;;Singapore
+SX;;Sint Maarten (Dutch part)
+SK;;Slovakia
+SI;;Slovenia
+SB;;Solomon Islands
+SO;;Soomaaliya
+ZA;;Koonfur Afrika
 GS;;South Georgia and the South Sandwich Islands
+ES;;Isbeyn
+LK;;Siirilaanka
 SD;;Sudaan
+SR;;Suriname
+SS;;Koonfur Afrika
+SJ;;Svalbard and Jan Mayen
+SZ;;Swaziland
+SE;;Iswidhan
+CH;;Swiiserlaand
+SY;;Suuriya
+TW;;Taiwan, Province of China
+TJ;;Tajikistan
+TZ;;Tansaaniya
+TH;;Taylaand
+TL;;Timor-Leste
+TG;;Toogo
+TK;;Tokelau
+TO;;Tonga
+TT;;Trinidad and Tobago
+TN;;Tuniisiya
+TR;;Turki
+TM;;Turkmenistan
+TC;;Turks and Caicos Islands
+TV;;Tuvalu
+UG;;Ugaanda
+UA;;Ukraine
+AE;;Imaaraadka Carabta ee Midoobay
+GB;;United Kingdom
+US;;Qaramada Midoobey ee Maraykanka
+UM;;United States Minor Outlying Islands
+UY;;Uruguay
+UZ;;Uzbekistan
+VU;;Vanuatu
+VE;;Kuuriyada Waqooyi
+VN;;Fiyetnaam
+VG;;Virgin Islands, British
+VI;;Virgin Islands, U.S.
+WF;;Wallis and Futuna
+EH;;Western Sahara
+YE;;Yaman
+ZM;;Saambiya
+ZW;;Simbaabwe

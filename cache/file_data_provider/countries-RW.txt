@@ -1,249 +1,249 @@
-VA;;Inyanja Ntagatifu(Leta y'Umujyi wa Vatikani)
-CC;;Ibirwa bya Koko
-GT;;Gwatemala
-JP;;Ubuyapani
-SE;;Suwede
-TZ;;Tanzaniya, Repubulika Yunze Ubumwe ya
-CD;;Repubulika Iharanira Demokarasi ya Kongo
-GU;;Gwami
-MM;;Mayanimari
-DZ;;Aligeriya
-MN;;Mongoliya
-PK;;Pakisitani
-SG;;Singapore
-VC;;Mutagatifu Visenti na Gerenadine
-CF;;Repubulika ya Santara Afurika
-GW;;Guneya-Biso
-MO;;Makawo
-PL;;Polonye
-SH;;Saint Helena, Ascension and Tristan da Cunha
-CG;;Kongo
-MP;;Ibirwa bya Mariyana y'Amajyaruguru
-PM;;Mutagatifu Petero na Mikeloni
-SI;;Siloveniya
-VE;;Repubulika ya Venezuwela
-ZW;;Zimbabwe
-CH;;Ubusuwisi
-GY;;Giyana
-MQ;;Maritike
-PN;;Piticayirine
-SJ;;Sivalibadi na Jani Mayeni
-CI;;Côte dIvoireIvoire
-MR;;Moritaniya
-SK;;Silovakiya
-VG;;Ibirwa bya Virigini, Nyongereza
-MS;;Monserati
-SL;;Siyera Lewone
-CK;;Ibirwa bya Kuke
-ID;;Indonesiya
-MT;;Malita
-SM;;Mutagatifu Marino
-VI;;Ibirwa bya Virigini, Leta Zunze Ubumwe
-YE;;Yemeni
-CL;;Shili
-IE;;Irilande
-LA;;Lao Peoples Democratic Republics Democratic Republic
-MU;;Ibirwa bya Morise
-SN;;Senegali
-CM;;Kameruni
-FI;;Finilande
-LB;;Libani
-MV;;Malidivezi
-PR;;Puwerito Riko
-SO;;Somaliya
-CN;;Ubushinwa
-FJ;;Fiji
-LC;;Mutagatifu Lusiya
-MW;;Malawi
-PS;;Teritwari ya Palesitina, Ifitwe
-CO;;Kolombiya
-FK;;Ibirwa bya Folukilande (Maluvinasi)
-MX;;Megizike
-PT;;Porutigali
-MY;;Malesiya
-SR;;Surinamu
-VN;;Viyetinamu
-FM;;Mikoronesiya, Leta Zishyizehamwe za
-MZ;;Mozambike
-CR;;Kosita Rika
-PW;;Palawu
-SS;;Repubulika ya Sudani
-FO;;Ibirwa bya Farowe
-ST;;Sawo Tome na Purensipe
-IL;;Isirayeli
-LI;;Liyeshitensiteyine
-PY;;Paragwe
-BA;;Bosiniya na Herizegovina
-CU;;Kiba
-IM;;Isle of Man
-SV;;Eli Saluvadoro
-CV;;Kapu Veri
-FR;;Ubufaransa
-IN;;Ubuhinde
-LK;;Siri Lanka
-BB;;Barubadosi
-CW;;Curaçao
-IO;;Teritwari y'Inyanja y'Abahinde Nyongereza
-SX;;Sint Maarten (Dutch part)
-VU;;Vanuwatu
-CX;;Ikirwa cya Noheli
-RE;;Reyiniyo
-UA;;Ikerene
-SY;;Repubulika Nyarabu ya Siriya
-CY;;Shipure
-IQ;;Irake
-SZ;;Swazilande
-BD;;Bangaladeshi
-CZ;;Repubulika ya Ceke
-IR;;Iran, Repubulika ya Kisilimu
-YT;;Mayoti
-BE;;Ububiligi
-IS;;Isilande
-BF;;Burukina Faso
-EC;;Ekwadoro
-IT;;Ubutariyani
-OM;;Omani
-BG;;Buligariya
-BH;;Bahirayini
-LR;;Liberiya
-UG;;Yuganda
-BI;;Uburundi
-EE;;Esitoniya
-LS;;Lesoto
-BJ;;Bene
-LT;;Lituwaniya
-EG;;Misiri
-BL;;Saint Barthélemy
-EH;;Sahara y'Uburengerazuba
-LU;;Lugizamburu
-RO;;Romaniya
-BM;;Berimuda
-LV;;Lativiya
-BN;;Buruneyi Darisalamu
-UM;;Ibirwa Bito Bikikije Leta Zunze Ubumwe
-BO;;Bolivia, Plurinational State of
-KE;;Kenya
-NA;;Namibiya
-LY;;Liberiya
-BQ;;Bonaire, Sint Eustatius and Saba
-BR;;Burezile
-KG;;Kirigizasitani
-NC;;Nuveli Kalidoniya
-RS;;Azeribayijani
-BS;;Bahamasi
-HK;;Hongo Kongo
-KH;;Kambodiya
-BT;;Butani
-KI;;Kiribati
-NE;;Nigeri
-QA;;Katari
-RU;;Ukwishyirahamwe kw'Uburusiya
-HM;;Icyirwa Hadi n'Ibirwa MakeDonalidi
-NF;;Ibirwa bya Norufoluki
-US;;Leta Zunze Ubumwe
-BV;;Ikirwa cya Bouve
-ER;;Eritereya
-HN;;Hondurasi
-NG;;Nigeriya
-RW;;Rwanda
-BW;;Botswana
-ES;;Esipanye
-ET;;Etiyopiya
-NI;;Nikaragwa
-AD;;Andora
-BY;;Belarusi
-KM;;Komore
-AE;;Repubulika Nyarabu Zunze Ubumwe
-BZ;;Belize
-HR;;Korowatiya
-KN;;Mutagatifu Kitsi na Nevisi
-TC;;Ibirwa bya Takisi na Kayikosi
 AF;;Afuganisita
-NL;;Nederilande
-TD;;Cade
-AG;;Antigwa na Barubida
-HT;;Hayiti
-KP;;Korea, Democratic Peoples Republic ofs Republic of
-UY;;Irigwe
-GA;;Gabo
-HU;;Hongiriya
-TF;;Ibihugu by'Amajyepfo Nyamfaransa
-UZ;;Uzubekisitani
-AI;;Angwiya
-DE;;Ubudage
-GB;;Ubwongereza (UK)
-KR;;Koreya, Repubulika ya
-TG;;Togo
-NO;;Noruveje
-TH;;Tayilande
-GD;;Gerenada
-NP;;Nepali
-ZA;;Afurika yepfo
-AL;;Alubaniya
-GE;;Geworigiya
-TJ;;Tajikisitani
-WF;;Walisi na Fatuna
-AM;;Arumeniya
-GF;;Guyane Nyamfaransa
-NR;;Nawuru
-TK;;Tokelawu
-DJ;;Jibuti
-KW;;Koweti
-TL;;Timoro-Lesite
-AO;;Angola
-DK;;Danimarike
-GG;;Ubudage
-TM;;Turikimenisitani
-GH;;Gana
-JE;;Jersey
-MA;;Maroke
-KY;;Ibirwa bya Kayimani
-NU;;Niyuwe
-TN;;Tunisiya
-DM;;Dominika
-GI;;Giburalitari
-KZ;;Kazakisitani
-TO;;Tonga
-AQ;;Antarigitika
-MC;;Monako
-AR;;Arijantina
-MD;;Masedoniya, Repubulika ya
-AS;;Samowa Nyamerika
-DO;;Repubulika ya Dominikani
-ME;;Seribiya  na Montenegoro
-PA;;Panama
-TR;;Turukiya
-AT;;Ositiriya
-GL;;Goronulande
-MF;;Saint Martin (French part)
-NZ;;Nuveli Zelande
-AU;;Ositaraliya
-GM;;Gambiya
-GN;;Gineya
-MG;;Madagasikari
-AW;;Aruba
-MH;;Ibirwa bya Marishali
-TT;;Tirinida na Tobago
-ZM;;Zambiya
-GP;;Gwadelupe
 AX;;Ibirwa by'Alande
-SA;;Arabiya Sawudite
-PE;;Peru
-JM;;Jamayika
-GQ;;Gineya Ekwatoriyale
-CA;;Kanada
-WS;;Samowa
-SB;;Ibirwa bya Solomoni
-PF;;Polinesiya Nyamfaransa
-TV;;Tuvalu
-PG;;Papuwa Nuveli Gineya
-MK;;Masedoniya, Repubulika ya
-GR;;Ikigereki
+AL;;Alubaniya
+DZ;;Aligeriya
+AS;;Samowa Nyamerika
+AD;;Andora
+AO;;Angola
+AI;;Angwiya
+AQ;;Antarigitika
+AG;;Antigwa na Barubida
+AR;;Arijantina
+AM;;Arumeniya
+AW;;Aruba
+AU;;Ositaraliya
+AT;;Ositiriya
 AZ;;Azeribayijani
-TW;;Tayiwani, Porovensi y'Ubushinwa
-SC;;Seyishele
-PH;;Filipine
-ML;;Mali
+BS;;Bahamasi
+BH;;Bahirayini
+BD;;Bangaladeshi
+BB;;Barubadosi
+BY;;Belarusi
+BE;;Ububiligi
+BZ;;Belize
+BJ;;Bene
+BM;;Berimuda
+BT;;Butani
+BO;;Bolivia, Plurinational State of
+BQ;;Bonaire, Sint Eustatius and Saba
+BA;;Bosiniya na Herizegovina
+BW;;Botswana
+BV;;Ikirwa cya Bouve
+BR;;Burezile
+IO;;Teritwari y'Inyanja y'Abahinde Nyongereza
+BN;;Buruneyi Darisalamu
+BG;;Buligariya
+BF;;Burukina Faso
+BI;;Uburundi
+KH;;Kambodiya
+CM;;Kameruni
+CA;;Kanada
+CV;;Kapu Veri
+KY;;Ibirwa bya Kayimani
+CF;;Repubulika ya Santara Afurika
+TD;;Cade
+CL;;Shili
+CN;;Ubushinwa
+CX;;Ikirwa cya Noheli
+CC;;Ibirwa bya Koko
+CO;;Kolombiya
+KM;;Komore
+CG;;Kongo
+CD;;Repubulika Iharanira Demokarasi ya Kongo
+CK;;Ibirwa bya Kuke
+CR;;Kosita Rika
+CI;;Côte dIvoireIvoire
+HR;;Korowatiya
+CU;;Kiba
+CW;;Curaçao
+CY;;Shipure
+CZ;;Repubulika ya Ceke
+DK;;Danimarike
+DJ;;Jibuti
+DM;;Dominika
+DO;;Repubulika ya Dominikani
+EC;;Ekwadoro
+EG;;Misiri
+SV;;Eli Saluvadoro
+GQ;;Gineya Ekwatoriyale
+ER;;Eritereya
+EE;;Esitoniya
+ET;;Etiyopiya
+FK;;Ibirwa bya Folukilande (Maluvinasi)
+FO;;Ibirwa bya Farowe
+FJ;;Fiji
+FI;;Finilande
+FR;;Ubufaransa
+GF;;Guyane Nyamfaransa
+PF;;Polinesiya Nyamfaransa
+TF;;Ibihugu by'Amajyepfo Nyamfaransa
+GA;;Gabo
+GM;;Gambiya
+GE;;Geworigiya
+DE;;Ubudage
+GH;;Gana
+GI;;Giburalitari
+GR;;Ikigereki
+GL;;Goronulande
+GD;;Gerenada
+GP;;Gwadelupe
+GU;;Gwami
+GT;;Gwatemala
+GG;;Ubudage
+GN;;Gineya
+GW;;Guneya-Biso
+GY;;Giyana
+HT;;Hayiti
+HM;;Icyirwa Hadi n'Ibirwa MakeDonalidi
+VA;;Inyanja Ntagatifu(Leta y'Umujyi wa Vatikani)
+HN;;Hondurasi
+HK;;Hongo Kongo
+HU;;Hongiriya
+IS;;Isilande
+IN;;Ubuhinde
+ID;;Indonesiya
+IR;;Iran, Repubulika ya Kisilimu
+IQ;;Irake
+IE;;Irilande
+IM;;Isle of Man
+IL;;Isirayeli
+IT;;Ubutariyani
+JM;;Jamayika
+JP;;Ubuyapani
+JE;;Jersey
 JO;;Yorudani
+KZ;;Kazakisitani
+KE;;Kenya
+KI;;Kiribati
+KP;;Korea, Democratic Peoples Republic ofs Republic of
+KR;;Koreya, Repubulika ya
+KW;;Koweti
+KG;;Kirigizasitani
+LA;;Lao Peoples Democratic Republics Democratic Republic
+LV;;Lativiya
+LB;;Libani
+LS;;Lesoto
+LR;;Liberiya
+LY;;Liberiya
+LI;;Liyeshitensiteyine
+LT;;Lituwaniya
+LU;;Lugizamburu
+MO;;Makawo
+MK;;Masedoniya, Repubulika ya
+MG;;Madagasikari
+MW;;Malawi
+MY;;Malesiya
+MV;;Malidivezi
+ML;;Mali
+MT;;Malita
+MH;;Ibirwa bya Marishali
+MQ;;Maritike
+MR;;Moritaniya
+MU;;Ibirwa bya Morise
+YT;;Mayoti
+MX;;Megizike
+FM;;Mikoronesiya, Leta Zishyizehamwe za
+MD;;Masedoniya, Repubulika ya
+MC;;Monako
+MN;;Mongoliya
+ME;;Seribiya  na Montenegoro
+MS;;Monserati
+MA;;Maroke
+MZ;;Mozambike
+MM;;Mayanimari
+NA;;Namibiya
+NR;;Nawuru
+NP;;Nepali
+NL;;Nederilande
+NC;;Nuveli Kalidoniya
+NZ;;Nuveli Zelande
+NI;;Nikaragwa
+NE;;Nigeri
+NG;;Nigeriya
+NU;;Niyuwe
+NF;;Ibirwa bya Norufoluki
+MP;;Ibirwa bya Mariyana y'Amajyaruguru
+NO;;Noruveje
+OM;;Omani
+PK;;Pakisitani
+PW;;Palawu
+PS;;Teritwari ya Palesitina, Ifitwe
+PA;;Panama
+PG;;Papuwa Nuveli Gineya
+PY;;Paragwe
+PE;;Peru
+PH;;Filipine
+PN;;Piticayirine
+PL;;Polonye
+PT;;Porutigali
+PR;;Puwerito Riko
+QA;;Katari
+RE;;Reyiniyo
+RO;;Romaniya
+RU;;Ukwishyirahamwe kw'Uburusiya
+RW;;Rwanda
+BL;;Saint Barthélemy
+SH;;Saint Helena, Ascension and Tristan da Cunha
+KN;;Mutagatifu Kitsi na Nevisi
+LC;;Mutagatifu Lusiya
+MF;;Saint Martin (French part)
+PM;;Mutagatifu Petero na Mikeloni
+VC;;Mutagatifu Visenti na Gerenadine
+WS;;Samowa
+SM;;Mutagatifu Marino
+ST;;Sawo Tome na Purensipe
+SA;;Arabiya Sawudite
+SN;;Senegali
+RS;;Azeribayijani
+SC;;Seyishele
+SL;;Siyera Lewone
+SG;;Singapore
+SX;;Sint Maarten (Dutch part)
+SK;;Silovakiya
+SI;;Siloveniya
+SB;;Ibirwa bya Solomoni
+SO;;Somaliya
+ZA;;Afurika yepfo
 GS;;Geworugiya y'Epfo n'Ibirwa bya Sanduwice y'Epfo
+ES;;Esipanye
+LK;;Siri Lanka
 SD;;Sudani
+SR;;Surinamu
+SS;;Repubulika ya Sudani
+SJ;;Sivalibadi na Jani Mayeni
+SZ;;Swazilande
+SE;;Suwede
+CH;;Ubusuwisi
+SY;;Repubulika Nyarabu ya Siriya
+TW;;Tayiwani, Porovensi y'Ubushinwa
+TJ;;Tajikisitani
+TZ;;Tanzaniya, Repubulika Yunze Ubumwe ya
+TH;;Tayilande
+TL;;Timoro-Lesite
+TG;;Togo
+TK;;Tokelawu
+TO;;Tonga
+TT;;Tirinida na Tobago
+TN;;Tunisiya
+TR;;Turukiya
+TM;;Turikimenisitani
+TC;;Ibirwa bya Takisi na Kayikosi
+TV;;Tuvalu
+UG;;Yuganda
+UA;;Ikerene
+AE;;Repubulika Nyarabu Zunze Ubumwe
+GB;;Ubwongereza (UK)
+US;;Leta Zunze Ubumwe
+UM;;Ibirwa Bito Bikikije Leta Zunze Ubumwe
+UY;;Irigwe
+UZ;;Uzubekisitani
+VU;;Vanuwatu
+VE;;Repubulika ya Venezuwela
+VN;;Viyetinamu
+VG;;Ibirwa bya Virigini, Nyongereza
+VI;;Ibirwa bya Virigini, Leta Zunze Ubumwe
+WF;;Walisi na Fatuna
+EH;;Sahara y'Uburengerazuba
+YE;;Yemeni
+ZM;;Zambiya
+ZW;;Zimbabwe
