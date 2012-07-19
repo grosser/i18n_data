@@ -71,6 +71,7 @@ task :write_cache_for_file_data_provider do
   require 'i18n_data/file_data_provider'
   require 'i18n_data/live_data_provider'
   sh "rm -rf cache/file_data_provider" # clean everything so old stuff goes away
+  puts "writing new caches, this can take a few minutes..."
   I18nData::FileDataProvider.write_cache(I18nData::LiveDataProvider)
 end
 

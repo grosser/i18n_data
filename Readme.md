@@ -50,6 +50,7 @@ Development
 TODO
 ====
  - include other language/country code formats (3-letter codes...) ?
+ - parse list of files on isocodes for write_cache instead of hardcoding country-specific ones
 
 Author
 ======
