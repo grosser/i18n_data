@@ -67,9 +67,10 @@ end
 
 desc "write cache for I18nData::FileDataProvider"
 task :write_cache_for_file_data_provider do
-  raise "use 1.9+, we need sorted hases or diff is giant" if RUBY_VERSION < "1.9"
+  raise "use 1.9+, we need sorted hashes or diff is giant" if RUBY_VERSION < "1.9"
   require 'i18n_data/file_data_provider'
   require 'i18n_data/live_data_provider'
+  sh "rm -rf cache/file_data_provider" # clean everything so old stuff goes away
   I18nData::FileDataProvider.write_cache(I18nData::LiveDataProvider)
 end
 

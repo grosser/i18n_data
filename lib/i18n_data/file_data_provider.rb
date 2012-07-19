@@ -1,6 +1,6 @@
 module I18nData
   module FileDataProvider
-    DATA_SEPERATOR = ";;"
+    DATA_SEPARATOR = ";;"
     extend self
 
     def codes(type, language_code)
@@ -29,7 +29,7 @@ module I18nData
       return nil unless File.exist?(file)
       data = {}
       File.readlines(file).each do |line|
-        code, translation = line.strip.split(DATA_SEPERATOR, 2)
+        code, translation = line.strip.split(DATA_SEPARATOR, 2)
         data[code] = translation
       end
       data
@@ -39,7 +39,7 @@ module I18nData
       return if data.empty?
       FileUtils.mkdir_p File.dirname(file)
       File.open(file,'w') do |f|
-        f.write data.map{|code, translation| "#{code}#{DATA_SEPERATOR}#{translation}" } * "\n"
+        f.write data.map{|code, translation| "#{code}#{DATA_SEPARATOR}#{translation}" } * "\n"
       end
     end
 

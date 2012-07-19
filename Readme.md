@@ -7,6 +7,7 @@ Through [pkg-isocodes](http://git.debian.org/?p=iso-codes/iso-codes.git):
 
  - 185 Language codes (iso 639 - 2 letter) in 68 Languages
  - 246 Country codes (iso 3166 - 2 letter) in 86 Languages
+ - contry specific codes e.g. zh_TW are also available, have a look at the isocodes website for all options
 
 Install
 =======
@@ -41,9 +42,13 @@ Data Providers
  - FileDataProvider: _FAST_ (default) (loading data from cache-files)
  - LiveDataProvider: _SLOW_ (fetching up-to-date data from svn repos)
 
+Development
+=======
+ - update FileDataProvider caches after each code-change to make changes available to users `rake write_cache_for_file_data_provider`
+ - FileDataProvider tests might fail if caches are not updates
+
 TODO
 ====
- - `rake write_cache_for_file_data_provider` currently fails on 1.9.3 -> fix unrecognizeable utf-8 chars
  - include other language/country code formats (3-letter codes...) ?
 
 Author

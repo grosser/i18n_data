@@ -17,7 +17,7 @@ BM;;Bambara
 EU;;Basse
 BE;;Bielorûsse
 BN;;Bengali
-BH;;Lingaedjes toupi
+BH;;Lingaedjes bihari
 BI;;Bislama
 BS;;Bosnyin
 BR;;Burton
@@ -67,7 +67,7 @@ HU;;Hongrwès
 IG;;Igbo
 IS;;Izlandès
 IO;;Ido
-II;;Yi do Sichuan
+II;;Yi do Sichuan; Nuosu
 IU;;Inuktitut
 IE;;Interlingue
 IA;;Interlingua
@@ -87,7 +87,7 @@ RW;;Kinyarwanda
 KY;;Kirguize
 KV;;Komi
 KG;;Kicongo
-KO;;Coreyin
+KO;;Corêyin
 KJ;;Kwanyama
 KU;;Kurde
 LO;;Lawocyin
@@ -116,10 +116,10 @@ ND;;Ndebele bijhrece
 NG;;Ndonga
 NE;;Nepalès
 NN;;Norvedjin nynorsk; Noû norvedjin
-NB;;Bokmål, Norwegian; Norwegian Bokmål
+NB;;Norvedjin bokmål
 NO;;Norvedjin
 NY;;Tchitchewa; Nyanja
-OC;;Occitan
+OC;;Occitan (après 1500)
 OJ;;Ojibwa
 OR;;Oriya
 OM;;Oromo

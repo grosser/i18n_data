@@ -13,7 +13,7 @@ AM;;Armenija
 AW;;Aruba
 AU;;Australija
 AT;;Austrija
-AZ;;Azerbajdžan
+AZ;;Azerbejdžan
 BS;;Bahami
 BH;;Bahrein
 BD;;Bangladeš

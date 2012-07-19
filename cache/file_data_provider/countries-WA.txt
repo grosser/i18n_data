@@ -24,8 +24,8 @@ BZ;;Belize
 BJ;;Benin
 BM;;Bermudes
 BT;;Boutan
-BO;;Bolivia, Plurinational State of
-BQ;;Bonaire, Sint Eustatius and Saba
+BO;;Boliveye, Estat plurinåcionå di
+BQ;;Bonaire, Sint Eustatius & Saba
 BA;;Bosneye
 BW;;Boswana
 BV;;Iye Bouvet
@@ -124,7 +124,7 @@ LV;;Letoneye
 LB;;Liban
 LS;;Lessoto
 LR;;Liberia
-LY;;Liberia
+LY;;Libeye
 LI;;Lîchtensteyn
 LT;;Litwaneye
 LU;;Lussimbork
@@ -143,7 +143,7 @@ MU;;Iye Môrice
 YT;;Mayote
 MX;;Mecsike
 FM;;Micronezeye
-MD;;Macedoneye
+MD;;Moldova
 MC;;Monaco
 MN;;Mongoleye
 ME;;Montenegro
@@ -182,11 +182,11 @@ RE;;Reyunion
 RO;;Roumaneye
 RU;;Rûsseye
 RW;;Rwanda
-BL;;Saint Barthélemy
-SH;;Saint Helena, Ascension and Tristan da Cunha
+BL;;Sint Bartelemi
+SH;;Sinte Helene, Acinsion & Tristan da Cunha
 KN;;St Kitts & Nevis
 LC;;Sinte Luceye
-MF;;Saint Martin (French part)
+MF;;Sint Mårtén (boket francès)
 PM;;Sint Pierre et Miquelon
 VC;;Sint Vincint et les Grenadines
 WS;;Samowa
@@ -198,7 +198,7 @@ RS;;Serbeye
 SC;;Seycheles
 SL;;Siera Leyone
 SG;;Singapour
-SX;;Sint Maarten (Dutch part)
+SX;;Sint Mårtén (boket olandès)
 SK;;Eslovakeye
 SI;;Esloveneye
 SB;;Iyes Solomon
@@ -209,7 +209,7 @@ ES;;Espagne
 LK;;Sri Lanka
 SD;;Soudan
 SR;;Suriname
-SS;;Republike do Soudan
+SS;;Soudan nonnrece
 SJ;;Iyes Svalbard eyet Jan Mayen
 SZ;;Suwazilande
 SE;;Suwede
@@ -238,7 +238,7 @@ UM;;Iyes mineures des Estats Unis
 UY;;Ourougway
 UZ;;Ouzbekistan
 VU;;Vanouatou
-VE;;Republike Bolivaryinne do Venezwela
+VE;;Venezwela, Republike Bolivaryinne do
 VN;;Vietnam
 VG;;Iyes Viedjes britanikes
 VI;;Iyes Viedjes etazunyinnes
