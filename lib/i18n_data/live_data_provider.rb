@@ -45,11 +45,15 @@ module I18nData
     def translations(type, language_code)
       @translations ||= {}
       @translations["#{type}_#{language_code}"] ||= begin
+        code = language_code.split("_")
+        code[0].downcase!
+        code = code.join("_")
+
         begin
-          url = TRANSLATIONS[type]+"#{language_code.downcase}.po"
+          url = TRANSLATIONS[type]+"#{code}.po"
           data = open(url).read
         rescue
-          raise NoTranslationAvailable, "for #{type} and language code = #{language_code} (#{$!})"
+          raise NoTranslationAvailable, "for #{type} and language code = #{code} (#{$!})"
         end
 
         data = data.force_encoding('utf-8') if data.respond_to?(:force_encoding) # 1.9

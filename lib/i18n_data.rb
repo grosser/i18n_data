@@ -4,11 +4,11 @@ module I18nData
   extend self
   
   def languages(language_code='EN')
-    data_provider.codes(:languages, language_code.to_s.upcase)
+    data_provider.codes(:languages, normal_to_region_code(language_code.to_s.upcase))
   end
 
   def countries(language_code='EN')
-    data_provider.codes(:countries, language_code.to_s.upcase)
+    data_provider.codes(:countries, normal_to_region_code(language_code.to_s.upcase))
   end
 
   def country_code(name)
@@ -33,6 +33,15 @@ module I18nData
   end
 
   private
+
+  # hardcode languages that do not have a default type
+  # e.g. zh does not exist, but zh_CN does
+  def normal_to_region_code(normal)
+    {
+      "ZH" => "ZH_CN",
+      "BN" => "BN_IN",
+    }[normal] || normal
+  end
 
   def recognise_code(type, search)
     search = search.strip

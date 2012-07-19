@@ -57,6 +57,14 @@ describe I18nData do
           it "is written in unicode" do
             I18nData.languages('DE')['DA'].should == 'Dänisch'
           end
+
+          it "has default for languages that only have subtypes" do
+            I18nData.languages('ZH')['DA'].should == '丹麦语'
+          end
+
+          it "has language subtypes" do
+            I18nData.languages('ZH_TW')['DA'].should == '丹麥語'
+          end
         end
       end
 
@@ -94,6 +102,15 @@ describe I18nData do
 
           it "is written in unicode" do
             I18nData.countries('DE')['DK'].should == 'Dänemark'
+          end
+
+          it "has default for languages that only have subtypes" do
+            I18nData.countries('ZH')['DK'].should == '丹麦'
+            I18nData.countries('BN')['DK'].should == 'ডেনমার্ক'
+          end
+
+          it "has language subtypes" do
+            I18nData.countries('ZH_TW')['DK'].should == '丹麥'
           end
         end
       end
