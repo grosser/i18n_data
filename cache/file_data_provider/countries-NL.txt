@@ -1,5 +1,5 @@
 AF;;Afghanistan
-AX;;Åland-eilanden
+AX;;Ålandseilanden
 AL;;Albanië
 DZ;;Algerije
 AS;;Amerikaans-Samoa

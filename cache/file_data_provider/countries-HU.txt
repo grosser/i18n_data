@@ -209,7 +209,7 @@ ES;;Spanyolország
 LK;;Srí Lanka
 SD;;Szudán
 SR;;Suriname
-SS;;Szudáni Köztársaság
+SS;;Dél-Szudán
 SJ;;Svalbard-szigetek és Jan Mayen-sziget
 SZ;;Szváziföld
 SE;;Svédország
@@ -238,7 +238,7 @@ UM;;Amerikai Csendes-óceáni-szigetek
 UY;;Uruguay
 UZ;;Üzbegisztán
 VU;;Vanuatu
-VE;;Venezuela
+VE;;Venezuelai Bolivári Köztársaság
 VN;;Vietnam
 VG;;Virgin-szigetek (brit)
 VI;;Virgin-szigetek (USA)

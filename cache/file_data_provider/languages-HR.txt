@@ -11,7 +11,7 @@ AS;;asamski
 AV;;avarski
 AE;;avestički
 AY;;ajmarski
-AZ;;azerski
+AZ;;azerbejdžanski
 BA;;baškirski
 BM;;bambarski
 EU;;baskijski
@@ -24,7 +24,7 @@ BR;;bretonski
 BG;;bugarski
 MY;;burmanski
 CA;;katalonski; valencijski
-CH;;chamorro
+CH;;Chamorro
 CE;;čečenski
 ZH;;kineski
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
@@ -34,13 +34,13 @@ CO;;korzički
 CR;;krijski
 CS;;češki
 DA;;danski
-DV;;divehi
+DV;;divehi; maldivski
 NL;;nizozemski; flamanski
-DZ;;dzongkha
+DZ;;Dzongkha
 EN;;engleski
 EO;;esperanto
 ET;;estonski
-EE;;ewe
+EE;;Ewe
 FO;;ferojski
 FJ;;fidžijski
 FI;;finski
@@ -54,22 +54,22 @@ GA;;irski
 GL;;galicijski
 GV;;manski
 EL;;novogrčki (od 1453.)
-GN;;guaraní
+GN;;Guarani
 GU;;gudžaratski
 HT;;haićanski kreolski
 HA;;hauski
 HE;;hebrejski
-HZ;;herero
+HZ;;Herero
 HI;;hindski
-HO;;hiri motu
+HO;;Hiri Motu
 HR;;hrvatski
 HU;;mađarski
-IG;;igbo
+IG;;Igbo
 IS;;islandski
 IO;;ido
 II;;Sichuan Yi; Nuosu
 IU;;Inuktitut
-IE;;interlingue; okcidentalni
+IE;;Interlingue; Occidental
 IA;;interlingua
 ID;;indonezijski
 IK;;Inupiaq
@@ -77,16 +77,16 @@ IT;;talijanski
 JV;;javanski
 JA;;japanski
 KL;;grenlandski
-KN;;kannada
+KN;;Kannada
 KS;;kašmirski
 KR;;kanurski
 KK;;kazaški
 KM;;kmerski
-KI;;kikuyu
+KI;;Kikuyu; Gikuyu
 RW;;Kinyarwanda
-KY;;kirgiski
-KV;;komi
-KG;;kongo
+KY;;kirgiški
+KV;;Komi
+KG;;Kongo
 KO;;korejski
 KJ;;Kuanyama; Kwanyama
 KU;;kurdski
@@ -105,7 +105,7 @@ ML;;malajalamski
 MI;;maorski
 MR;;Marathi
 MS;;malajski
-MG;;malgaški
+MG;;Malagasy
 MT;;malteški
 MO;;moldavski
 MN;;mongolski
@@ -126,7 +126,7 @@ OM;;Oromo
 OS;;osetski
 PA;;istočnopandžapski
 FA;;perzijski
-PI;;pāli
+PI;;Pali
 PL;;poljski
 PT;;portugalski
 PS;;paštunski
@@ -160,7 +160,7 @@ TE;;teluški
 TG;;tadžički
 TL;;Tagalog
 TH;;Thai
-BO;;srednjotibetski
+BO;;tibetski
 TI;;Tigrinya
 TO;;Tonga (Tonga Islands)
 TN;;Tswana

@@ -198,7 +198,7 @@ RS;;Serbia
 SC;;Seicelle
 SL;;Sierra Leone
 SG;;Singapore
-SX;;Sint Maarten (parte danese)
+SX;;Sint Maarten (parte olandese)
 SK;;Slovacchia
 SI;;Slovenia
 SB;;Isole Salomone

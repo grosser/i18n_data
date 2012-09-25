@@ -53,7 +53,7 @@ GD;;Gaelisch; Schots
 GA;;Iers
 GL;;Galiciaans
 GV;;Manx
-EL;;Grieks, Modern (1453-)
+EL;;Grieks, Modern (vanaf 1453)
 GN;;Guarani
 GU;;Gujarati
 HT;;Haïtiaans; Haïtiaans Creools
