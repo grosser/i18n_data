@@ -44,7 +44,7 @@ module I18nData
     end
 
     def cache_file_for(type,language_code)
-      file = "#{type}-#{language_code}"
+      file = "#{type}-#{language_code.upcase}"
       File.join(File.dirname(__FILE__), '..', '..', 'cache', 'file_data_provider', "#{file}.txt")
     end
   end
