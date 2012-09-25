@@ -11,6 +11,11 @@ describe I18nData::FileDataProvider do
     I18nData::FileDataProvider.codes(x,y)
   end
 
+  it "always produces uppercase locales to avoid case-sensitive madness" do
+    cache_file = I18nData::FileDataProvider.send(:cache_file_for,"countries","yy_YY")
+    File.basename(cache_file).should == "countries-YY_YY.txt"
+  end
+
   it "preserves data when writing and then reading" do
     data = {"x"=>"y","z"=>"w"}
     I18nData::FileDataProvider.send(:write_to_file, data, @cache_file)
