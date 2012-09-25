@@ -63,7 +63,7 @@ describe I18nData do
           end
 
           it "has language subtypes" do
-            I18nData.languages('ZH_TW')['DA'].should == '丹麥語'
+            I18nData.languages('zh_TW')['DA'].should == '丹麥語'
           end
         end
       end
@@ -110,7 +110,7 @@ describe I18nData do
           end
 
           it "has language subtypes" do
-            I18nData.countries('ZH_TW')['DK'].should == '丹麥'
+            I18nData.countries('zh_TW')['DK'].should == '丹麥'
           end
         end
       end
