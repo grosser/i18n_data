@@ -38,8 +38,8 @@ module I18nData
   # e.g. zh does not exist, but zh_CN does
   def normal_to_region_code(normal)
     {
-      "ZH" => "ZH_CN",
-      "BN" => "BN_IN",
+      "ZH" => "zh_CN",
+      "BN" => "bn_IN",
     }[normal] || normal
   end
 
