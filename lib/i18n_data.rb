@@ -9,11 +9,15 @@ module I18nData
 
   class << self
     def languages(language_code='EN')
-      data_provider.codes(:languages, normal_to_region_code(language_code.to_s.upcase))
+      fetch :languages, language_code do
+        data_provider.codes(:languages, normal_to_region_code(language_code.to_s.upcase))
+      end
     end
 
     def countries(language_code='EN')
-      data_provider.codes(:countries, normal_to_region_code(language_code.to_s.upcase))
+      fetch :countries, language_code do
+        data_provider.codes(:countries, normal_to_region_code(language_code.to_s.upcase))
+      end
     end
 
     def country_code(name)
@@ -34,10 +38,20 @@ module I18nData
     end
 
     def data_provider=(provider)
+      @cache = nil
       @data_provider = provider
     end
 
     private
+
+    def fetch(*args)
+      @cache ||= {}
+      if @cache.key?(args)
+        @cache[args]
+      else
+        @cache[args] = yield
+      end
+    end
 
     # hardcode languages that do not have a default type
     # e.g. zh does not exist, but zh_CN does

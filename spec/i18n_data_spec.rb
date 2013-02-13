@@ -18,12 +18,18 @@ describe I18nData do
         I18nData.data_provider = provider
       end
 
-      describe :languages do
+      describe ".languages" do
         it "raises NoTranslationAvailable for unavailable languages" do
           lambda{I18nData.languages('XX')}.should raise_error(I18nData::NoTranslationAvailable)
         end
 
-        describe :english do
+        it "is cached" do
+          id = I18nData.languages.object_id
+          I18nData.languages.object_id.should == id
+          I18nData.languages("DE").object_id.should_not == id
+        end
+
+        describe "english" do
           it "does not contain blanks" do
             blank_keys_or_values(I18nData.languages).should == nil
           end
@@ -37,7 +43,7 @@ describe I18nData do
           end
         end
 
-        describe :translated do
+        describe "translated" do
           it "is translated" do
             I18nData.languages('DE')['DE'].should == 'Deutsch'
           end
@@ -68,8 +74,14 @@ describe I18nData do
         end
       end
 
-      describe :countries do
-        describe :english do
+      describe ".countries" do
+        it "is cached" do
+          id = I18nData.countries.object_id
+          I18nData.countries.object_id.should == id
+          I18nData.countries("DE").object_id.should_not == id
+        end
+
+        describe "english" do
           it "has english as default" do
             I18nData.countries['DE'].should == 'Germany'
           end
@@ -83,7 +95,7 @@ describe I18nData do
           end
         end
 
-        describe :translated do
+        describe "translated" do
           it "is translated" do
             I18nData.countries('DE')['DE'].should == 'Deutschland'
           end
