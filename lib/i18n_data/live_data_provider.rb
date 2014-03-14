@@ -51,9 +51,16 @@ module I18nData
 
         begin
           url = TRANSLATIONS[type]+"#{code}.po"
-          data = open(url).read
-        rescue
-          raise NoTranslationAvailable, "for #{type} and language code = #{code} (#{$!})"
+          data = get(url)
+        rescue => e
+          case e.to_s
+          when /\A404 /
+            raise NoTranslationAvailable, "for #{type} and language code = #{code} (#{$!})"
+          when /\A502 /
+            raise AccessDenied, "for #{type} and language code = #{code} (#{$!})"
+          else
+            raise Unknown, "#{e.to_s} for #{type} and language code = #{code} (#{$!})"
+          end
         end
 
         data = data.force_encoding('utf-8') if data.respond_to?(:force_encoding) # 1.9
@@ -96,9 +103,23 @@ module I18nData
       end]
     end
 
+    def get(url)
+      $stderr.puts "GET #{url}" if $DEBUG
+      @@cache ||= {}
+      return @@cache[url] if @@cache.include? url
+      @@cache[url] = open(url).read
+    end
+
     def xml(type)
-      xml = open(XML_CODES[type]).read
+      xml = get(XML_CODES[type])
       REXML::Document.new(xml)
+    rescue => e
+      case e.to_s
+      when /\A502 /
+        raise AccessDenied, "for index of #{type} (#{$!})"
+      else
+        raise Unknown, "#{e.to_s} for index of #{type} (#{$!})"
+      end
     end
   end
 end

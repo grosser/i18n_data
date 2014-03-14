@@ -17,7 +17,7 @@ BM;;Tiếng Bam-ba-ra
 EU;;Tiếng Baxcơ
 BE;;Tiếng Be-la-ruxợ
 BN;;Tiếng Băng Gan
-BH;;Hệ ngôn ngữ Tai
+BH;;Hệ ngôn ngữ Bihari
 BI;;Tiếng Bix-la-ma
 BS;;Tiếng Bô-xni-a
 BR;;Tiếng Boue-ton (Pháp)

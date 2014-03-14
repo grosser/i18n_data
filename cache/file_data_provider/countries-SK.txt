@@ -167,7 +167,7 @@ NO;;Nórsko
 OM;;Omán
 PK;;Pakistan
 PW;;Palau
-PS;;palestínske územie, Okupované
+PS;;Palestína
 PA;;Panama
 PG;;Papua - Nová Guinea
 PY;;Paraguaj

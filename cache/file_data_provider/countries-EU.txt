@@ -24,7 +24,7 @@ BZ;;Belize
 BJ;;Benin
 BM;;Bermuda
 BT;;Bhutan
-BO;;Bolivia, Nazio-anitzeko estatua
+BO;;Bolivia, Nazio-anitzeko Estatua
 BQ;;Bonaire, Sint Eustatius eta Saba
 BA;;Bosnia eta Herzegovina
 BW;;Botswana
@@ -167,7 +167,7 @@ NO;;Norvegia
 OM;;Oman
 PK;;Pakistan
 PW;;Palau
-PS;;Palestinar Lurraldea, okupatua
+PS;;Palestinako Estatua
 PA;;Panama
 PG;;Papua Ginea Berria
 PY;;Paraguai

@@ -167,7 +167,7 @@ NO;;Noruveje
 OM;;Omani
 PK;;Pakisitani
 PW;;Palawu
-PS;;Teritwari ya Palesitina, Ifitwe
+PS;;Palestine, State of
 PA;;Panama
 PG;;Papuwa Nuveli Gineya
 PY;;Paragwe

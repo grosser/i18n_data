@@ -1,6 +1,7 @@
-source :rubygems
+source 'https://rubygems.org'
 gemspec
 
-gem "bump"
-gem "rake"
-gem "rspec", "~>2"
+gem 'bump'
+gem 'rake'
+gem 'rspec', '~>2'
+gem 'ruby-progressbar'

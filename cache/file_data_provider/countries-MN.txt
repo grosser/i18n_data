@@ -167,7 +167,7 @@ NO;;Норвеги
 OM;;Оман
 PK;;Пакистан
 PW;;Палау
-PS;;Palestinian Territory, Occupied
+PS;;Palestine, State of
 PA;;Панама
 PG;;Papua New Guinea
 PY;;Прагвай

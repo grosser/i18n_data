@@ -1,11 +1,16 @@
 require 'i18n_data/version'
 
 module I18nData
-  class NoTranslationAvailable < Exception
+
+  class BaseException < Exception
     def to_s
-      "NoTranslationAvailable -- #{super}"
+      "#{self.class} -- #{super}"
     end
   end
+
+  class NoTranslationAvailable < BaseException; end
+  class AccessDenied < BaseException; end
+  class Unknown < BaseException; end
 
   class << self
     def languages(language_code='EN')

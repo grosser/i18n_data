@@ -167,7 +167,7 @@ NO;;Norwegen
 OM;;Oman
 PK;;Pakistan
 PW;;Palau
-PS;;Palästinensische Autonomiegebiete
+PS;;Palästina, Staat
 PA;;Panama
 PG;;Papua-Neuguinea
 PY;;Paraguay

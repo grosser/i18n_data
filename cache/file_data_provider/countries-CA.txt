@@ -167,7 +167,7 @@ NO;;Noruega
 OM;;Oman
 PK;;Pakistan
 PW;;Palau
-PS;;Territori Palestí, Ocupat
+PS;;Palestine, State of
 PA;;Panamà
 PG;;Papua Nova Guinea
 PY;;Paraguai

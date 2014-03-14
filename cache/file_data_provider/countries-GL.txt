@@ -167,7 +167,7 @@ NO;;Noruega
 OM;;Omán
 PK;;Paquistán
 PW;;Palau
-PS;;Territorios Palestinos, Ocupados
+PS;;Palestina, Estado de
 PA;;Panamá
 PG;;Papúa Nova Guinea
 PY;;Paraguai

@@ -167,7 +167,7 @@ NO;;Norvegija
 OM;;Omanas
 PK;;Pakistanas
 PW;;Palau
-PS;;Palestinos teritorija, okupuota
+PS;;Palestinos valstybė
 PA;;Panama
 PG;;Papua Naujoji Gvinėja
 PY;;Paragvajus

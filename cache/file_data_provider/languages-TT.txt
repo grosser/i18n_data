@@ -1,185 +1,185 @@
-AA;;Afarça
-AB;;Abxazça
-AF;;Afrikança
+AA;;Афарча
+AB;;Абхазча
+AF;;Африканча
 AK;;Akan
-SQ;;Albança
-AM;;Amharça
-AR;;Ğäräpçä
+SQ;;Албанча
+AM;;Амһарча
+AR;;Гәрәпчә
 AN;;Aragonese
-HY;;Ärmänçä
-AS;;Assamesçä
+HY;;Әрмәнчә
+AS;;Ассамесчә
 AV;;Avaric
-AE;;Avestança
-AY;;Aymarça
-AZ;;Äzerçä
-BA;;Başqortça
+AE;;Авестанча
+AY;;Аймарча
+AZ;;Әзерчә
+BA;;Башкортча
 BM;;Bambara
-EU;;Basqça
-BE;;Belarusça
-BN;;Bengalça
-BH;;Ğosman telläre
-BI;;Bislamaça
-BS;;Bosniçä
-BR;;Bretonça
-BG;;Bulgarça
-MY;;Burmesçä
+EU;;Баскча
+BE;;Беларусча
+BN;;Бенgалча
+BH;;Госман телләре
+BI;;Бисламача
+BS;;Босничә
+BR;;Бретонча
+BG;;Булgарча
+MY;;Бурмесчә
 CA;;Catalan; Valencian
-CH;;Çamorroça
-CE;;Çäçänçä
-ZH;;Çinçä
+CH;;Чаморроча
+CE;;Чәчәнчә
+ZH;;Чинчә
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
-CV;;Çuaşça
-KW;;Kornişçä
-CO;;Korsikça
+CV;;Чуаща
+KW;;Корнищә
+CO;;Корсикча
 CR;;Cree
-CS;;Çexçä
-DA;;Dança
+CS;;Чехчә
+DA;;Данча
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Dutch; Flemish
-DZ;;Dzongxaça
-EN;;İnglizçä
-EO;;Esperanto
-ET;;Estonça
+DZ;;Дзонgхача
+EN;;İнgлизчә
+EO;;Есперанто
+ET;;Естонча
 EE;;Ewe
-FO;;Farosça
-FJ;;Fijiçä
-FI;;Finçä
-FR;;Fransça
-FY;;Frisçä
+FO;;Фаросча
+FJ;;Фижичә
+FI;;Финчә
+FR;;Франсча
+FY;;Фрисчә
 FF;;Fulah
-KA;;Görceçä
-DE;;Almança
+KA;;Gөрҗечә
+DE;;Алманча
 GD;;Gaelic; Scottish Gaelic
-GA;;İrişçä
-GL;;Galisçä
-GV;;Manksça
+GA;;İрищә
+GL;;Gалисчә
+GV;;Манксча
 EL;;Greek, Modern (1453-)
-GN;;Guarança
-GU;;Gujaratça
+GN;;Gуаранча
+GU;;Gужаратча
 HT;;Haitian; Haitian Creole
-HA;;Hausça
-HE;;Yähüdçä
-HZ;;Hereroça
-HI;;Hindçä
+HA;;Һаусча
+HE;;Йәһүдчә
+HZ;;Һерероча
+HI;;Һиндчә
 HO;;Hiri Motu
-HR;;Kroatça
-HU;;Macarça
+HR;;Кроатча
+HU;;Маҗарча
 IG;;Igbo
-IS;;İslandça
-IO;;İdoça
+IS;;İсландча
+IO;;İдоча
 II;;Sichuan Yi; Nuosu
-IU;;İnuktitutça
-IE;;İnterlingue
+IU;;İнуктитутча
+IE;;İнтерлинgуе
 IA;;Interlingua (International Auxiliary Language Association)
-ID;;İndonesçä
-IK;;İnupiaqça
-IT;;İtalça
-JV;;Javaça
-JA;;Japança
+ID;;İндонесчә
+IK;;İнупиакча
+IT;;İталча
+JV;;Жавача
+JA;;Жапанча
 KL;;Kalaallisut; Greenlandic
-KN;;Kannadça
-KS;;Kaşmirçä
+KN;;Каннадча
+KS;;Кашмирчә
 KR;;Kanuri
-KK;;Qazaqça
+KK;;Казакча
 KM;;Central Khmer
-KI;;Kikuyuça
-RW;;Kinyarwandaça
-KY;;Qırğızça
-KV;;Komiçä
+KI;;Кикуюча
+RW;;Кинярвандача
+KY;;Кыргызча
+KV;;Комичә
 KG;;Kongo
-KO;;Koreyçä
+KO;;Корейчә
 KJ;;Kuanyama; Kwanyama
-KU;;Kördçä
-LO;;Laoça
-LA;;Latınça
-LV;;Latça
+KU;;Көрдчә
+LO;;Лаоча
+LA;;Латынча
+LV;;Латча
 LI;;Limburgan; Limburger; Limburgish
-LN;;Lingalaça
-LT;;Litçä
-LB;;Lüksemburgça
+LN;;Линgалача
+LT;;Литчә
+LB;;Лүксембурgча
 LU;;Luba-Katanga
 LG;;Ganda
-MK;;Makedonça
-MH;;Marşallça
-ML;;Malayalamça
-MI;;Maoriça
-MR;;Maratça
-MS;;Malayça
-MG;;Malagasça
-MT;;Maltesçä
-MO;;Moldavça
-MN;;Moğolça
-NA;;Nauruça
+MK;;Македонча
+MH;;Маршаллча
+ML;;Малаяламча
+MI;;Маорича
+MR;;Маратча
+MS;;Малайча
+MG;;Малаgасча
+MT;;Малтесчә
+MO;;Молдавча
+MN;;Моголча
+NA;;Науруча
 NV;;Navajo; Navaho
-NR;;Ndebeleçä, Könyaq
-ND;;Ndebeleçä, Tönyaq
-NG;;Ndongaça
-NE;;Nepalça
-NN;;Norwejçä (Nynorsk)
+NR;;Ндебелечә, Көняк
+ND;;Ндебелечә, Төняк
+NG;;Ндонgача
+NE;;Непалча
+NN;;Норвежчә (Нйнорск)
 NB;;Bokmål, Norwegian; Norwegian Bokmål
-NO;;Norwejçä
+NO;;Норвежчә
 NY;;Chichewa; Chewa; Nyanja
 OC;;Occitan (post 1500)
 OJ;;Ojibwa
-OR;;Oriyaça
-OM;;Oromoça
-OS;;Ossetinçä
-PA;;Punjabça
-FA;;Farsıça
-PI;;Palçä
-PL;;Polça
-PT;;Portugalça
-PS;;Puştu Farsıçası
-QU;;Queçuaça
-RM;;Romança
-RO;;Romança
-RN;;Rundçä
-RU;;Urısça
-SG;;Sangoça
-SA;;Sanskritçä
+OR;;Орияча
+OM;;Оромоча
+OS;;Оссетинчә
+PA;;Пунжабча
+FA;;Фарсыча
+PI;;Палчә
+PL;;Полча
+PT;;Портуgалча
+PS;;Пушту Фарсычасы
+QU;;Куечуача
+RM;;Романча
+RO;;Романча
+RN;;Рундчә
+RU;;Урысча
+SG;;Санgоча
+SA;;Санскритчә
 SI;;Sinhala; Sinhalese
-SK;;Slovakça
-SL;;Slovençä
-SE;;Tönyaq Sami
-SM;;Samoaça
-SN;;Şonaça
-SD;;Sindihçä
-SO;;Somaliçä
-ST;;Sothoça, Könyaq
+SK;;Словакча
+SL;;Словенчә
+SE;;Төняк Сами
+SM;;Самоача
+SN;;Шонача
+SD;;Синдиһчә
+SO;;Сомаличә
+ST;;Сотһоча, Көняк
 ES;;Spanish; Castilian
-SC;;Sardinçä
-SR;;Serbçä
-SS;;Swatça
-SU;;Sundanesçä
-SW;;Swahiliçä
-SV;;İswäcçä
-TY;;Tahitçä
-TA;;Tamilça
-TT;;Tatarça
-TE;;Teluguça
-TG;;Tajıqça
-TL;;Tagalogça
-TH;;Tayça
-BO;;Tibetçä
-TI;;Tigrinyaça
+SC;;Сардинчә
+SR;;Сербчә
+SS;;Сватча
+SU;;Сунданесчә
+SW;;Сваһиличә
+SV;;İсвәҗчә
+TY;;Таһитчә
+TA;;Тамилча
+TT;;Татарча
+TE;;Телуgуча
+TG;;Тажыкча
+TL;;Таgалоgча
+TH;;Тайча
+BO;;Тибетчә
+TI;;Тиgриняча
 TO;;Tonga (Tonga Islands)
-TN;;Tswanaça
-TS;;Tsongaça
-TK;;Törekmänçä
-TR;;Törekçä
-TW;;Twiçä
-UG;;Uyğurça
-UK;;Ukrainça
-UR;;Urduça
-UZ;;Üzbäkçä
-VE;;Vendaça
-VI;;Vietnamça
-VO;;Volapükçä
-CY;;Welşçä
-WA;;Walonça
-WO;;Wolofça
-XH;;Xosaça
-YI;;Yidiş
-YO;;Yorubaça
+TN;;Цванача
+TS;;Цонgача
+TK;;Төрекмәнчә
+TR;;Төрекчә
+TW;;Твичә
+UG;;Уйгурча
+UK;;Украинча
+UR;;Урдуча
+UZ;;Үзбәкчә
+VE;;Вендача
+VI;;Виетнамча
+VO;;Волапүкчә
+CY;;Велщә
+WA;;Валонча
+WO;;Волофча
+XH;;Хосача
+YI;;Йидиш
+YO;;Ёрубача
 ZA;;Zhuang; Chuang
-ZU;;Zuluça
+ZU;;Зулуча

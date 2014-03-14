@@ -16,7 +16,7 @@ BA;;Baschkirisch
 BM;;Bambara-Sprache
 EU;;Baskisch
 BE;;Weißrussisch
-BN;;Bengali
+BN;;Bengalisch
 BH;;Bihari-Sprachen
 BI;;Beach-la-Mar
 BS;;Bosnisch

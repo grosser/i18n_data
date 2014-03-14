@@ -12,14 +12,23 @@ module I18nData
 
     def write_cache(provider)
       languages = provider.codes(:languages, 'EN').keys + ['zh_CN', 'zh_TW', 'zh_HK','bn_IN','pt_BR']
-      languages.each do |language_code|
+      
+      if tty = STDOUT.tty?
+        require 'ruby-progressbar'
+        progress = ProgressBar.create(:format => '%t %p %e',  :title => 'writing translation cache data', :total => languages.count)
+      end
+      languages.map do |language_code|
         [:languages, :countries].each do |type|
           begin
             data = provider.send(:codes, type, language_code)
             write_to_file(data, cache_file_for(type, language_code))
           rescue NoTranslationAvailable
+            $stderr.puts "No translation available for #{type} #{language_code}" if $DEBUG
+          rescue AccessDenied
+            $stderr.puts "Access denied for #{type} #{language_code}"
           end
         end
+        progress.increment if tty
       end
     end
 

@@ -167,7 +167,7 @@ NO;;Norwy
 OM;;Oman
 PK;;Pacistan
 PW;;Palau
-PS;;Tiriogaeth Palesteina, Meddianedig
+PS;;Palestina, Gwladwriaeth
 PA;;Panama
 PG;;Papua Guinea Newydd
 PY;;Paraguay

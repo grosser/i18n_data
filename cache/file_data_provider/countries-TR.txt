@@ -167,7 +167,7 @@ NO;;Norveç
 OM;;Umman
 PK;;Pakistan
 PW;;Palau
-PS;;Filistin Özerk Bölgesi
+PS;;Filistin Devleti
 PA;;Panama
 PG;;Papua Yeni Gine
 PY;;Paraguay
