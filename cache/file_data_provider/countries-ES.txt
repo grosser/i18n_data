@@ -40,7 +40,7 @@ CM;;Camerún
 CA;;Canadá
 CV;;Cabo Verde
 KY;;Islas Caimán
-CF;;Centro-africana, República
+CF;;República Centro-africana
 TD;;Chad
 CL;;Chile
 CN;;China
@@ -94,7 +94,7 @@ GN;;Guinea
 GW;;Guinea-Bissau
 GY;;Guyana
 HT;;Haití
-HM;;Islas Heard, Islas y McDonald
+HM;;Islas Heard e Islas McDonald
 VA;;Santa Sede (Ciudad Estado del Vaticano)
 HN;;Honduras
 HK;;Hong Kong
@@ -167,7 +167,7 @@ NO;;Noruega
 OM;;Omán
 PK;;Pakistán
 PW;;Palau
-PS;;Territorio palestino, Ocupado
+PS;;Palestina, Estado de
 PA;;Panamá
 PG;;Papúa Nueva Guinea
 PY;;Paraguay
@@ -219,7 +219,7 @@ TW;;Taiwán, Provincia de China
 TJ;;Tadjikistán
 TZ;;Tanzania, República unida de
 TH;;Tailandia
-TL;;Timor-Leste
+TL;;Timor Oriental
 TG;;Togo
 TK;;Tokelau
 TO;;Tonga

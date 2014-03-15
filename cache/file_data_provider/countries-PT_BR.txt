@@ -25,7 +25,7 @@ BJ;;Benin
 BM;;Bermuda
 BT;;Butão
 BO;;Bolívia, Estado Plurinacional da
-BQ;;Bonaire, Sint Eustatius and Saba
+BQ;;Bonaire, Saba e Santo Eustáquio
 BA;;Bósnia-Herzegóvina
 BW;;Botsuana
 BV;;Ilha Bouvet
@@ -116,7 +116,7 @@ KZ;;Cazaquistão
 KE;;Quênia
 KI;;Kiribati
 KP;;Korea, Democratic Peoples Republic ofs Republic of
-KR;;República da Coréia
+KR;;Coreia, República da
 KW;;Kuwait
 KG;;Quirguistão
 LA;;Lao Peoples Democratic Republics Democratic Republic
@@ -167,9 +167,9 @@ NO;;Noruega
 OM;;Omã
 PK;;Paquistão
 PW;;Palau
-PS;;Palestina, Território Ocupado da
+PS;;Palestina, Estado da
 PA;;Panamá
-PG;;Papua Nova Guiné
+PG;;Papua-Nova Guiné
 PY;;Paraguai
 PE;;Peru
 PH;;Filipinas
@@ -182,8 +182,8 @@ RE;;Reunião
 RO;;Romênia
 RU;;Federação Russa
 RW;;Ruanda
-BL;;Saint Barthélemy
-SH;;Saint Helena, Ascension and Tristan da Cunha
+BL;;São Bartolomeu
+SH;;Santa Helena, Ascensão e Tristão da Cunha
 KN;;São Cristóvão e Névis
 LC;;Santa Lúcia
 MF;;São Martim (parte francesa)
@@ -198,7 +198,7 @@ RS;;Sérvia
 SC;;Seychelles
 SL;;Serra Leoa
 SG;;Cingapura
-SX;;São Martim (parte francesa)
+SX;;São Martim (parte holandesa)
 SK;;Eslováquia
 SI;;Eslovênia
 SB;;Ilhas Salomão
@@ -209,7 +209,7 @@ ES;;Espanha
 LK;;Sri Lanka
 SD;;Sudão
 SR;;Suriname
-SS;;República do Sudão
+SS;;Sudão do Sul
 SJ;;Svalbard e a Ilha de Jan Mayen
 SZ;;Suazilândia
 SE;;Suécia

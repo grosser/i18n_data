@@ -1,19 +1,19 @@
 AF;;Afganistan
 AX;;Álandseyjar
 AL;;Albanía
-DZ;;Búlgaría
-AS;;Ameríka - Norður Ameríka
+DZ;;Alsír
+AS;;Bandarísku Samóaeyjar
 AD;;Andorra
 AO;;Angóla
 AI;;Angvíla
 AQ;;Suðurskautslandið
 AG;;Antigúa og Barbúda
 AR;;Argentína
-AM;;Argentína
+AM;;Armenía
 AW;;Arúba
 AU;;Ástralía
 AT;;Austurríki
-AZ;;Azerbaijan
+AZ;;Aserbaídsjan
 BS;;Bahamaeyjar
 BH;;Barein
 BD;;Bangladess
@@ -42,7 +42,7 @@ CV;;Grænhöfðaeyjar
 KY;;Cayman-eyjar
 CF;;Miðafríkulýðveldið
 TD;;Tsjad
-CL;;Chile
+CL;;Síle
 CN;;Kína
 CX;;Jólaeyja
 CC;;Kókoseyjar (Keeling-eyjar)
@@ -167,7 +167,7 @@ NO;;Noregur
 OM;;Óman
 PK;;Pakistan
 PW;;Palá
-PS;;Palestína, herteknu svæðin
+PS;;Palestína
 PA;;Panama
 PG;;Papúa Nýja-Gínea
 PY;;Paragvæ

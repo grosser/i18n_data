@@ -8,16 +8,16 @@ AR;;Арабски
 AN;;Арагонски
 HY;;Арменски
 AS;;Асамски
-AV;;Avaric
+AV;;Аварски
 AE;;Авестийски
 AY;;Аймараски
 AZ;;Азербайджански
 BA;;Башкирски
-BM;;Bambara
+BM;;Бамбара
 EU;;Баски
 BE;;Белоруски
 BN;;Бенгалски
-BH;;Bihari languages
+BH;;Бихарски езици
 BI;;Бислама
 BS;;Босненски
 BR;;Бретонски
@@ -31,7 +31,7 @@ CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slav
 CV;;Чувашки
 KW;;Корнуелски
 CO;;Корсикански
-CR;;Cree
+CR;;Кри
 CS;;Чешки
 DA;;Датски
 DV;;Дхивехи
@@ -74,7 +74,7 @@ IA;;Interlingua (International Auxiliary Language Association)
 ID;;Индонезийски
 IK;;Inupiaq
 IT;;Италиански
-JV;;Явански
+JV;;Явайски
 JA;;Японски
 KL;;Kalaallisut; Greenlandic
 KN;;Kannada
@@ -168,11 +168,11 @@ TS;;Tsonga
 TK;;Туркменски
 TR;;Турски
 TW;;Туи
-UG;;Uighur; Uyghur
+UG;;Уйгурски
 UK;;Украински
 UR;;Урду
 UZ;;Узбекски
-VE;;Venda
+VE;;Венда
 VI;;Виетнамски
 VO;;Волапюк
 CY;;Уелски

@@ -167,7 +167,7 @@ NO;;Norvedje
 OM;;Oman
 PK;;Pakistan
 PW;;Palawou
-PS;;Palestene
+PS;;Palestine, State of
 PA;;Panama
 PG;;Papouwazeye Nouve Guinêye
 PY;;Paragway

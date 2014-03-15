@@ -167,7 +167,7 @@ NO;;挪威
 OM;;阿曼
 PK;;巴基斯坦
 PW;;帕勞
-PS;;巴勒斯坦
+PS;;Palestine, State of
 PA;;巴拿馬
 PG;;巴布亞新畿內亞
 PY;;巴拉圭

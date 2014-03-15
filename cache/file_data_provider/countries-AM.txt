@@ -167,7 +167,7 @@ NO;;ኖሴፃ
 OM;;Oman
 PK;;Pakistan
 PW;;Palau
-PS;;Palestinian Territory, Occupied
+PS;;Palestine, State of
 PA;;Panama
 PG;;ፓፑፂ ኒፄ ጑ኒ
 PY;;Paraguay

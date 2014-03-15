@@ -24,7 +24,7 @@ BZ;;Belize
 BJ;;Benin
 BM;;Bermuda
 BT;;Bhutan
-BO;;Bolivia, Plurinational State of
+BO;;Bolivia
 BQ;;Bonaire, Sint Eustatius and Saba
 BA;;Bosnia-Hercegovina
 BW;;Botswana
@@ -124,7 +124,7 @@ LV;;Latvia
 LB;;Libanon
 LS;;Lesotho
 LR;;Liberia
-LY;;Liberia
+LY;;Libya
 LI;;Liechtenstein
 LT;;Litauen
 LU;;Luxembourg; Luxemburg
@@ -143,14 +143,14 @@ MU;;Mauritius
 YT;;Mayotte
 MX;;Mexico
 FM;;Mikronesiaføderasjonen
-MD;;Makedonia, Republikken
+MD;;Republikken Moldova
 MC;;Monaco
 MN;;Mongolia
 ME;;Montenegro
 MS;;Montserrat
 MA;;Marokko
 MZ;;Mosambik
-MM;;Myanmar; Burma
+MM;;Myanmar
 NA;;Namibia
 NR;;Nauru
 NP;;Nepal
@@ -167,7 +167,7 @@ NO;;Noreg
 OM;;Oman
 PK;;Pakistan
 PW;;Palau
-PS;;Palestinske territorium, Okkuperte
+PS;;Palestina
 PA;;Panama
 PG;;Papua Ny-Guinea
 PY;;Paraguay
@@ -209,7 +209,7 @@ ES;;Spania
 LK;;Sri Lanka
 SD;;Sudan
 SR;;Surinam
-SS;;Republikken Sudan
+SS;;Sør-Sudan
 SJ;;Svalbard og Jan Mayen
 SZ;;Swaziland
 SE;;Sverige
@@ -238,7 +238,7 @@ UM;;Mindre utanforliggjande øyar til USA
 UY;;Uruguay
 UZ;;Usbekistan
 VU;;Vanuatu
-VE;;Republikken Venezuela
+VE;;Venezuela
 VN;;Vietnam
 VG;;Jomfruøyane (Storbritannia)
 VI;;Jomfruøyane (USA)

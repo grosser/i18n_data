@@ -167,7 +167,7 @@ NO;;Norra
 OM;;Omaan
 PK;;Pakistan
 PW;;Belau
-PS;;Palestiina okupeeritud ala
+PS;;Palestiina Riik
 PA;;Panama
 PG;;Paapua Uus-Guinea
 PY;;Paraguay
@@ -209,7 +209,7 @@ ES;;Hispaania
 LK;;Sri Lanka
 SD;;Sudaan
 SR;;Suriname
-SS;;Sudaani Vabariik
+SS;;Lõuna-Sudaan
 SJ;;Svalbard ja Jan Mayen
 SZ;;Svaasimaa
 SE;;Rootsi

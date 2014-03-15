@@ -167,7 +167,7 @@ NO;;Norweej
 OM;;Omaan
 PK;;Pakistaan
 PW;;Palau
-PS;;Suufi Palestiin, yiñu Naŋgu
+PS;;Palestine, State of
 PA;;Panamaa
 PG;;Papwa Nuweel Ginne
 PY;;Paraguwaay

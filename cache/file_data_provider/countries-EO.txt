@@ -167,7 +167,7 @@ NO;;Norvegio
 OM;;Omano
 PK;;Pakistano
 PW;;Palaŭo
-PS;;Palestino, Okupita
+PS;;Palestino, Ŝtato
 PA;;Panamo
 PG;;Papuo-Nov-Gvineo
 PY;;Paragvajo

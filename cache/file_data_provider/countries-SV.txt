@@ -150,7 +150,7 @@ ME;;Montenegro
 MS;;Montserrat
 MA;;Marocko
 MZ;;Moçambique
-MM;;Burma
+MM;;Myanmar
 NA;;Namibia
 NR;;Nauru
 NP;;Nepal
@@ -167,7 +167,7 @@ NO;;Norge
 OM;;Oman
 PK;;Pakistan
 PW;;Palau
-PS;;Palestinska territoriet, ockuperade
+PS;;Staten Palestina
 PA;;Panama
 PG;;Papua Nya Guinea
 PY;;Paraguay

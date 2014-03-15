@@ -105,7 +105,7 @@ ML;;malajalamski
 MI;;maorski
 MR;;Marathi
 MS;;malajski
-MG;;Malagasy
+MG;;malgaški
 MT;;malteški
 MO;;moldavski
 MN;;mongolski
@@ -147,7 +147,7 @@ SD;;Sindhi
 SO;;somalski
 ST;;Sotho, Southern
 ES;;španjolski; kastiljanski
-SC;;Sardinian
+SC;;sardinijski
 SR;;srpski
 SS;;Swati
 SU;;Sundanese
@@ -157,9 +157,9 @@ TY;;tahićanski
 TA;;tamilski
 TT;;tatarski
 TE;;teluški
-TG;;tadžički
+TG;;tadžikistanski
 TL;;Tagalog
-TH;;Thai
+TH;;tajlandski
 BO;;tibetski
 TI;;Tigrinya
 TO;;Tonga (Tonga Islands)

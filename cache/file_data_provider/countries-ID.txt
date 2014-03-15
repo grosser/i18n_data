@@ -167,7 +167,7 @@ NO;;Norwegia
 OM;;Oman
 PK;;Pakistan
 PW;;Palau
-PS;;Wilayah Palestina
+PS;;Negara Palestina
 PA;;Panama
 PG;;Papua Nugini
 PY;;Paraguay

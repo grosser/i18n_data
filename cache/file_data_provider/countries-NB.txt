@@ -24,7 +24,7 @@ BZ;;Belize
 BJ;;Benin
 BM;;Bermuda
 BT;;Bhutan
-BO;;Bolivia, Den flernasjonale stat
+BO;;Bolivia, den flernasjonale stat
 BQ;;Bonaire, Sint Eustatius og Saba
 BA;;Bosnia-Hercegovina
 BW;;Botswana
@@ -167,7 +167,7 @@ NO;;Norge
 OM;;Oman
 PK;;Pakistan
 PW;;Palau
-PS;;Palestinske territorier, Okkuperte
+PS;;Palestina, staten
 PA;;Panama
 PG;;Papua Ny-Guinea
 PY;;Paraguay

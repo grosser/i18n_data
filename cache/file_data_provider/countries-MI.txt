@@ -1,249 +1,249 @@
-AF;;Afghanistan
-AX;;Airana
-AL;;Albania
-DZ;;Purukeria
-AS;;Reo Arapia
+AF;;Āwhekenetāna
+AX;;Moutere Aaland
+AL;;Arapeinia
+DZ;;Algeria
+AS;;Hāmoa Amerikana
 AD;;Andorra
-AO;;Angola
+AO;;Anakora
 AI;;Anguilla
 AQ;;Antarctica
-AG;;Reo Peina Raki Rāwhiti
-AR;;Reo Parani Uropi-Īnia
-AM;;Reo Parani Uropi-Īnia
+AG;;Antigua and Barbuda
+AR;;Āketina
+AM;;Āmenia
 AW;;Aruba
 AU;;Ahitereiria
 AT;;Ateria
-AZ;;Reo Koroātia
-BS;;Kaupapa
-BH;;Parahi
-BD;;Reo Pākehā
-BB;;Raranga
-BY;;Ahi
-BE;;Peretiama
-BZ;;Peretiama
-BJ;;Benin
+AZ;;Atepaihānia
+BS;;Bahamas
+BH;;Bahrain
+BD;;Pākaratēhi
+BB;;Barbados
+BY;;Pērara
+BE;;Pehiamu
+BZ;;Belize
+BJ;;Pēnina
 BM;;Bermuda
-BT;;Bhutan
-BO;;Bolivia, Plurinational State of
+BT;;Putāna
+BO;;Poriwia
 BQ;;Bonaire, Sint Eustatius and Saba
-BA;;Bosnia and Herzegovina
+BA;;Pōngia-Herekōmina
 BW;;Botswana
 BV;;Bouvet Island
-BR;;Parahi
+BR;;Parīhi
 IO;;British Indian Ocean Territory
-BN;;Brunei Darussalam
-BG;;Purukeria
-BF;;Burkina Faso
-BI;;Burundi
-KH;;Kāpehu
-CM;;Cameroon
-CA;;Reo Peina Raki Rāwhiti
+BN;;Poronai
+BG;;Purukāria
+BF;;Pūkina
+BI;;Puruniti
+KH;;Kamapōtia
+CM;;Kamarūna
+CA;;Kānata
 CV;;Cape Verde
 KY;;Cayman Islands
-CF;;Reo Romeinia
-TD;;Reo Hāina
-CL;;Reo Hāina
-CN;;Reo Hāina
+CF;;Central African Republic
+TD;;Chad
+CL;;Hiri
+CN;;Haina
 CX;;Christmas Island
 CC;;Cocos (Keeling) Islands
-CO;;Kāpehu
+CO;;Koromōpia
 KM;;Comoros
-CG;;Congo
-CD;;Congo, The Democratic Republic of the
-CK;;Cook Islands
+CG;;Kōngo
+CD;;Kōngo
+CK;;Kuki Airani
 CR;;Costa Rica
 CI;;Côte dIvoireIvoire
-HR;;Reo Koroātia
-CU;;Kāpehu
+HR;;Koroātia
+CU;;Kūpā
 CW;;Curaçao
-CY;;Cyprus
-CZ;;Reo Romeinia
-DK;;Tenemaka
-DJ;;Djibouti
-DM;;Romeinia
-DO;;Reo Romeinia
-EC;;Kaiwhakatika
-EG;;Kaiwhakamahi mutunga
-SV;;Ōrite Tātai
-GQ;;Equatorial Guinea
-ER;;Eritrea
+CY;;Haipara
+CZ;;Whenua Tīeke
+DK;;Tenemāka
+DJ;;Tipūti
+DM;;Tominika
+DO;;Dominican Republic
+EC;;Ekuatoa
+EG;;Egypt
+SV;;El Salvador
+GQ;;Kini Ekuatoria
+ER;;Eritēria
 EE;;Etonia
-ET;;Etonia
+ET;;Etiopia
 FK;;Falkland Islands (Malvinas)
-FO;;Airana
+FO;;Moutere Faroe
 FJ;;Fiji
-FI;;Whinarana
-FR;;Parani
-GF;;French Guiana
-PF;;French Polynesia
+FI;;Hinerangi
+FR;;Wīwī
+GF;;Kaiana Wīwī
+PF;;Porinīhia Wīwī
 TF;;French Southern Territories
-GA;;Gabon
-GM;;Romeinia
-GE;;Reo Koroātia
+GA;;Kāpona
+GM;;Gambia
+GE;;Hōria
 DE;;Tiamana
-GH;;Reo Hāina
-GI;;Gibraltar
-GR;;Reo Kariki
-GL;;Airana
-GD;;Airana
+GH;;Kāna
+GI;;Kāmaka
+GR;;Kirihi
+GL;;Greenland
+GD;;Grenada
 GP;;Guadeloupe
-GU;;Reo Peina Raki Rāwhiti
-GT;;Reo Peina Raki Rāwhiti
-GG;;Guernsey
+GU;;Kuamu
+GT;;Guatemala
+GG;;Kōnihi
 GN;;Guinea
-GW;;Guinea-Bissau
-GY;;Guyana
+GW;;Kini Pihō
+GY;;Kaiana
 HT;;Haiti
 HM;;Heard Island and McDonald Islands
-VA;;Holy See (Vatican City State)
-HN;;Tangi
-HK;;Hong Kong
+VA;;Poho o Pita
+HN;;Honduras
+HK;;Hongipua
 HU;;Hanekari
 IS;;Tiorangi
-IN;;Mea Tākaro
-ID;;Mea Tākaro
-IR;;Reo Romeinia
-IQ;;Iharaira
-IE;;Airana
-IM;;Isle of Man
+IN;;Īnia
+ID;;Initonīhia
+IR;;Īrāna
+IQ;;Īrāki
+IE;;Airangi
+IM;;Motu o Man
 IL;;Iharaira
-IT;;Itari
-JM;;Romeinia
-JP;;Hapana
-JE;;Jersey
-JO;;Kaupapa
-KZ;;Taiwana
-KE;;Kenya
-KI;;Kiribati
+IT;;Itāria
+JM;;Jamaica
+JP;;Nipono
+JE;;Tōrehe
+JO;;Jordan
+KZ;;Katatānga
+KE;;Kēnia
+KI;;Kiripati
 KP;;Korea, Democratic Peoples Republic ofs Republic of
-KR;;Reo Romeinia
+KR;;Kōrea-ki-te-tonga
 KW;;Kuwait
 KG;;Kyrgyzstan
 LA;;Lao Peoples Democratic Republics Democratic Republic
-LV;;Reo Koroātia
+LV;;Rāwhia
 LB;;Lebanon
 LS;;Lesotho
-LR;;Reo Koroātia
-LY;;Reo Koroātia
-LI;;Liechtenstein
-LT;;Reo Ītariana
-LU;;Kaitango Hē
-MO;;Kaupapa
-MK;;Reo Romeinia
-MG;;Madagascar
-MW;;Kaupapa
-MY;;Kaupapa
-MV;;Kaupapa
-ML;;Kaupapa
-MT;;Kaupapa
+LR;;Liberia
+LY;;Libya
+LI;;Rīkeneteina
+LT;;Rituānia
+LU;;Rakapuō
+MO;;Macao
+MK;;Makerōnia
+MG;;Marakāhia
+MW;;Marāwi
+MY;;Marēhia
+MV;;Maldives
+ML;;Māri
+MT;;Mārata
 MH;;Marshall Islands
 MQ;;Martinique
-MR;;Reo Ītariana
-MU;;Reo Ītariana
+MR;;Mauritānia
+MU;;Maurituhi
 YT;;Mayotte
-MX;;Mea Mahi
+MX;;Mehiko
 FM;;Micronesia, Federated States of
-MD;;Reo Romeinia
-MC;;Monaco
-MN;;Mongolia
+MD;;Morotawa
+MC;;Manako
+MN;;Mongōria
 ME;;Montenegro
 MS;;Montserrat
-MA;;Morocco
-MZ;;Mozambique
-MM;;Kaupapa
-NA;;Namibia
+MA;;Moroko
+MZ;;Mohapiki
+MM;;Pēma
+NA;;Namīpia
 NR;;Nauru
-NP;;Nepal
-NL;;Horana
-NC;;Reo Makerōnia
+NP;;Nepōra
+NL;;Hōrana
+NC;;New Caledonia
 NZ;;Aotearoa
-NI;;Potukara
+NI;;Nikarāhua
 NE;;Niger
-NG;;Reo Koroātia
+NG;;Nigeria
 NU;;Niue
 NF;;Norfolk Island
 MP;;Northern Mariana Islands
-NO;;Nōwe
-OM;;Oman
-PK;;Pakistan
-PW;;Potukara
-PS;;Palestinian Territory, Occupied
-PA;;Kaupapa
-PG;;Papua New Guinea
-PY;;Potukara
-PE;;Ahi
-PH;;Philippines
+NO;;Nōwei
+OM;;Ōmana
+PK;;Pakitāne
+PW;;Palau
+PS;;Palestine, State of
+PA;;Panama
+PG;;Papua Nūkini
+PY;;Parakai
+PE;;Perū
+PH;;Piripīni
 PN;;Pitcairn
 PL;;Pōrana
 PT;;Potukara
 PR;;Puerto Rico
-QA;;Kaupapa
+QA;;Qatar
 RE;;Réunion
 RO;;Romeinia
-RU;;Russian Federation
-RW;;Reo Peina Raki Rāwhiti
+RU;;Rūhia
+RW;;Rāwana
 BL;;Saint Barthélemy
 SH;;Saint Helena, Ascension and Tristan da Cunha
 KN;;Saint Kitts and Nevis
-LC;;Ruhia
+LC;;Hato Ruiha
 MF;;Saint Martin (French part)
 PM;;Saint Pierre and Miquelon
 VC;;Saint Vincent and the Grenadines
-WS;;Samoa
-SM;;San Marino
-ST;;Sao Tome and Principe
-SA;;Saudi Arabia
+WS;;Hāmoa ki te Uru
+SM;;Hato Marino
+ST;;Ao Tomi me Pirinihipi
+SA;;Hauri Arāpia
 SN;;Senegal
-RS;;Reo Koroātia
-SC;;Seychelles
-SL;;Sierra Leone
-SG;;Singapore
+RS;;Serbia
+SC;;Hehiri
+SL;;Te Araone
+SG;;Hingapoa
 SX;;Sint Maarten (Dutch part)
-SK;;Karaka
-SI;;RiriAhea
+SK;;Horowākia
+SI;;Horowinia
 SB;;Solomon Islands
-SO;;Romeinia
-ZA;;Ateria
+SO;;Somalia
+ZA;;Āwherika-ki-te-tonga
 GS;;South Georgia and the South Sandwich Islands
-ES;;Peina
-LK;;Sri Lanka
-SD;;Tangi
-SR;;Suriname
-SS;;Ateria
-SJ;;Svalbard and Jan Mayen
-SZ;;Taiwana
-SE;;Wītana
-CH;;Witerana
-SY;;Reo Romeinia
+ES;;Pāniora
+LK;;Hiri Rānaka
+SD;;Hūtāne
+SR;;Hūriname
+SS;;Hūtāne-ki-te-tonga
+SJ;;Motu Svalbard me Jan Mayen
+SZ;;Swaziland
+SE;;Huitene
+CH;;Huiterangi
+SY;;Syrian Arab Republic
 TW;;Taiwan, Province of China
-TJ;;Taiwana
-TZ;;Reo Romeinia
-TH;;Taiwana
+TJ;;Tajikistan
+TZ;;Tānahia
+TH;;Thailand
 TL;;Timor-Leste
-TG;;Togo
+TG;;Toko
 TK;;Tokelau
 TO;;Tonga
-TT;;Reo Māori
-TN;;Ruhia
-TR;;Mea Tākaro
-TM;;Turkmenistan
+TT;;Trinidad and Tobago
+TN;;Tūnihia
+TR;;Tākei
+TM;;Tukumanatānga
 TC;;Turks and Caicos Islands
-TV;;Tuvalu
-UG;;Reo Peina Raki Rāwhiti
-UA;;Parani
+TV;;Tūwaru
+UG;;Ukānga
+UA;;Ūkareinga
 AE;;United Arab Emirates
-GB;;United Kingdom
+GB;;Kīngitanga Kotahi
 US;;Amerika
 UM;;Amerika
-UY;;Hanekari
-UZ;;Uzbekistan
+UY;;Urukuai
+UZ;;Uhipeketāne
 VU;;Vanuatu
-VE;;Reo Romeinia
-VN;;Raene
+VE;;Wenehūera
+VN;;Whitināmu
 VG;;Virgin Islands, British
 VI;;Whinarana
 WF;;Wallis and Futuna
 EH;;Western Sahara
 YE;;Yemen
-ZM;;Romeinia
+ZM;;Zambia
 ZW;;Zimbabwe

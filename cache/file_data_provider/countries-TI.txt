@@ -167,7 +167,7 @@ NO;;ኖርዌ
 OM;;Oman
 PK;;Pakistan
 PW;;Palau
-PS;;Palestinian Territory, Occupied
+PS;;Palestine, State of
 PA;;Panama
 PG;;ፓፑዋ ኒው ጊኒ
 PY;;Paraguay

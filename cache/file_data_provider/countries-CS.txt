@@ -24,7 +24,7 @@ BZ;;Belize
 BJ;;Benin
 BM;;Bermudy
 BT;;Bhútán
-BO;;Bolívie, mnohonárodnostní stát
+BO;;Mnohonárodní stát Bolívie
 BQ;;Bonaire, Svatý Eustach a Saba
 BA;;Bosna a Hercegovina
 BW;;Botswana
@@ -143,7 +143,7 @@ MU;;Mauricius
 YT;;Mayotte
 MX;;Mexiko
 FM;;Mikronésie, federativní státy
-MD;;Moldavsko, republika
+MD;;Moldavská republika
 MC;;Monako
 MN;;Mongolsko
 ME;;Černá Hora
@@ -167,7 +167,7 @@ NO;;Norsko
 OM;;Omán
 PK;;Pákistán
 PW;;Palau
-PS;;Palestinské území, okupované
+PS;;Palestinský stát
 PA;;Panama
 PG;;Papua Nová Guinea
 PY;;Paraguay
@@ -206,7 +206,7 @@ SO;;Somálsko
 ZA;;Jihoafrická republika
 GS;;Jižní Georgie a Jižní Sandwichovy ostrovy
 ES;;Španělsko
-LK;;Srí Lanka
+LK;;Šrí Lanka
 SD;;Súdán
 SR;;Surinam
 SS;;Jižní Súdán
@@ -238,7 +238,7 @@ UM;;Menší odlehlé ostrovy Spojených států
 UY;;Uruguay
 UZ;;Uzbekistán
 VU;;Vanuatu
-VE;;Venezuela, bolívarovská republika
+VE;;Bolívarovská republika Venezuela
 VN;;Vietnam
 VG;;Panenské ostrovy, britské
 VI;;Panenské ostrovy, americké

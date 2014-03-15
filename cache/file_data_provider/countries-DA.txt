@@ -167,7 +167,7 @@ NO;;Norge
 OM;;Oman
 PK;;Pakistan
 PW;;Palau
-PS;;Palæstinensiske Territorie, Besatte
+PS;;Palæstina, staten
 PA;;Panama
 PG;;Papua Ny Guinea
 PY;;Paraguay
@@ -232,7 +232,7 @@ TV;;Tuvalu
 UG;;Uganda
 UA;;Ukraine
 AE;;Forenede Arabiske Emirater
-GB;;Storbritanien
+GB;;Storbritannien
 US;;USA
 UM;;Fjerne, mindre Amerikanske øer
 UY;;Uruguay

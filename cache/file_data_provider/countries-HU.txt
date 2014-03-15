@@ -167,7 +167,7 @@ NO;;Norvégia
 OM;;Omán
 PK;;Pakisztán
 PW;;Palau
-PS;;Palesztin Nemzeti Hatóság
+PS;;Palesztina
 PA;;Panama
 PG;;Pápua Új-Guinea
 PY;;Paraguay

@@ -15,7 +15,7 @@ AZ;;Azerice
 BA;;Başkırca
 BM;;Bambara (Mali)
 EU;;Baskça
-BE;;Beyaz Rusça
+BE;;Belarusça
 BN;;Bengalce
 BH;;Chamic dilleri (Malay)
 BI;;Bislama (Vanuatu; Kuzey Pasifik)
@@ -23,7 +23,7 @@ BS;;Boşnakça
 BR;;Bretonca
 BG;;Bulgarca
 MY;;Burmaca
-CA;;Catalan; Valencian
+CA;;Katalanca; Valensiyaca
 CH;;Chamorro (Guam adaları)
 CE;;Çeçence
 ZH;;Çince
@@ -33,13 +33,13 @@ KW;;Cornish (Kelt)
 CO;;Korsikaca
 CR;;Cree (Kuzey Amerika yerlileri)
 CS;;Çekçe
-DA;;Danimarkaca; Danca
+DA;;Danca
 DV;;Divehi; Dhivehi; Maldivian
-NL;;Dutch; Flemish
+NL;;Felemenkçe; Flamanca
 DZ;;Dzongkha (Butan)
 EN;;İngilizce
 EO;;Esperanto
-ET;;Estonyaca
+ET;;Estonca
 EE;;Ewe (Afrika)
 FO;;Faroece
 FJ;;Fiji dili
@@ -92,14 +92,14 @@ KJ;;Kuanyama; Kwanyama
 KU;;Türkçe
 LO;;Laos Dili
 LA;;Adres
-LV;;Letonyaca
+LV;;Letonca
 LI;;Limburgan; Limburger; Limburgish
 LN;;_Yasal
-LT;;Litvanyaca
+LT;;Litvanca
 LB;;Luxembourgish; Letzeburgesch
 LU;;Luba-Katanga
 LG;;Ganda
-MK;;Makedonyaca
+MK;;Makedonca
 MH;;Yanlış
 ML;;Malayalam
 MI;;Kenarlar
@@ -127,7 +127,7 @@ OS;;Rusça
 PA;;Panjabi; Punjabi
 FA;;Yazdır
 PI;;Polonyaca
-PL;;Polonyaca
+PL;;Lehçe
 PT;;Portekizce
 PS;;Pushto; Pashto
 QU;;Quechua
@@ -146,7 +146,7 @@ SN;;Shona
 SD;;Bul
 SO;;Somali Dili
 ST;;Sesotho
-ES;;Spanish; Castilian
+ES;;İspanyolca; Kastilyaca
 SC;;Makedonyaca
 SR;;Sırpça
 SS;;Siswati

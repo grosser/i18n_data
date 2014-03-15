@@ -167,7 +167,7 @@ NO;;Norja
 OM;;Oman
 PK;;Pakistan
 PW;;Palau
-PS;;Palestiinalaisalueet, miehitetty
+PS;;Palestine, State of
 PA;;Panama
 PG;;Papua-Uusi-Guinea
 PY;;Paraguay

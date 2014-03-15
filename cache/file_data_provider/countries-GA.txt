@@ -167,7 +167,7 @@ NO;;An Iorua
 OM;;Oman
 PK;;An Phacastáin
 PW;;Palau
-PS;;Críoch na bPalaistíneach, faoi fhorghabháil
+PS;;Palaistíne, Stát na
 PA;;Panama
 PG;;Papua Nua-Ghuine
 PY;;Paragua
@@ -209,7 +209,7 @@ ES;;An Spáinn
 LK;;Srí Lanca
 SD;;An tSúdáin
 SR;;Suranam
-SS;;Poblacht na Súdáine
+SS;;An tSúdáin Theas
 SJ;;Svalbard agus Jan Mayen
 SZ;;An tSuasalainn
 SE;;An tSualainn
@@ -238,7 +238,7 @@ UM;;Mion-Oileáin Imeallacha S.A.M.
 UY;;Uragua
 UZ;;Úisbéiceastáin
 VU;;Vanuatú
-VE;;Veiniséala, Poblacht Bolivar
+VE;;Veiniséala, Poblacht Bholavarach
 VN;;Vítneam
 VG;;Oileáin Bhriotanacha na Maighdean
 VI;;Oileáin na Maighdean, S.A.M.
