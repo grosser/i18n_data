@@ -10,27 +10,9 @@ module I18nData
       data
     end
 
-    def get_progress_bar(max_count)
-      return nil unless $stderr.tty?
-      require 'ruby-progressbar'
-      ProgressBar.create(:format => '%t %E: |%w|',
-                         :title => 'writing translation cache data',
-                         :total => max_count)
-    rescue LoadError
-      $stderr.puts ':: i18n_data file write cache update ::'
-      $stderr.puts
-      $stderr.puts 'for fancier estimated progress, run:'
-      $stderr.puts '   gem install ruby-progressbar'
-      $stderr.puts
-      $stderr.puts ' or with Bundler, add this to the Gemfile:'
-      $stderr.puts "   gem 'ruby-progressbar'"
-      $stderr.puts
-    end
-
     def write_cache(provider)
       languages = provider.codes(:languages, 'EN').keys + ['zh_CN', 'zh_TW', 'zh_HK','bn_IN','pt_BR']
-      progress_bar = get_progress_bar(languages.count)
-      unless progress_bar
+      unless progress_bar = build_progress_bar(languages.count)
         $stderr.puts 'i18n_data: Updating file cache, will take about 8 minutes...'
       end
 
@@ -49,7 +31,20 @@ module I18nData
       end
     end
 
-  private
+    private
+
+    def build_progress_bar(max_count)
+      return unless $stderr.tty?
+      require 'ruby-progressbar'
+      ProgressBar.create(
+        :format => '%t %E: |%w|',
+        :title => 'writing translation cache data',
+        :total => max_count
+      )
+    rescue LoadError
+      $stderr.puts ':: i18n_data file write cache update ::'
+      $stderr.puts 'for progress install "ruby-progressbar" gem'
+    end
 
     def read_from_file(file)
       return nil unless File.exist?(file)
