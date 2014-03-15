@@ -52,8 +52,12 @@ TODO
  - include other language/country code formats (3-letter codes...) ?
  - parse list of files on isocodes for write_cache instead of hardcoding country-specific ones
 
-Author
-======
+Authors
+=======
+
+### [Contributors](https://github.com/grosser/i18n_data/contributors)
+ - [Barry Allard](https://github.com/steakknife)
+
 [Michael Grosser](http://grosser.it)<br/>
 michael@grosser.it<br/>
 License: MIT<br/>
