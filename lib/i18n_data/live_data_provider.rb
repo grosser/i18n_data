@@ -2,22 +2,24 @@ require 'open-uri'
 require 'rexml/document'
 
 module I18nData
-  # fetches data online from debian svn
+  # fetches data online from debian git
   module LiveDataProvider
     extend self
 
-    ROOT = "http://git.debian.org/?p=iso-codes/iso-codes.git;a=blob_plain;f="
-
     XML_CODES = {
-      :countries => ROOT + 'iso_3166/iso_3166.xml',
-      :languages => ROOT + 'iso_639/iso_639.xml'
+      :countries => 'iso_3166/iso_3166.xml',
+      :languages => 'iso_639/iso_639.xml'
     }
     TRANSLATIONS = {
-      :countries => ROOT + 'iso_3166/',
-      :languages => ROOT + 'iso_639/'
+      :countries => 'iso_3166/',
+      :languages => 'iso_639/'
     }
+    REPO = "git://anonscm.debian.org/iso-codes/pkg-iso-codes.git"
+    CLONE_DEST = "/tmp/i18n_data_iso_clone"
 
     def codes(type, language_code)
+      ensure_checkout
+
       language_code = language_code.upcase
       if language_code == 'EN'
         send("english_#{type}")
@@ -26,7 +28,19 @@ module I18nData
       end
     end
 
+    def clear_cache
+      `rm -rf #{CLONE_DEST}`
+      raise unless $?.success?
+    end
+
   private
+
+    def ensure_checkout
+      unless File.exist?(CLONE_DEST)
+        `git clone #{REPO} #{CLONE_DEST}`
+        raise unless $?.success?
+      end
+    end
 
     def translate(type, language, to_language_code)
       translated = translations(type, to_language_code)[language]
@@ -49,18 +63,11 @@ module I18nData
         code[0].downcase!
         code = code.join("_")
 
+        url = TRANSLATIONS[type]+"#{code}.po"
         begin
-          url = TRANSLATIONS[type]+"#{code}.po"
           data = get(url)
-        rescue => e
-          case e.to_s
-          when /\A404 /
-            raise NoTranslationAvailable, "for #{type} and language code = #{code} (#{$!})"
-          when /\A502 /
-            raise AccessDenied, "for #{type} and language code = #{code} (#{$!})"
-          else
-            raise Unknown, "#{e.to_s} for #{type} and language code = #{code} (#{$!})"
-          end
+        rescue Errno::ENOENT
+          raise NoTranslationAvailable, "for #{type} and language code = #{code} (#{$!})"
         end
 
         data = data.force_encoding('utf-8') if data.respond_to?(:force_encoding) # 1.9
@@ -104,22 +111,11 @@ module I18nData
     end
 
     def get(url)
-      $stderr.puts "GET #{url}" if $DEBUG
-      @@cache ||= {}
-      return @@cache[url] if @@cache.include? url
-      @@cache[url] = open(url).read
+      File.read("#{CLONE_DEST}/#{url}")
     end
 
     def xml(type)
-      xml = get(XML_CODES[type])
-      REXML::Document.new(xml)
-    rescue => e
-      case e.to_s
-      when /\A502 /
-        raise AccessDenied, "for index of #{type} (#{$!})"
-      else
-        raise Unknown, "#{e.to_s} for index of #{type} (#{$!})"
-      end
+      REXML::Document.new(get(XML_CODES[type]))
     end
   end
 end

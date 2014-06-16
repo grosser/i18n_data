@@ -167,7 +167,7 @@ NO;;Norvēģija
 OM;;Omāna
 PK;;Pakistāna
 PW;;Palau
-PS;;Palestine, State of
+PS;;Palestīnas valsts
 PA;;Panama
 PG;;Papua-Jaungvineja
 PY;;Paragvaja

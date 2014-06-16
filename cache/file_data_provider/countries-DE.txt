@@ -2,7 +2,7 @@ AF;;Afghanistan
 AX;;Åland-Inseln
 AL;;Albanien
 DZ;;Algerien
-AS;;Samoa
+AS;;Amerikanisch-Samoa
 AD;;Andorra
 AO;;Angola
 AI;;Anguilla
@@ -38,7 +38,7 @@ BI;;Burundi
 KH;;Kambodscha
 CM;;Kamerun
 CA;;Kanada
-CV;;Kap Verde
+CV;;Cabo Verde
 KY;;Cayman-Inseln
 CF;;Zentralafrikanische Republik
 TD;;Tschad

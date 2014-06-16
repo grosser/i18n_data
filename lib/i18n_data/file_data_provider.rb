@@ -12,10 +12,6 @@ module I18nData
 
     def write_cache(provider)
       languages = provider.codes(:languages, 'EN').keys + ['zh_CN', 'zh_TW', 'zh_HK','bn_IN','pt_BR']
-      unless progress_bar = build_progress_bar(languages.count)
-        $stderr.puts 'i18n_data: Updating file cache, will take about 8 minutes...'
-      end
-
       languages.map do |language_code|
         [:languages, :countries].each do |type|
           begin
@@ -27,24 +23,10 @@ module I18nData
             $stderr.puts "Access denied for #{type} #{language_code}"
           end
         end
-        progress_bar.increment if progress_bar
       end
     end
 
     private
-
-    def build_progress_bar(max_count)
-      return unless $stderr.tty?
-      require 'ruby-progressbar'
-      ProgressBar.create(
-        :format => '%t %E: |%w|',
-        :title => 'writing translation cache data',
-        :total => max_count
-      )
-    rescue LoadError
-      $stderr.puts ':: i18n_data file write cache update ::'
-      $stderr.puts 'for progress install "ruby-progressbar" gem'
-    end
 
     def read_from_file(file)
       return nil unless File.exist?(file)

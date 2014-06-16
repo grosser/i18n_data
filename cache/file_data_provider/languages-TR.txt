@@ -17,7 +17,7 @@ BM;;Bambara (Mali)
 EU;;Baskça
 BE;;Belarusça
 BN;;Bengalce
-BH;;Chamic dilleri (Malay)
+BH;;Bihari dilleri
 BI;;Bislama (Vanuatu; Kuzey Pasifik)
 BS;;Boşnakça
 BR;;Bretonca
@@ -40,16 +40,16 @@ DZ;;Dzongkha (Butan)
 EN;;İngilizce
 EO;;Esperanto
 ET;;Estonca
-EE;;Ewe (Afrika)
+EE;;Ewe
 FO;;Faroece
 FJ;;Fiji dili
 FI;;Fince
 FR;;Fransızca
-FY;;Frizce (Germen)
-FF;;Fulah (Afrika)
+FY;;Batı Frizyeli Dili
+FF;;Fulah
 KA;;Gürcüce
 DE;;Almanca
-GD;;Galler dili; İskoçyaca
+GD;;Keltçe; İskoçya Keltçesi
 GA;;İrlandaca
 GL;;Galiçya dili
 GV;;Manx (Galler)
@@ -57,118 +57,118 @@ EL;;Yunanca, Çağdaş (1453-)
 GN;;Guarani (Paraguay)
 GU;;Gujarati (Hindistan)
 HT;;Haiti dili
-HA;;Balsa
+HA;;Hausa
 HE;;İbranice
-HZ;;İbranice
-HI;;Bul
-HO;;Bul
+HZ;;Herero
+HI;;Hintçe
+HO;;Hiri Motu
 HR;;Hırvatça
 HU;;Macarca
 IG;;Igbo
 IS;;İzlandaca
 IO;;Ido
-II;;Litvanyaca
+II;;Sichuan Yi; Nuosu
 IU;;Inuktitut
-IE;;Oynama
+IE;;Yapay dil; Batıya özgün
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;Endonezyaca
-IK;;Hinduca
+IK;;Inupiaq
 IT;;İtalyanca
-JV;;Japonca
+JV;;Javanese
 JA;;Japonca
-KL;;Kalaallisut; Greenlandic
+KL;;Kalaallisut; Grönlandca
 KN;;Kannada
 KS;;Keşmirce
-KR;;Türkçe
+KR;;Kanuri
 KK;;Kazak Dili
-KM;;Central Khmer
+KM;;Merkez Khmer
 KI;;Kikuyu; Gikuyu
 RW;;Kinyarwanda
-KY;;Kırgızca
+KY;;Kirghiz; Kyrgyz
 KV;;Komi
 KG;;Kongo
 KO;;Korece
 KJ;;Kuanyama; Kwanyama
-KU;;Türkçe
+KU;;Kürtçe
 LO;;Laos Dili
-LA;;Adres
+LA;;Latince
 LV;;Letonca
 LI;;Limburgan; Limburger; Limburgish
-LN;;_Yasal
+LN;;Lingala
 LT;;Litvanca
 LB;;Luxembourgish; Letzeburgesch
 LU;;Luba-Katanga
 LG;;Ganda
 MK;;Makedonca
-MH;;Yanlış
+MH;;Marshallese
 ML;;Malayalam
-MI;;Kenarlar
+MI;;Maori
 MR;;Marathi
-MS;;Balsa
-MG;;Balsa
-MT;;Yanlış
+MS;;Malayca
+MG;;Malagasy
+MT;;Maltaca
 MO;;Moldavya Dili
 MN;;Moğol Dili
 NA;;Nauru
 NV;;Navajo; Navaho
-NR;;Ndebele, South; South Ndebele
-ND;;Ndebele, North; North Ndebele
+NR;;Ndebele, Güney; Güney Ndebelecesi
+ND;;Ndebele, Kuzey; Kuzey Ndebelecesi
 NG;;Ndonga
-NE;;Yeni _takma ad
-NN;;Norveççe
-NB;;Bokmål, Norwegian; Norwegian Bokmål
+NE;;Nepalce
+NN;;Halk Norveççesi; Halk, Norveççe
+NB;;Kitap, Norveççe; Kitap Norveççesi
 NO;;Norveççe
 NY;;Chichewa; Chewa; Nyanja
 OC;;Occitan (post 1500)
 OJ;;Ojibwa
 OR;;Oriya
-OM;;kimden:
-OS;;Rusça
+OM;;Oromo
+OS;;Ossetian; Ossetic
 PA;;Panjabi; Punjabi
-FA;;Yazdır
-PI;;Polonyaca
+FA;;Farsça
+PI;;Pali
 PL;;Lehçe
 PT;;Portekizce
 PS;;Pushto; Pashto
 QU;;Quechua
-RM;;Romence
+RM;;Romansh
 RO;;Romence
 RN;;Kirundi
 RU;;Rusça
 SG;;Sangho
-SA;;Sans serif
-SI;;Vietnamca
+SA;;Sanskrit
+SI;;Sinhala; Sinhalese
 SK;;Slovakça
 SL;;Slovence
-SE;;Northern Sami
+SE;;Kuzey Sami
 SM;;Samoa Dili
 SN;;Shona
-SD;;Bul
+SD;;Sindhi
 SO;;Somali Dili
 ST;;Sesotho
 ES;;İspanyolca; Kastilyaca
-SC;;Makedonyaca
+SC;;Sardince
 SR;;Sırpça
 SS;;Siswati
 SU;;Sudan Dili
 SW;;Swahili
 SV;;İsveçce
-TY;;Letonyaca
-TA;;Taylandça
+TY;;Tahitice
+TA;;Tamilce
 TT;;Tatarca
 TE;;Telugu
-TG;;Taylandça
+TG;;Tacikçe
 TL;;Tagalog
 TH;;Taylandça
 BO;;Tibetçe
-TI;;Türkçe
+TI;;Tigrinya
 TO;;Tonga
 TN;;Setswana
 TS;;Tsonga
 TK;;Türkmence
 TR;;Türkçe
 TW;;Twi
-UG;;Uygurca
+UG;;Uygur; Uygurca
 UK;;Ukraynaca
 UR;;Urduca
 UZ;;Özbekçe
@@ -176,7 +176,7 @@ VE;;Venda
 VI;;Vietnamca
 VO;;Volapük
 CY;;Gal Dili
-WA;;Walloon
+WA;;Valonca
 WO;;Wolof
 XH;;Xhosa
 YI;;Yiddiş
