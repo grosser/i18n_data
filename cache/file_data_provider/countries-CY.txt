@@ -215,7 +215,7 @@ SZ;;Swaziland
 SE;;Sweden
 CH;;Y Swistir
 SY;;Gweriniaeth Arabaidd Syria
-TW;;Taiwan, Talaith o Tseina
+TW;;Taiwan
 TJ;;Tajikistan
 TZ;;Tanzania, Gweriniaeth Unedig
 TH;;Gwlad Thai

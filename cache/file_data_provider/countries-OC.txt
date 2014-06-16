@@ -215,7 +215,7 @@ SZ;;Swaziland
 SE;;Suècia
 CH;;Soïssa
 SY;;Republica Dominicana
-TW;;Taiwan, Province of China
+TW;;Taiwan
 TJ;;Taiwan
 TZ;;Republica Dominicana
 TH;;Tailandia

@@ -94,6 +94,7 @@ module I18nData
         codes = {}
         xml(:countries).elements.each('*/iso_3166_entry') do |entry|
           name = entry.attributes['name'].to_s.gsub("'", "\\'")
+          name = "Taiwan" if name == "Taiwan, Province of China"
           code = entry.attributes['alpha_2_code'].to_s.upcase
           codes[code] = name
         end

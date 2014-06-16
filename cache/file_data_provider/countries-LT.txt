@@ -215,7 +215,7 @@ SZ;;Svazilandas
 SE;;Švedija
 CH;;Šveicarija
 SY;;Sirijos Arabų Respublika
-TW;;Taivanas, Kinijos provincija
+TW;;Taivanas
 TJ;;Tadžikistanas
 TZ;;Tanzanijos Jungtinė Respublika
 TH;;Tailandas

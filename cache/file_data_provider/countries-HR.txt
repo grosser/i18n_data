@@ -215,7 +215,7 @@ SZ;;Svazi
 SE;;Švedska
 CH;;Švicarska
 SY;;Sirija
-TW;;Kineska Pokrajina Tajvan
+TW;;Tajvan
 TJ;;Tadžikistan
 TZ;;Tanzanija
 TH;;Tajland

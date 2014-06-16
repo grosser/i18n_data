@@ -215,7 +215,7 @@ SZ;;Svazilenda
 SE;;Zviedrija
 CH;;Šveice
 SY;;Sīrija
-TW;;Taivāna, Ķīnas Republika
+TW;;Taivāna
 TJ;;Tadžikistāna
 TZ;;Tanzānija
 TH;;Taizeme

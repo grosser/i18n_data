@@ -215,7 +215,7 @@ SZ;;Swazimaa
 SE;;Ruotsi
 CH;;Sveitsi
 SY;;Syyrian arabitasavalta
-TW;;Taiwan, Kiinan provinssi
+TW;;Taiwan
 TJ;;Tadžikistan
 TZ;;Tansanian yhdistynyt tasavalta
 TH;;Thaimaa

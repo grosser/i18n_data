@@ -215,7 +215,7 @@ SZ;;Swaziland
 SE;;Suède
 CH;;Suisse
 SY;;Syrienne, République arabe
-TW;;Taïwan, province de Chine
+TW;;Taïwan
 TJ;;Tadjikistan
 TZ;;Tanzanie, République unie de
 TH;;Thaïlande

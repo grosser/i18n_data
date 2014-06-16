@@ -215,7 +215,7 @@ SZ;;An tSuasalainn
 SE;;An tSualainn
 CH;;An Eilvéis
 SY;;Poblacht Arabach na Siria
-TW;;An Téaváin, Cúige na Síne
+TW;;An Téaváin
 TJ;;An Táidsíceastáin
 TZ;;An Tansáin
 TH;;An Téalainn

@@ -215,7 +215,7 @@ SZ;;Swaziland
 SE;;Iswidhan
 CH;;Swiiserlaand
 SY;;Suuriya
-TW;;Taiwan, Province of China
+TW;;Taylaand
 TJ;;Tajikistan
 TZ;;Tansaaniya
 TH;;Taylaand

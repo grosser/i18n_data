@@ -215,7 +215,7 @@ SZ;;Svazilando
 SE;;Svedio
 CH;;Svislando
 SY;;Siria Araba Respubliko
-TW;;Tajvano, Provinco de Ĉinio
+TW;;Tajvano
 TJ;;Taĝikio
 TZ;;Tanzanio, Unuiĝinta Respubliko
 TH;;Tajlando

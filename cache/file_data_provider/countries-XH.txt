@@ -215,7 +215,7 @@ SZ;;Thailand
 SE;;Sweden
 CH;;Switzerland
 SY;;Ulawulo lokuziphatha kwe Dominican
-TW;;Taiwan, Province of China
+TW;;Taiwan
 TJ;;Taiwan
 TZ;;Ulawulo lokuziphatha kwe Dominican
 TH;;Thailand

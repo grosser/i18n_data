@@ -29,4 +29,8 @@ describe I18nData::FileDataProvider do
     I18nData::FileDataProvider.send(:write_to_file,{}, cache_file)
     lambda { read("XX","YY") }.should raise_error I18nData::NoTranslationAvailable
   end
+
+  it "reads taiwan correctly" do
+    read(:countries, "en")["TW"].should == "Taiwan"
+  end
 end

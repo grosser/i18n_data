@@ -215,7 +215,7 @@ SZ;;Svaziland
 SE;;İsveç
 CH;;İsviçre
 SY;;Suriye Arap Cumhuriyeti
-TW;;Tayvan, Çin Eyaleti
+TW;;Tayvan
 TJ;;Tacikistan
 TZ;;Tanzanya Birleşik Cumhuriyeti
 TH;;Tayland

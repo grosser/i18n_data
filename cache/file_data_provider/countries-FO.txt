@@ -215,7 +215,7 @@ SZ;;Svasiland
 SE;;Svøríki
 CH;;Sveis
 SY;;Syrian Arab Republic
-TW;;Taiwan, Province of China
+TW;;Teivan
 TJ;;Tadsjikistan
 TZ;;Tanzania, United Republic of
 TH;;Thailand

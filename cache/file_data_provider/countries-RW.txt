@@ -215,7 +215,7 @@ SZ;;Swazilande
 SE;;Suwede
 CH;;Ubusuwisi
 SY;;Repubulika Nyarabu ya Siriya
-TW;;Tayiwani, Porovensi y'Ubushinwa
+TW;;Tayiwani
 TJ;;Tajikisitani
 TZ;;Tanzaniya, Repubulika Yunze Ubumwe ya
 TH;;Tayilande

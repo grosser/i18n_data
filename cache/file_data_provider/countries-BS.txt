@@ -215,7 +215,7 @@ SZ;;Svazilend
 SE;;Švedska
 CH;;Švicarska
 SY;;Sirijska Arapska Republika
-TW;;Kineska Provincija Tajvan
+TW;;Tajvan
 TJ;;Tadžikistan
 TZ;;Ujedinjena Republika Tanzanija
 TH;;Tajland

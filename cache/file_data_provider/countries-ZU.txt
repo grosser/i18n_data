@@ -215,7 +215,7 @@ SZ;;I-Thayilandi
 SE;;Isi-Swideni
 CH;;I-Switzerland
 SY;;Ulawulo lokuziphatha kwe Dominikhani
-TW;;Taiwan, Province of China
+TW;;I-Tayiwani
 TJ;;I-Tayiwani
 TZ;;Ulawulo lokuziphatha kwe Dominikhani
 TH;;I-Thayilandi

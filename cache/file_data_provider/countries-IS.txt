@@ -215,7 +215,7 @@ SZ;;Svasíland
 SE;;Svíþjóð
 CH;;Sviss
 SY;;Sýrlenska arabalýðveldið
-TW;;Tævan, hérað í Kína
+TW;;Tævan
 TJ;;Tadsíkistan
 TZ;;Tansanía, sameinaða lýðveldið
 TH;;Tæland

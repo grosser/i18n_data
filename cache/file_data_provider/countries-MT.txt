@@ -215,7 +215,7 @@ SZ;;Tajlandja
 SE;;Svezja
 CH;;Svizzera
 SY;;Repubblika Dominikana
-TW;;Taiwan, Province of China
+TW;;Tajwan
 TJ;;Tajwan
 TZ;;Repubblika Dominikana
 TH;;Tajlandja

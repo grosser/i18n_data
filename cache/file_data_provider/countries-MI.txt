@@ -215,7 +215,7 @@ SZ;;Swaziland
 SE;;Huitene
 CH;;Huiterangi
 SY;;Syrian Arab Republic
-TW;;Taiwan, Province of China
+TW;;Taiwana
 TJ;;Tajikistan
 TZ;;Tānahia
 TH;;Thailand

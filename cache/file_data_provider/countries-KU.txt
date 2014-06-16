@@ -215,7 +215,7 @@ SZ;;Swazîland
 SE;;Swêd
 CH;;Swîsre
 SY;;Sûriye
-TW;;Tayvan, Eyaleta Çîn
+TW;;Taywan
 TJ;;Tacîkistan
 TZ;;Tanzanya, Komara Yekbuyî
 TH;;Tayland

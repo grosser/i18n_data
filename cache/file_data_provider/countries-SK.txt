@@ -215,7 +215,7 @@ SZ;;Svazijsko
 SE;;Švédsko
 CH;;Švajčiarsko
 SY;;Sýrska arabská republika
-TW;;Taiwan, provincia Číny
+TW;;Taiwan
 TJ;;Tadžikistan
 TZ;;Tanzánijská zjednotená republika
 TH;;Thajsko

@@ -215,7 +215,7 @@ SZ;;Szváziföld
 SE;;Svédország
 CH;;Svájc
 SY;;Szíriai Arab Köztársaság
-TW;;Tajvan, Kínai Tartomány
+TW;;Tajvan
 TJ;;Tádzsikisztán
 TZ;;Tanzánia
 TH;;Thaiföld

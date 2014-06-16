@@ -215,7 +215,7 @@ SZ;;Svaziland
 SE;;Suedia
 CH;;Zvicra
 SY;;Republika Arabe e Sirisë
-TW;;Provinca kineze Tajvan
+TW;;Tajvani
 TJ;;Taxhikistani
 TZ;;Republika e Bashkuar e Tanzanisë
 TH;;Tajlanda

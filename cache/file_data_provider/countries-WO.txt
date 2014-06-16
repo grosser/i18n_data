@@ -215,7 +215,7 @@ SZ;;Suwaasilaand
 SE;;Suweed
 CH;;Suwis
 SY;;Republik Araab bu Siiri
-TW;;Taaywaa, porowees bu Ciin
+TW;;Taaywaan
 TJ;;Taajikistaan
 TZ;;Taansaani, Republik bu bennoo bu 
 TH;;Taaylaand

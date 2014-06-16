@@ -215,7 +215,7 @@ SZ;;Svaziland
 SE;;İsveç
 CH;;İsveçrə
 SY;;Mərkəzi Afrika Respublikası
-TW;;Taiwan, Province of China
+TW;;Tayvan
 TJ;;Tacikistan
 TZ;;Koreya, Respublika
 TH;;Tayland

@@ -215,7 +215,7 @@ SZ;;Suwazilande
 SE;;Suwede
 CH;;Swisse
 SY;;Sireye
-TW;;Taiwan, Province di Chine
+TW;;Taiwan
 TJ;;Tadjikistan
 TZ;;Tanzaneye
 TH;;Taylande

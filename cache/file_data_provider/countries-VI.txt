@@ -215,7 +215,7 @@ SZ;;Xouă-xi-lan
 SE;;Thuỵ Điển
 CH;;Thụy Sĩ
 SY;;Cộng hoà A-rập Xi-ri-a
-TW;;Đài Loan, Tỉnh Trung Quốc
+TW;;Đài Loan
 TJ;;Tha-gi-ki-xthanh
 TZ;;Nước Cộng Hoà Thống Nhất Than-xa-ni-a
 TH;;Thái Lan

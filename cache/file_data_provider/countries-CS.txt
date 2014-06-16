@@ -215,7 +215,7 @@ SZ;;Svazijsko
 SE;;Švédsko
 CH;;Švýcarsko
 SY;;Syrská arabská republika
-TW;;Tchaj-wan, provincie Číny
+TW;;Tchaj-wan
 TJ;;Tádžikistán
 TZ;;Tanzanie, sjednocená republika
 TH;;Thajsko
