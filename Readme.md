@@ -12,30 +12,34 @@ Through [pkg-isocodes](http://git.debian.org/?p=iso-codes/iso-codes.git):
 Install
 =======
 
-    gem install i18n_data
+```Bash
+gem install i18n_data
+```
 
 Usage
 =====
 
-    require 'i18n_data'
-    ...
-    I18nData.languages        # {"DE"=>"German",...}
-    I18nData.languages('DE')  # {"DE"=>"Deutsch",...}
-    I18nData.languages('FR')  # {"DE"=>"Allemand",...}
-    ...
+```Ruby
+require 'i18n_data'
+...
+I18nData.languages        # {"DE"=>"German",...}
+I18nData.languages('DE')  # {"DE"=>"Deutsch",...}
+I18nData.languages('FR')  # {"DE"=>"Allemand",...}
+...
 
-    I18nData.countries        # {"DE"=>"Germany",...}
-    I18nData.countries('DE')  # {"DE"=>"Deutschland",...}
-    ...
+I18nData.countries        # {"DE"=>"Germany",...}
+I18nData.countries('DE')  # {"DE"=>"Deutschland",...}
+...
 
-    I18nData.language_code('German')       # DE
-    I18nData.language_code('Deutsch')      # DE
-    I18nData.language_code('Allemand')     # DE
-    ..
+I18nData.language_code('German')       # DE
+I18nData.language_code('Deutsch')      # DE
+I18nData.language_code('Allemand')     # DE
+..
 
-    I18nData.country_code('Germany')       # DE
-    I18nData.country_code('Deutschland')   # DE
-    ..
+I18nData.country_code('Germany')       # DE
+I18nData.country_code('Deutschland')   # DE
+..
+```
 
 Data Providers
 ==============
