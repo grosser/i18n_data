@@ -2,9 +2,12 @@ require "spec_helper"
 require 'i18n_data/file_data_provider'
 
 describe I18nData::FileDataProvider do
-  before do
-    @cache_file = I18nData::FileDataProvider.send(:cache_file_for,"XX","YY")
-    `rm -f #{@cache_file}`
+  let(:cache_file) { I18nData::FileDataProvider.send(:cache_file_for,"XX","YY") }
+
+  around do |test|
+    `rm -f #{cache_file}`
+    test.call
+    `rm -f #{cache_file}`
   end
 
   def read(x,y)
@@ -18,12 +21,12 @@ describe I18nData::FileDataProvider do
 
   it "preserves data when writing and then reading" do
     data = {"x"=>"y","z"=>"w"}
-    I18nData::FileDataProvider.send(:write_to_file, data, @cache_file)
+    I18nData::FileDataProvider.send(:write_to_file, data, cache_file)
     read("XX","YY").should == data
   end
 
   it "does not write empty data sets" do
-    I18nData::FileDataProvider.send(:write_to_file,{}, @cache_file)
-    lambda{read("XX","YY")}.should raise_error I18nData::NoTranslationAvailable
+    I18nData::FileDataProvider.send(:write_to_file,{}, cache_file)
+    lambda { read("XX","YY") }.should raise_error I18nData::NoTranslationAvailable
   end
 end
