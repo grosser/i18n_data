@@ -2,7 +2,7 @@ require 'i18n_data/version'
 
 module I18nData
 
-  class BaseException < Exception
+  class BaseException < StandardError
     def to_s
       "#{self.class} -- #{super}"
     end
