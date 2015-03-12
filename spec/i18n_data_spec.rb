@@ -25,51 +25,51 @@ describe I18nData do
 
         it "is cached" do
           id = I18nData.languages.object_id
-          I18nData.languages.object_id.should == id
-          I18nData.languages("DE").object_id.should_not == id
+          I18nData.languages.object_id.should eq id
+          I18nData.languages("DE").object_id.should_not eq id
         end
 
         describe "english" do
           it "does not contain blanks" do
-            blank_keys_or_values(I18nData.languages).should == nil
+            blank_keys_or_values(I18nData.languages).should eq nil
           end
 
           it "has english as default" do
-            I18nData.languages['DE'].should == 'German'
+            I18nData.languages['DE'].should eq 'German'
           end
 
           it "contains all languages" do
-            I18nData.languages.size.should == NUM_2_LETTER_LANGUAGES
+            I18nData.languages.size.should eq NUM_2_LETTER_LANGUAGES
           end
         end
 
         describe "translated" do
           it "is translated" do
-            I18nData.languages('DE')['DE'].should == 'Deutsch'
+            I18nData.languages('DE')['DE'].should eq 'Deutsch'
           end
 
           it "contains all languages" do
-            I18nData.languages('DE').size.should == NUM_2_LETTER_LANGUAGES
+            I18nData.languages('DE').size.should eq NUM_2_LETTER_LANGUAGES
           end
 
           it "has english names for not-translateable languages" do
-            I18nData.languages('IS')['HA'].should == I18nData.languages['HA']
+            I18nData.languages('IS')['HA'].should eq I18nData.languages['HA']
           end
 
           it "does not contain blanks" do
-            blank_keys_or_values(I18nData.languages('GL')).should == nil
+            blank_keys_or_values(I18nData.languages('GL')).should eq nil
           end
 
           it "is written in unicode" do
-            I18nData.languages('DE')['DA'].should == 'Dänisch'
+            I18nData.languages('DE')['DA'].should eq 'Dänisch'
           end
 
           it "has default for languages that only have subtypes" do
-            I18nData.languages('ZH')['DA'].should == '丹麦语'
+            I18nData.languages('ZH')['DA'].should eq '丹麦语'
           end
 
           it "has language subtypes" do
-            I18nData.languages('zh_TW')['DA'].should == '丹麥語'
+            I18nData.languages('zh_TW')['DA'].should eq '丹麥語'
           end
         end
       end
@@ -77,52 +77,52 @@ describe I18nData do
       describe ".countries" do
         it "is cached" do
           id = I18nData.countries.object_id
-          I18nData.countries.object_id.should == id
-          I18nData.countries("DE").object_id.should_not == id
+          I18nData.countries.object_id.should eq id
+          I18nData.countries("DE").object_id.should_not eq id
         end
 
         describe "english" do
           it "has english as default" do
-            I18nData.countries['DE'].should == 'Germany'
+            I18nData.countries['DE'].should eq 'Germany'
           end
 
           it "does not contain blanks" do
-            blank_keys_or_values(I18nData.countries).should == nil
+            blank_keys_or_values(I18nData.countries).should eq nil
           end
 
           it "contains all countries" do
-            I18nData.countries.size.should == NUM_COUNTRIES
+            I18nData.countries.size.should eq NUM_COUNTRIES
           end
         end
 
         describe "translated" do
           it "is translated" do
-            I18nData.countries('DE')['DE'].should == 'Deutschland'
+            I18nData.countries('DE')['DE'].should eq 'Deutschland'
           end
 
           it "contains all countries" do
-            I18nData.countries('DE').size.should == NUM_COUNTRIES
+            I18nData.countries('DE').size.should eq NUM_COUNTRIES
           end
 
           it "has english names for not-translateable countries" do
-            I18nData.countries('IS')['PK'].should == I18nData.countries['PK']
+            I18nData.countries('IS')['PK'].should eq I18nData.countries['PK']
           end
 
           it "does not contain blanks" do
-            blank_keys_or_values(I18nData.countries('GL')).should == nil
+            blank_keys_or_values(I18nData.countries('GL')).should eq nil
           end
 
           it "is written in unicode" do
-            I18nData.countries('DE')['DK'].should == 'Dänemark'
+            I18nData.countries('DE')['DK'].should eq 'Dänemark'
           end
 
           it "has default for languages that only have subtypes" do
-            I18nData.countries('ZH')['DK'].should == '丹麦'
-            I18nData.countries('BN')['DK'].should == 'ডেনমার্ক'
+            I18nData.countries('ZH')['DK'].should eq '丹麦'
+            I18nData.countries('BN')['DK'].should eq 'ডেনমার্ক'
           end
 
           it "has language subtypes" do
-            I18nData.countries('zh_TW')['DK'].should == '丹麥'
+            I18nData.countries('zh_TW')['DK'].should eq '丹麥'
           end
         end
       end
@@ -135,15 +135,15 @@ describe I18nData do
     end
 
     it "recognises a countries name" do
-      I18nData.country_code('Germany').should == 'DE'
+      I18nData.country_code('Germany').should eq 'DE'
     end
 
     it "recognises with blanks" do
-      I18nData.country_code("   Germany \n\r ").should == 'DE'
+      I18nData.country_code("   Germany \n\r ").should eq 'DE'
     end
 
     it "returns nil when it cannot recognise" do
-      I18nData.country_code('XY').should == nil
+      I18nData.country_code('XY').should eq nil
     end
   end
 
@@ -153,20 +153,20 @@ describe I18nData do
     end
 
     it "recognises a countries name" do
-      I18nData.language_code('Deutsch').should == 'DE'
+      I18nData.language_code('Deutsch').should eq 'DE'
     end
 
     it "recognizes languages that are ; seperated" do
-      I18nData.language_code('Dutch').should == 'NL'
-      I18nData.language_code('Flemish').should == 'NL'
+      I18nData.language_code('Dutch').should eq 'NL'
+      I18nData.language_code('Flemish').should eq 'NL'
     end
 
     it "recognises with blanks" do
-      I18nData.language_code("   Deutsch \n\r ").should == 'DE'
+      I18nData.language_code("   Deutsch \n\r ").should eq 'DE'
     end
 
     it "returns nil when it cannot recognise" do
-      I18nData.language_code('XY').should == nil
+      I18nData.language_code('XY').should eq nil
     end
   end
 

@@ -5,7 +5,7 @@ $LOAD_PATH << "lib"
 require 'i18n_data'
 
 task :default do
-  sh "rspec spec/"
+  sh "rspec --warnings spec/"
 end
 
 desc "write all languages to output"

@@ -74,9 +74,9 @@ module I18nData
       common_languages = ['EN','ES','FR','DE','ZH']
       langs = (common_languages + (languages.keys - common_languages))
 
-      langs.each do |code|
+      langs.each do |lang|
         begin
-          send(type, code).each do |code, name|
+          send(type, lang).each do |code, name|
             # supports "Dutch" and "Dutch; Flemish", checks for inclusion first -> faster
             match_found = (name.include?(search) and name.split(';').map{|s| s.strip }.include?(search))
             return code if match_found
