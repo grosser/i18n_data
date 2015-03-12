@@ -12,6 +12,19 @@ describe I18nData do
     hash.detect{|k,v| k.to_s.empty? or v.to_s.empty?}
   end
 
+  describe ".data_provider" do
+    it "get the current provider" do
+      I18nData.data_provider.should eq I18nData::FileDataProvider
+    end
+
+    it "sets a custom provider" do
+      some_data_provider     = double(:data_provider)
+      I18nData.data_provider = some_data_provider
+
+      I18nData.data_provider.should eq some_data_provider
+    end
+  end
+
   [I18nData::FileDataProvider, I18nData::LiveDataProvider].each do |provider|
     describe "using #{provider}" do
       before :all do

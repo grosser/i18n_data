@@ -34,12 +34,10 @@ module I18nData
     end
 
     def data_provider
-      if @data_provider
-        @data_provider
-      else
+      @data_provider ||= (
         require 'i18n_data/file_data_provider'
         FileDataProvider
-      end
+      )
     end
 
     def data_provider=(provider)
