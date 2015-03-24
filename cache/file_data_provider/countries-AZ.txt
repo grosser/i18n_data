@@ -52,7 +52,7 @@ CG;;Konqo
 CD;;Konqo, Demokratik Respublikası
 CK;;Cook Adaları
 CR;;Kosta Rika
-CI;;Côte dIvoireIvoire
+CI;;Kot Divuar
 HR;;Xırvatıstan
 CU;;Kuba
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;İordaniya
 KZ;;Qazaxstan
 KE;;Kenya
 KI;;Kiribati
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;Koreya, Demokratık Xalq Respublikası
 KR;;Koreya, Respublika
 KW;;Küveyt
 KG;;Qırğızıstan
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;Konqo, Demokratik Respublikası
 LV;;Latviya
 LB;;Livan
 LS;;Lesoto

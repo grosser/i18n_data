@@ -52,7 +52,7 @@ CG;;Congo
 CD;;Congo, República Democrática do
 CK;;Illas Cook
 CR;;Costa Rica
-CI;;Côte dIvoireIvoire
+CI;;Costa de Marfín
 HR;;Croacia
 CU;;Cuba
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;Xordania
 KZ;;Kazakhstán
 KE;;Quenia
 KI;;Quiribati
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;Corea, República Democrática Popular de
 KR;;Corea, República de
 KW;;Kuvait
 KG;;Quirgizistán
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;República Democrática Popular de Lao
 LV;;Letonia
 LB;;Líbano
 LS;;Lesoto

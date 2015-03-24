@@ -52,7 +52,7 @@ CG;;Κονγκό
 CD;;Κονγκό, Λαϊκή Δημοκρατία του
 CK;;Νήσοι Κουκ
 CR;;Κόστα Ρίκα
-CI;;Côte dIvoireIvoire
+CI;;Ακτή Ελεφαντοστού
 HR;;Κροατία
 CU;;Κούβα
 CW;;Κουρακάο
@@ -115,11 +115,11 @@ JO;;Ιορδανία
 KZ;;Καζακστάν
 KE;;Κένυα
 KI;;Κιριμπάτι
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;Κορέα, Λαοκρατική Δημοκρατία της
 KR;;Κορέα, Δημοκρατία της
 KW;;Κουβέιτ
 KG;;Κιργιζία
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;Λαϊκή Δημοκρατία του Λάος
 LV;;Λεττονία
 LB;;Λίβανος
 LS;;Λεσόθο

@@ -52,7 +52,7 @@ CG;;कोङ्गो
 CD;;कोङ्गो को प्रजातन्त्रिक गणराज्य
 CK;;कुक टापु
 CR;;कोस्टारिका
-CI;;Côte dIvoireIvoire
+CI;;Côte d'Ivoire
 HR;;क्रोएशिया
 CU;;क्यूबा
 CW;;कुराकाव
@@ -115,11 +115,11 @@ JO;;जोर्डन
 KZ;;काजखास्तान
 KE;;केन्या
 KI;;किरिबाटी
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;कोरियाको प्रजातन्त्रिक जनगणराज्य
 KR;;कोरियाको गणराज्य
 KW;;कुवेत
 KG;;किर्जिस्तान
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;लाओ जनताको प्रजातन्त्रिक गणराज्य
 LV;;लात्भिया
 LB;;लेबनान
 LS;;लेसोथो

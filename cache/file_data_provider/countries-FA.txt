@@ -52,7 +52,7 @@ CG;;کونگو
 CD;;جمهوری دموکراتیک کنگو
 CK;;جزایر کوک
 CR;;کاستاریکا
-CI;;Côte dIvoireIvoire
+CI;;ساحل عاج
 HR;;کرواسی
 CU;;کوبا
 CW;;کوراسائو
@@ -115,11 +115,11 @@ JO;;اردن
 KZ;;قزاقستان
 KE;;کنیا
 KI;;کیریباتی
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;کره، جمهوری دموکراتیک خلق
 KR;;جمهوری کره
 KW;;کویت 
 KG;;قرقیزستان
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;جمهوری دموکراتیک خلق لائو
 LV;;لتونی
 LB;;لبنان
 LS;;لسوتو

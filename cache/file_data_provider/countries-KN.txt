@@ -52,7 +52,7 @@ CG;;ಕಾಂಗೋ
 CD;;ಕಾಂಗೋ ಪ್ರಜಾಸತ್ತಾತ್ಮಕ ಗಣರಾಜ್ಯ
 CK;;ಕುಕ್ ದ್ವೀಪಗಳು
 CR;;ಕೋಸ್ಟಾರಿಕಾ
-CI;;Côte dIvoireIvoire
+CI;;Côte d'Ivoire
 HR;;ಕ್ರೊಏಶಿಯಾ
 CU;;ಕ್ಯೂಬಾ
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;ಜೋರ್ಡಾನ್
 KZ;;ಕಝಕಸ್ತಾನ್
 KE;;ಕೀನ್ಯಾ
 KI;;ಕಿರಿಬಾಟಿ
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;ಕೋರಿಯಾ, ಡೆಮೊಕ್ರಟಿಕ್ ಪೀಪಲ್ಸ್ ರಿಪಬ್ಲಿಕ್
 KR;;ಕೋರಿಯಾ ಗಣರಾಜ್ಯ
 KW;;ಕುವೈತ್
 KG;;ಕಿರ್ಗಿಝ್‍ಸ್ತಾನ್
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;ಲಾವೋ ಪೀಪಲ್ಸ್ ಡೆಮೊಕ್ರಟಿಕ್ ರಿಪಬ್ಲಿಕ್
 LV;;ಲಾತ್ವಿಯಾ
 LB;;ಲೆಬನನ್
 LS;;ಲೆಸೋಥೋ

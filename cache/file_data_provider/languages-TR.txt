@@ -71,7 +71,7 @@ II;;Sichuan Yi; Nuosu
 IU;;Inuktitut
 IE;;Yapay dil; Batıya özgün
 IA;;Interlingua (International Auxiliary Language Association)
-ID;;Endonezyaca
+ID;;Endonezce
 IK;;Inupiaq
 IT;;İtalyanca
 JV;;Javanese

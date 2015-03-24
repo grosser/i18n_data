@@ -52,7 +52,7 @@ CG;;Congo
 CD;;Kuuriyada Waqooyi
 CK;;Cook Islands
 CR;;Costa Rica
-CI;;Côte dIvoireIvoire
+CI;;Côte d'Ivoire
 HR;;Korweeshiya
 CU;;Kuuba
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;Urdun
 KZ;;Kasaakhistaan
 KE;;Kiiniya
 KI;;Kiribati
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;Kuuriyada Waqooyi
 KR;;Korea, Republic of
 KW;;Kuwayt
 KG;;Kyrgyzstan
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;Lao People's Democratic Republic
 LV;;Laatfiya
 LB;;Lubnaan
 LS;;Losooto

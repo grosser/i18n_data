@@ -52,7 +52,7 @@ CG;;Kōngo
 CD;;Kōngo
 CK;;Kuki Airani
 CR;;Costa Rica
-CI;;Côte dIvoireIvoire
+CI;;Côte d'Ivoire
 HR;;Koroātia
 CU;;Kūpā
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;Jordan
 KZ;;Katatānga
 KE;;Kēnia
 KI;;Kiripati
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;Kōrea-ki-te-raki
 KR;;Kōrea-ki-te-tonga
 KW;;Kuwait
 KG;;Kyrgyzstan
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;Rāoho
 LV;;Rāwhia
 LB;;Lebanon
 LS;;Lesotho

@@ -52,7 +52,7 @@ CG;;コンゴ
 CD;;コンゴ民主共和国
 CK;;クック諸島
 CR;;コスタリカ
-CI;;Côte dIvoireIvoire
+CI;;コートジボワール
 HR;;クロアチア
 CU;;キューバ
 CW;;キュラソー
@@ -115,11 +115,11 @@ JO;;ヨルダン
 KZ;;カザフスタン
 KE;;ケニア
 KI;;キリバス
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;朝鮮民主主義人民共和国
 KR;;大韓民国 (韓国)
 KW;;クウェート
 KG;;キルギスタン
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;ラオス人民民主共和国
 LV;;ラトビア
 LB;;レバノン
 LS;;レソト

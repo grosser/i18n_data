@@ -52,7 +52,7 @@ CG;;ਕਾਂਗੋ
 CD;;ਕੌਂਗੋ, ਇਸ ਦਾ ਜਮਹੂਰੀ ਲੋਕਤੰਤਰ
 CK;;ਕੁੱਕ ਟਾਪੂ
 CR;;ਕਾਸਟ ਰੀਕਾ
-CI;;Côte dIvoireIvoire
+CI;;ਕੋਟ ਡੀਵੋਈਰੀ
 HR;;ਕਰੋਟੀਆ
 CU;;ਕਿਊਬਾ
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;ਜਾਰਡਨ
 KZ;;ਕਜ਼ਾਕਸਤਾਨ
 KE;;ਕੀਨੀਆ
 KI;;ਕੀਰੀਬਾਟੀ
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;ਕੋਰੀਆ, ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ
 KR;;ਕੋਰੀਆ ਗਣਰਾਜ
 KW;;ਕੁਵੈਤ
 KG;;ਕਿਰਗਸਤਾਨ
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;ਲਿਓ ਪੀਪਲ ਦਾ ਗਣਰਾਜ
 LV;;ਲਾਟੀਵਾਆ
 LB;;ਲੀਬਨਾਨ
 LS;;ਲੀਸੋਥੋ

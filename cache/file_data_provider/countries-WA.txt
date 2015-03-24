@@ -52,7 +52,7 @@ CG;;Congo-Brazza
 CD;;Congo-Kinshasa, Republike Democratike do Congo
 CK;;Iyes Cook
 CR;;Costa Rica
-CI;;Côte dIvoireIvoire
+CI;;Coisse d' Ivwere
 HR;;Crowåceye
 CU;;Cuba
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;Djordaneye
 KZ;;Kazaxhtan
 KE;;Kenia
 KI;;Kiribati
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;Corêye (bijhrece)
 KR;;Corêye (nonnrece)
 KW;;Kuweyt
 KG;;Kirguiztan
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;Laosse
 LV;;Letoneye
 LB;;Liban
 LS;;Lessoto

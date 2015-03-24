@@ -52,7 +52,7 @@ CG;;კონგო
 CD;;კონგო, დემოკრატიული რესპუბლიკა
 CK;;კუკის კუნძულები
 CR;;კოსტა-რიკა
-CI;;Côte dIvoireIvoire
+CI;;კოტ-დ'ივუარი
 HR;;ჰორვატია
 CU;;კუბა
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;იორდანია
 KZ;;ყაზახეთი
 KE;;კენია
 KI;;კირიბატი
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;კორეის სახალხო-დემოკრატიული რესპუბლიკა
 KR;;კორეა, რესპუბლიკა
 KW;;კუვეიტი
 KG;;ყირგიზეთი
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;ლაოს სახალხო დემოკრატიული რესპუბლიკა
 LV;;ლატვია
 LB;;ლიბანი
 LS;;ლესოტო

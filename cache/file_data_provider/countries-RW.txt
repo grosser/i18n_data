@@ -52,7 +52,7 @@ CG;;Kongo
 CD;;Repubulika Iharanira Demokarasi ya Kongo
 CK;;Ibirwa bya Kuke
 CR;;Kosita Rika
-CI;;Côte dIvoireIvoire
+CI;;Kote Divuwari
 HR;;Korowatiya
 CU;;Kiba
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;Yorudani
 KZ;;Kazakisitani
 KE;;Kenya
 KI;;Kiribati
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;Koreya, Repubulika Iharanira Demokarasi ya Rubanda ya
 KR;;Koreya, Repubulika ya
 KW;;Koweti
 KG;;Kirigizasitani
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;Repubulika Iharanira Demokorasi ya Lawosi
 LV;;Lativiya
 LB;;Libani
 LS;;Lesoto

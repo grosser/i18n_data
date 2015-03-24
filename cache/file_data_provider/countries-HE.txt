@@ -52,7 +52,7 @@ CG;;קונגו
 CD;;קונגו, הרפובליקה הדמוקרטית של
 CK;;איי קוק
 CR;;קוסטה ריקה
-CI;;Côte dIvoireIvoire
+CI;;חוף השנהב
 HR;;קרואטיה
 CU;;קובה
 CW;;קוראסאו
@@ -115,11 +115,11 @@ JO;;ירדן
 KZ;;קאזחאסטן
 KE;;קניה
 KI;;קיריבטי
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;קוריאה, דמוקרטיית העם של 
 KR;;קוריאה, הרפובליקה של 
 KW;;כווית
 KG;;קירגיסטאן
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;לאוס
 LV;;לטביה
 LB;;לבנון
 LS;;לסותו

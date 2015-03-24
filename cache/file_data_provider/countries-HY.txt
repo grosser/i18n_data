@@ -52,7 +52,7 @@ CG;;Կոնգո
 CD;;Կոնգո, -ի Դեմոկրատական Հանրապետություն
 CK;;Կուկի Կղզիներ
 CR;;Կոստա-Ռիկա
-CI;;Côte dIvoireIvoire
+CI;;Կոտ դ'Իվուար
 HR;;Խորվաթիա
 CU;;Կուբա
 CW;;Կուրակաո
@@ -115,11 +115,11 @@ JO;;Հորդանան
 KZ;;Ղազախստան
 KE;;Քենիա
 KI;;Կիրիբատի
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;Կորեա, Ժողովրդադեմոկրատական Հանրապետություն
 KR;;Կորեա Հանարպետություն
 KW;;Քուվեյթ
 KG;;Կիրգիզստան
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;Լաոսի Ժողովրդադեմոկրատական հանրապետություն
 LV;;Լատվիա
 LB;;Լիբանան
 LS;;Լեսոտո
