@@ -106,6 +106,10 @@ describe I18nData do
           it "contains all countries" do
             I18nData.countries.size.should eq NUM_COUNTRIES
           end
+
+          it "shows countries names with apostrophes" do
+            I18nData.countries['LA'].should eq "Lao People's Democratic Republic"
+          end
         end
 
         describe "translated" do

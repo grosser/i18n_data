@@ -18,7 +18,7 @@ end
 desc "write languages to output/languages_{language}"
 task :languages do
   raise unless language = ENV['LANGUAGE']
-  `mkdir output -p`
+  `mkdir -p output`
   data = I18nData.languages(language.upcase)
   File.open("output/languages_#{language.downcase}.yml",'w') {|f|f.puts data.to_yaml}
 end
@@ -33,14 +33,14 @@ end
 desc "write countries to output/countries_{language}"
 task :countries do
   raise unless language = ENV['LANGUAGE']
-  `mkdir output -p`
+  `mkdir -p output`
   data = I18nData.countries(language.upcase)
   File.open("output/countries_#{language.downcase}.yml",'w') {|f|f.puts data.to_yaml}
 end
 
 desc "write example output, just to show off :D"
 task :example_output do
-  `mkdir example_output -p`
+  `mkdir -p example_output`
 
   #all names for germany, france, united kingdom and unites states
   ['DE','FR','GB','US'].each do |cc|
