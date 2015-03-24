@@ -52,7 +52,7 @@ CG;;كونگو
 CD;;كونگو دېموكراتىك جۇمھۇرىيىتى
 CK;;كۇك ئارىلى
 CR;;كوستارىكا
-CI;;Côte dIvoireIvoire
+CI;;كوتىدىۋور
 HR;;كىرودىيە
 CU;;كۇبا
 CW;;كۇراسو
@@ -115,11 +115,11 @@ JO;;ئىيوردانىيە
 KZ;;قازاقىستان
 KE;;كېنىيە
 KI;;كىرىباتى
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;چاۋشيەن
 KR;;كورېيە
 KW;;كۇۋەيت
 KG;;قىرغىزىستان
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;لائوس خەلق دېموكراتىك جۇمھۇرىيىتى
 LV;;لاتۋىيە
 LB;;لىۋان
 LS;;لېسوتو

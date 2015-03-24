@@ -52,7 +52,7 @@ CG;;కాంగో
 CD;;కాంగో, ది డెమోక్రటిక్ రిపబ్లిక్ ఆఫ్ ది
 CK;;కూక్ ఐలాండ్స్
 CR;;కోస్టా రికా
-CI;;Côte dIvoireIvoire
+CI;;కోత్ ద ఆయవ్హోర
 HR;;క్రోటియా
 CU;;క్యూబా
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;జోర్డాన్
 KZ;;కఝకిస్తాన్
 KE;;కెన్యా
 KI;;కిరిబాతీ
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;కోరియా, డెమోక్రటిక్ పీపుల్స్ రిపబ్లిక్ ఆఫ్
 KR;;కోరియా, రిపబ్లిక్ ఆఫ్
 KW;;కువైట్
 KG;;కిర్గిఝస్తాన
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;లాఓ పీపుల్స్ డెమోక్రటిక్ రిపబ్లిక్
 LV;;లాటవ్హియా
 LB;;లెబనాన్
 LS;;లెసోథో

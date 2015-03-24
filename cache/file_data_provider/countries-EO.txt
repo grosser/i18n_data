@@ -52,7 +52,7 @@ CG;;Kongo
 CD;;Demokratia Respubliko Kongo
 CK;;Kukinsuloj
 CR;;Kostariko
-CI;;Côte dIvoireIvoire
+CI;;Ebur-Bordo
 HR;;Kroatio
 CU;;Kubo
 CW;;Kuracao
@@ -115,11 +115,11 @@ JO;;Jordanio
 KZ;;Kazaĥio
 KE;;Kenjo
 KI;;Kiribato
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;Koreio, Demokratia Popola Respubliko
 KR;;Koreio, Respubliko
 KW;;Kuvajto
 KG;;Kirgizio
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;Laosa Popola Demokratia Respubliko
 LV;;Latvio
 LB;;Libano
 LS;;Lesoto

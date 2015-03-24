@@ -52,7 +52,7 @@ CG;;Congo
 CD;;Congo, Gweriniaeth Ddemocrataidd y
 CK;;Ynysoedd Cook
 CR;;Costa Rica
-CI;;Côte dIvoireIvoire
+CI;;Côte d'Ivoire
 HR;;Croatia
 CU;;Ciwba
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;Gwlad Yr Iorddonen
 KZ;;Kazakhstan
 KE;;Kenya
 KI;;Kiribati
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;Korea (Gweriniaeth Democrataidd Pobl)
 KR;;Corëa, Gweriniaeth
 KW;;Coweit
 KG;;Kyrgyzstan
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;Gweriniaeth Ddemocrataidd y Bobl Lao
 LV;;Latfia
 LB;;Lebanon
 LS;;Lesotho

@@ -52,7 +52,7 @@ CG;;คองโก
 CD;;คองโก, สาธารณรัฐประชาธิปไตย
 CK;;หมู่เกาะคุก
 CR;;คอสตาริกา
-CI;;Côte dIvoireIvoire
+CI;;โกตดิวัวร์
 HR;;โครเอเชีย
 CU;;คิวบา
 CW;;คิวราเซา
@@ -115,11 +115,11 @@ JO;;จอร์แดน
 KZ;;คาซัคสถาน
 KE;;เคนยา
 KI;;คิริบาตี
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;เกาหลีเหนือ
 KR;;เกาหลีใต้
 KW;;คูเวต
 KG;;คีร์กีซสถาน
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;สาธารณรัฐประชาธิปไตยประชาชนลาว
 LV;;ลัตเวีย
 LB;;เลบานอน
 LS;;เลโซโท

@@ -52,7 +52,7 @@ CG;;காங்கோ
 CD;;காங்கோ குடியரசு
 CK;;குக் தீவு
 CR;;கோஸ்டாரிகா
-CI;;Côte dIvoireIvoire
+CI;;கோத் ட்லவோர்
 HR;;குரோவேசியா
 CU;;க்யூபா
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;ஜோர்டான்
 KZ;;கசகிஸ்தான்
 KE;;கென்யா
 KI;;கிரிபாடி
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;கொரிய ஜனநாயக மக்கள் குடியரசு
 KR;;கொரிய குடியரசு
 KW;;குவைத்
 KG;;கிரைகிசுத்தான்
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;லவொ மக்கள் சுதந்திர குடியரசு 
 LV;;லட்வியா
 LB;;லெபனான்
 LS;;லெசோதோ

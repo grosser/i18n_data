@@ -52,7 +52,7 @@ CG;;剛果
 CD;;剛果民主共和國
 CK;;科克羣島
 CR;;哥斯達黎加
-CI;;Côte dIvoireIvoire
+CI;;科特迪瓦
 HR;;克羅地亞
 CU;;古巴
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;約旦
 KZ;;哈薩克
 KE;;肯尼亞
 KI;;基里巴斯
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;北韓
 KR;;大韓民國
 KW;;科威特
 KG;;吉爾吉斯
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;老撾人民民主共和國
 LV;;拉脫維亞
 LB;;黎巴嫩
 LS;;萊索托

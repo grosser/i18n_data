@@ -80,7 +80,7 @@ module I18nData
       @english_languages ||= begin
         codes = {}
         xml(:languages).elements.each('*/iso_639_entry') do |entry|
-          name = entry.attributes['name'].to_s.gsub("'", "\\'")
+          name = entry.attributes['name'].to_s
           code = entry.attributes['iso_639_1_code'].to_s.upcase
           next if code.empty? or name.empty?
           codes[code] = name
@@ -93,7 +93,7 @@ module I18nData
       @english_countries ||= begin
         codes = {}
         xml(:countries).elements.each('*/iso_3166_entry') do |entry|
-          name = entry.attributes['name'].to_s.gsub("'", "\\'")
+          name = entry.attributes['name'].to_s
           name = "Taiwan" if name == "Taiwan, Province of China"
           code = entry.attributes['alpha_2_code'].to_s.upcase
           codes[code] = name

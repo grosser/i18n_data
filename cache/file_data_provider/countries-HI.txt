@@ -52,7 +52,7 @@ CG;;कॉंगो
 CD;;कांगो, द डेमोक्रेटिक रिपब्लिक ऑफ द
 CK;;कुक आइलैंड्स
 CR;;कोस्टा रिका
-CI;;Côte dIvoireIvoire
+CI;;कोयटे डी वोयरे
 HR;;क्रोएशिया
 CU;;क्यूबा
 CW;;कुराकाओ
@@ -115,11 +115,11 @@ JO;;जॉर्डन
 KZ;;कज़ाख्स्तान
 KE;;केन्या
 KI;;किरिबाती
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;कोरिया, डेमोक्रेटिक पीपल्स रिपब्लिक ऑफ
 KR;;कोरिया, रिपब्लिक ऑफ
 KW;;कुवैत
 KG;;किरगिज़तान
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;लाओ पीपल्स डेमोक्रेटिक रिपब्लिक
 LV;;लात्विया
 LB;;लेबनान
 LS;;लेसोोथो

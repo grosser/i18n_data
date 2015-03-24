@@ -52,7 +52,7 @@ CG;;콩고
 CD;;콩고 민주 공화국
 CK;;쿡 제도
 CR;;코스타리카
-CI;;Côte dIvoireIvoire
+CI;;코트 디브와르
 HR;;크로아티아
 CU;;쿠바
 CW;;퀴라소
@@ -115,11 +115,11 @@ JO;;요르단
 KZ;;카자흐스탄
 KE;;케냐
 KI;;키리바티
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;조선민주주의인민공화국
 KR;;대한민국
 KW;;쿠웨이트
 KG;;키르기즈스탄
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;라오 인민 민주주의 공화국
 LV;;라트비아
 LB;;레바논
 LS;;레소토

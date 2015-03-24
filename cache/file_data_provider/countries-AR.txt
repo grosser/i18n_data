@@ -52,7 +52,7 @@ CG;;الكونغو
 CD;;الكونغو، جمهوريّة الكونغو الدّيموقراطيّة
 CK;;جزر كوك
 CR;;كوستاريكا
-CI;;Côte dIvoireIvoire
+CI;;ساحل العاج
 HR;;كرواتيا
 CU;;كوبا
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;الأردن
 KZ;;كازاخستان
 KE;;كينيا
 KI;;كيريباتي
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;كوريا، جمهورية كوريا الشّعبيّة الدّيموقراطيّة
 KR;;كوريا، جمهوريّة كوريا
 KW;;الكويت
 KG;;قيرغزستان
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;جمهوريّة لاو الدّيموقراطيّة الشّعبيّة
 LV;;لاتفيا
 LB;;لبنان
 LS;;ليسوتو

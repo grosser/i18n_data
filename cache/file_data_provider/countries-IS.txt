@@ -52,7 +52,7 @@ CG;;Kongó
 CD;;Kongó, sambandslýðveldið
 CK;;Cook-eyjar
 CR;;Kosta Ríka
-CI;;Côte dIvoireIvoire
+CI;;Fílabeinsströnd
 HR;;Króatía
 CU;;Kúba
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;Jórdanía
 KZ;;Kasakstan
 KE;;Kenía
 KI;;Kíribatí
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;Norður-Kórea, sambandsalþýðulýðveldið
 KR;;Lýðveldið Suður-Kórea
 KW;;Kúveit
 KG;;Kirgisistan
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;Alþýðulýðveldið Laó
 LV;;Lettland
 LB;;Líbanon
 LS;;Lesótó

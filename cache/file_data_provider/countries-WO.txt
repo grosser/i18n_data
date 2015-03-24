@@ -52,7 +52,7 @@ CG;;Kongóo
 CD;;Kongóo, Republik Demokaraatik bu
 CK;;Iil yu Cook
 CR;;Kosta Riika
-CI;;Côte dIvoireIvoire
+CI;;Kot diwaar
 HR;;Korwaasi
 CU;;Kubaa
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;Jordaani
 KZ;;Kaasakestaan
 KE;;Kenya
 KI;;Kiribati
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;Koore, Republik Popileer Demokaraatik bu
 KR;;Koore, Republik bu
 KW;;Kuwet
 KG;;Kirgistaan
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;Republik Popileer Demokaraatik bu Laawos
 LV;;Letóoni
 LB;;Libãa
 LS;;Lesoto

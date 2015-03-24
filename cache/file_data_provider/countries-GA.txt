@@ -52,7 +52,7 @@ CG;;An Congó
 CD;;Poblacht Dhaonlathach an Chongó
 CK;;Oileáin Cook
 CR;;Cósta Rice
-CI;;Côte dIvoireIvoire
+CI;;An Cósta Eabhair
 HR;;An Chróit
 CU;;Cúba
 CW;;Curasao
@@ -115,11 +115,11 @@ JO;;An Iordáin
 KZ;;An Chasacstáin
 KE;;An Chéinia
 KI;;Cireabaití
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;Daonphoblacht Dhaonlathach na Cóiré
 KR;;Poblacht na Cóiré
 KW;;Cuáit
 KG;;An Chirgeastáin
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;Daonphoblacht Dhaonlathach Laoch
 LV;;An Laitvia
 LB;;An Liobáin
 LS;;Leosóta

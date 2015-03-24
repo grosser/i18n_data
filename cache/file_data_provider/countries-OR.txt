@@ -52,7 +52,7 @@ CG;;କଙ୍ଗୋ
 CD;;କୋଙ୍ଗୋ, ମଧ୍ଯ ଆଫ୍ରିକାର
 CK;;କୁକ ଦ୍ବୀପ
 CR;;କୋଷ୍ଟା ରିକା
-CI;;Côte dIvoireIvoire
+CI;;କୋଟ ଡି'ଭୋର
 HR;;କ୍ରୋଏଶିଆ
 CU;;କ୍ଯୁବା
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;ଜୋର୍ଡାନ
 KZ;;କାଜାଖସ୍ତାନ
 KE;;କେନିୟା
 KI;;କୀରିବତୀ
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;କୋରିଆ, ସର୍ବସାଧାରଣ ଜନସମାଜ ଗଣତନ୍ତ୍ର
 KR;;କୋରିଆ, ଗଣତନ୍ତ୍ର
 KW;;କୁଏତ
 KG;;କିର୍ଗିଜସ୍ତାନ
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;ଲାଓ ଜନସମାଜ ସର୍ବସାଧାରଣ ଗଣତନ୍ତ୍ର
 LV;;ଲାଟଭିୟା
 LB;;ଲେବାନୋନ
 LS;;ଲେସୋଥୋ

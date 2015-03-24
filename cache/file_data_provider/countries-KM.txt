@@ -52,7 +52,7 @@ CG;;កុងហ្គោ
 CD;;សាធារណរដ្ឋ​ប្រជាធិបតេយ្យ​កុងហ្គោ
 CK;;កោះកូក
 CR;;កូស្តារីកា
-CI;;Côte dIvoireIvoire
+CI;;កូតេឌីវ័រ
 HR;;ក្រូអាត
 CU;;គុយបា
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;ហ្ស៊កដង់
 KZ;;កាហ្សាក់ស្តង់
 KE;;កេនយ៉ា
 KI;;គិរិបាទី
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;កូរ៉េ សាធារណ​រដ្ឋ​ប្រជាមានិត​ប្រជាធិបតេយ្យ​​នៃ
 KR;;កូរ៉េ សាធារណរដ្ឋ​នៃរ៉េ
 KW;;គុយវ៉ែត
 KG;;គៀរហ្គីស្តង់
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;សាធារណ​រដ្ឋ​ប្រជាធិបតេយ្យ​​ប្រជាមានិត​ឡាវ
 LV;;ឡាតវីយ៉ា
 LB;;លីបង់
 LS;;ឡេសូតូ

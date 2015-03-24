@@ -52,7 +52,7 @@ CG;;Конго
 CD;;Конго Демократиялық Республикасы
 CK;;Кук аралдары
 CR;;Коста-Рика
-CI;;Côte dIvoireIvoire
+CI;;Кот д'Ивуар
 HR;;Хорватия
 CU;;Куба
 CW;;Курасао
@@ -115,11 +115,11 @@ JO;;Иордания
 KZ;;Қазақстан
 KE;;Кения
 KI;;Кирибати
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;Корея (Солтүстік)
 KR;;Корея Республикасы
 KW;;Кувейт
 KG;;Қырғызстан
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;Лаос Халық Демократиялық Республикасы
 LV;;Латвия
 LB;;Ливан
 LS;;Лесото

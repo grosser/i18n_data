@@ -52,7 +52,7 @@ CG;;ኮንጎ
 CD;;ጥንጕ
 CK;;Cook Islands
 CR;;Costa Rica
-CI;;Côte dIvoireIvoire
+CI;;Côte d'Ivoire
 HR;;ጤስጔቄ።
 CU;;Cuba
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;ጆሴ፣ን
 KZ;;Kazakhstan
 KE;;Kenya
 KI;;Kiribati
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;፠ቡብ ጥሱ።
 KR;;ሰሣን ጥሱ።
 KW;;ጤፃት
 KG;;Kyrgyzstan
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;Lao People's Democratic Republic
 LV;;ሒትቱ።
 LB;;ሑባኖስ
 LS;;Lesotho

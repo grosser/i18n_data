@@ -52,7 +52,7 @@ CG;;কঙ্গো
 CD;;কঙ্গো, গণতান্ত্রিক প্রজাতন্ত্র
 CK;;কুক দ্বীপপুঞ্জ
 CR;;কোস্টা রিকা
-CI;;Côte dIvoireIvoire
+CI;;আইভরি কোস্ট
 HR;;ক্রোয়েশিয়া
 CU;;কিউবা
 CW;;Curaçao
@@ -115,11 +115,11 @@ JO;;জর্ডান
 KZ;;কাজাখস্তান
 KE;;কেনিয়া
 KI;;কিরিবাস
-KP;;Korea, Democratic Peoples Republic ofs Republic of
+KP;;কোরিয়া, গণতান্ত্রিক গণপ্রজাতন্ত্রী
 KR;;কোরিয়া প্রজাতন্ত্র
 KW;;কুয়েত
 KG;;কির্গিজস্তান
-LA;;Lao Peoples Democratic Republics Democratic Republic
+LA;;গণপ্রজাতন্ত্রী লাও
 LV;;লাটভিয়া
 LB;;লেবানন
 LS;;লেসোথো
