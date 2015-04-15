@@ -33,4 +33,8 @@ describe I18nData::FileDataProvider do
   it "reads taiwan correctly" do
     read(:countries, "en")["TW"].should == "Taiwan"
   end
+
+  it "reads as utf-8" do
+    read(:countries, "en")["AX"].encoding.should == Encoding::UTF_8
+  end
 end

@@ -33,7 +33,7 @@ module I18nData
     def read_from_file(file)
       return nil unless File.exist?(file)
       data = {}
-      File.readlines(file).each do |line|
+      File.readlines(file, :encoding => 'utf-8').each do |line|
         code, translation = line.strip.split(DATA_SEPARATOR, 2)
         data[code] = translation
       end
