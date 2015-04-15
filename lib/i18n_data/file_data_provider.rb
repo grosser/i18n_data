@@ -1,5 +1,7 @@
 module I18nData
   module FileDataProvider
+    require 'fileutils'
+
     DATA_SEPARATOR = ";;"
     extend self
 
