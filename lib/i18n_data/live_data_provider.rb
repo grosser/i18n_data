@@ -14,7 +14,7 @@ module I18nData
       :countries => 'iso_3166/',
       :languages => 'iso_639/'
     }
-    REPO = "git://anonscm.debian.org/iso-codes/pkg-iso-codes.git"
+    REPO = "git://anonscm.debian.org/cgit/pkg-isocodes/iso-codes.git"
     CLONE_DEST = "/tmp/i18n_data_iso_clone"
 
     def codes(type, language_code)
