@@ -1,18 +1,18 @@
-AA;;Afar
-AB;;אזרביג'נית
-AF;;אפריקנס
-AK;;אזרביג'נית
-SQ;;אזרביג'נית
-AM;;ערבית
+AA;;עפרית
+AB;;אבחזית
+AF;;אפריקאנס
+AK;;אקנית
+SQ;;אלבנית
+AM;;אמהרית
 AR;;ערבית
-AN;;Aragonese
-HY;;רומנית
-AS;;Assamese
-AV;;ערבית
-AE;;Avestan
-AY;;Aymara
+AN;;אראגונית
+HY;;ארמנית
+AS;;אסאמית
+AV;;אווארית
+AE;;אווסטית
+AY;;איימרה
 AZ;;אזרביג'נית
-BA;;Bashkir
+BA;;בשקירית
 BM;;Bambara
 EU;;בסקית
 BE;;בולגרית
@@ -37,7 +37,7 @@ DA;;דנית
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Dutch; Flemish
 DZ;;Dzongkha
-EN;;אנגלית (בריטניה)
+EN;;אנגלית
 EO;;אספרנטו
 ET;;אסטונית
 EE;;Ewe
