@@ -39,7 +39,6 @@ NL;;Dutch; Flemish
 DZ;;Dzongkha
 EN;;English
 EO;;Esperanto
-ES;;Spanish
 ET;;Estonian
 EE;;Ewe
 FO;;Faroese
@@ -52,7 +51,6 @@ KA;;Georgian
 DE;;German
 GD;;Gaelic; Scottish Gaelic
 GA;;Irish
-GE;;georgian
 GL;;Galician
 GV;;Manx
 EL;;Greek, Modern (1453-)
