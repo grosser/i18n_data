@@ -15,6 +15,7 @@ AZ;;azéri
 BA;;bachkir
 BM;;bambara
 EU;;basque
+ES;;espagnol
 BE;;biélorusse
 BN;;bengali
 BH;;biharies, langues
