@@ -52,7 +52,6 @@ KA;;géorgien
 DE;;allemand
 GD;;gaélique ; gaélique écossais
 GA;;irlandais
-GE;;géorgien
 GL;;galicien
 GV;;mannois ; manx
 EL;;grec moderne (après 1453)
