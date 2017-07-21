@@ -15,6 +15,7 @@ AZ;;azéri
 BA;;bachkir
 BM;;bambara
 EU;;basque
+ES;;espagnol
 BE;;biélorusse
 BN;;bengali
 BH;;biharies, langues
@@ -51,6 +52,7 @@ KA;;géorgien
 DE;;allemand
 GD;;gaélique ; gaélique écossais
 GA;;irlandais
+GE;;géorgien
 GL;;galicien
 GV;;mannois ; manx
 EL;;grec moderne (après 1453)
