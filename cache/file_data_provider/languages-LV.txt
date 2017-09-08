@@ -32,7 +32,7 @@ CV;;Čuvašu
 KW;;Korniešu
 CO;;Korsikāņu
 CR;;Krī
-CS;;Čehu
+CZ;;Čehu
 DA;;Dāņu
 DV;;Maldīviešu
 NL;;Holandiešu

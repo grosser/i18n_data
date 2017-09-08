@@ -32,7 +32,7 @@ CV;;tšuvassi
 KW;;korni
 CO;;korsika
 CR;;cree
-CS;;tšekki
+CZ;;tšekki
 DA;;tanska
 DV;;divehi
 NL;;hollanti

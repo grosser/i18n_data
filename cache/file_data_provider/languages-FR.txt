@@ -33,7 +33,7 @@ CV;;tchouvache
 KW;;cornique
 CO;;corse
 CR;;cree
-CS;;tchèque
+CZ;;tchèque
 DA;;danois
 DV;;maldivien
 NL;;néerlandais

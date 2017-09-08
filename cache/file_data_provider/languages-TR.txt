@@ -32,7 +32,7 @@ CV;;Çuvaş (Türkçe)
 KW;;Cornish (Kelt)
 CO;;Korsikaca
 CR;;Cree (Kuzey Amerika yerlileri)
-CS;;Çekçe
+CZ;;Çekçe
 DA;;Danca
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Felemenkçe; Flamanca

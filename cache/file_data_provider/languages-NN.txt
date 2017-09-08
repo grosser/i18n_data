@@ -32,7 +32,7 @@ CV;;Tsjuvasjisk
 KW;;Kornisk
 CO;;Korsikansk
 CR;;Cree
-CS;;Tsjekkisk
+CZ;;Tsjekkisk
 DA;;Dansk
 DV;;Divehi
 NL;;nederlandsk

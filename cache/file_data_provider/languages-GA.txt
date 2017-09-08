@@ -32,7 +32,7 @@ CV;;Suvaisis
 KW;;Coirnis
 CO;;Corsaicis
 CR;;Craíais
-CS;;Seicis
+CZ;;Seicis
 DA;;Danmhairgis
 DV;;Divéihis; Maildívis
 NL;;Ollainnis; Pléimeannais

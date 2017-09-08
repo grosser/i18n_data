@@ -32,7 +32,7 @@ CV;;tjuvaskisk
 KW;;cornisk
 CO;;korsikansk
 CR;;cree
-CS;;tjekkisk
+CZ;;tjekkisk
 DA;;dansk
 DV;;divehi
 NL;;hollandsk; flamsk

@@ -32,7 +32,7 @@ CV;;Chuvash
 KW;;Reo Airana
 CO;;Reo Etonia
 CR;;Reo Kariki
-CS;;Reo Parani
+CZ;;Reo Parani
 DA;;Reo Tenemaka
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Dutch; Flemish

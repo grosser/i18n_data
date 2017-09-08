@@ -32,7 +32,7 @@ CV;;Ĉuvaŝa
 KW;;Kornvala
 CO;;Korsika
 CR;;Kria
-CS;;Ĉeĥa
+CZ;;Ĉeĥa
 DA;;Dana
 DV;;Maldiva
 NL;;Nederlanda; Flandra

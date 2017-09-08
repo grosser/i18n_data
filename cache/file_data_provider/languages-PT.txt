@@ -32,7 +32,7 @@ CV;;chuvash
 KW;;Cores
 CO;;córsico
 CR;;Grego
-CS;;Checo
+CZ;;Checo
 DA;;Dinamarquês
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Holandês; Flamengo

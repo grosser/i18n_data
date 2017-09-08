@@ -32,7 +32,7 @@ CV;;Chuvash
 KW;;Värvid
 CO;;Corsican
 CR;;Kreeka
-CS;;Tšehhi
+CZ;;Tšehhi
 DA;;Taani
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Dutch; Flemish

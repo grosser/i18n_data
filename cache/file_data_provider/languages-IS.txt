@@ -32,7 +32,7 @@ CV;;Chuvash
 KW;;Cornish
 CO;;Korsíska
 CR;;Cree
-CS;;Tékkneska
+CZ;;Tékkneska
 DA;;Danska
 DV;;Divehi; Dhivehi; Maldivíska
 NL;;Hollenska; Flæmska

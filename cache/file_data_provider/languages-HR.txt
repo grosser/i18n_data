@@ -32,7 +32,7 @@ CV;;čuvaški
 KW;;Cornish
 CO;;korzički
 CR;;krijski
-CS;;češki
+CZ;;češki
 DA;;danski
 DV;;divehi; maldivski
 NL;;nizozemski; flamanski

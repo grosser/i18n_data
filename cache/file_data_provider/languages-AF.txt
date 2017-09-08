@@ -32,7 +32,7 @@ CV;;Chuvash
 KW;;Kornies
 CO;;Korsikaans
 CR;;Grieks
-CS;;Tsjeggies
+CZ;;Tsjeggies
 DA;;Deens
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Nederlands

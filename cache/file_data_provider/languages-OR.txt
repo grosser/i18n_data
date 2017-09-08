@@ -32,7 +32,7 @@ CV;;Chuvash
 KW;;Cornish
 CO;;Corsican
 CR;;କ୍ରୀ
-CS;;ଚେକ
+CZ;;ଚେକ
 DA;;ଡାନିଶ
 DV;;ଡ଼ିଭେହୀ; ଢ଼ୀଭେହୀ; ମାଲଡ଼ିଭିଆନ
 NL;;ଡ଼ଚ; ଫ୍ଲେମିସ

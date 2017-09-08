@@ -32,7 +32,7 @@ CV;;tsjuvansk
 KW;;Irsk
 CO;;Korsikansk
 CR;;Cree
-CS;;Tjekkisk
+CZ;;Tjekkisk
 DA;;Dansk
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Dutch; Flemish

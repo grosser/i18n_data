@@ -32,7 +32,7 @@ CV;;Chuvash
 KW;;אירית
 CO;;בוסנית
 CR;;יוונית
-CS;;צ'כית
+CZ;;צ'כית
 DA;;דנית
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Dutch; Flemish

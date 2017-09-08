@@ -32,7 +32,7 @@ CV;;czuwaski
 KW;;kornijski
 CO;;korsykański
 CR;;kri
-CS;;czeski
+CZ;;czeski
 DA;;duński
 DV;;divehi; malediwski
 NL;;holenderski; flamandzki

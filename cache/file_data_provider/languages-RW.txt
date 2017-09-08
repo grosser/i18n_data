@@ -32,7 +32,7 @@ CV;;Igicuvashi
 KW;;Igikorunishe
 CO;;Igikoruse
 CR;;Igikiri
-CS;;Ikinyaceke
+CZ;;Ikinyaceke
 DA;;Ikidanwa
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Dutch; Flemish

@@ -32,7 +32,7 @@ CV;;Chuvash
 KW;;Kerneveureg
 CO;;Korseg
 CR;;Kri
-CS;;Tchekeg
+CZ;;Tchekeg
 DA;;Daneg
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Dutch; Flemish

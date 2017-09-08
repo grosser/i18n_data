@@ -32,7 +32,7 @@ CV;;čuvaština
 KW;;kornčina
 CO;;korzičtina
 CR;;krí
-CS;;čeština
+CZ;;čeština
 DA;;dánčina
 DV;;divehi; maldivčina
 NL;;holandčina; flámčina

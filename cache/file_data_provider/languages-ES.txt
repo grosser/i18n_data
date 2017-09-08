@@ -32,7 +32,7 @@ CV;;Chuvash
 KW;;Córnico
 CO;;Corso
 CR;;Cree
-CS;;Checo
+CZ;;Checo
 DA;;Danés
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Holandés, Flamenco

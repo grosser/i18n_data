@@ -32,7 +32,7 @@ CV;;Chuvash
 KW;;Kornubiera
 CO;;Korsikera
 CR;;Cree
-CS;;Txekiera
+CZ;;Txekiera
 DA;;Daniera
 DV;;Maldiviera
 NL;;Nederlandera; flandesera

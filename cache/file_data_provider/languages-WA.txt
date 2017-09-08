@@ -32,7 +32,7 @@ CV;;Tchouvache
 KW;;Cornike
 CO;;Corse
 CR;;Cri
-CS;;Tcheke
+CZ;;Tcheke
 DA;;Daenwès
 DV;;Divehi; Maldivyin
 NL;;Neyerlandès

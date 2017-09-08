@@ -32,7 +32,7 @@ CV;;چوواشی
 KW;;کرنوالی
 CO;;Corsican
 CR;;کریایی
-CS;;چکی
+CZ;;چکی
 DA;;دانمارکی
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Dutch; Flemish

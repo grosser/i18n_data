@@ -32,7 +32,7 @@ CV;;Tchuvache
 KW;;Cornish
 CO;;Corso
 CR;;Cree
-CS;;Tcheco
+CZ;;Tcheco
 DA;;Dinamarquês
 DV;;Divehi; Maldívio
 NL;;Holandês; Flamengo

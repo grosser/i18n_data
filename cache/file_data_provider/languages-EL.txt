@@ -32,7 +32,7 @@ CV;;Chuvash
 KW;;Cornish
 CO;;Κορσικανικά
 CR;;Cree
-CS;;Τσέχικα
+CZ;;Τσέχικα
 DA;;Δανέζικα
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Dutch; Flemish

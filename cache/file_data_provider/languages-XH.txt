@@ -32,7 +32,7 @@ CV;;Chuvash
 KW;;isi-Irish
 CO;;Corsican
 CR;;isiGrike
-CS;;isiCzech
+CZ;;isiCzech
 DA;;isiDanish
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Dutch; Flemish

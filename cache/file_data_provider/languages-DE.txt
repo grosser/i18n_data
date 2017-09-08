@@ -32,7 +32,7 @@ CV;;Tschuwaschisch
 KW;;Kornisch
 CO;;Korsisch
 CR;;Cree
-CS;;Tschechisch
+CZ;;Tschechisch
 DA;;Dänisch
 DV;;Dhivehi
 NL;;Niederländisch; Flämisch

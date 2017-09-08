@@ -32,7 +32,7 @@ CV;;Chuvash
 KW;;Cornish
 CO;;Corso
 CR;;Cree
-CS;;Ceco
+CZ;;Ceco
 DA;;Danese
 DV;;Divehi; Dhivehi; Maldiviano
 NL;;Olandese; Fiammingo

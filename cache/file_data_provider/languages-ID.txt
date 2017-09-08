@@ -32,7 +32,7 @@ CV;;Chuvash
 KW;;Cornish
 CO;;Korsika
 CR;;Cree
-CS;;Ceko
+CZ;;Ceko
 DA;;Denmark
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Belanda; Flemish

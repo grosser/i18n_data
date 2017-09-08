@@ -32,7 +32,7 @@ CV;;csuvas
 KW;;cornwalli
 CO;;korzikai
 CR;;krí
-CS;;cseh
+CZ;;cseh
 DA;;dán
 DV;;divehi; maldív
 NL;;holland, flamand

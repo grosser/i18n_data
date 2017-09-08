@@ -32,7 +32,7 @@ CV;;Tsjoevasjisch
 KW;;Cornish
 CO;;Corsicaans
 CR;;Cree
-CS;;Tsjechisch
+CZ;;Tsjechisch
 DA;;Deens
 DV;;Divehi; Maldiviaans
 NL;;Nederlands

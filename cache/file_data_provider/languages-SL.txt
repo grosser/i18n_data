@@ -32,7 +32,7 @@ CV;;čuvaščina
 KW;;kornijščina
 CO;;korzijščina
 CR;;krijščina
-CS;;češčina
+CZ;;češčina
 DA;;danščina
 DV;;diveščina
 NL;;nizozemščina; flamščina

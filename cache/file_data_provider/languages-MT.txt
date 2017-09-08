@@ -32,7 +32,7 @@ CV;;Ċuvax
 KW;;Irlandiż
 CO;;Bożniaku
 CR;;Grieg
-CS;;Kżekk
+CZ;;Kżekk
 DA;;Daniż
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Dutch; Flemish

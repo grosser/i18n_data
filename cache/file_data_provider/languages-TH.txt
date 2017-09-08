@@ -32,7 +32,7 @@ CV;;Chuvash
 KW;;Cornish
 CO;;Corsican
 CR;;Cree
-CS;;เช็ก
+CZ;;เช็ก
 DA;;เดนมาร์ก
 DV;;ทิเวหี; มัลดีฟส์
 NL;;Dutch; Flemish

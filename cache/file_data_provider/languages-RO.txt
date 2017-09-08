@@ -32,7 +32,7 @@ CV;;Ciuvașă
 KW;;Corneză
 CO;;Corsicană
 CR;;Creenă
-CS;;Cehă
+CZ;;Cehă
 DA;;Daneză
 DV;;Divehineză; Dhivehineză; Maldivineză
 NL;;Olandeză; flamandă

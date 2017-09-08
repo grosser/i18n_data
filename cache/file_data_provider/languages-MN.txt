@@ -32,7 +32,7 @@ CV;;Чуваш
 KW;;Корни
 CO;;Корсикан
 CR;;Cree
-CS;;Чех
+CZ;;Чех
 DA;;Дани
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Dutch; Flemish

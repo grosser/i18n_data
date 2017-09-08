@@ -32,7 +32,7 @@ CV;;Tiếng Chu-vas
 KW;;Tiếng Khoanh-uoănh
 CO;;Tiếng Coa-si-ca
 CR;;Tiếng Cợ-ri
-CS;;Tiếng Séc
+CZ;;Tiếng Séc
 DA;;Tiếng Đan Mạch
 DV;;Tiếng Đi-ve-hi
 NL;;Tiếng Hoà Lan; Tiếng Ph-le-mi

@@ -32,7 +32,7 @@ CV;;txuvaix
 KW;;còrnic
 CO;;cors
 CR;;cree
-CS;;txec
+CZ;;txec
 DA;;danès
 DV;;divehi
 NL;;neerlandès; holandès; flamenc

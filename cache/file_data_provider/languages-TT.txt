@@ -32,7 +32,7 @@ CV;;Чуаща
 KW;;Корнищә
 CO;;Корсикча
 CR;;Cree
-CS;;Чехчә
+CZ;;Чехчә
 DA;;Данча
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Dutch; Flemish

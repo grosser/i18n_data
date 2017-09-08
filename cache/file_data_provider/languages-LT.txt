@@ -32,7 +32,7 @@ CV;;Čiuvašų
 KW;;Kornų
 CO;;Korsikiečių
 CR;;Kry
-CS;;Čekų
+CZ;;Čekų
 DA;;Danų
 DV;;Maldivų
 NL;;Olandų; Flamandų

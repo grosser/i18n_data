@@ -32,7 +32,7 @@ CV;;Chuvash
 KW;;Rənglər
 CO;;Corsican
 CR;;Yunanca
-CS;;Çex
+CZ;;Çex
 DA;;Danimarka
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Dutch; Flemish

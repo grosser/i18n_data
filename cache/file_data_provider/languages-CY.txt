@@ -32,7 +32,7 @@ CV;;Chuvash
 KW;;Cernyweg
 CO;;Corseg
 CR;;Groeg
-CS;;Tsieceg
+CZ;;Tsieceg
 DA;;Daneg
 DV;;Divehi; Dhivehi; Maldivian
 NL;;Dutch; Flemish
