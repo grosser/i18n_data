@@ -15,7 +15,6 @@ AZ;;azéri
 BA;;bachkir
 BM;;bambara
 EU;;basque
-ES;;espagnol
 BE;;biélorusse
 BN;;bengali
 BH;;biharies, langues
@@ -147,7 +146,7 @@ SN;;shona
 SD;;sindhi
 SO;;somali
 ST;;sotho du Sud
-ES;;castillan
+ES;;castillan (espagnol)
 SC;;sarde
 SR;;serbe
 SS;;swati
