@@ -1,6 +1,8 @@
 require 'bundler/setup'
 require 'bundler/gem_tasks'
 require 'bump/tasks'
+require 'yaml'
+
 $LOAD_PATH << "lib"
 require 'i18n_data'
 
