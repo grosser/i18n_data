@@ -2,11 +2,9 @@ AA;;Afar
 AB;;Azerbejdđanski
 AF;;Afrikaans
 AK;;Azerbejdđanski
-SQ;;Azerbejđanski
 AM;;Amharic
 AR;;Arapski
 AN;;Aragonese
-HY;;Armenian
 AS;;Assamese
 AV;;Arapski
 AE;;Avestan
@@ -14,46 +12,45 @@ AY;;Aymara
 AZ;;Azerbejđanski
 BA;;Bashkir
 BM;;Bambara
-EU;;Baskijski
 BE;;Bjeloruski
 BN;;Bengali
 BH;;Korejski
 BI;;Bislama
+BO;;Tibetan
 BS;;Rumunjki
 BR;;Bretonski
 BG;;Bugarski
-MY;;Burmese
 CA;;Catalan; Valencian
+CS;;Češki
 CH;;Chamorro
 CE;;Češki
-ZH;;Kineski
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;Chuvash
 KW;;Cornish
 CO;;Corsican
 CR;;Grčki
-CS;;Češki
+CY;;Welsh
 DA;;Danski
+DE;;Njemački
 DV;;Divehi; Dhivehi; Maldivian
-NL;;Dutch; Flemish
 DZ;;Dzongkha
+EL;;Greek, Modern (1453-)
 EN;;Engleski
 EO;;Esperanto
 ET;;Estonski
+EU;;Baskijski
 EE;;Ewe
 FO;;Faroese
+FA;;Srpski
 FJ;;Fijian
 FI;;Finski
 FR;;Francuski
 FY;;Western Frisian
 FF;;Fulah
-KA;;Georgian
-DE;;Njemački
 GD;;Gaelic; Scottish Gaelic
 GA;;Irski
 GL;;Galicijanski
 GV;;Manx
-EL;;Greek, Modern (1453-)
 GN;;Guarani
 GU;;Gujarati
 HT;;Haitian; Haitian Creole
@@ -64,8 +61,8 @@ HI;;Hindi
 HO;;Hiri Motu
 HR;;Hrvatski
 HU;;Mađjarski
+HY;;Armenian
 IG;;Igbo
-IS;;Islandski
 IO;;Ido
 II;;Litvanski
 IU;;Inuktitut
@@ -73,12 +70,14 @@ IE;;Interlingue; Occidental
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;Infoneziski
 IK;;Inupiaq
+IS;;Islandski
 IT;;Talijanski
 JV;;Javanese
 JA;;Japanski
 KL;;Kalaallisut; Greenlandic
 KN;;Kannada
 KS;;Kashmiri
+KA;;Georgian
 KR;;Kurdski
 KK;;Kazakh
 KM;;Central Khmer
@@ -99,40 +98,40 @@ LT;;Litvanski
 LB;;Luxembourgish; Letzeburgesch
 LU;;Luba-Katanga
 LG;;Ganda
-MK;;Makedonski
 MH;;Maltski
 ML;;Malayalam
-MI;;Maorski
 MR;;Maorski
-MS;;Malay
+MK;;Makedonski
 MG;;Malagasy
 MT;;Maltski
-MO;;Moldavian; Moldovan
 MN;;Mongolian
+MI;;Maorski
+MS;;Malay
+MY;;Burmese
 NA;;Nauru
 NV;;Navajo; Navaho
 NR;;Ndebele, South; South Ndebele
 ND;;Ndebele, North; North Ndebele
 NG;;Bosanski
 NE;;Nepali
+NL;;Dutch; Flemish
 NN;;Norveški (Nynorsk)
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;Norveški
 NY;;Chichewa; Chewa; Nyanja
-OC;;Occitan (post 1500)
+OC;;Occitan (post 1500); Provençal
 OJ;;Ojibwa
 OR;;Oriya
 OM;;Oromo
 OS;;Ruski
 PA;;Panjabi; Punjabi
-FA;;Srpski
 PI;;Poljski
 PL;;Poljski
 PT;;Portugalski
 PS;;Pushto; Pashto
 QU;;Quechua
 RM;;Rumunjki
-RO;;Rumunjki
+RO;;Romanian; Moldavian; Moldovan
 RN;;Rundi
 RU;;Ruski
 SG;;Sango
@@ -147,6 +146,7 @@ SD;;Sindhi
 SO;;Somali
 ST;;Sotho, Southern
 ES;;Spanish; Castilian
+SQ;;Azerbejđanski
 SC;;Makedonski
 SR;;Srpski
 SS;;Swati
@@ -160,7 +160,6 @@ TE;;Telugu
 TG;;Tajlandski
 TL;;Tagalog
 TH;;Tajlandski
-BO;;Tibetan
 TI;;Turski
 TO;;Tonga (Tonga Islands)
 TN;;Tswana
@@ -175,11 +174,11 @@ UZ;;Uzbek
 VE;;Venda
 VI;;Vijetnamski
 VO;;Volapük
-CY;;Welsh
 WA;;Valonski
 WO;;Wolof
 XH;;Xhosa
 YI;;Yiddish
 YO;;Yoruba
 ZA;;Zhuang; Chuang
+ZH;;Kineski
 ZU;;Julia

@@ -2,11 +2,9 @@ AA;;Afar
 AB;;Reo Koroātia
 AF;;Reo Āwherika Tatimana
 AK;;Reo Koroātia
-SQ;;Reo Koroātia
 AM;;Reo Arapia
 AR;;Reo Arapia
 AN;;Aragonese
-HY;;Reo Romeinia
 AS;;Assamese
 AV;;Reo Arapia
 AE;;Avestan
@@ -14,46 +12,45 @@ AY;;Aymara
 AZ;;Reo Koroātia
 BA;;Bashkir
 BM;;Bambara
-EU;;Tūparu
 BE;;Reo Purukeria
 BN;;Bengali
 BH;;Kaupapa
 BI;;Bislama
+BO;;Tibetan
 BS;;Reo Romeinia
 BR;;Reo Parani Uropi-Īnia
 BG;;Reo Purukeria
-MY;;Burmese
 CA;;Catalan; Valencian
+CS;;Reo Parani
 CH;;Chamorro
 CE;;Reo Parani
-ZH;;Reo Hāina
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;Chuvash
 KW;;Reo Airana
 CO;;Reo Etonia
 CR;;Reo Kariki
-CS;;Reo Parani
+CY;;RakauTukutuku
 DA;;Reo Tenemaka
+DE;;Reo Tiamana
 DV;;Divehi; Dhivehi; Maldivian
-NL;;Dutch; Flemish
 DZ;;Dzongkha
+EL;;Greek, Modern (1453-)
 EN;;Reo Pākehā - Ingarangi
 EO;;Reo Tiamana
 ET;;Reo Etonia
+EU;;Tūparu
 EE;;Ewe
 FO;;Faroese
+FA;;Reo Koroātia
 FJ;;Fijian
 FI;;Reo Whinarana
 FR;;Reo Parani
 FY;;Parani
 FF;;Fulah
-KA;;Reo Tiamana
-DE;;Reo Tiamana
 GD;;Gaelic; Scottish Gaelic
 GA;;Reo Airana
 GL;;Reo Itari
 GV;;Manx
-EL;;Greek, Modern (1453-)
 GN;;Reo Purukeria
 GU;;Gujarati
 HT;;Haitian; Haitian Creole
@@ -64,8 +61,8 @@ HI;;Hindi
 HO;;Reo Airana
 HR;;Reo Koroātia
 HU;;Reo Hanekari
+HY;;Reo Romeinia
 IG;;Igbo
-IS;;Reo Tiorangi
 IO;;Ido
 II;;Reo Ītariana
 IU;;Inuktitut
@@ -73,12 +70,14 @@ IE;;Interlingue; Occidental
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;Reo Etonia
 IK;;Inupiaq
+IS;;Reo Tiorangi
 IT;;Reo Itari
 JV;;Reo Hapana
 JA;;Reo Hapana
 KL;;Kalaallisut; Greenlandic
 KN;;Kannada
 KS;;Kashmiri
+KA;;Reo Tiamana
 KR;;Reo Airana
 KK;;Kazakh
 KM;;Central Khmer
@@ -99,40 +98,40 @@ LT;;Reo Ītariana
 LB;;Luxembourgish; Letzeburgesch
 LU;;Luba-Katanga
 LG;;Ganda
-MK;;Reo Makerōnia
 MH;;Kaupapa
 ML;;Malayalam
-MI;;Reo Māori
 MR;;Reo Māori
-MS;;Malay
+MK;;Reo Makerōnia
 MG;;Malagasy
 MT;;Kaupapa
-MO;;Reo Koroātia
 MN;;Reo Makerōnia
+MI;;Reo Māori
+MS;;Malay
+MY;;Burmese
 NA;;Nauru
 NV;;Navajo; Navaho
 NR;;Ndebele, South; South Ndebele
 ND;;Ndebele, North; North Ndebele
 NG;;Reo Etonia
 NE;;Nepali
+NL;;Dutch; Flemish
 NN;;Reo Nōwei (Nynorsk)
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;Kaupapa
 NY;;Chichewa; Chewa; Nyanja
-OC;;Occitan (post 1500)
+OC;;Occitan (post 1500); Provençal
 OJ;;Ojibwa
 OR;;Oriya
 OM;;Oromo
 OS;;Reo Ruhia
 PA;;Panjabi; Punjabi
-FA;;Reo Koroātia
 PI;;Reo Pōrana
 PL;;Reo Pōrana
 PT;;Reo Pōtikī
 PS;;Pushto; Pashto
 QU;;Quechua
 RM;;Reo Romeinia
-RO;;Reo Romeinia
+RO;;Reo Koroātia
 RN;;Rundi
 RU;;Reo Ruhia
 SG;;Sango
@@ -147,6 +146,7 @@ SD;;Sindhi
 SO;;Somali
 ST;;Sotho, Southern
 ES;;Spanish; Castilian
+SQ;;Reo Koroātia
 SC;;Reo Makerōnia
 SR;;Reo Koroātia
 SS;;Swati
@@ -160,7 +160,6 @@ TE;;Telugu
 TG;;Reo Īnia tonga
 TL;;Tagalog
 TH;;Reo Īnia tonga
-BO;;Tibetan
 TI;;Reo Airana
 TO;;Tonga (Tonga Islands)
 TN;;Tswana
@@ -175,11 +174,11 @@ UZ;;Uzbek
 VE;;Venda
 VI;;Raene
 VO;;Volapük
-CY;;RakauTukutuku
 WA;;KKupu
 WO;;Wolof
 XH;;Rakau
 YI;;Yiddish
 YO;;Yoruba
 ZA;;Zhuang; Chuang
+ZH;;Reo Hāina
 ZU;;Purukeria

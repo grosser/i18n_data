@@ -2,11 +2,9 @@ AA;;Afarų
 AB;;Abchazų
 AF;;Afrikanų
 AK;;Akanų
-SQ;;Albanų
 AM;;Amharų
 AR;;Arabų
 AN;;Aragonų
-HY;;Armėnų
 AS;;Asamų
 AV;;Avarų
 AE;;Avestiškoji
@@ -14,46 +12,45 @@ AY;;Aimarų
 AZ;;Azerbaidžaniečių
 BA;;Baškirų
 BM;;Bambara
-EU;;Baskų
 BE;;Baltarusių
 BN;;Bengalų
 BH;;Tajų kalbos
 BI;;Bislama
+BO;;Tibetiečių
 BS;;Bosnių
 BR;;Bretonų
 BG;;Bulgarų
-MY;;Birmiečių
 CA;;Katalonų; Valencijos
+CS;;Čekų
 CH;;Čamorų
 CE;;Čečėnų
-ZH;;Kinų
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;Čiuvašų
 KW;;Kornų
 CO;;Korsikiečių
 CR;;Kry
-CS;;Čekų
+CY;;Valų
 DA;;Danų
+DE;;Vokiečių
 DV;;Maldivų
-NL;;Olandų; Flamandų
 DZ;;Botijų
+EL;;Graikų, šiuolaikinė (1453-)
 EN;;Anglų
 EO;;Esperanto
 ET;;Estų
+EU;;Baskų
 EE;;Ivių
 FO;;Farerų
+FA;;Persų
 FJ;;Fidžių
 FI;;Suomių
 FR;;Prancūzų
 FY;;Vakarų fryzų
 FF;;Fulahų
-KA;;Gruzinų
-DE;;Vokiečių
 GD;;Gėlų; škotų gėlų
 GA;;Airių
 GL;;Galisų
 GV;;Menksiečių
-EL;;Graikų, šiuolaikinė (1453-)
 GN;;Gvranių
 GU;;Gudžaratų
 HT;;Haičio; Haičio kreolų
@@ -64,8 +61,8 @@ HI;;Hindi
 HO;;Hiri motu
 HR;;Kroatų
 HU;;Vengrų
+HY;;Armėnų
 IG;;Igbo
-IS;;Islandų
 IO;;Ido
 II;;Sichuan Yi; Nuosu
 IU;;Inuktitutas
@@ -73,12 +70,14 @@ IE;;Interlingue
 IA;;Interlingua (tarpinė kalba) (Tarptautinė pagalbinės kalbos asociacija)
 ID;;Indoneziečių
 IK;;Inupiakų
+IS;;Islandų
 IT;;Italų
 JV;;Javiečių
 JA;;Japonų
 KL;;Grenlandų
 KN;;Kanadų
 KS;;Kašmyrų
+KA;;Gruzinų
 KR;;Kanūrių
 KK;;Kazachų
 KM;;Khmerų centrinė
@@ -99,22 +98,23 @@ LT;;Lietuvių
 LB;;Liuksemburgiečių
 LU;;Luba katanga
 LG;;Ganda
-MK;;Makedonų
 MH;;Maršalo salų
 ML;;Malajalių
-MI;;Maorių
 MR;;Marathų
-MS;;Malajų
+MK;;Makedonų
 MG;;Malagasių
 MT;;Maltiečių
-MO;;Moldavų
 MN;;Mongolų
+MI;;Maorių
+MS;;Malajų
+MY;;Birmiečių
 NA;;Nauriečių
 NV;;Navahų
 NR;;Pietų ndebelų
 ND;;Šiaurės ndebelų
 NG;;Ndongų
 NE;;Nepalų
+NL;;Olandų; Flamandų
 NN;;Norvegų nynorsk; nynorsk, norvegų
 NB;;Bokmål; norvegų; norvegų bokmål
 NO;;Norvegų
@@ -125,14 +125,13 @@ OR;;Orijų
 OM;;Oromų
 OS;;Osetinų
 PA;;Pendžabų
-FA;;Persų
 PI;;Pali
 PL;;Lenkų
 PT;;Portugalų
 PS;;Puštūnų
 QU;;Kečujų
 RM;;Retoromanų
-RO;;Rumunų
+RO;;Moldavų
 RN;;Rundi
 RU;;Rusų
 SG;;Sango
@@ -147,6 +146,7 @@ SD;;Sindhų
 SO;;Somalių
 ST;;Pietų sotų
 ES;;Ispanų; Kastilijos
+SQ;;Albanų
 SC;;Sardiniečių
 SR;;Serbų
 SS;;Svazių
@@ -160,7 +160,6 @@ TE;;Telugų
 TG;;Tadžikų
 TL;;Tagalų
 TH;;Tajų
-BO;;Tibetiečių
 TI;;Tigrajų
 TO;;Tongų (Tonga salų)
 TN;;Tsvanų
@@ -175,11 +174,11 @@ UZ;;Uzbekų
 VE;;Venda
 VI;;Vietnamiečių
 VO;;Volapiukas
-CY;;Valų
 WA;;Valonų
 WO;;Volofų
 XH;;Kosų
 YI;;Jidiš
 YO;;Jorubų
 ZA;;Džuangų
+ZH;;Kinų
 ZU;;Zulų (zulusų)

@@ -1,12 +1,10 @@
 AA;;Affareg
-AB;;Abcaseg
+AB;;Abchaseg
 AF;;Affricaneg
 AK;;Abcaseg
-SQ;;Albaneg
 AM;;Amhareg
 AR;;Arabeg
 AN;;Ffaröeg
-HY;;Armeneg
 AS;;Asameg
 AV;;Amhareg
 AE;;Avestan
@@ -14,46 +12,45 @@ AY;;Aimareg
 AZ;;Aserbaijani
 BA;;Bashgireg
 BM;;Aimareg
-EU;;Basgeg
 BE;;Belarwseg
 BN;;Bengaleg
 BH;;Malagasi
 BI;;Bislama
+BO;;Tibeteg
 BS;;Rwmaneg
 BR;;Llydaweg
 BG;;Bwlgareg
-MY;;Byrmaneg
 CA;;Catalan; Valencian
+CS;;Tsieceg
 CH;;Chamorro
 CE;;Tsieceg
-ZH;;Tsieinëeg
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;Chuvash
 KW;;Cernyweg
 CO;;Corseg
 CR;;Groeg
-CS;;Tsieceg
+CY;;Cymraeg
 DA;;Daneg
+DE;;Almaeneg
 DV;;Divehi; Dhivehi; Maldivian
-NL;;Dutch; Flemish
 DZ;;Dsonca
+EL;;Greek, Modern (1453-)
 EN;;Saesneg
 EO;;Esperanto
 ET;;Estoneg
+EU;;Basgeg
 EE;;Ewe
 FO;;Ffaröeg
+FA;;Perseg
 FJ;;Ffijïeg
 FI;;Ffinneg
 FR;;Ffrangeg
 FY;;Ffriseg
 FF;;Fulah
-KA;;Georgeg
-DE;;Almaeneg
 GD;;Gaeleg yr Alban
 GA;;Gwyddeleg
 GL;;Galiseg
 GV;;Manaweg
-EL;;Greek, Modern (1453-)
 GN;;Gwarani
 GU;;Gwjwrati
 HT;;Haitian; Haitian Creole
@@ -64,8 +61,8 @@ HI;;Hindi
 HO;;Hindi
 HR;;Croateg
 HU;;Hwngareg
+HY;;Armeneg
 IG;;Igbo
-IS;;Islandeg
 IO;;Ido
 II;;Lithwaneg
 IU;;Inwctitwt
@@ -73,12 +70,14 @@ IE;;Interlingue
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;Indoneseg
 IK;;Inwpiac
+IS;;Islandeg
 IT;;Eidaleg
 JV;;Jafaneg
 JA;;Siapaneg
 KL;;Kalaallisut; Greenlandic
 KN;;Canareg
 KS;;Cashmireg
+KA;;Georgeg
 KR;;Cwrdeg
 KK;;Cazacheg
 KM;;Central Khmer
@@ -99,40 +98,40 @@ LT;;Lithwaneg
 LB;;Lwcsembwrgeg
 LU;;Luba-Katanga
 LG;;Canareg
-MK;;Macedoneg
 MH;;Malteg
 ML;;Malaialameg
-MI;;Maori
 MR;;Marati
-MS;;Malaieg
+MK;;Macedoneg
 MG;;Malagasi
 MT;;Malteg
-MO;;Moldafeg
 MN;;Mongoleg
+MI;;Maori
+MS;;Malaieg
+MY;;Byrmaneg
 NA;;Nawrŵeg
 NV;;Navajo; Navaho
 NR;;Ndebele, South; South Ndebele
 ND;;Ndebele, North; North Ndebele
 NG;;Tsongeg
 NE;;Nepaleg
+NL;;Dutch; Flemish
 NN;;Norwyeg
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;Norwyeg
 NY;;Chichewa; Chewa; Nyanja
-OC;;Occitan (post 1500)
+OC;;Occitan (post 1500); Provençal
 OJ;;Ojibwa
 OR;;Orïa
 OM;;Oromo
 OS;;Rwsieg
 PA;;Pwnjabeg
-FA;;Perseg
 PI;;Somalieg
 PL;;Pwyleg
 PT;;Portiwgaleg
 PS;;Pwshtw
 QU;;Cetshwa
 RM;;Rwmaneg
-RO;;Rwmaneg
+RO;;Moldafeg
 RN;;Rwndi
 RU;;Rwsieg
 SG;;Sango
@@ -147,6 +146,7 @@ SD;;Sindhi
 SO;;Somalieg
 ST;;Sotho, Southern
 ES;;Spanish; Castilian
+SQ;;Albaneg
 SC;;Macedoneg
 SR;;Serbeg
 SS;;Swati
@@ -160,7 +160,6 @@ TE;;Telwgw
 TG;;Tajiceg
 TL;;Tagalog
 TH;;Tai
-BO;;Tibeteg
 TI;;Tigris
 TO;;Tonga (Tonga Islands)
 TN;;Tswana
@@ -175,11 +174,11 @@ UZ;;Wsbeceg
 VE;;Venda
 VI;;Fietnameg
 VO;;Volapuk
-CY;;Cymraeg
 WA;;Walloon
 WO;;Woloff
 XH;;Xhosa
-YI;;Iddeweg
+YI;;Iddew-Almaeneg
 YO;;Iorwba
 ZA;;Shwangeg
+ZH;;Tsieinëeg
 ZU;;Zwlw

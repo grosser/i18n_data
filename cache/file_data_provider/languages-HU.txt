@@ -2,58 +2,55 @@ AA;;afar
 AB;;abház
 AF;;afrikaans
 AK;;akan
-SQ;;albán
 AM;;amhara
 AR;;arab
 AN;;aragóniai
-HY;;örmény
 AS;;asszami
 AV;;avar
-AE;;avesztai
+AE;;avesztán
 AY;;ajmara
 AZ;;azeri
 BA;;baskír
 BM;;bambara
-EU;;baszk
 BE;;belorusz
 BN;;bengáli
 BH;;bihari nyelvek
 BI;;biszlama
+BO;;tibeti
 BS;;bosnyák
 BR;;breton
 BG;;bolgár
-MY;;burmai
 CA;;katalán; valenciai
+CS;;cseh
 CH;;csamorro
 CE;;csecsen
-ZH;;kínai
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;csuvas
 KW;;cornwalli
 CO;;korzikai
 CR;;krí
-CS;;cseh
+CY;;walesi
 DA;;dán
+DE;;német
 DV;;divehi; maldív
-NL;;holland, flamand
 DZ;;dzongkha
+EL;;modern görög (1453-)
 EN;;angol
 EO;;eszperantó
 ET;;észt
+EU;;baszk
 EE;;eve
 FO;;feröeri
+FA;;perzsa
 FJ;;fidzsi
 FI;;finn
 FR;;francia
 FY;;nyugati fríz
 FF;;ful
-KA;;grúz
-DE;;német
 GD;;kelta; skót kelta
 GA;;ír
 GL;;galíciai
 GV;;manx
-EL;;modern görög (1453-)
 GN;;guarani
 GU;;gudzsaráti
 HT;;haiti; haiti kreol
@@ -64,8 +61,8 @@ HI;;hindi
 HO;;hiri-motu
 HR;;horvát
 HU;;magyar
+HY;;örmény
 IG;;igbo
-IS;;izlandi
 IO;;ido
 II;;Szecsuán Yi; Nuosu
 IU;;inuktitut
@@ -73,12 +70,14 @@ IE;;interlingue; occidental
 IA;;interlingva (Nemzetközi Segédnyelv Egyesület)
 ID;;indonéz
 IK;;inupiak
+IS;;izlandi
 IT;;olasz
 JV;;jávai
 JA;;japán
 KL;;kalaallisut; grönlandi
 KN;;kannada
 KS;;kasmíri
+KA;;grúz
 KR;;kanuri
 KK;;kazak
 KM;;középkhmer
@@ -99,40 +98,40 @@ LT;;litván
 LB;;luxemburgi
 LU;;luba-katanga
 LG;;ganda
-MK;;macedón
-MH;;Marshall-szigeteki
+MH;;marshall-szigeteki
 ML;;malajálam
-MI;;maori
 MR;;maráthi
-MS;;maláj
+MK;;macedón
 MG;;malagas
 MT;;máltai
-MO;;Moldvai; moldovai
 MN;;mongol
+MI;;maori
+MS;;maláj
+MY;;burmai
 NA;;nauru
 NV;;navaho
 NR;;ndebele, déli; déli ndebele
 ND;;ndebele, északi; északi ndebele
 NG;;ndonga
 NE;;nepáli
+NL;;holland, flamand
 NN;;norvég nynorsk; nynorsk, norvég
-NB;;Bokmal, norvég, norvég bokmal
+NB;;bokmål; norvég; norvég bokmål
 NO;;norvég
 NY;;csicseva; cseva; nyandzsa
-OC;;okcitán (1500 után)
+OC;;okcitán (1500 után); provanszál
 OJ;;ozsibva
 OR;;orija
 OM;;oromo
 OS;;oszét
 PA;;pandzsábi
-FA;;perzsa
 PI;;páli
 PL;;lengyel
 PT;;portugál
-PS;;Pushto; Pashto
+PS;;pushto; pashto
 QU;;kecsua
 RM;;rétoromán
-RO;;román
+RO;;román; moldvai; moldovai
 RN;;rundi
 RU;;orosz
 SG;;szango
@@ -147,10 +146,11 @@ SD;;szindhi
 SO;;szomáli
 ST;;szoto, déli
 ES;;spanyol, kasztíliai
+SQ;;albán
 SC;;szárd
 SR;;szerb
 SS;;szvázi
-SU;;szundai
+SU;;szundanéz
 SW;;szuahéli
 SV;;svéd
 TY;;tahiti
@@ -160,7 +160,6 @@ TE;;telugu
 TG;;tádzsik
 TL;;tagalog
 TH;;thai
-BO;;tibeti
 TI;;tigrinya
 TO;;tonga (Tonga-szigetek)
 TN;;csvana
@@ -175,11 +174,11 @@ UZ;;üzbég
 VE;;venda
 VI;;vietnami
 VO;;volapük
-CY;;walesi
 WA;;vallon
 WO;;wolof
 XH;;xhosza
 YI;;jiddis
 YO;;joruba
 ZA;;dzsuang; csuang
+ZH;;kínai
 ZU;;zulu

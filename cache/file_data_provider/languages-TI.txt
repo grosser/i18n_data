@@ -2,11 +2,9 @@ AA;;አፋርኛ
 AB;;አብሐዚኛ
 AF;;አፍሪቃንስኛ
 AK;;Akan
-SQ;;ልቤኒኛ
 AM;;አማርኛ
 AR;;ዐርቢኛ
 AN;;Aragonese
-HY;;አርመናዊ
 AS;;አሳሜዛዊ
 AV;;Avaric
 AE;;Avestan
@@ -14,46 +12,45 @@ AY;;አያማርኛ
 AZ;;አዜርባይጃንኛ
 BA;;ባስኪርኛ
 BM;;Bambara
-EU;;ባስክኛ
 BE;;ቤላራሻኛ
 BN;;በንጋሊኛ
 BH;;ኮሪያኛ
 BI;;ቢስላምኛ
+BO;;ትበትንኛ
 BS;;Bosnian
 BR;;ብሬቶንኛ
 BG;;ቡልጋሪኛ
-MY;;ቡርማኛ
 CA;;Catalan; Valencian
+CS;;ቼክኛ
 CH;;Chamorro
 CE;;Chechen
-ZH;;ቻይንኛ
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;Chuvash
 KW;;Cornish
 CO;;ኮርሲካኛ
 CR;;Cree
-CS;;ቼክኛ
+CY;;ወልሽ
 DA;;ዴኒሽ
+DE;;ጀርመን
 DV;;Divehi; Dhivehi; Maldivian
-NL;;Dutch; Flemish
 DZ;;ድዞንግኻኛ
+EL;;Greek, Modern (1453-)
 EN;;እንግሊዝኛ
 EO;;ኤስፐራንቶ
 ET;;ኤስቶኒአን
+EU;;ባስክኛ
 EE;;Ewe
 FO;;ፋሮኛ
+FA;;ፐርሲያኛ
 FJ;;ፊጂኛ
 FI;;ፊኒሽ
 FR;;ፈረንሳይኛ
 FY;;ፍሪስኛ
 FF;;Fulah
-KA;;ጊዮርጊያን
-DE;;ጀርመን
 GD;;Gaelic; Scottish Gaelic
 GA;;አይሪሽ
 GL;;ጋለጋኛ
 GV;;Manx
-EL;;Greek, Modern (1453-)
 GN;;ጓራኒኛ
 GU;;ጉጃርቲኛ
 HT;;Haitian; Haitian Creole
@@ -64,8 +61,8 @@ HI;;ሐንድኛ
 HO;;Hiri Motu
 HR;;ክሮሽያንኛ
 HU;;ሀንጋሪኛ
+HY;;አርመናዊ
 IG;;Igbo
-IS;;አይስላንድኛ
 IO;;Ido
 II;;Sichuan Yi; Nuosu
 IU;;እኑክቲቱትኛ
@@ -73,12 +70,14 @@ IE;;እንተርሊንግወ
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;እንዶኒሲኛ
 IK;;እኑፒያቅኛ
+IS;;አይስላንድኛ
 IT;;ጣሊያንኛ
 JV;;ጃቫንኛ
 JA;;ጃፓንኛ
 KL;;Kalaallisut; Greenlandic
 KN;;ካናዳኛ
 KS;;ካሽሚርኛ
+KA;;ጊዮርጊያን
 KR;;Kanuri
 KK;;ካዛክኛ
 KM;;Central Khmer
@@ -99,40 +98,40 @@ LT;;ሊቱአኒያን
 LB;;Luxembourgish; Letzeburgesch
 LU;;Luba-Katanga
 LG;;Ganda
-MK;;ማከዶኒኛ
 MH;;Marshallese
 ML;;ማላያላምኛ
-MI;;ማዮሪኛ
 MR;;ማራዚኛ
-MS;;ማላይኛ
+MK;;ማከዶኒኛ
 MG;;ማላጋስኛ
 MT;;ማልቲስኛ
-MO;;ሞልዳቫዊና
 MN;;ሞንጎላዊኛ
+MI;;ማዮሪኛ
+MS;;ማላይኛ
+MY;;ቡርማኛ
 NA;;ናኡሩ
 NV;;Navajo; Navaho
 NR;;Ndebele, South; South Ndebele
 ND;;Ndebele, North; North Ndebele
 NG;;Ndonga
 NE;;ኔፓሊኛ
+NL;;Dutch; Flemish
 NN;;Norwegian Nynorsk; Nynorsk, Norwegian
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;ኖርዌጂያን
 NY;;Chichewa; Chewa; Nyanja
-OC;;Occitan (post 1500)
+OC;;Occitan (post 1500); Provençal
 OJ;;Ojibwa
 OR;;ኦሪያኛ
 OM;;ኦሮምኛ
 OS;;Ossetian; Ossetic
 PA;;Panjabi; Punjabi
-FA;;ፐርሲያኛ
 PI;;Pali
 PL;;ፖሊሽ
 PT;;ፖርቱጋሊኛ
 PS;;Pushto; Pashto
 QU;;ኵቿኛ
 RM;;ሮማኒያን
-RO;;ሮማኒያን
+RO;;ሞልዳቫዊና
 RN;;ሩንዲኛ
 RU;;ራሽኛ
 SG;;ሳንጎኛ
@@ -147,6 +146,7 @@ SD;;ሲንድሂኛ
 SO;;ሱማልኛ
 ST;;ሶዞኛ
 ES;;Spanish; Castilian
+SQ;;ልቤኒኛ
 SC;;Sardinian
 SR;;ሰርቢኛ
 SS;;ስዋቲኛ
@@ -160,7 +160,6 @@ TE;;ተሉጉኛ
 TG;;ታጂኪኛ
 TL;;ታጋሎገኛ
 TH;;ታይኛ
-BO;;ትበትንኛ
 TI;;ትግርኛ
 TO;;ቶንጋ
 TN;;ጽዋናዊኛ
@@ -175,11 +174,11 @@ UZ;;ኡዝበክኛ
 VE;;Venda
 VI;;ቪትናምኛ
 VO;;Volapük
-CY;;ወልሽ
 WA;;Walloon
 WO;;ዎሎፍኛ
 XH;;ዞሳኛ
 YI;;ይዲሻዊኛ
 YO;;ዮሩባዊኛ
 ZA;;Zhuang; Chuang
+ZH;;ቻይንኛ
 ZU;;ዙሉኛ
