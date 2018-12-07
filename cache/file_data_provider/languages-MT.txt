@@ -117,7 +117,7 @@ NG;;Bożniaku
 NE;;Nepaliż
 NN;;Norveġiż (Nynorsk)
 NB;;Bokmål, Norwegian; Norwegian Bokmål
-NO;;Korean
+NO;;Norveġiż
 NY;;Chichewa; Chewa; Nyanja
 OC;;Occitan (post 1500)
 OJ;;Oġibwa
