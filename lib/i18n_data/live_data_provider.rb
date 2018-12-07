@@ -1,20 +1,20 @@
-require 'open-uri'
-require 'rexml/document'
+require 'json'
 
 module I18nData
   # fetches data online from debian git
   module LiveDataProvider
     extend self
 
-    XML_CODES = {
-      :countries => 'iso_3166/iso_3166.xml',
-      :languages => 'iso_639/iso_639.xml'
+    JSON_CODES = {
+      :countries => 'data/iso_3166-1.json',
+      :languages => 'data/iso_639-2.json'
     }
+
     TRANSLATIONS = {
-      :countries => 'iso_3166/',
-      :languages => 'iso_639/'
+      :countries => 'iso_3166-1/',
+      :languages => 'iso_639-2/'
     }
-    REPO = "git://anonscm.debian.org/iso-codes/pkg-iso-codes.git"
+    REPO = "https://salsa.debian.org/iso-codes-team/iso-codes.git"
     CLONE_DEST = "/tmp/i18n_data_iso_clone"
 
     def codes(type, language_code)
@@ -79,9 +79,9 @@ module I18nData
     def english_languages
       @english_languages ||= begin
         codes = {}
-        xml(:languages).elements.each('*/iso_639_entry') do |entry|
-          name = entry.attributes['name'].to_s
-          code = entry.attributes['iso_639_1_code'].to_s.upcase
+        json(:languages)['639-2'].each do |entry|
+          name = entry['name'].to_s
+          code = entry['alpha_2'].to_s.upcase
           next if code.empty? or name.empty?
           codes[code] = name
         end
@@ -92,10 +92,9 @@ module I18nData
     def english_countries
       @english_countries ||= begin
         codes = {}
-        xml(:countries).elements.each('*/iso_3166_entry') do |entry|
-          name = entry.attributes['name'].to_s
-          name = "Taiwan" if name == "Taiwan, Province of China"
-          code = entry.attributes['alpha_2_code'].to_s.upcase
+        json(:countries)['3166-1'].each do |entry|
+          name = (entry['common_name'] || entry['name']).to_s
+          code = entry['alpha_2'].to_s.upcase
           codes[code] = name
         end
         codes
@@ -115,8 +114,8 @@ module I18nData
       File.read("#{CLONE_DEST}/#{url}")
     end
 
-    def xml(type)
-      REXML::Document.new(get(XML_CODES[type]))
+    def json(type)
+      JSON.parse(get(JSON_CODES[type]))
     end
   end
 end
