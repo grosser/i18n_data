@@ -1,3 +1,3 @@
 module I18nData
-  VERSION = Version = "0.9.0"
+  VERSION = Version = "0.9.1"
 end
