@@ -65,6 +65,7 @@ Authors
 
 ### [Contributors](https://github.com/grosser/i18n_data/contributors)
  - [Barry Allard](https://github.com/steakknife)
+ - [Richard Doe](https://github.com/rwd)
 
 [Michael Grosser](http://grosser.it)<br/>
 michael@grosser.it<br/>
