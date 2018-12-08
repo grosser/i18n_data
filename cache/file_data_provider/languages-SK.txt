@@ -2,11 +2,9 @@ AA;;afarčina
 AB;;abcházčina
 AF;;afrikánčina
 AK;;akančina
-SQ;;albánčina
 AM;;amharčina
 AR;;arabčina
 AN;;aragónčina
-HY;;arménčina
 AS;;ásámčina
 AV;;avarčina
 AE;;avestčina
@@ -14,46 +12,45 @@ AY;;aymarčina
 AZ;;azerbajdžančina
 BA;;baškirčina
 BM;;bambara
-EU;;baskičtina
 BE;;bieloruština
 BN;;bengálčina
 BH;;bihárske jazyky
 BI;;bislama
+BO;;tibetčina
 BS;;bosniačtina
 BR;;bretónčina
 BG;;bulharčina
-MY;;barmčina
 CA;;katalánčina; valencijčina
+CS;;čeština
 CH;;čamorčina
 CE;;čečenčina
-ZH;;čínština
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;čuvaština
 KW;;kornčina
 CO;;korzičtina
 CR;;krí
-CS;;čeština
+CY;;waleština
 DA;;dánčina
+DE;;nemčina
 DV;;divehi; maldivčina
-NL;;holandčina; flámčina
 DZ;;dzongkä
+EL;;novogréčtina (po 1453)
 EN;;angličtina
 EO;;esperanto
 ET;;estónčina
+EU;;baskičtina
 EE;;ewe
 FO;;faerčina
+FA;;perzština
 FJ;;fidžijčina
 FI;;fínčina
 FR;;francúzština
 FY;;západná frízština
 FF;;fulbčina
-KA;;gruzínčina
-DE;;nemčina
 GD;;gaelčina; škótska gaelčina
 GA;;írčina
 GL;;galícijčina
 GV;;mančina
-EL;;novogréčtina (po 1453)
 GN;;guaraní
 GU;;gudžarátčina
 HT;;haitská francúzska kreolčina
@@ -64,8 +61,8 @@ HI;;hindčina
 HO;;hiri motu
 HR;;chorvátčina
 HU;;maďarčina
+HY;;arménčina
 IG;;igbo
-IS;;islandčina
 IO;;ido
 II;;s’čchuanská ioština
 IU;;inuktitut
@@ -73,16 +70,18 @@ IE;;interlingue
 IA;;interlingua (International Auxiliary Language Association)
 ID;;indonézština
 IK;;inupiaq
+IS;;islandčina
 IT;;taliančina
 JV;;jávčina
 JA;;japončina
 KL;;grónčina
 KN;;kannadčina
 KS;;kašmírčina
+KA;;gruzínčina
 KR;;kanurijčina
 KK;;kazaština
 KM;;kambodžská khmérčina
-KI;;kikuju
+KI;;kikujčina; kikuju; gikuyu
 RW;;rwandčina
 KY;;kirgizština
 KV;;komijčina
@@ -98,41 +97,41 @@ LN;;lingalčina
 LT;;litovčina
 LB;;luxemburčina
 LU;;luba-katančina
-LG;;ganda
-MK;;macedónčina
+LG;;gandčina
 MH;;maršalčina
 ML;;malajálamčina
-MI;;maorčina
 MR;;maráthčina
-MS;;malajčina
+MK;;macedónčina
 MG;;malgaština
 MT;;maltčina
-MO;;moldavčina
 MN;;mongolčina
+MI;;maorčina
+MS;;malajčina
+MY;;barmčina
 NA;;nauruština
 NV;;navajo; navaho
 NR;;ndebelčina, južná; južná ndebelčina
 ND;;ndebelčina, severná; severná ndebelčina
 NG;;ndonga
 NE;;nepálčina
+NL;;holandčina; flámčina
 NN;;nórsky nynorsk; nynorsk, nórsky
 NB;;bokmål, nórsky; nórsky bokmål
 NO;;nórčina
 NY;;čičewa; čewa; ňandža
-OC;;okcitánčina (po roku 1500)
+OC;;okcitánčina (po roku 1500); provensalčina
 OJ;;odžibwa
 OR;;uríjčina
 OM;;oromčina
 OS;;osetčina
 PA;;pandžábčina
-FA;;perzština
 PI;;pálí
 PL;;poľština
 PT;;portugalčina
 PS;;paštčina; afgančina; paštó
 QU;;kečuánčina
 RM;;romanši
-RO;;rumunčina
+RO;;rumunčina; moldavčina
 RN;;rundčina
 RU;;ruština
 SG;;sango
@@ -147,6 +146,7 @@ SD;;sindhčina
 SO;;somálčina
 ST;;sothčina, južná
 ES;;španielčina; kastílčina
+SQ;;albánčina
 SC;;sardínčina
 SR;;srbčina
 SS;;swati
@@ -160,7 +160,6 @@ TE;;telugčina
 TG;;tadžičtina
 TL;;tagalčina
 TH;;thajčina
-BO;;tibetčina
 TI;;tigriňa
 TO;;tongčina (Tongské ostrovy)
 TN;;čwančina
@@ -175,11 +174,11 @@ UZ;;uzbečtina
 VE;;venda
 VI;;vietnamčina
 VO;;volapük
-CY;;waleština
 WA;;valónčina
 WO;;wolof
 XH;;xhosa
 YI;;jidiš
 YO;;jorubčina
 ZA;;čuangčina; šuongčina
+ZH;;čínština
 ZU;;zuluština

@@ -2,11 +2,9 @@ AA;;Afar
 AB;;Abchaziska
 AF;;Afrikaans
 AK;;Akan
-SQ;;Albanska
 AM;;Amhariska
 AR;;Arabiska
 AN;;Aragonska
-HY;;Armeniska
 AS;;Assamesiska
 AV;;Avariska
 AE;;Avestiska
@@ -14,46 +12,45 @@ AY;;Aymara
 AZ;;Azerbajdzjanska
 BA;;Basjkiriska
 BM;;Bambara
-EU;;Baskiska
 BE;;Vitryska
 BN;;Bengali
-BH;;Tupíspråk
+BH;;Biharispråk
 BI;;Bislama
+BO;;Tibetanska
 BS;;Bosniska
 BR;;Bretonska
 BG;;Bulgariska
-MY;;Burmanska
-CA;;Catalan; Valencian
+CA;;Katalanska; Valencianska
+CS;;Tjeckiska
 CH;;Chamorro
 CE;;Tjetjenska
-ZH;;Kinesiska
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;Tjuvasjiska
 KW;;Korniska
 CO;;Korsikanska
 CR;;Cree
-CS;;Tjeckiska
+CY;;Kymriska
 DA;;Danska
-DV;;Divehi; Dhivehi; Maldivian
-NL;;Dutch; Flemish
-DZ;;Bhutanesiska (Dzongkha)
+DE;;Tyska
+DV;;Divehi; Maldiviska
+DZ;;Dzongkha
+EL;;Nygrekiska (1453-)
 EN;;Engelska
 EO;;Esperanto
 ET;;Estniska
+EU;;Baskiska
 EE;;Ewe
 FO;;Färöiska
+FA;;Persiska
 FJ;;Fijianska
 FI;;Finska
 FR;;Franska
 FY;;Frisiska
 FF;;Fulani
-KA;;Georgiska
-DE;;Tyska
-GD;;Höglandsskotska
+GD;;Höglandsskotska; Gäliska
 GA;;Iriska
-GL;;Gaeliska
+GL;;Galiciska
 GV;;Manx
-EL;;Nygrekiska (1453-)
 GN;;Guarani
 GU;;Gujarati
 HT;;Haitiska; haitisk kreol
@@ -61,27 +58,29 @@ HA;;Haussa
 HE;;Hebreiska
 HZ;;Herero
 HI;;Hindi
-HO;;Hirimotu
+HO;;Hiri motu
 HR;;Kroatiska
 HU;;Ungerska
+HY;;Armeniska
 IG;;Ibo (Igbo)
-IS;;Isländska
 IO;;Ido
 II;;Sichuan Yi
 IU;;Inuktitut
-IE;;Interlingue
+IE;;Interlingue; Occidental
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;Indonesiska
 IK;;Inupiaq
+IS;;Isländska
 IT;;Italienska
 JV;;Javanska
 JA;;Japanska
 KL;;Grönländska
-KN;;Kannada
+KN;;Kanaresiska
 KS;;Kashmiri
+KA;;Georgiska
 KR;;Kanuri
 KK;;Kazakiska
-KM;;Central Khmer
+KM;;Kambodjanska (Khmer)
 KI;;Kikuyu
 RW;;Rwanda
 KY;;Kirgisiska
@@ -93,46 +92,46 @@ KU;;Kurdiska
 LO;;Laotiska
 LA;;Latin
 LV;;Lettiska
-LI;;Limburgan; Limburger; Limburgish
+LI;;Limburgiska
 LN;;Lingala
 LT;;Litauiska
 LB;;Luxemburgiska
 LU;;Luba-Katanga
 LG;;Luganda
-MK;;Makedonska
 MH;;Marshallesiska
 ML;;Malayalam
-MI;;Maori
 MR;;Marathi
-MS;;Malajiska
+MK;;Makedonska
 MG;;Malagasy
 MT;;Maltesiska
-MO;;Moldaviska
-MN;;Mongoliska språk
-NA;;Nauruanska
+MN;;Mongoliska
+MI;;Maori
+MS;;Malajiska
+MY;;Burmesiska
+NA;;Nauru
 NV;;Navaho
-NR;;Ndebele, syd
-ND;;Ndebele, nord
+NR;;Ndebele (Sydafrika)
+ND;;Ndebele (Zimbabwe)
 NG;;Ndonga
 NE;;Nepali
+NL;;Nederländska; Flamländska
 NN;;Nynorsk
-NB;;Bokmål, Norwegian; Norwegian Bokmål
+NB;;Norska, bokmål
 NO;;Norska
 NY;;Nyanja
-OC;;Langue d'oc (1500-)
+OC;;Langue d'oc (1500-); Provensalska
 OJ;;Odjibwa (chippewa)
 OR;;Oriya
 OM;;Oromo
 OS;;Ossetiska
-PA;;Punjabi
-FA;;Persiska
+PA;;Panjabi; Punjabi
 PI;;Pali
 PL;;Polska
 PT;;Portugisiska
 PS;;Pashto
 QU;;Quechua
-RM;;Romani
-RO;;Rumänska
+RM;;Rätoromanska
+RO;;Rumänska; Moldaviska
 RN;;Rundi
 RU;;Ryska
 SG;;Sango
@@ -145,8 +144,9 @@ SM;;Samoanska
 SN;;Shona
 SD;;Sindhi
 SO;;Somali
-ST;;Sotho, syd
+ST;;Sydsotho
 ES;;Spanska
+SQ;;Albanska
 SC;;Sardiska
 SR;;Serbiska
 SS;;Swazi
@@ -156,11 +156,10 @@ SV;;Svenska
 TY;;Tahitiska
 TA;;Tamil
 TT;;Tatariska
-TE;;Telugo
+TE;;Telugu
 TG;;Tadzjikiska
 TL;;Tagalog
 TH;;Thailändska
-BO;;Tibetanska
 TI;;Tigrinja
 TO;;Tonga (Tongaöarna)
 TN;;Tswana
@@ -175,11 +174,11 @@ UZ;;Uzbekiska
 VE;;Venda
 VI;;Vietnamesiska
 VO;;Volapük
-CY;;Kymriska
 WA;;Vallonska
 WO;;Wolof
 XH;;Xhosa
 YI;;Jiddisch
 YO;;Yoruba
 ZA;;Zhuang
+ZH;;Kinesiska
 ZU;;Zulu

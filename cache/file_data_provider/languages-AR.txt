@@ -1,59 +1,56 @@
 AA;;Afar
 AB;;الأذربيجانية
-AF;;الأفريكانس
-AK;;الأذربيجانية
-SQ;;الأذربيجانية
-AM;;العربية
+AF;;الأفريقانية
+AK;;الأكانية
+AM;;الأمهرية
 AR;;العربية
-AN;;Aragonese
-HY;;الرومانية
-AS;;Assamese
-AV;;العربية
-AE;;Avestan
-AY;;Aymara
+AN;;الأراغونية
+AS;;الأساميزية
+AV;;الأوارية
+AE;;الأفستية
+AY;;الأيمارا
 AZ;;الأذربيجانية
 BA;;Bashkir
-BM;;Bambara
-EU;;الباسك
-BE;;بلاروسي
+BM;;البمبرية
+BE;;البيلاروسية
 BN;;البنغالية
 BH;;الكورية
-BI;;Bislama
-BS;;الرومانية
-BR;;البريتون
+BI;;البيسلامية
+BO;;التبتية
+BS;;البوسنية
+BR;;البريتونية
 BG;;البلغارية
-MY;;البورمية
 CA;;Catalan; Valencian
-CH;;Chamorro
-CE;;التشيكية
-ZH;;الصينية
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
-CV;;Chuvash
-KW;;الأيرلندية
-CO;;البوسنية
-CR;;اليونانية
 CS;;التشيكية
+CH;;التشاموروية
+CE;;الشيشانية
+CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CV;;التشوفاشية
+KW;;الكورنية
+CO;;الكورسيكية
+CR;;اليونانية
+CY;;الويلزية
 DA;;الدنماركية
+DE;;الألمانية
 DV;;Divehi; Dhivehi; Maldivian
-NL;;Dutch; Flemish
 DZ;;الزونخاية
+EL;;Greek, Modern (1453-)
 EN;;الإنجليزية
 EO;;الإسبرانتو
 ET;;الإستونية
+EU;;الباسك
 EE;;Ewe
 FO;;Faroese
+FA;;الفارسي
 FJ;;Fijian
 FI;;الفنلندية
 FR;;الفرنسية
 FY;;الأوكرانية
 FF;;Fulah
-KA;;الألمانية
-DE;;الألمانية
 GD;;Gaelic; Scottish Gaelic
 GA;;الأيرلندية
 GL;;الغاليكية
 GV;;Manx
-EL;;Greek, Modern (1453-)
 GN;;البلغارية
 GU;;الغوجاراتية
 HT;;Haitian; Haitian Creole
@@ -64,8 +61,8 @@ HI;;الهندية
 HO;;التركية
 HR;;الكرواتية
 HU;;الهنغارية (المجرية)
+HY;;الرومانية
 IG;;Igbo
-IS;;الآيسلندية
 IO;;Ido
 II;;الليتوانية
 IU;;Inuktitut
@@ -73,12 +70,14 @@ IE;;Interlingue; Occidental
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;الإندونيسية
 IK;;Inupiaq
+IS;;الآيسلندية
 IT;;الإيطالية
 JV;;اليابانية
 JA;;اليابانية
 KL;;Kalaallisut; Greenlandic
 KN;;Kannada
 KS;;Kashmiri
+KA;;الألمانية
 KR;;الكردية
 KK;;Kazakh
 KM;;Central Khmer
@@ -99,40 +98,40 @@ LT;;الليتوانية
 LB;;Luxembourgish; Letzeburgesch
 LU;;Luba-Katanga
 LG;;Ganda
-MK;;المقدونية
 MH;;المالطية
 ML;;Malayalam
-MI;;الموري
 MR;;الموري
-MS;;لغة الملايو
+MK;;المقدونية
 MG;;Malagasy
 MT;;المالطية
-MO;;اللاتفية
 MN;;المقدونية
-NA;;Nauru
+MI;;الموري
+MS;;لغة الملايو
+MY;;البورمية
+NA;;ناورو
 NV;;Navajo; Navaho
 NR;;Ndebele, South; South Ndebele
 ND;;Ndebele, North; North Ndebele
 NG;;البوسنية
 NE;;النيبالية
+NL;;Dutch; Flemish
 NN;;النرويجية (نينورسك)
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;النرويجية
 NY;;Chichewa; Chewa; Nyanja
-OC;;Occitan (post 1500)
+OC;;Occitan (post 1500); Provençal
 OJ;;Ojibwa
 OR;;Oriya
 OM;;Oromo
 OS;;الروسية
 PA;;Panjabi; Punjabi
-FA;;الفارسي
 PI;;البولندية
 PL;;البولندية
 PT;;البرتغالية
 PS;;Pushto; Pashto
 QU;;Quechua
 RM;;الرومانية
-RO;;الرومانية
+RO;;اللاتفية
 RN;;Rundi
 RU;;الروسية
 SG;;Sango
@@ -147,6 +146,7 @@ SD;;Sindhi
 SO;;Somali
 ST;;Sotho, Southern
 ES;;Spanish; Castilian
+SQ;;الأذربيجانية
 SC;;المقدونية
 SR;;الصربية
 SS;;Swati
@@ -160,7 +160,6 @@ TE;;Telugu
 TG;;التايلاندية
 TL;;التاغالوغية
 TH;;التايلاندية
-BO;;التبتية
 TI;;التركية
 TO;;Tonga (Tonga Islands)
 TN;;Tswana
@@ -175,11 +174,11 @@ UZ;;Uzbek
 VE;;Venda
 VI;;الفييتنامية
 VO;;Volapük
-CY;;الويلزية
 WA;;الوالون
 WO;;Wolof
 XH;;الهاوسا
 YI;;Yiddish
 YO;;Yoruba
 ZA;;Zhuang; Chuang
+ZH;;الصينية
 ZU;;الزولو

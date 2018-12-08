@@ -2,11 +2,9 @@ AA;;Afárais
 AB;;Abcáisis
 AF;;Afracáinis
 AK;;Acáinis
-SQ;;Albáinis
 AM;;Amáiris
 AR;;Araibis
 AN;;Aragóinis
-HY;;Airméinis
 AS;;Asaimis
 AV;;Avairis
 AE;;Aivéistis
@@ -14,46 +12,45 @@ AY;;Aidhmiris
 AZ;;Asarbaiseáinis
 BA;;Baiscíris
 BM;;Bambáiris
-EU;;Bascais
 BE;;Bealarúisis
 BN;;Beangáilis
 BH;;Bihari languages
 BI;;Bioslamais
+BO;;Tibéidis
 BS;;Boisnis
 BR;;Briotáinis
 BG;;Bulgáiris
-MY;;Burmais
 CA;;Catalóinis; Vaileinsis
+CS;;Seicis
 CH;;Seamóróis
 CE;;Seisnis
-ZH;;Sínis
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;Suvaisis
 KW;;Coirnis
 CO;;Corsaicis
 CR;;Craíais
-CS;;Seicis
+CY;;Breatnais
 DA;;Danmhairgis
+DE;;Gearmáinis
 DV;;Divéihis; Maildívis
-NL;;Ollainnis; Pléimeannais
 DZ;;Seoinicis
+EL;;Gréigis Nua-Aimseartha (1453-)
 EN;;Béarla
 EO;;Esperanto
 ET;;Eastóinis
+EU;;Bascais
 EE;;Éivéis
 FO;;Faróis
+FA;;Peirsis
 FJ;;Fidsis
 FI;;Fionlainnis
 FR;;Fraincis
 FY;;Freaslainnis Iartharach
 FF;;Fulfuildis
-KA;;Seoirsis
-DE;;Gearmáinis
 GD;;Gaeilge na hAlban
 GA;;Gaeilge
 GL;;Gailísis
 GV;;Manainnis
-EL;;Gréigis Nua-Aimseartha (1453-)
 GN;;Guaráinis
 GU;;Gúisearáitis
 HT;;Criól Háítíoch
@@ -64,8 +61,8 @@ HI;;Hiondúis
 HO;;Hírí-Mótúis
 HR;;Cróitis
 HU;;Ungáiris
+HY;;Airméinis
 IG;;Íogbóis
-IS;;Íoslainnis
 IO;;Ido
 II;;Íais Shisiuánach
 IU;;Ionúitis
@@ -73,12 +70,14 @@ IE;;Idirtheanga iartharach
 IA;;Idirtheanga (International Auxiliary Language Association)
 ID;;Indinéisis
 IK;;Iniúipiaicis
+IS;;Íoslainnis
 IT;;Iodáilis
 JV;;Iávais
 JA;;Seapáinis
 KL;;Graonlainnis
 KN;;Cannadais
 KS;;Caismíris
+KA;;Seoirsis
 KR;;Canúiris
 KK;;Casaicis
 KM;;Ciméiris Láir
@@ -99,22 +98,23 @@ LT;;Liotuáinis
 LB;;Lucsambuirgis; Leitseabuirgis
 LU;;Lúba-Cataingis
 LG;;Gandais
-MK;;Macadóinis
 MH;;Marascailis
 ML;;Mailéalaimis
-MI;;Maorais
 MR;;Maraitis
-MS;;Malaeis
+MK;;Macadóinis
 MG;;Malagáisis
 MT;;Máltais
-MO;;Moldávais
 MN;;Mongóilis
+MI;;Maorais
+MS;;Malaeis
+MY;;Burmais
 NA;;Nárúis
 NV;;Navachóis
 NR;;Ndebele Theas
 ND;;Ndebele Thuaidh
 NG;;Ndongais
 NE;;Neipeailis
+NL;;Ollainnis; Pléimeannais
 NN;;Ioruais Nynorsk
 NB;;Ioruais Bokmål
 NO;;Ioruais
@@ -125,14 +125,13 @@ OR;;Oirísis
 OM;;Oraimis
 OS;;Óiséitis
 PA;;Puinseáibis
-FA;;Peirsis
 PI;;Páilis
 PL;;Polainnis
 PT;;Portaingéilis
 PS;;Paistis
 QU;;Ceatsuais
 RM;;Rómainis
-RO;;Rómáinis
+RO;;Moldávais
 RN;;Rundi
 RU;;Rúisis
 SG;;Sangóis
@@ -147,6 +146,7 @@ SD;;Sindis
 SO;;Somáilis
 ST;;Sótó Theas
 ES;;Spáinnis; Caistílis
+SQ;;Albáinis
 SC;;Sairdínis
 SR;;Seirbis
 SS;;Suaisis
@@ -160,7 +160,6 @@ TE;;Teileagúis
 TG;;Táidsícis
 TL;;Tagálaigis
 TH;;Téalainnis
-BO;;Tibéidis
 TI;;Tigrínis
 TO;;Tongais (Oileáin Thonga)
 TN;;Suáinis
@@ -175,11 +174,11 @@ UZ;;Úisbéicis
 VE;;Veindis
 VI;;Vítneamais
 VO;;Volapük
-CY;;Breatnais
 WA;;Vallúnais
 WO;;Volaifis
 XH;;Cóisis
 YI;;Giúdais
 YO;;Iarúibis
 ZA;;Siuáingis
+ZH;;Sínis
 ZU;;Súlúis

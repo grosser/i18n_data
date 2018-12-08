@@ -1,10 +1,7 @@
 # encoding: utf-8
 require "spec_helper"
 
-NUM_2_LETTER_LANGUAGES = {
-  I18nData::FileDataProvider => 185,
-  I18nData::LiveDataProvider => 184
-}
+NUM_2_LETTER_LANGUAGES = 184
 NUM_COUNTRIES = 249
 
 describe I18nData do
@@ -55,7 +52,7 @@ describe I18nData do
           end
 
           it "contains all languages" do
-            I18nData.languages.size.should eq NUM_2_LETTER_LANGUAGES[provider]
+            I18nData.languages.size.should eq NUM_2_LETTER_LANGUAGES
           end
         end
 
@@ -65,7 +62,7 @@ describe I18nData do
           end
 
           it "contains all languages" do
-            I18nData.languages('DE').size.should eq NUM_2_LETTER_LANGUAGES[provider]
+            I18nData.languages('DE').size.should eq NUM_2_LETTER_LANGUAGES
           end
 
           it "has english names for not-translateable languages" do

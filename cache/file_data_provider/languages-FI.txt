@@ -2,11 +2,9 @@ AA;;afar
 AB;;abhaasi
 AF;;afrikaans
 AK;;akan
-SQ;;albania
 AM;;amhara
 AR;;arabia
 AN;;aragonia
-HY;;armenia
 AS;;asami
 AV;;avaari
 AE;;avestan
@@ -14,46 +12,45 @@ AY;;aymara
 AZ;;azeri
 BA;;baškiiri
 BM;;bambara
-EU;;baski
 BE;;valkovenäjä
 BN;;bengali
 BH;;bihari-kielet
 BI;;bislama
+BO;;tiibetti
 BS;;bosnia
 BR;;bretoni
 BG;;bulgaria
-MY;;burma
 CA;;katalaani
+CS;;tšekki
 CH;;chamorro
 CE;;tšetšeeni
-ZH;;kiina
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;tšuvassi
 KW;;korni
 CO;;korsika
 CR;;cree
-CS;;tšekki
+CY;;kymri
 DA;;tanska
+DE;;saksa
 DV;;divehi
-NL;;hollanti
 DZ;;dzongkha
+EL;;nykykreikka
 EN;;englanti
 EO;;esperanto
 ET;;viro
+EU;;baski
 EE;;ewe
 FO;;fääri
+FA;;persia
 FJ;;fidži
 FI;;suomi
 FR;;ranska
 FY;;länsifriisi
 FF;;fulani
-KA;;georgia
-DE;;saksa
 GD;;gaeli
 GA;;iiri
 GL;;galicia
 GV;;manksi
-EL;;nykykreikka
 GN;;guarani
 GU;;gujarati
 HT;;haiti
@@ -64,8 +61,8 @@ HI;;hindi
 HO;;hiri-motu
 HR;;kroatia
 HU;;unkari
+HY;;armenia
 IG;;igbo
-IS;;islanti
 IO;;ido
 II;;sichuanin-yi
 IU;;inuktitut
@@ -73,12 +70,14 @@ IE;;interlingue
 IA;;interlingua
 ID;;indonesia
 IK;;iñupiaq
+IS;;islanti
 IT;;italia
 JV;;jaava
 JA;;japani
 KL;;kalaallisut; grönlanti
 KN;;kannada
 KS;;kashmiri
+KA;;georgia
 KR;;kanuri
 KK;;kazakki
 KM;;khmer
@@ -99,22 +98,23 @@ LT;;liettua
 LB;;luxemburg
 LU;;luba (Katanga)
 LG;;ganda
-MK;;makedonia
 MH;;marshallinsaaret
 ML;;malayalam
-MI;;maori
 MR;;marathi
-MS;;malaiji
+MK;;makedonia
 MG;;malagassi
 MT;;malta
-MO;;moldavia
 MN;;mongoli
+MI;;maori
+MS;;malaiji
+MY;;burma
 NA;;nauru
 NV;;navajo
 NR;;ndebele, etelä-
 ND;;ndebele, pohjois-
 NG;;ndonga
 NE;;nepali
+NL;;hollanti
 NN;;norja (nynorsk)
 NB;;norja (bokmål)
 NO;;norja
@@ -125,14 +125,13 @@ OR;;oriya
 OM;;oromo
 OS;;osseetti
 PA;;panjabi
-FA;;persia
 PI;;paali
 PL;;puola
 PT;;portugali
 PS;;pašto
 QU;;ketšua
 RM;;retoromaani
-RO;;romania
+RO;;moldavia
 RN;;rundi
 RU;;venäjä
 SG;;sango
@@ -147,6 +146,7 @@ SD;;sindhi
 SO;;somali
 ST;;eteläsotho
 ES;;espanja
+SQ;;albania
 SC;;sardi
 SR;;serbia
 SS;;swazi
@@ -160,7 +160,6 @@ TE;;telugu
 TG;;tadžikki
 TL;;tagalog
 TH;;thai
-BO;;tiibetti
 TI;;tigrinya
 TO;;Tongan tonga
 TN;;tswana
@@ -175,11 +174,11 @@ UZ;;uzbekki
 VE;;venda
 VI;;vietnam
 VO;;volapük
-CY;;kymri
 WA;;valloni
 WO;;wolof
 XH;;xhosa
 YI;;jiddiš
 YO;;yoruba
 ZA;;zhuang
+ZH;;kiina
 ZU;;zulu

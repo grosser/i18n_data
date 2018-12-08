@@ -1,185 +1,184 @@
-AA;;Afar
-AB;;Abkhazian
+AA;;afari
+AB;;abhaasi
 AF;;Lõuna-Aafrika
-AK;;Lõuna-Aafrika
-SQ;;Albaania
-AM;;Araabia
+AK;;akani
+AM;;amhara
 AR;;Araabia
-AN;;Fääri
-HY;;Armenian
-AS;;Assamese
-AV;;Araabia
-AE;;Avestan
-AY;;Aymara
+AN;;aragoni
+AS;;assami
+AV;;avaari
+AE;;avesta
+AY;;aimara
 AZ;;Aserbaidžaani
-BA;;Bashkir
-BM;;Bambara
-EU;;Baski
+BA;;baškiiri
+BM;;bambara
 BE;;Valgevene
-BN;;Balti
-BH;;Korea
-BI;;Bislama
-BS;;Rumeenia
-BR;;Breton
+BN;;bengali
+BH;;bihaari keeled
+BI;;bislama
+BO;;tiibeti
+BS;;bosnia
+BR;;bretooni
 BG;;Bulgaaria
-MY;;Burmese
-CA;;Catalan; Valencian
-CH;;Chamorro
-CE;;Tšehhi
-ZH;;Hiina
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
-CV;;Chuvash
-KW;;Värvid
-CO;;Corsican
-CR;;Kreeka
+CA;;katalaani
 CS;;Tšehhi
+CH;;tšamorro
+CE;;tšetšeeni
+CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CV;;tšuvaši
+KW;;korni
+CO;;korsika
+CR;;krii
+CY;;kõmri
 DA;;Taani
-DV;;Divehi; Dhivehi; Maldivian
-NL;;Dutch; Flemish
-DZ;;Dzongkha
+DE;;Saksa
+DV;;maldiivi
+DZ;;dzongkha
+EL;;kreeka
 EN;;Inglise
 EO;;Esperanto
 ET;;Eesti
-EE;;Ewe
+EU;;Baski
+EE;;eve
 FO;;Fääri
-FJ;;Otsi
+FA;;pärsia
+FJ;;fidži
 FI;;Soome
 FR;;Prantsuse
-FY;;Ukraina
-FF;;Fulah
-KA;;Georgian
-DE;;Saksa
-GD;;Gaelic; Scottish Gaelic
+FY;;läänefriisi
+FF;;fula
+GD;;gaeli
 GA;;Iiri
-GL;;Galeon
-GV;;Manx
-EL;;Greek, Modern (1453-)
-GN;;Guarani
-GU;;Gujarati
-HT;;Haitian; Haitian Creole
-HA;;Paus
+GL;;galeegi
+GV;;mänksi
+GN;;guaranii
+GU;;gudžarati
+HT;;haiti
+HA;;hausa
 HE;;Heebrea
-HZ;;Heebrea
-HI;;Otsi
-HO;;Otsi
+HZ;;herero
+HI;;hindi
+HO;;hirimotu
 HR;;Horvaatia
 HU;;Ungari
-IG;;Igbo
-IS;;Islandi
-IO;;Ido
-II;;Leedu
-IU;;Inuktitut
-IE;;Renderdamine
-IA;;Interlingua (International Auxiliary Language Association)
+HY;;armeenia
+IG;;ibo
+IO;;ido
+II;;nuosu
+IU;;inuktituti
+IE;;interlingue; oktsidentaal
+IA;;interlingua
 ID;;Indoneesia
-IK;;India
+IK;;injupiaki
+IS;;Islandi
 IT;;Itaalia
-JV;;Jaapani
+JV;;jaava
 JA;;Jaapani
-KL;;Kalaallisut; Greenlandic
-KN;;Kannada
-KS;;Kashmiri
-KR;;Türgi
-KK;;Kazakh
-KM;;Central Khmer
-KI;;Kikuyu; Gikuyu
-RW;;Kinyarwanda
-KY;;Kirghiz; Kyrgyz
-KV;;Komi
-KG;;Kongo
+KL;;grööni
+KN;;kannada
+KS;;kašmiiri
+KA;;gruusia
+KR;;kanuri
+KK;;kasahhi
+KM;;khmeeri
+KI;;kikuju
+RW;;ruanda
+KY;;kirgiisi
+KV;;komi
+KG;;kongo
 KO;;Korea
-KJ;;Kuanyama; Kwanyama
-KU;;Türgi
-LO;;Lao
-LA;;Asukoht
+KJ;;kvanjama
+KU;;kurdi
+LO;;lao
+LA;;ladina
 LV;;Läti
-LI;;Limburgan; Limburger; Limburgish
-LN;;Le_gal
+LI;;limburgi
+LN;;lingala
 LT;;Leedu
-LB;;Luxembourgish; Letzeburgesch
-LU;;Luba-Katanga
-LG;;Ganda
+LB;;letseburgi; luksemburgi
+LU;;Katanga luba
+LG;;ganda
+MH;;maršalli
+ML;;malajalami
+MR;;marathi
 MK;;Makedoonia
-MH;;ei
-ML;;Malayalam
-MI;;Ääred
-MR;;Marathi
-MS;;Malay
-MG;;Malagasy
-MT;;ei
-MO;;Moldavian; Moldovan
-MN;;Mongolian
+MG;;malagassi
+MT;;malta
+MN;;mongoli
+MI;;maoori
+MS;;malai
+MY;;birma
 NA;;Nauru
-NV;;Navajo; Navaho
-NR;;Ndebele, South; South Ndebele
-ND;;Ndebele, North; North Ndebele
-NG;;Ndonga
-NE;;Nepali
-NN;;Norra
-NB;;Bokmål, Norwegian; Norwegian Bokmål
+NV;;navaho
+NR;;lõunandebele
+ND;;ndebele
+NG;;ndonga
+NE;;nepali
+NL;;hollandi; flaami
+NN;;uusnorra
+NB;;norra bokmål
 NO;;Norra
-NY;;Chichewa; Chewa; Nyanja
-OC;;Occitan (post 1500)
-OJ;;Ojibwa
-OR;;Oriya
-OM;;alates
-OS;;Vene
-PA;;Panjabi; Punjabi
-FA;;Prindi
-PI;;Poola
+NY;;njandža
+OC;;oksitaani
+OJ;;odžibvei
+OR;;oria
+OM;;oromo
+OS;;osseedi
+PA;;pandžabi
+PI;;paali
 PL;;Poola
 PT;;Portugali
-PS;;Pushto; Pashto
-QU;;Quechua
-RM;;Rumeenia
-RO;;Rumeenia
-RN;;Rundi
+PS;;puštu
+QU;;ketšua
+RM;;romanši
+RO;;rumeenia; moldova
+RN;;rundi
 RU;;Vene
-SG;;Sango
-SA;;seriifideta
-SI;;Vietnami
+SG;;sango
+SA;;sanskrit
+SI;;singali
 SK;;Slovakkia
 SL;;Sloveenia
-SE;;Northern Sami
-SM;;Samoan
-SN;;Shona
-SD;;Otsi
-SO;;Somali
-ST;;Sotho, Southern
-ES;;Spanish; Castilian
-SC;;Makedoonia
+SE;;põhjasaami
+SM;;samoa
+SN;;šona
+SD;;sindhi
+SO;;somaali
+ST;;sotho
+ES;;hispaania
+SQ;;Albaania
+SC;;sardi
 SR;;Serbia
-SS;;Swati
-SU;;Sundanese
-SW;;Swahili
+SS;;svaasi
+SU;;sunda
+SW;;suahiili
 SV;;Rootsi
-TY;;Läti
-TA;;Tai
-TT;;Tatar
-TE;;Telugu
-TG;;Tai
-TL;;Tagalog
+TY;;tahiti
+TA;;tamili
+TT;;tatari
+TE;;telugu
+TG;;tadžiki
+TL;;tagalogi
 TH;;Tai
-BO;;Tibetan
-TI;;Türgi
-TO;;Tonga (Tonga Islands)
-TN;;Tswana
-TS;;Tsonga
-TK;;Turkmen
+TI;;tigrinja
+TO;;tonga
+TN;;tsvana
+TS;;tsonga
+TK;;türkmeeni
 TR;;Türgi
-TW;;Twi
-UG;;Uighur; Uyghur
-UK;;Ukraina
-UR;;Urdu
-UZ;;Uzbek
-VE;;Venda
+TW;;tvii
+UG;;uiguuri
+UK;;ukraina
+UR;;urdu
+UZ;;usbeki
+VE;;venda
 VI;;Vietnami
-VO;;Volapük
-CY;;Welsh
-WA;;Walloon
-WO;;Wolof
-XH;;Xhosa
-YI;;Yiddish
-YO;;Yoruba
-ZA;;Zhuang; Chuang
-ZU;;Zulu
+VO;;volapük
+WA;;vallooni
+WO;;volofi
+XH;;koosa
+YI;;jidiš
+YO;;joruba
+ZA;;tšuangi
+ZH;;Hiina
+ZU;;suulu
