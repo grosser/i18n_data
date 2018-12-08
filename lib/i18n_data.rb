@@ -47,12 +47,13 @@ module I18nData
 
     private
 
-    def fetch(*args)
+    def fetch(type, language_code)
       @cache ||= {}
-      if @cache.key?(args)
-        @cache[args]
+      @cache[type] ||= {}
+      if @cache[type].key?(language_code)
+        @cache[type][language_code]
       else
-        @cache[args] = yield
+        @cache[type][language_code] = yield
       end
     end
 
