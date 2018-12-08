@@ -48,13 +48,8 @@ module I18nData
     private
 
     def fetch(type, language_code)
-      @cache ||= {}
-      @cache[type] ||= {}
-      if @cache[type].key?(language_code)
-        @cache[type][language_code]
-      else
-        @cache[type][language_code] = yield
-      end
+      @cache ||= Hash.new { |h, k| h[k] = {} }
+      @cache[type].fetch(language_code) { @cache[type][language_code] = yield }
     end
 
     # hardcode languages that do not have a default type
