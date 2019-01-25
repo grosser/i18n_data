@@ -65,20 +65,27 @@ module I18nData
       search = search.strip
 
       # common languages first <-> faster in majority of cases
-      common_languages = ['EN','ES','FR','DE','ZH']
-      langs = (common_languages + (languages.keys - common_languages))
+      common_language_codes = ['EN','ES','FR','DE','ZH']
+      language_codes = common_language_codes.concat (available_language_codes - common_language_codes)
 
-      langs.each do |lang|
+      language_codes.detect do |language_code|
         begin
-          send(type, lang).each do |code, name|
-            # supports "Dutch" and "Dutch; Flemish", checks for inclusion first -> faster
-            match_found = (name.include?(search) and name.split(';').map{|s| s.strip }.include?(search))
-            return code if match_found
+          send(type, language_code).detect do |code, name|
+            # support "Dutch" and "Dutch; Flemish", checks for inclusion first -> faster
+            return code if (name.include?(search) && name.split(';').each(&:strip!).include?(search))
           end
         rescue NoTranslationAvailable
         end
       end
-      nil
+    end
+
+    # NOTE: this is not perfect since the used provider might have more or less languages available
+    # but it's better than just using the available english language codes
+    def available_language_codes
+      @available_languges ||= begin
+        files = Dir[File.expand_path("../../cache/file_data_provider/languages-*", __FILE__)]
+        files.map! { |f| f[/languages-(.*)\./, 1] }
+      end
     end
   end
 end

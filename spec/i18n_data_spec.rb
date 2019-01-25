@@ -162,6 +162,10 @@ describe I18nData do
     it "returns nil when it cannot recognise" do
       I18nData.country_code('XY').should eq nil
     end
+
+    it "can find languages that are not in english list" do
+      I18nData.country_code('奧蘭群島').should eq 'AX'
+    end
   end
 
   describe :language_code do
