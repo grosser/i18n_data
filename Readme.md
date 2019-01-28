@@ -3,7 +3,7 @@
  - List of 2-letter-code/name pairs for all countries/languages in all languages
 
 ### Translations
-Through [pkg-isocodes](http://git.debian.org/?p=iso-codes/iso-codes.git):
+Through [pkg-isocodes](https://salsa.debian.org/iso-codes-team/iso-codes.git):
 
  - 185 Language codes (iso 639 - 2 letter) in 68 Languages
  - 246 Country codes (iso 3166 - 2 letter) in 86 Languages
@@ -59,6 +59,7 @@ TODO
 ====
  - include other language/country code formats (3-letter codes...) ?
  - parse list of files on isocodes for write_cache instead of hardcoding country-specific ones
+ - rake task that checks that the readme is updated with language/country counters
 
 Authors
 =======

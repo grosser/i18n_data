@@ -6,7 +6,9 @@ require 'yaml'
 $LOAD_PATH << "lib"
 require 'i18n_data'
 
-task :default do
+task default: [:spec, :write_cache_for_file_data_provider]
+
+task :spec do
   sh "rspec --warnings spec/"
 end
 
@@ -22,17 +24,17 @@ task :languages do
   raise unless language = ENV['LANGUAGE']
   `mkdir -p output`
   data = I18nData.languages(language.upcase)
-  File.open("output/languages_#{language.downcase}.yml",'w') {|f|f.puts data.to_yaml}
+  File.write "output/languages_#{language.downcase}.yml", data.to_yaml
 end
 
-desc "write all countries to output"
+desc "write all countries to output to debug"
 task :all_countries do
   I18nData.languages.keys.each do |lc|
     `rake countries LANGUAGE=#{lc}`
   end
 end
 
-desc "write countries to output/countries_{language}"
+desc "write countries to output/countries_{language} to debug"
 task :countries do
   raise unless language = ENV['LANGUAGE']
   `mkdir -p output`
@@ -71,10 +73,10 @@ end
 
 desc "write cache for I18nData::FileDataProvider"
 task :write_cache_for_file_data_provider do
-  raise "use 1.9+, we need sorted hashes or diff is giant" if RUBY_VERSION < "1.9"
   require 'i18n_data/file_data_provider'
   require 'i18n_data/live_data_provider'
   sh "rm -rf cache/file_data_provider" # clean everything so old stuff goes away
   I18nData::LiveDataProvider.clear_cache
   I18nData::FileDataProvider.write_cache(I18nData::LiveDataProvider)
+  sh "git", "diff", "HEAD", "--exit-code"
 end

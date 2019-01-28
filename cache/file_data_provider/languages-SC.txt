@@ -9,7 +9,7 @@ AS;;Assamesu
 AV;;Avaru
 AE;;Avèsticu
 AY;;Aimarà
-AZ;;Azeri
+AZ;;Azeru
 BA;;Baschiru
 BM;;Bambara
 BE;;Bielorussu
@@ -19,7 +19,7 @@ BI;;Bislama
 BO;;Tibetanu
 BS;;Bosnìacu
 BR;;Brètonu
-BG;;Bulgaru
+BG;;Bùlgaru
 CA;;Catalanu; Valentzianu
 CS;;Tzecu
 CH;;Chamorru
@@ -107,7 +107,7 @@ MT;;Maltesu
 MN;;Mòngolu
 MI;;Maori
 MS;;Malesu
-MY;;Burmesu
+MY;;Birmanu
 NA;;Nauru
 NV;;Navajo; Navaho
 NR;;Ndebele meridionale
