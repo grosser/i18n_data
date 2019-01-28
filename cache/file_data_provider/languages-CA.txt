@@ -119,7 +119,7 @@ NN;;noruec nynorsk
 NB;;noruec bokmål
 NO;;noruec
 NY;;chichewa; chewa; nyanja
-OC;;occità (després del 1500)
+OC;;occità (després del 1500); provençal
 OJ;;ojibwa
 OR;;oriya
 OM;;oromo
@@ -131,7 +131,7 @@ PT;;portuguès
 PS;;paixtu
 QU;;quítxua
 RM;;romanx
-RO;;moldau
+RO;;romanès; moldau
 RN;;kirundi
 RU;;rus
 SG;;sango

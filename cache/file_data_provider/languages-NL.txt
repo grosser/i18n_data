@@ -9,7 +9,7 @@ AS;;Assamees, Assami
 AV;;Avaars, Awari
 AE;;Avestaans
 AY;;Aymara
-AZ;;Azeri, Azerbeidzjaans
+AZ;;Azerbeidzjaans
 BA;;Basjkiers, Basjkirisch
 BM;;Bambara
 BE;;Wit-Russisch, Belarussisch
@@ -108,7 +108,7 @@ MN;;Mongools
 MI;;Maori
 MS;;Maleis
 MY;;Burmees
-NA;;Nauruaans
+NA;;Nauru
 NV;;Navajo; Navaho
 NR;;Ndbele, Zuid; Zuid-Ndebele
 ND;;Ndbele, Noord; Noord-Ndebele

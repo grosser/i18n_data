@@ -5,12 +5,12 @@ AI;;Anguilla
 AX;;Isole Åland
 AL;;Albania
 AD;;Andorra
-AE;;Emirati arabi uniti
+AE;;Emirati Arabi Uniti
 AR;;Argentina
 AM;;Armenia
 AS;;Samoa americane
 AQ;;Antartide
-TF;;Territori meridionali francesi
+TF;;Territori francesi meridionali
 AG;;Antigua e Barbuda
 AU;;Australia
 AT;;Austria
@@ -18,14 +18,14 @@ AZ;;Azerbaigian
 BI;;Burundi
 BE;;Belgio
 BJ;;Benin
-BQ;;Bonaire, Saint Eustatius e Saba
-BF;;Burkina-Faso
+BQ;;Paesi Bassi caraibici
+BF;;Burkina Faso
 BD;;Bangladesh
 BG;;Bulgaria
 BH;;Bahrein
 BS;;Bahamas
 BA;;Bosnia-Erzegovina
-BL;;Saint-Barths
+BL;;Saint Barts
 BY;;Bielorussia
 BZ;;Belize
 BM;;Bermuda
@@ -53,7 +53,7 @@ CV;;Capo Verde
 CR;;Costa Rica
 CU;;Cuba
 CW;;Curaçao
-CX;;Isola Christmas
+CX;;Isola di Natale
 KY;;Isole Cayman
 CY;;Cipro
 CZ;;Cechia
@@ -71,7 +71,7 @@ ES;;Spagna
 EE;;Estonia
 ET;;Etiopia
 FI;;Finlandia
-FJ;;Fiji
+FJ;;Figi
 FK;;Isole Falkland (Malvine)
 FR;;Francia
 FO;;Isole Fær Øer
@@ -120,7 +120,7 @@ KG;;Kirghizistan
 KH;;Cambogia
 KI;;Kiribati
 KN;;Saint Kitts e Nevis
-KR;;Corea del Sud
+KR;;Corea del sud
 KW;;Kuwait
 LA;;Laos
 LB;;Libano
@@ -193,8 +193,8 @@ SA;;Arabia Saudita
 SD;;Sudan
 SN;;Senegal
 SG;;Singapore
-GS;;Georgia del Sud e Sandwich australi
-SH;;Saint Helena, Ascension e Tristan da Cunha
+GS;;Georgia del Sud e Isole Sandwich australi
+SH;;Sant'Elena, Ascensione e Tristan da Cunha
 SJ;;Svalbard e Jan Mayen
 SB;;Isole Salomone
 SL;;Sierra Leone
@@ -203,14 +203,14 @@ SM;;San Marino
 SO;;Somalia
 PM;;Saint-Pierre e Miquelon
 RS;;Serbia
-SS;;Sudan meridionale
+SS;;Sudan del sud
 ST;;São Tomé e Príncipe
 SR;;Suriname
 SK;;Slovacchia
 SI;;Slovenia
 SE;;Svezia
 SZ;;Swaziland
-SX;;Sint Maarten (parte olandese)
+SX;;Sint Maarten (Olanda)
 SC;;Seicelle
 SY;;Siria
 TC;;Isole Turks e Caicos
@@ -220,7 +220,7 @@ TH;;Thailandia
 TJ;;Tagikistan
 TK;;Tokelau
 TM;;Turkmenistan
-TL;;Timor orientale
+TL;;Timor Est
 TO;;Tonga
 TT;;Trinidad e Tobago
 TN;;Tunisia
@@ -230,20 +230,20 @@ TW;;Taiwan
 TZ;;Tanzania
 UG;;Uganda
 UA;;Ucraina
-UM;;Isole minori statunitensi
+UM;;Isole minori esterne degli Stati Uniti d'America
 UY;;Uruguay
 US;;Stati Uniti
 UZ;;Uzbekistan
 VA;;Santa Sede (Stato della Città del Vaticano)
 VC;;Saint Vincent e Grenadine
 VE;;Venezuela
-VG;;Isole Vergini britanniche
-VI;;Isole Vergini, U.S.
+VG;;Isole Vergini, Regno Unito
+VI;;Isole Vergini, U.S.A.
 VN;;Vietnam
 VU;;Vanuatu
 WF;;Wallis e Futuna
 WS;;Samoa
 YE;;Yemen
-ZA;;Sud Africa
+ZA;;Sudafrica
 ZM;;Zambia
 ZW;;Zimbabwe
