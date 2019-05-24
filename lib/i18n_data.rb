@@ -58,7 +58,7 @@ module I18nData
       {
         "ZH" => "zh_CN",
         "BN" => "bn_IN",
-      }[normal] || normal
+      }[normal] || normal.tr('-', '_')
     end
 
     def recognise_code(type, search)
