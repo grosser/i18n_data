@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    i18n_data (0.10.0)
+    i18n_data (0.11.0)
 
 GEM
   remote: https://rubygems.org/
@@ -28,4 +28,4 @@ DEPENDENCIES
   rspec (~> 2)
 
 BUNDLED WITH
-   1.16.1
+   1.17.2
