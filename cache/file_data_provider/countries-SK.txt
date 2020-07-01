@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldivy
 MX;;Mexiko
 MH;;Marshallove ostrovy
-MK;;Macedónska republika
+MK;;Nová Kaledónia
 ML;;Mali
 MT;;Malta
 MM;;Mjanmarsko
@@ -209,7 +209,7 @@ SR;;Surinam
 SK;;Slovensko
 SI;;Slovinsko
 SE;;Švédsko
-SZ;;Svazijsko
+SZ;;Eswatini
 SX;;Sint Maarten (holandská časť)
 SC;;Seychely
 SY;;Sýrska arabská republika

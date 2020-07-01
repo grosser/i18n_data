@@ -33,7 +33,7 @@ BO;;Bolìvia
 BR;;Brasile
 BB;;Barbados
 BN;;Brunei Darussalam
-BT;;Bhutan
+BT;;Bhutàn
 BV;;Ìsula Bouvet
 BW;;Botswana
 CF;;Repùblica Tzentrafricana
@@ -53,7 +53,7 @@ CV;;Cabu Birde
 CR;;Costa Rica
 CU;;Cuba
 CW;;Curaçao
-CX;;Ìsula de Nadale
+CX;;Ìsula de sa Natividade
 KY;;Ìsulas Càiman
 CY;;Tzipru
 CZ;;Tzèchia
@@ -92,7 +92,7 @@ GD;;Grenada
 GL;;Groenlàndia
 GT;;Guatemala
 GF;;Guyana Frantzesa
-GU;;Guam
+GU;;Guàm
 GY;;Guyana
 HK;;Hong Kong
 HM;;Ìsulas Heard e McDonald
@@ -142,7 +142,7 @@ MG;;Madagascàr
 MV;;Maldivas
 MX;;Mèssicu
 MH;;Ìsulas Marshall
-MK;;Matzedònia, Repùblica de
+MK;;Matzedònia de su Nord
 ML;;Mali
 MT;;Malta
 MM;;Birmània
@@ -168,7 +168,7 @@ NL;;Paisos Bassos
 NO;;Norvègia
 NP;;Nepal
 NR;;Nauru
-NZ;;Noa Zelanda
+NZ;;Zelanda Noa
 OM;;Omàn
 PK;;Pàkistan
 PA;;Pànama
@@ -176,7 +176,7 @@ PN;;Pitcairn
 PE;;Perù
 PH;;Filipinas
 PW;;Palau
-PG;;Pàpua Noa Guinea
+PG;;Pàpua Guinea Noa
 PL;;Polònia
 PR;;Puerto Rico
 KP;;Corea, Repùblica Democràtica Populare de
@@ -184,7 +184,7 @@ PT;;Portugallu
 PY;;Paraguay
 PS;;Palestina, Istadu de
 PF;;Polinèsia Frantzesa
-QA;;Qatar
+QA;;Catar
 RE;;Riunione
 RO;;Romania
 RU;;Federatzione Russa
@@ -194,7 +194,7 @@ SD;;Sudàn
 SN;;Senegàl
 SG;;Singapore
 GS;;Geòrgia de su Sud e Ìsulas Sandwich Australes
-SH;;Saint Helena, Ascension e Tristan da Cunha
+SH;;Santa Elene, Ascensione e Tristan da Cunha
 SJ;;Svalbard e Jan Mayen
 SB;;Ìsulas Salomone
 SL;;Sierra Leone
@@ -230,7 +230,7 @@ TW;;Taiwan
 TZ;;Tanzània
 UG;;Uganda
 UA;;Ucraina
-UM;;Ìsulas Minores Esternas de sos Istados Unidos
+UM;;Ìsulas Minores Perifèricas de sos Istados Unidos
 UY;;Uruguay
 US;;Istados Unidos
 UZ;;Uzbèkistan

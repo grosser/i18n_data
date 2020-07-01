@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;I-Malta
 MX;;I-Mexico
 MH;;Marshall Islands
-MK;;Ulawulo lokuziphatha kwe Dominikhani
+MK;;I-Makhedoniya
 ML;;IMali
 MT;;I-Malta
 MM;;I-Panama
@@ -209,7 +209,7 @@ SR;;Suriname
 SK;;Isi-Slovaki
 SI;;Isi-Sloveniya
 SE;;Isi-Swideni
-SZ;;ISwazilandi
+SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seychelles
 SY;;Ulawulo lokuziphatha kwe Dominikhani

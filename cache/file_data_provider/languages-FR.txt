@@ -13,9 +13,9 @@ AZ;;azéri
 BA;;bachkir
 BM;;bambara
 BE;;biélorusse
-BN;;bengali
+BN;;Bengali
 BH;;langues biharis
-BI;;bichlamar
+BI;;bichelamar
 BO;;tibétain
 BS;;bosniaque
 BR;;breton
@@ -28,7 +28,7 @@ CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slav
 CV;;tchouvache
 KW;;cornique
 CO;;corse
-CR;;cree
+CR;;cri
 CY;;gallois
 DA;;danois
 DE;;allemand
@@ -50,7 +50,7 @@ FF;;peul
 GD;;gaélique ; gaélique écossais
 GA;;irlandais
 GL;;galicien
-GV;;mannois ; manx
+GV;;mannois
 GN;;guarani
 GU;;goudjarâtî (gujrâtî)
 HT;;haïtien ; créole haïtien
@@ -67,7 +67,7 @@ IO;;ido
 II;;yi de Sichuan
 IU;;inuktitut
 IE;;interlingue
-IA;;interlingua (langue auxiliaire internationale)
+IA;;interlingua (association pour une langue auxiliaire internationale)
 ID;;indonésien
 IK;;inupiaq
 IS;;islandais
@@ -82,7 +82,7 @@ KR;;kanouri
 KK;;kazakh
 KM;;khmer central
 KI;;kikuyu
-RW;;rwanda
+RW;;kinyarwanda
 KY;;kirghiz
 KV;;komi
 KG;;kongo
@@ -98,8 +98,8 @@ LT;;lituanien
 LB;;luxembourgeois
 LU;;luba-katanga
 LG;;ganda
-MH;;marshall
-ML;;malayalam
+MH;;marshallais
+ML;;Malayalam
 MR;;marathe
 MK;;macédonien
 MG;;malgache
@@ -119,10 +119,10 @@ NN;;norvégien nynorsk
 NB;;norvégien Bokmål
 NO;;norvégien
 NY;;nyanja
-OC;;occitan (après 1500) ; provençal
+OC;;occitan
 OJ;;ojibwa
-OR;;oriya
-OM;;galla
+OR;;Oriya
+OM;;oromo
 OS;;ossète
 PA;;pendjabi
 PI;;pali
@@ -139,7 +139,7 @@ SA;;sanskrit
 SI;;singhalais
 SK;;slovaque
 SL;;slovène
-SE;;sami du Nord
+SE;;same du Nord
 SM;;samoan
 SN;;shona
 SD;;sindhi
@@ -159,9 +159,9 @@ TT;;tatar
 TE;;télougou
 TG;;tadjik
 TL;;tagalog
-TH;;thaï
+TH;;Thaï
 TI;;tigrigna
-TO;;tongan (Îles Tonga)
+TO;;tongien (Îles Tonga)
 TN;;tswana
 TS;;tsonga
 TK;;turkmène

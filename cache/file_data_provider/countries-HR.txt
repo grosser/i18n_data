@@ -1,7 +1,7 @@
 AW;;Aruba
 AF;;Afganistan
 AO;;Angola
-AI;;Angvila
+AI;;Anguila
 AX;;Alandski otoci
 AL;;Albanija
 AD;;Andora
@@ -11,10 +11,10 @@ AM;;Armenija
 AS;;Američka Samoa
 AQ;;Antarktika
 TF;;Francuski Južni Teritoriji
-AG;;Antigva i Barbuda
+AG;;Antigua i Barbuda
 AU;;Australija
 AT;;Austrija
-AZ;;Azerbejdžan
+AZ;;Azerbajdžan
 BI;;Burundi
 BE;;Belgija
 BJ;;Benin
@@ -38,13 +38,13 @@ BV;;Otok Bouvet
 BW;;Bocvana
 CF;;Srednjoafrička Republika
 CA;;Kanada
-CC;;Kokosovi (Keeling) otoci
+CC;;Cocos (Keeling) otoci
 CH;;Švicarska
 CL;;Čile
 CN;;Kina
 CI;;Obala Bjelokosti
 CM;;Kamerun
-CD;;Demokratska Republika Kongo
+CD;;Kongo, Demokratska Repubilika
 CG;;Kongo
 CK;;Cookovo Otočje
 CO;;Kolumbija
@@ -53,7 +53,7 @@ CV;;Zelenortski otoci
 CR;;Kostarika
 CU;;Kuba
 CW;;Curaçao
-CX;;Božićni otok
+CX;;Božićni Otok
 KY;;Kajmanski otoci
 CY;;Cipar
 CZ;;Češka
@@ -72,10 +72,10 @@ EE;;Estonija
 ET;;Etiopija
 FI;;Finska
 FJ;;Fidži
-FK;;Falklandski (Malvinski) otoci
+FK;;Falklandski otoci
 FR;;Francuska
-FO;;Ovčji (Faroe) otoci
-FM;;Mikronezija
+FO;;Farski otoci
+FM;;Mikronezija, Savezne Države
 GA;;Gabon
 GB;;Ujedinjeno Kraljevstvo
 GE;;Gruzija
@@ -91,11 +91,11 @@ GR;;Grčka
 GD;;Grenada
 GL;;Grenland
 GT;;Gvatemala
-GF;;Francuska Gvajana
+GF;;Francuska Gijana
 GU;;Guam
 GY;;Gvajana
 HK;;Hong Kong
-HM;;Otok Heard i McDonaldovi otoci
+HM;;Otok Heard i otočje McDonald
 HN;;Honduras
 HR;;Hrvatska
 HT;;Haiti
@@ -103,9 +103,9 @@ HU;;Mađarska
 ID;;Indonezija
 IM;;Otok Man
 IN;;Indija
-IO;;Britanski teritorij Indijskog oceana
+IO;;Britanski Indijskooceanski teritorij
 IE;;Irska
-IR;;Iran
+IR;;Iran, Islamska Republika
 IQ;;Irak
 IS;;Island
 IL;;Izrael
@@ -119,10 +119,10 @@ KE;;Kenija
 KG;;Kirgistan
 KH;;Kambodža
 KI;;Kiribati
-KN;;Sveti Kitts i Nevis
-KR;;Južna Koreja, Republika Koreja
+KN;;Sveti Kristofor i Nevis
+KR;;Koreja, Republika
 KW;;Kuvajt
-LA;;Laos
+LA;;Laoska Narodna Demokratska Republika
 LB;;Libanon
 LR;;Liberija
 LY;;Libija
@@ -137,12 +137,12 @@ MO;;Makao
 MF;;Sveti Martin (francuski dio)
 MA;;Maroko
 MC;;Monako
-MD;;Moldova
+MD;;Moldavija
 MG;;Madagaskar
 MV;;Maldivi
 MX;;Meksiko
-MH;;Maršalovi Otoci
-MK;;Makedonija
+MH;;Maršalovi otoci
+MK;;Sjeverna Makedonija
 ML;;Mali
 MT;;Malta
 MM;;Mjanmar
@@ -150,7 +150,7 @@ ME;;Crna Gora
 MN;;Mongolija
 MP;;Sjevernomarijanski otoci
 MZ;;Mozambik
-MR;;Mauritanija
+MR;;Mauretanija
 MS;;Montserrat
 MQ;;Martinik
 MU;;Mauricijus
@@ -172,14 +172,14 @@ NZ;;Novi Zeland
 OM;;Oman
 PK;;Pakistan
 PA;;Panama
-PN;;Pitcairn
+PN;;Pitcairnovo Otočje
 PE;;Peru
 PH;;Filipini
 PW;;Palau
 PG;;Papua Nova Gvineja
 PL;;Poljska
 PR;;Portoriko
-KP;;Sjeverna Koreja
+KP;;Koreja, Demokratska Narodna Republika
 PT;;Portugal
 PY;;Paragvaj
 PS;;Palestina
@@ -187,7 +187,7 @@ PF;;Francuska Polinezija
 QA;;Katar
 RE;;Réunion
 RO;;Rumunjska
-RU;;Rusija
+RU;;Ruska Federacija
 RW;;Ruanda
 SA;;Saudijska Arabija
 SD;;Sudan
@@ -196,7 +196,7 @@ SG;;Singapur
 GS;;Južna Georgija i otočje Južni Sandwich
 SH;;Sveta Helena, Ascension i Tristan da Cunha
 SJ;;Svalbard i Jan Mayen
-SB;;Solomonski otoci
+SB;;Salomonski Otoci
 SL;;Sijera Leone
 SV;;Salvador
 SM;;San Marino
@@ -209,10 +209,10 @@ SR;;Surinam
 SK;;Slovačka
 SI;;Slovenija
 SE;;Švedska
-SZ;;Svazi
+SZ;;Esvatini
 SX;;Sveti Martin (nizozemski dio)
 SC;;Sejšeli
-SY;;Sirija
+SY;;Sirijska Arapska Republika
 TC;;Otoci Turks i Caicos
 TD;;Čad
 TG;;Togo
@@ -220,7 +220,7 @@ TH;;Tajland
 TJ;;Tadžikistan
 TK;;Tokelau
 TM;;Turkmenistan
-TL;;Timor-Leste
+TL;;Istočni Timor
 TO;;Tonga
 TT;;Trinidad i Tobago
 TN;;Tunis
@@ -230,20 +230,20 @@ TW;;Tajvan
 TZ;;Tanzanija
 UG;;Uganda
 UA;;Ukrajina
-UM;;Mali udaljeni otoci SAD-a
+UM;;Američki Djevičanski Otoci
 UY;;Urugvaj
 US;;Sjedinjene Države
 UZ;;Uzbekistan
-VA;;Vatikan (Sveta Stolica)
+VA;;Vatikan (Država Vatikanskoga Grada)
 VC;;Sveti Vincent i Grenadini
 VE;;Venezuela
-VG;;Djevičanski otoci, britanski
-VI;;Američki Djevičanski otoci
+VG;;Djevičanski Otoci, Britanski
+VI;;Djevičanski Otoci, SAD
 VN;;Vijetnam
 VU;;Vanuatu
 WF;;Wallis i Futuna
 WS;;Samoa
 YE;;Jemen
-ZA;;Južna Afrika
+ZA;;Južnoafrička Republika
 ZM;;Zambija
 ZW;;Zimbabve

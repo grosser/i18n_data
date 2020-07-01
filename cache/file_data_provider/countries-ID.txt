@@ -1,5 +1,5 @@
 AW;;Aruba
-AF;;Afghanistan
+AF;;Afganistan
 AO;;Angola
 AI;;Anguilla
 AX;;Kepulauan Åland
@@ -19,14 +19,14 @@ BI;;Burundi
 BE;;Belgia
 BJ;;Benin
 BQ;;Bonaire, Sint Eustatius and Saba
-BF;;Burkina-Faso
+BF;;Burkina Faso
 BD;;Bangladesh
 BG;;Bulgaria
 BH;;Bahrain
 BS;;Bahama
-BA;;Bosnia-Herzegovina
+BA;;Bosnia dan Herzegovina
 BL;;Saint Barthélemy
-BY;;Belarusia
+BY;;Belarus
 BZ;;Belize
 BM;;Bermuda
 BO;;Bolivia
@@ -34,20 +34,20 @@ BR;;Brasil
 BB;;Barbados
 BN;;Brunei Darussalam
 BT;;Bhutan
-BV;;Kepulauan Bouvet
+BV;;Pulau Bouvet
 BW;;Botswana
 CF;;Republik Afrika Tengah
 CA;;Kanada
 CC;;Kepulauan Cocos (Keeling)
 CH;;Swiss
-CL;;Cili
+CL;;Chili
 CN;;Cina
 CI;;Pantai Gading
 CM;;Kamerun
 CD;;Republik Demokrat Congo
 CG;;Congo
 CK;;Kepulauan Cook
-CO;;Kolumbia
+CO;;Kolombia
 KM;;Komoro
 CV;;Cabo Verde
 CR;;Kosta Rika
@@ -62,16 +62,16 @@ DJ;;Djibouti
 DM;;Dominika
 DK;;Denmark
 DO;;Republik Dominika
-DZ;;Algeria
+DZ;;Aljazair
 EC;;Ekuador
 EG;;Mesir
-ER;;Eritria
+ER;;Eritrea
 EH;;Sahara Barat
 ES;;Spanyol
 EE;;Estonia
 ET;;Ethiopia
 FI;;Finlandia
-FJ;;Kepulauan Fiji
+FJ;;Fiji
 FK;;Kepulauan Falkland (Malvinas)
 FR;;Perancis
 FO;;Kepulauan Faroe
@@ -79,14 +79,14 @@ FM;;Federasi Negara-negara Micronesia
 GA;;Gabon
 GB;;Britania Raya
 GE;;Georgia
-GG;;Guersey
+GG;;Guernsey
 GH;;Ghana
-GI;;Jabaltar
+GI;;Gibraltar
 GN;;Guinea
 GP;;Guadeloupe
 GM;;Gambia
 GW;;Guinea-Bissau
-GQ;;Guinea Ekuatorial
+GQ;;Guinea Khatulistiwa
 GR;;Yunani
 GD;;Grenada
 GL;;Greenland
@@ -95,38 +95,38 @@ GF;;Guyana Perancis
 GU;;Guam
 GY;;Guyana
 HK;;Hong Kong
-HM;;Kepulauan Heard dan Kepulauan McDonald
+HM;;Pulau Heard dan Kepulauan McDonald
 HN;;Honduras
 HR;;Kroasia
 HT;;Haiti
-HU;;Hungaria
+HU;;Hongaria
 ID;;Indonesia
-IM;;Isle Man
+IM;;Pulau Man
 IN;;India
-IO;;Wilayah Samudra Indonesia Inggris
+IO;;Wilayah Samudra Hindia Britania
 IE;;Irlandia
 IR;;Iran, Republik Islam
 IQ;;Irak
 IS;;Islandia
 IL;;Israel
 IT;;Italia
-JM;;Jamaica
+JM;;Jamaika
 JE;;Jersey
 JO;;Yordania
-JP;;Japan
+JP;;Jepang
 KZ;;Kazakhstan
 KE;;Kenya
-KG;;Kyrgyzstan
+KG;;Kirgizstan
 KH;;Kamboja
 KI;;Kiribati
-KN;;St Kittis & Nevis
+KN;;Saint Kitts dan Nevis
 KR;;Korea Selatan
 KW;;Kuwait
 LA;;Republik Demokrat Rakyat Laos
-LB;;Libanon
+LB;;Lebanon
 LR;;Liberia
 LY;;Libya
-LC;;St Lucia
+LC;;Saint Lucia
 LI;;Liechtenstein
 LK;;Sri Lanka
 LS;;Lesotho
@@ -136,13 +136,13 @@ LV;;Latvia
 MO;;Macao
 MF;;Saint Martin (wilayah Prancis)
 MA;;Maroko
-MC;;Monaco
+MC;;Monako
 MD;;Moldova
 MG;;Madagaskar
-MV;;Maldives
+MV;;Maladewa
 MX;;Meksiko
 MH;;Kepulauan Marshall
-MK;;Masedonia, Republik
+MK;;Makedonia Utara
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -160,7 +160,7 @@ YT;;Mayotte
 NA;;Namibia
 NC;;Kaledonia Baru
 NE;;Niger
-NF;;Kepulauan Norfolk
+NF;;Pulau Norfolk
 NG;;Nigeria
 NI;;Nikaragua
 NU;;Niue
@@ -186,34 +186,34 @@ PS;;Negara Palestina
 PF;;Polinesia Perancis
 QA;;Qatar
 RE;;Réunion
-RO;;Romania
+RO;;Rumania
 RU;;Federasi Rusia
 RW;;Rwanda
 SA;;Arab Saudi
 SD;;Sudan
 SN;;Senegal
 SG;;Singapura
-GS;;Kepulauan Georgia Selatan dan Sandwich Selatan
-SH;;Saint Helena, Ascension and Tristan da Cunha
+GS;;Georgia Selatan dan Kepulauan Sandwich Selatan
+SH;;Saint Helena, Ascension, dan Tristan da Cunha
 SJ;;Svalbard dan Jan Mayen
 SB;;Kepulauan Solomon
 SL;;Sierra Leone
 SV;;El Salvador
 SM;;San Marino
 SO;;Somalia
-PM;;St. Pierre and Miquelon
+PM;;Saint Pierre dan Miquelon
 RS;;Serbia
 SS;;Sudan Selatan
 ST;;Sao Tome dan Principe
 SR;;Suriname
-SK;;Slovakia
-SI;;Slovania
+SK;;Slowakia
+SI;;Slovenia
 SE;;Swedia
-SZ;;Swaziland
+SZ;;Eswatini
 SX;;Sint Maarten (wilayah Belanda)
 SC;;Seychelles
 SY;;Republik Arab Syria
-TC;;Turki & Kepulauan Caicos
+TC;;Kepulauan Turks dan Caicos
 TD;;Chad
 TG;;Togo
 TH;;Thailand
@@ -235,7 +235,7 @@ UY;;Uruguay
 US;;Amerika Serikat
 UZ;;Uzbekistan
 VA;;Takhta Suci Vatican (Negara Kota)
-VC;;St. Vincent dan The Grenadines
+VC;;Saint Vincent dan Grenadines
 VE;;Venezuela
 VG;;Kepulauan Virgin Inggris
 VI;;Kepulauan Virgin Amerika Serikat

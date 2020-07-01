@@ -24,7 +24,7 @@ BD;;Bangladesh
 BG;;Bulgarien
 BH;;Bahrain
 BS;;Bahamas
-BA;;Bosnien-Herzegovina
+BA;;Bosnien-Hercegovina
 BL;;Sankt Bartolomæus
 BY;;Hviderusland
 BZ;;Belize
@@ -47,7 +47,7 @@ CM;;Cameroun
 CD;;Den Demokratiske Republik Congo
 CG;;Congo
 CK;;Cookøerne
-CO;;Columbia
+CO;;Colombia
 KM;;Comorerne
 CV;;Kap Verde
 CR;;Costa Rica
@@ -56,7 +56,7 @@ CW;;Curaçao
 CX;;Juleøen
 KY;;Caymanøerne
 CY;;Cypern
-CZ;;Czechia
+CZ;;Tjekkiet
 DE;;Tyskland
 DJ;;Djibouti
 DM;;Dominica
@@ -91,10 +91,10 @@ GR;;Grækenland
 GD;;Grenada
 GL;;Grønland
 GT;;Guatemala
-GF;;Fransk Guinea
+GF;;Fransk Guyana
 GU;;Guam
 GY;;Guyana
-HK;;Hong Kong
+HK;;Hongkong
 HM;;Heard-øen og McDonald-øerne
 HN;;Honduras
 HR;;Kroatien
@@ -103,7 +103,7 @@ HU;;Ungarn
 ID;;Indonesien
 IM;;Isle of Man
 IN;;Indien
-IO;;British Indian Ocean Territory
+IO;;Det britiske territorium i Det Indiske Ocean
 IE;;Irland
 IR;;Iran, Den Islamiske Republik
 IQ;;Irak
@@ -131,7 +131,7 @@ LI;;Liechtenstein
 LK;;Sri Lanka
 LS;;Lesotho
 LT;;Litauen
-LU;;Luxemburg
+LU;;Luxembourg
 LV;;Letland
 MO;;Macao
 MF;;Sankt Martin (Fransk del)
@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldiverne
 MX;;Mexico
 MH;;Marshalløerne
-MK;;Makedonien, Republikken
+MK;;Nordmakedonien
 ML;;Mali
 MT;;Malta
 MM;;Burma
@@ -209,7 +209,7 @@ SR;;Surinam
 SK;;Slovakiet
 SI;;Slovenien
 SE;;Sverige
-SZ;;Swaziland
+SZ;;Eswatini
 SX;;Sint Maarten (hollandsk del)
 SC;;Seychellerne
 SY;;Syriske Arabiske Republik
@@ -230,7 +230,7 @@ TW;;Taiwan
 TZ;;Tanzania
 UG;;Uganda
 UA;;Ukraine
-UM;;Fjerne, mindre Amerikanske øer
+UM;;USA's ydre småøer
 UY;;Uruguay
 US;;USA
 UZ;;Usbekistan

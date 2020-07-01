@@ -1,6 +1,6 @@
 AA;;Afar
 AB;;Abkhazian
-AF;;Afrikaans
+AF;;Αφρικάανς
 AK;;Akan
 AM;;Amharic
 AR;;Αραβικά

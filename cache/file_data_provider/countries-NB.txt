@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldivene
 MX;;Mexico
 MH;;Marshalløyene
-MK;;Makedonia, Republikken
+MK;;Ny-Caledonia
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -209,7 +209,7 @@ SR;;Surinam
 SK;;Slovakia
 SI;;Slovenia
 SE;;Sverige
-SZ;;Swaziland
+SZ;;Eswatini (tidligere Swasiland)
 SX;;Sint Maarten (nederlandsk del)
 SC;;Seychellene
 SY;;Den arabiske republikk Syria

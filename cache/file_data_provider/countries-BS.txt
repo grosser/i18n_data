@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldivi
 MX;;Meksiko
 MH;;Maršalska Ostrva
-MK;;Republika Makedonija
+MK;;Nova Kaledonija
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -209,7 +209,7 @@ SR;;Surinam
 SK;;Slovačka
 SI;;Slovenija
 SE;;Švedska
-SZ;;Svazilend
+SZ;;Eswatini
 SX;;Sint Maarten (Holandski dio)
 SC;;Sejšelsko otočje
 SY;;Sirijska Arapska Republika

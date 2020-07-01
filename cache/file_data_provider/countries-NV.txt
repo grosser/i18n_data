@@ -142,7 +142,7 @@ MG;;Mágí Bitseeʼ Noodǫ́zí Bikéyah
 MV;;Naakaii Dootłʼizhí Bikéyah Yázhí
 MX;;Naakaii Bikéyah
 MH;;Marshall Islands
-MK;;Macedonia, Republic of
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -209,7 +209,7 @@ SR;;Suriname
 SK;;Słóbaʼ Bikéyah
 SI;;Słobíín Bikéyah
 SE;;Chʼah Bideeʼí Dineʼé Bikéyah
-SZ;;Swáazi Dineʼé Bikéyah
+SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seychelles
 SY;;Syrian Arab Republic

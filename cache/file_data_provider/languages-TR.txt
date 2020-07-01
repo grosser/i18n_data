@@ -7,7 +7,7 @@ AR;;Arapça
 AN;;Aragonca (İspanya)
 AS;;Assamese (Hindistan)
 AV;;Avarca
-AE;;Avestan (Eski İran)
+AE;;Avestçe
 AY;;Aymara (Güney Amerika)
 AZ;;Azerice
 BA;;Başkurtça
@@ -45,14 +45,14 @@ FA;;Farsça
 FJ;;Fiji dili
 FI;;Fince
 FR;;Fransızca
-FY;;Batı Frizyeli Dili
+FY;;Batı Frizya dili
 FF;;Fulah
 GD;;Keltçe; İskoçya Keltçesi
 GA;;İrlandaca
 GL;;Galiçyaca
 GV;;Manx (Galler)
-GN;;Guarani (Paraguay)
-GU;;Gujarati (Hindistan)
+GN;;Guarani
+GU;;Gujarati
 HT;;Haiti dili; Haiti Creole dili
 HA;;Hausa
 HE;;İbranice
@@ -68,11 +68,11 @@ II;;Sichuan Yi; Nuosu
 IU;;Inuktitut
 IE;;Yapay dil; Batıya özgün
 IA;;Interlingua (International Auxiliary Language Association)
-ID;;Endonezce
+ID;;Endonezyaca
 IK;;Inupiaq
 IS;;İzlandaca
 IT;;İtalyanca
-JV;;Javanese
+JV;;Cava dili
 JA;;Japonca
 KL;;Kalaallisut; Grönlandca
 KN;;Kannada
@@ -89,12 +89,12 @@ KG;;Kongo
 KO;;Korece
 KJ;;Kuanyama; Kwanyama
 KU;;Kürtçe
-LO;;Laos Dili
+LO;;Laoca
 LA;;Latince
 LV;;Letonca
 LI;;Limburgan; Limburger; Limburgish
 LN;;Lingala
-LT;;Litvanca
+LT;;Litvanyaca
 LB;;Luxembourgish; Letzeburgesch
 LU;;Luba-Katanga
 LG;;Ganda
@@ -107,7 +107,7 @@ MT;;Maltaca
 MN;;Moğolca
 MI;;Maori
 MS;;Malayca
-MY;;Burmaca
+MY;;Birmanca
 NA;;Nauru
 NV;;Navajo; Navaho
 NR;;Ndebele, Güney; Güney Ndebelecesi
@@ -119,7 +119,7 @@ NN;;Halk Norveççesi; Halk, Norveççe
 NB;;Kitap, Norveççe; Kitap Norveççesi
 NO;;Norveççe
 NY;;Chichewa; Chewa; Nyanja
-OC;;Occitan (post 1500)
+OC;;Oksitanca (1500 sonrası); Provensal
 OJ;;Ojibwa
 OR;;Oriya
 OM;;Oromo
@@ -131,7 +131,7 @@ PT;;Portekizce
 PS;;Pushto; Pashto
 QU;;Quechua
 RM;;Romansh
-RO;;Moldavya Dili
+RO;;Romen; Moldovalı; Moldovalı
 RN;;Kirundi
 RU;;Rusça
 SG;;Sangho
@@ -139,7 +139,7 @@ SA;;Sanskrit
 SI;;Sinhala; Sinhalese
 SK;;Slovakça
 SL;;Slovence
-SE;;Kuzey Sami
+SE;;Kuzey Sami dili
 SM;;Samoa Dili
 SN;;Shona
 SD;;Sindhi
@@ -150,7 +150,7 @@ SQ;;Arnavutça
 SC;;Sardince
 SR;;Sırpça
 SS;;Siswati
-SU;;Sudan Dili
+SU;;Sundaca
 SW;;Svahili
 SV;;İsveçce
 TY;;Tahitice
@@ -159,7 +159,7 @@ TT;;Tatarca
 TE;;Telugu
 TG;;Tacikçe
 TL;;Tagalogca
-TH;;Taylandça
+TH;;Tayca
 TI;;Tigrinya
 TO;;Tonga
 TN;;Setswana

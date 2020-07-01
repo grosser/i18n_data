@@ -142,7 +142,7 @@ MG;;ማዳጋስካር
 MV;;ማልዲቭስ
 MX;;ሣጤሲጥ
 MH;;Marshall Islands
-MK;;ሥሔ፦ቲ
+MK;;ኒፄ ጢሓ፦ኒ።
 ML;;ማሊ
 MT;;ሢሔታ
 MM;;ምየንማ
@@ -209,7 +209,7 @@ SR;;ሱሪናም
 SK;;ስሕቲጡ።
 SI;;ስሕታኒ።
 SE;;ስፁ፥ን
-SZ;;ስዋዚላንድ
+SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;ሲሸልስ
 SY;;ሲሱ።

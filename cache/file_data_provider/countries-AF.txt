@@ -10,7 +10,7 @@ AR;;Argentinië
 AM;;Armenië
 AS;;Amerikaanse Samoa
 AQ;;Antarktika
-TF;;French Southern Territories
+TF;;Franse Suidelike Gebiede
 AG;;Antigue en Barbuda
 AU;;Australië
 AT;;Oostenryk
@@ -75,7 +75,7 @@ FJ;;Fidji
 FK;;Falklandeilande (Malvinas)
 FR;;Frankryk
 FO;;Faroëreilande
-FM;;Micronesia, Federated States of
+FM;;Mikronesië, Gefedereerde State van
 GA;;Gaboen
 GB;;Verenidge Koninkryk
 GE;;Georgië
@@ -134,7 +134,7 @@ LT;;Litoue
 LU;;Luxenburg
 LV;;Letland
 MO;;Macau
-MF;;Saint Martin (French part)
+MF;;Sint Martin (Franse deel)
 MA;;Marokko
 MC;;Monaco
 MD;;Moldawië
@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maledive
 MX;;Meksiko
 MH;;Marshall-eilande
-MK;;Masedonië
+MK;;Nieu-Kaledonië
 ML;;Mali
 MT;;Malta
 MM;;Mianmar
@@ -209,7 +209,7 @@ SR;;Suriname
 SK;;Slowakye
 SI;;Slowenië
 SE;;Swede
-SZ;;Swaziland
+SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seychelle
 SY;;Siriese Arabiese Republiek

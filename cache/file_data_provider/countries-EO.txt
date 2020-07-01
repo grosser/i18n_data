@@ -142,7 +142,7 @@ MG;;Madagaskaro
 MV;;Maldivoj
 MX;;Meksiko
 MH;;Marŝaloj
-MK;;Makedonio, Respubliko
+MK;;Nov-Kaledonio
 ML;;Malio
 MT;;Malto
 MM;;Mjanmao
@@ -209,7 +209,7 @@ SR;;Surinamo
 SK;;Slovakio
 SI;;Slovenio
 SE;;Svedio
-SZ;;Svazilando
+SZ;;Eswatini
 SX;;Sankta-Marteno (nederlanda parto)
 SC;;Sejŝeloj
 SY;;Siria Araba Respubliko

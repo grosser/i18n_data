@@ -22,7 +22,7 @@ BR;;bretoński
 BG;;bułgarski
 CA;;kataloński; walencki
 CS;;czeski
-CH;;czamarro
+CH;;czamorro
 CE;;czeczeński
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;czuwaski
@@ -45,7 +45,7 @@ FA;;perski; nowoperski; farsi
 FJ;;fidżyjski
 FI;;fiński
 FR;;francuski
-FY;;zachodnio-fryzyjski
+FY;;zachodniofryzyjski
 FF;;fulani
 GD;;szkocki gaelicki
 GA;;irlandzki
@@ -79,10 +79,10 @@ KN;;kannada
 KS;;kaszmirski
 KA;;gruziński
 KR;;kanuri
-KK;;kazaski; kazachski
+KK;;kazaski
 KM;;khmerski środkowy
 KI;;kikiju; kikuyu; gikuyu
-RW;;ruanda-rundi
+RW;;rwanda
 KY;;kirgiski
 KV;;komi
 KG;;kongo

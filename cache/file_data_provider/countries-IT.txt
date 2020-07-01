@@ -34,7 +34,7 @@ BR;;Brasile
 BB;;Barbados
 BN;;Brunei
 BT;;Bhutan
-BV;;Isola di Bouvet
+BV;;Isola Bouvet
 BW;;Botswana
 CF;;Repubblica Centrafricana
 CA;;Canada
@@ -142,13 +142,13 @@ MG;;Madagascar
 MV;;Maldive
 MX;;Messico
 MH;;Isole Marshall
-MK;;Repubblica di Macedonia
+MK;;Macedonia del Nord
 ML;;Mali
 MT;;Malta
-MM;;Myanmar
+MM;;Birmania
 ME;;Montenegro
 MN;;Mongolia
-MP;;Marianne settentrionali
+MP;;Isole Marianne Settentrionali
 MZ;;Mozambico
 MR;;Mauritania
 MS;;Montserrat
@@ -178,7 +178,7 @@ PH;;Filippine
 PW;;Palau
 PG;;Papua Nuova Guinea
 PL;;Polonia
-PR;;Puerto Rico
+PR;;Portorico
 KP;;Corea del Nord
 PT;;Portogallo
 PY;;Paraguay
@@ -193,7 +193,7 @@ SA;;Arabia Saudita
 SD;;Sudan
 SN;;Senegal
 SG;;Singapore
-GS;;Georgia del Sud e Isole Sandwich australi
+GS;;Georgia del Sud e Isole Sandwich Australi
 SH;;Sant'Elena, Ascensione e Tristan da Cunha
 SJ;;Svalbard e Jan Mayen
 SB;;Isole Salomone
@@ -209,9 +209,9 @@ SR;;Suriname
 SK;;Slovacchia
 SI;;Slovenia
 SE;;Svezia
-SZ;;Swaziland
+SZ;;Eswatini
 SX;;Sint Maarten (Olanda)
-SC;;Seicelle
+SC;;Seychelles
 SY;;Siria
 TC;;Isole Turks e Caicos
 TD;;Ciad

@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldiivid
 MX;;Mehhiko
 MH;;Marshalli Saared
-MK;;Makedoonia
+MK;;Uus-Kaledoonia
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -209,7 +209,7 @@ SR;;Suriname
 SK;;Slovakkia
 SI;;Sloveenia
 SE;;Rootsi
-SZ;;Svaasimaa
+SZ;;Eswatini
 SX;;Sint Maarten (Hollandi osa)
 SC;;Seišellid
 SY;;Süüria Araabia Vabariik

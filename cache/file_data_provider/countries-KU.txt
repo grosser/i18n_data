@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Giravên Maldiv
 MX;;Mexîko
 MH;;Giravên Marsal
-MK;;Makedonya, Komara
+MK;;Kaledonyaya Nû
 ML;;Malî
 MT;;Malta
 MM;;Miyanmar
@@ -209,7 +209,7 @@ SR;;Surînam
 SK;;Slovakya
 SI;;Slovenya
 SE;;Swêd
-SZ;;Swazîland
+SZ;;Eswatini
 SX;;Saint Martin (beşa firansî)
 SC;;Seyselan
 SY;;Sûriye

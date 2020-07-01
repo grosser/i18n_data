@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldiwa
 MX;;Meksikanyň
 MH;;Marşalowlar adasy
-MK;;Moldawiýa, Respublikasy
+MK;;Täze Kaledoniýa
 ML;;Mali
 MT;;Malta
 MM;;Birma
@@ -209,7 +209,7 @@ SR;;Surinam
 SK;;Slowak
 SI;;Sloweniýa
 SE;;Şwesiýa
-SZ;;Swazilend
+SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seýşel Adalary
 SY;;Siriýa Arap Respublikasy

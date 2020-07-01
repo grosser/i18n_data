@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Ny Maldeevaghyn
 MX;;Meksico
 MH;;Marshall Islands
-MK;;Macedonia, Republic of
+MK;;North Macedonia
 ML;;Malee
 MT;;Yn Valta
 MM;;Myanmar
@@ -209,7 +209,7 @@ SR;;Yn Toorinam
 SK;;Yn Clovack
 SI;;Yn Clovean
 SE;;Yn Toolynn
-SZ;;Yn Çheer Swassee
+SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Ny h-Ellanyn Heshell
 SY;;Syrian Arab Republic

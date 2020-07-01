@@ -34,9 +34,9 @@ BR;;Brésil
 BB;;Barbade
 BN;;Brunéi Darussalam
 BT;;Bhoutan
-BV;;Bouvet, Île
+BV;;île Bouvet
 BW;;Botswana
-CF;;Centrafricaine, République
+CF;;République centrafricaine
 CA;;Canada
 CC;;Cocos (Keeling), Îles
 CH;;Suisse
@@ -46,7 +46,7 @@ CI;;Côte d'Ivoire
 CM;;Cameroun
 CD;;République démocratique du Congo
 CG;;République du Congo
-CK;;Cook, Îles
+CK;;îles Cook
 CO;;Colombie
 KM;;Comores
 CV;;Cap-Vert
@@ -54,27 +54,27 @@ CR;;Costa Rica
 CU;;Cuba
 CW;;Curaçao
 CX;;Christmas, Île
-KY;;Caïman, Îles
+KY;;îles Caïmans
 CY;;Chypre
 CZ;;Tchéquie
 DE;;Allemagne
 DJ;;Djibouti
 DM;;Dominique
 DK;;Danemark
-DO;;Dominicaine, République
+DO;;République dominicaine
 DZ;;Algérie
 EC;;Équateur
 EG;;Égypte
 ER;;Érythrée
-EH;;Sahara Occidental
+EH;;Sahara occidental
 ES;;Espagne
 EE;;Estonie
 ET;;Éthiopie
 FI;;Finlande
 FJ;;Fidji
-FK;;Falkland, Îles (Malvinas)
+FK;;Malouines, Îles (Falkland)
 FR;;France
-FO;;Féroé, Îles
+FO;;îles Féroé
 FM;;Micronésie, États fédérés de
 GA;;Gabon
 GB;;Royaume-Uni
@@ -94,8 +94,8 @@ GT;;Guatemala
 GF;;Guyane française
 GU;;Guam
 GY;;Guyana
-HK;;Hong-Kong
-HM;;Heard, Île et McDonald, Îles
+HK;;Hong Kong
+HM;;îles Heard-et-MacDonald
 HN;;Honduras
 HR;;Croatie
 HT;;Haïti
@@ -103,7 +103,7 @@ HU;;Hongrie
 ID;;Indonésie
 IM;;Île de Man
 IN;;Inde
-IO;;Océan Indien, Territoire britannique de l'
+IO;;Territoire britannique de l'océan Indien
 IE;;Irlande
 IR;;Iran, République islamique d'
 IQ;;Irak
@@ -119,7 +119,7 @@ KE;;Kenya
 KG;;Kirghizistan
 KH;;Cambodge
 KI;;Kiribati
-KN;;Saint-Kitts-et-Nevis
+KN;;Saint-Christophe-et-Niévès
 KR;;Corée, République de
 KW;;Koweït
 LA;;Lao, République démocratique populaire
@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Maldives
 MX;;Mexique
 MH;;Îles Marshall
-MK;;Macédoine, République de
+MK;;Macédoine du Nord
 ML;;Mali
 MT;;Malte
 MM;;Birmanie
@@ -160,7 +160,7 @@ YT;;Mayotte
 NA;;Namibie
 NC;;Nouvelle-Calédonie
 NE;;Niger
-NF;;Norfolk, Île
+NF;;île Norfolk
 NG;;Nigeria
 NI;;Nicaragua
 NU;;Nioue
@@ -209,11 +209,11 @@ SR;;Surinam
 SK;;Slovaquie
 SI;;Slovénie
 SE;;Suède
-SZ;;Swaziland
+SZ;;Eswatini
 SX;;Saint-Martin (partie néerlandaise)
 SC;;Seychelles
 SY;;Syrienne, République arabe
-TC;;Turks et Caïques, Îles
+TC;;îles Turques-et-Caïques
 TD;;Tchad
 TG;;Togo
 TH;;Thaïlande
@@ -235,7 +235,7 @@ UY;;Uruguay
 US;;États-Unis
 UZ;;Ouzbékistan
 VA;;Saint-Siège (état de la cité du Vatican)
-VC;;Saint-Vincent-et-les Grenadines
+VC;;Saint-Vincent-et-les-Grenadines
 VE;;Vénézuela
 VG;;Îles Vierges britanniques
 VI;;Îles Vierges des États-Unis

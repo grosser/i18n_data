@@ -108,7 +108,7 @@ MN;;Mongolisch
 MI;;Maori
 MS;;Malaiisch
 MY;;Burmesisch
-NA;;Nauruisch
+NA;;Nauru
 NV;;Navajo
 NR;;Süd-Ndebele
 ND;;Nord-Ndebele
@@ -121,7 +121,7 @@ NO;;Norwegisch
 NY;;Chichewa; Chewa; Nyanja
 OC;;Okzitanisch (nach 1500); Provenzalisch
 OJ;;Ojibwa
-OR;;Orija
+OR;;Oriya
 OM;;Oromo
 OS;;Ossetisch
 PA;;Panjabi

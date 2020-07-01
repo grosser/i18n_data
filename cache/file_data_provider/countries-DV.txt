@@ -142,7 +142,7 @@ MG;;މަޑަގަސްކަރަ
 MV;;ދިވެހިރާއްޖެ
 MX;;މެކްސިކޯ
 MH;;Marshall Islands
-MK;;Macedonia, Republic of
+MK;;ނިއު ކެލެޑޯނިއާ
 ML;;މާލީ
 MT;;މޯލްޓާ
 MM;;ބަރުމާ
@@ -209,7 +209,7 @@ SR;;ސުރިނާމް
 SK;;ސުލޮވާކިއާ
 SI;;ސުލޮވީނިއާ
 SE;;ސުވިޑަން
-SZ;;ސުވާޒިލޭންޑު
+SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;ތޭންގަދީބު
 SY;;Syrian Arab Republic

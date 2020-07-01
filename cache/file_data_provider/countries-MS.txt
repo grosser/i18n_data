@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldiv
 MX;;Meksiko
 MH;;Kepulauan Marshall
-MK;;Republik Dominican
+MK;;New Caledonia
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -209,7 +209,7 @@ SR;;Surinam
 SK;;Slovakia
 SI;;Slovenia
 SE;;Sweden
-SZ;;Swaziland
+SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seychelles
 SY;;Syrian Arab Republic

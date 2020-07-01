@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldivez
 MX;;Mec'hiko
 MH;;Marshall Islands
-MK;;Macedonia, Republic of
+MK;;Kaledonia-Nevez
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -209,7 +209,7 @@ SR;;Surinam
 SK;;Slovakia
 SI;;Slovenia
 SE;;Sveden
-SZ;;Swaziland
+SZ;;Eswatini
 SX;;Sant Marzhin (rann gallek)
 SC;;Sechelez
 SY;;Syrian Arab Republic

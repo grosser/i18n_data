@@ -8,7 +8,7 @@ AD;;Andorra
 AE;;Arabiar Emirerri Batuak
 AR;;Argentina
 AM;;Armenia
-AS;;Samoa amerikarra
+AS;;Amerikar Samoa
 AQ;;Antartika
 TF;;Hegoaldeko Lurralde Frantsesak
 AG;;Antigua eta Barbuda
@@ -56,7 +56,7 @@ CW;;Curaçao
 CX;;Christmas uhartea
 KY;;Kaiman uharteak
 CY;;Zipre
-CZ;;Czechia
+CZ;;Txekia
 DE;;Alemania
 DJ;;Djibuti
 DM;;Dominika
@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldivak
 MX;;Mexiko
 MH;;Marshall uharteak
-MK;;Mazedonia, Errepublika
+MK;;Ipar Mazedonia
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -209,7 +209,7 @@ SR;;Surinam
 SK;;Eslovakia
 SI;;Eslovenia
 SE;;Suedia
-SZ;;Swazilandia
+SZ;;Eswatini
 SX;;Saint Martin (Holandar zatia)
 SC;;Seychelleak
 SY;;Siriako Arabiar Errepublika

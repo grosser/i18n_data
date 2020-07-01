@@ -47,8 +47,8 @@ FI;;finsk
 FR;;fransk
 FY;;vestfrisisk
 FF;;fulah
-GD;;gælisk; Skotsk gælisk; Gælisk (skotsk)
-GA;;irsk; Gælisk (irsk)
+GD;;gælisk; skotsk gælisk; gælisk (skotsk)
+GA;;irsk; gælisk (irsk)
 GL;;galicisk
 GV;;manx
 GN;;guarani
@@ -119,7 +119,7 @@ NN;;nynorsk; norsk nynorsk
 NB;;bokmål, norsk; norsk bokmål
 NO;;norsk
 NY;;nyanja; cinyanja
-OC;;occitansk (efter 1500)
+OC;;occitansk (efter 1500); provencalsk
 OJ;;ojibwa
 OR;;orija
 OM;;oromo
@@ -131,7 +131,7 @@ PT;;portugisisk
 PS;;pashto; pushto
 QU;;kechua
 RM;;rætoromansk; rhætoromansk
-RO;;moldavisk
+RO;;rumænsk; moldavisk; moldovisk
 RN;;rundi
 RU;;russisk
 SG;;sango
