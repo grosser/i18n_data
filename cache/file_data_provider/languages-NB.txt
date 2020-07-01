@@ -14,7 +14,7 @@ BA;;basjkirsk
 BM;;bambara
 BE;;Hviterussisk
 BN;;bengali
-BH;;Koreansk
+BH;;Bihari
 BI;;bislama
 BO;;tibetansk
 BS;;Bosnisk

@@ -1,5 +1,5 @@
 AA;;Afarera
-AB;;Abkhaziera
+AB;;Abkhazera
 AF;;Afrikaans
 AK;;Akanera
 AM;;Amharera
@@ -7,14 +7,14 @@ AR;;Arabiera
 AN;;Aragoiera
 AS;;Assamera
 AV;;Arabiera
-AE;;Avestanera
+AE;;Avestera
 AY;;Aimara
 AZ;;Azerbaijanera
 BA;;Bashkiriera
 BM;;Bambara
 BE;;Bielorrusiera
 BN;;Bengalera
-BH;;Tupi hizkuntzak
+BH;;Bihari hizkuntzak
 BI;;Bislama
 BO;;Tibetera
 BS;;Bosniera
@@ -39,20 +39,20 @@ EN;;Ingelesa
 EO;;Esperantoa
 ET;;Estoniera
 EU;;Euskara
-EE;;Ewe
+EE;;Eweera
 FO;;Faroera
 FA;;Persiera
-FJ;;Fijian
+FJ;;Fijiera
 FI;;Finlandiera
 FR;;Frantsesa
 FY;;Mendebaldeko frisiera
-FF;;Fulah
+FF;;Fula
 GD;;Gaelikoa; eskoziar gaelikoa
 GA;;Irlandera
 GL;;Galiziera
 GV;;Manxera [Manx-eko gaelikoa]
 GN;;Guaraniera
-GU;;Gujeratera
+GU;;Gujaratera
 HT;;Haitiera, haitiar kreolera
 HA;;Hausa
 HE;;Hebreera
@@ -72,7 +72,7 @@ ID;;Indonesiera
 IK;;Inupiaq
 IS;;Islandiera
 IT;;Italiera
-JV;;Javanera
+JV;;Javera
 JA;;Japoniera
 KL;;Groenlandiera
 KN;;Kannada
@@ -85,7 +85,7 @@ KI;;Kikuyu; Gikuyu
 RW;;Kinyaruanda
 KY;;Kirgizera
 KV;;Komeera
-KG;;Kongo
+KG;;Kikongo
 KO;;Koreera
 KJ;;Kuanyama; Kwanyama
 KU;;Kurduera
@@ -99,7 +99,7 @@ LB;;Luxenburgera
 LU;;Luba-Katanga
 LG;;Ganda
 MH;;Marshallera
-ML;;Malayalamera
+ML;;Malabarera
 MR;;Marathera
 MK;;Mazedoniera
 MG;;Malgaxea
@@ -109,7 +109,7 @@ MI;;Maoria
 MS;;Malaysiera
 MY;;Birmaniera
 NA;;Nauruera
-NV;;Navajo; Navaho
+NV;;Navajoera
 NR;;Hegoaldeko ndebelera
 ND;;Iparraldeko ndebelera
 NG;;Ndonga
@@ -119,19 +119,19 @@ NN;;Norvegiera (Nynorsk)
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;Norvegiera
 NY;;Chichewa; Chewa; Nyanja
-OC;;Okzitaniera (1500 ondorengoa); Probentzera
-OJ;;Ojibwa
+OC;;Okzitaniera (1500 ondorengoa); Proventzera
+OJ;;Ojibwera
 OR;;Oriya
 OM;;Oromoera
 OS;;Osetiera
 PA;;Punjabera
-PI;;Pali
+PI;;Paliera
 PL;;Poloniera
 PT;;Portugesa
 PS;;Paxtuera
 QU;;Kitxua
-RM;;Romansh
-RO;;Moldaviera
+RM;;Erretorromaniera
+RO;;Errumaniera; Moldaviera
 RN;;Rundi
 RU;;Errusiera
 SG;;Sango
@@ -150,20 +150,20 @@ SQ;;Albaniera
 SC;;Sardiniera
 SR;;Serbiera
 SS;;Swati
-SU;;Sudanera
+SU;;Sundanera
 SW;;Swahilia
 SV;;Suediera
 TY;;Tahitiera
-TA;;Tamil-a
+TA;;Tamilera
 TT;;Tatariera
-TE;;Telugu-a
+TE;;Telugu
 TG;;Tadjikera
 TL;;Tagalo-a
 TH;;Thailandiera
-TI;;Tigrinya
+TI;;Tigrinyera
 TO;;Tongera (Tonga uharteak)
-TN;;Tswana
-TS;;Tsonga
+TN;;Tswanera
+TS;;Tsongera
 TK;;Turkmeniera
 TR;;Turkiera
 TW;;Twi

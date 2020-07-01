@@ -142,7 +142,7 @@ MG;;ማዳጋስካር
 MV;;Maldives
 MX;;ሜክሲኮ
 MH;;Marshall Islands
-MK;;ዶሚኒክ ሪፑብሊክ
+MK;;ኒው ካሌዶኒያ
 ML;;ማሊ
 MT;;ማልታ
 MM;;Myanmar
@@ -209,7 +209,7 @@ SR;;ሱሪናም
 SK;;ስሎቫኪያ
 SI;;ስሎቬኒያ
 SE;;ስዊድን
-SZ;;ስዋዚላንድ
+SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seychelles
 SY;;Syrian Arab Republic

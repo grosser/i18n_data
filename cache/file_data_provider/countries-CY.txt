@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Maldives
 MX;;Mecsico
 MH;;Ynysoedd Marshall
-MK;;Macedonia, Gweriniaeth
+MK;;Gogledd Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -209,7 +209,7 @@ SR;;Suriname
 SK;;Slofacia
 SI;;Slofenia
 SE;;Sweden
-SZ;;Swaziland
+SZ;;Eswatini
 SX;;Sint Maarten (Rhan Iseldiraidd)
 SC;;Seychelles
 SY;;Gweriniaeth Arabaidd Syria

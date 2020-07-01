@@ -142,7 +142,7 @@ MG;;Marakāhia
 MV;;Maldives
 MX;;Mehiko
 MH;;Marshall Islands
-MK;;Makerōnia
+MK;;North Macedonia
 ML;;Māri
 MT;;Mārata
 MM;;Pēma
@@ -209,7 +209,7 @@ SR;;Hūriname
 SK;;Horowākia
 SI;;Horowinia
 SE;;Huitene
-SZ;;Swaziland
+SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Hehiri
 SY;;Syrian Arab Republic

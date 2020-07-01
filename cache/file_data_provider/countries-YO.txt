@@ -142,7 +142,7 @@ MG;;Madagáskàr
 MV;;Àwọn Maldive
 MX;;Mẹ́ksíkò
 MH;;Marshall Islands
-MK;;Macedonia, Republic of
+MK;;Kalẹdóníà Tuntun
 ML;;Málì
 MT;;Máltà
 MM;;Myanmar
@@ -209,7 +209,7 @@ SR;;Sùrìnámù
 SK;;Slofákíà
 SI;;Sloféníà
 SE;;Swídìn
-SZ;;Swásílándì
+SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Ṣèíhẹ́lẹ́sì
 SY;;Syrian Arab Republic

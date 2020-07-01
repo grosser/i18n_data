@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Islas Maldivas
 MX;;México
 MH;;Islas Marshall
-MK;;Macedonia, República de
+MK;;Macedonia del Norte
 ML;;Mali
 MT;;Malta
 MM;;Birmania

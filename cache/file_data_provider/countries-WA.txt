@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Maldives
 MX;;Mecsike
 MH;;Iyes Marshall
-MK;;Macedoneye
+MK;;Nouve Caledoneye
 ML;;Mali
 MT;;Male
 MM;;Birmaneye
@@ -209,7 +209,7 @@ SR;;Suriname
 SK;;Eslovakeye
 SI;;Esloveneye
 SE;;Suwede
-SZ;;Suwazilande
+SZ;;Eswatini
 SX;;Sint Mårtén (boket olandès)
 SC;;Seycheles
 SY;;Sireye

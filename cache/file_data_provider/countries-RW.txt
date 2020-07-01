@@ -142,7 +142,7 @@ MG;;Madagasikari
 MV;;Malidivezi
 MX;;Megizike
 MH;;Ibirwa bya Marishali
-MK;;Masedoniya, Repubulika ya
+MK;;Nuveli Kalidoniya
 ML;;Mali
 MT;;Malita
 MM;;Mayanimari
@@ -209,7 +209,7 @@ SR;;Surinamu
 SK;;Silovakiya
 SI;;Siloveniya
 SE;;Suwede
-SZ;;Swazilande
+SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seyishele
 SY;;Repubulika Nyarabu ya Siriya

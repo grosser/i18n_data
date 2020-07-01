@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Maldives
 MX;;ປະເທດເມັກຊິກ
 MH;;Marshall Islands
-MK;;Macedonia, Republic of
+MK;;North Macedonia
 ML;;Mali
 MT;;ປະເທດມັນ
 MM;;ປະເທດມຽນມາ
@@ -209,7 +209,7 @@ SR;;ປະເທດຊູຣີນາມ
 SK;;ປະເທດສະໂລວາກີ
 SI;;ປະເທດສະໂລເວນີ
 SE;;ປະເທດຊູແອດ
-SZ;;Swaziland
+SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seychelles
 SY;;Syrian Arab Republic

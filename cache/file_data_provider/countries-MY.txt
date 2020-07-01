@@ -142,7 +142,7 @@ MG;;မဒါဂတ်စကားနိုင်ငံ
 MV;;မော်လဒိုက်နိုင်ငံ
 MX;;မက္ကဆီကိုနိုင်ငံ
 MH;;Marshall Islands
-MK;;Macedonia, Republic of
+MK;;North Macedonia
 ML;;မာလီနိုင်ငံ
 MT;;မော်လတာနိုင်ငံ
 MM;;မြန်မာနိုင်ငံ
@@ -209,7 +209,7 @@ SR;;ဆူရာနမ်နိုင်ငံ
 SK;;ဆလိုဗားကီးယားနိုင်ငံ
 SI;;ဆလိုဗေးနီးယားနိုင်ငံ
 SE;;ဆွီဒင်နိုင်ငံ
-SZ;;ဆွာဇီလန်နိုင်ငံ
+SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;ဆေးရှဲနိုင်ငံ
 SY;;Syrian Arab Republic

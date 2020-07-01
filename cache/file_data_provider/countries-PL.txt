@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Malediwy
 MX;;Meksyk
 MH;;Wyspy Marshalla
-MK;;Macedonia
+MK;;Macedonia Północna
 ML;;Mali
 MT;;Malta
 MM;;Mjanma
@@ -209,7 +209,7 @@ SR;;Surinam
 SK;;Słowacja
 SI;;Słowenia
 SE;;Szwecja
-SZ;;Suazi
+SZ;;Eswatini
 SX;;Sint Maarten (część holenderska)
 SC;;Seszele
 SY;;Syryjska Republika Arabska

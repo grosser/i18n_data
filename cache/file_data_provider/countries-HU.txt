@@ -142,7 +142,7 @@ MG;;Madagaszkár
 MV;;Maldív-szigetek
 MX;;Mexikó
 MH;;Marshall-szigetek
-MK;;Macedón Köztársaság
+MK;;Észak-Macedónia
 ML;;Mali
 MT;;Málta
 MM;;Mianmar

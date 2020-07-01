@@ -142,7 +142,7 @@ MG;;مادغاسکر
 MV;;مالديپ
 MX;;Mexico
 MH;;Marshall Islands
-MK;;Macedonia, Republic of
+MK;;North Macedonia
 ML;;مالي
 MT;;مالټا
 MM;;ميانمار
@@ -209,7 +209,7 @@ SR;;سورينام
 SK;;سلواکيا
 SI;;سلووانیا
 SE;;سویډن
-SZ;;سوازيلانډ
+SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;سیشل
 SY;;Syrian Arab Republic

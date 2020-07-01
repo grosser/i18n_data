@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Oileáin Mhaildíve
 MX;;Meicsiceo
 MH;;Oileáin Marshall
-MK;;Poblacht na Macadóine
+MK;;An Nua-Chaladóin
 ML;;Mailí
 MT;;Málta
 MM;;Maenmar
@@ -209,7 +209,7 @@ SR;;Suranam
 SK;;An tSlóvaic
 SI;;An tSlóivéin
 SE;;An tSualainn
-SZ;;An tSuasalainn
+SZ;;Eswatini
 SX;;Sint Maarten (ceantar Ollannach)
 SC;;Na Séiséil
 SY;;Poblacht Arabach na Siria

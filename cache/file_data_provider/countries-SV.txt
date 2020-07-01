@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldiverna
 MX;;Mexiko
 MH;;Marshallöarna
-MK;;Makedonien, republiken
+MK;;Nordmakedonien
 ML;;Mali
 MT;;Malta
 MM;;Myanmar

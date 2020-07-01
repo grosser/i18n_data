@@ -142,7 +142,7 @@ MG;;Madagaskaras
 MV;;Maldyvai
 MX;;Meksika
 MH;;Maršalo salos
-MK;;Makedonijos Respublika
+MK;;Naujoji Kaledonija
 ML;;Malis
 MT;;Malta
 MM;;Mianmaras
@@ -209,7 +209,7 @@ SR;;Surinamas
 SK;;Slovakija
 SI;;Slovėnija
 SE;;Švedija
-SZ;;Svazilandas
+SZ;;Eswatini
 SX;;Sin Martenas (Nyderalandų dalis)
 SC;;Seišeliai
 SY;;Sirijos Arabų Respublika

@@ -1,249 +1,249 @@
 AW;;Aruba
-AF;;Afganistani
-AO;;Angola
-AI;;Anguilla
-AX;;Ishujt Åland
-AL;;Shqipëria
-AD;;Andora
+AF;;Afganistan
+AO;;Angolë
+AI;;Anguila
+AX;;Ishujt Aland
+AL;;Shqipëri
+AD;;Andorrë
 AE;;Emiratet e Bashkuara Arabe
-AR;;Argjentina
-AM;;Armenia
+AR;;Argjentinë
+AM;;Armeni
 AS;;Samoa Amerikane
-AQ;;Antarktida
+AQ;;Antarktidë
 TF;;Territoret Jugore Franceze
 AG;;Antigua dhe Barbuda
-AU;;Australia
-AT;;Austria
+AU;;Australi
+AT;;Austri
 AZ;;Azerbajxhan
 BI;;Burundi
-BE;;Belgjika
+BE;;Belgjikë
 BJ;;Benin
-BQ;;Bonaire, Sint Eustatius and Saba
+BQ;;Boner, Shën Efstathi dhe Sava
 BF;;Burkina Faso
 BD;;Bangladesh
-BG;;Bullgaria
-BH;;Bahrain
+BG;;Bullgarië
+BH;;Bahrein
 BS;;Bahamas
-BA;;Bosnja dhe Herzegovina
-BL;;Saint Barthélemy
-BY;;Bjellorusia
+BA;;Bosnjë dhe Hercegovinë
+BL;;Shën Bartolome
+BY;;Bjellorusi
 BZ;;Belize
 BM;;Bermuda
-BO;;Bolivia
+BO;;Bolivi
 BR;;Brazil
 BB;;Barbados
-BN;;Brunei Darussalam
-BT;;Bhutan
-BV;;Ishulli Bouvet
-BW;;Botswana
+BN;;Brunei
+BT;;Butan
+BV;;Ishulli Buve
+BW;;Botsvanë
 CF;;Republika e Afrikës Qendrore
 CA;;Kanada
-CC;;Ishujt Kokos (Keeling)
-CH;;Zvicra
+CC;;Ishujt Kokos (Kiling)
+CH;;Zvicër
 CL;;Kili
-CN;;Kina
+CN;;Kinë
 CI;;Kepi i Fildishtë
-CM;;Kameruni
+CM;;Kamerun
 CD;;Kongo, Republika Demokratike e
 CG;;Kongo
-CK;;Ishujt Cook
-CO;;Kolumbia
+CK;;Ishujt Kuk
+CO;;Kolumbi
 KM;;Komoros
 CV;;Kepi i Gjelbërt
-CR;;Kosta Rika
-CU;;Kuba
-CW;;Curaçao
+CR;;Kosta Rikë
+CU;;Kubë
+CW;;Kurasao
 CX;;Ishulli i Krishtlindjes
 KY;;Ishujt Kajman
 CY;;Qipro
-CZ;;Czechia
-DE;;Gjermania
-DJ;;Xhibuti
-DM;;Dominika
-DK;;Danimarka
+CZ;;Çeki
+DE;;Gjermani
+DJ;;Xhibut
+DM;;Dominikë
+DK;;Danimarkë
 DO;;Republika Dominikane
-DZ;;Algjeria
-EC;;Ekuadori
-EG;;Egjipti
-ER;;Eritrea
+DZ;;Algjeri
+EC;;Ekuador
+EG;;Egjipt
+ER;;Eritre
 EH;;Saharaja Perëndimore
-ES;;Spanja
-EE;;Estonia
-ET;;Etiopia
-FI;;Finlanda
+ES;;Spanjë
+EE;;Estoni
+ET;;Etiopi
+FI;;Finlandë
 FJ;;Fixhi
 FK;;Ishujt Falkland (Malvinas)
-FR;;Franca
+FR;;Francë
 FO;;Ishujt Faroe
-FM;;Shtetet Federative të Mikronezisë
-GA;;Gaboni
+FM;;Mikronezi, Shtetet Federative të
+GA;;Gabon
 GB;;Mbretëria e Bashkuar
-GE;;Gjeorgjia
-GG;;Guernsey
-GH;;Gana
-GI;;Gjibraltari
-GN;;Guinea
-GP;;Guadeloupe
+GE;;Gjeorgji
+GG;;Gërnsi
+GH;;Ganë
+GI;;Gjibraltar
+GN;;Guine
+GP;;Guadalupë
 GM;;Gambia
-GW;;Guinea Bissau
+GW;;Guinea-Bisau
 GQ;;Guinea Ekuatoriale
-GR;;Greqia
-GD;;Grenada
-GL;;Greenland
-GT;;Guatemala
-GF;;Guiana Franceze
+GR;;Greqi
+GD;;Grenadë
+GL;;Groenlandë
+GT;;Guatemalë
+GF;;Guajana Frënge
 GU;;Guam
 GY;;Guajana
 HK;;Hong Kong
-HM;;Ishulli Heard dhe Ishujt McDonald
+HM;;Ishulli Hërd dhe Ishujt MkDonald
 HN;;Honduras
-HR;;Kroacia
+HR;;Kroaci
 HT;;Haiti
-HU;;Hungaria
-ID;;Indonezia
+HU;;Hungari
+ID;;Indonezi
 IM;;Ishulli Man
-IN;;India
+IN;;Indi
 IO;;Territoret Britanike të Oqeanit Indian
-IE;;Irlanda
-IR;;Republika Islamike e Iranit
-IQ;;Iraku
-IS;;Islanda
-IL;;Izraeli
-IT;;Italia
-JM;;Xhamajka
-JE;;Jersey
-JO;;Jordania
-JP;;Japonia
+IE;;Irlandë
+IR;;Iran, Republika Islamike
+IQ;;Irak
+IS;;Islandë
+IL;;Izrael
+IT;;Itali
+JM;;Xhamajkë
+JE;;Xhersi
+JO;;Jordani
+JP;;Japoni
 KZ;;Kazakistan
 KE;;Kenia
-KG;;Kirgistani
+KG;;Kirgistan
 KH;;Kamboxhia
 KI;;Kiribati
-KN;;Saint Kitts dhe Nevis
+KN;;Shën Kits dhe Nevis
 KR;;Korea, Republika e
-KW;;Kuvajti
+KW;;Kuvajt
 LA;;Republika Demokratike Popullore e Laosit
-LB;;Libani
-LR;;Liberia
-LY;;Libia
-LC;;Saint Lucia
-LI;;Lihtenshtejni
-LK;;Sri Lanka
+LB;;Liban
+LR;;Liberi
+LY;;Libi
+LC;;Shën Luçia
+LI;;Lihtenshtejn
+LK;;Sri Lankë
 LS;;Lesoto
-LT;;Lituania
-LU;;Luksemburgu
-LV;;Letonia
+LT;;Lituani
+LU;;Luksemburg
+LV;;Letoni
 MO;;Makao
-MF;;Saint Martin (pjesa Franceze)
-MA;;Maroku
+MF;;Shën Martin (pjesa Frënge)
+MA;;Marok
 MC;;Monako
-MD;;Moldova
+MD;;Moldavi
 MG;;Madagaskar
-MV;;Maldivet
-MX;;Meksika
+MV;;Maldive
+MX;;Meksikë
 MH;;Ishujt Marshall
-MK;;Maqedonisë, Republika
+MK;;Maqedonia e Veriut
 ML;;Mali
-MT;;Malta
-MM;;Birmania
+MT;;Maltë
+MM;;Birmani
 ME;;Mali i Zi
-MN;;Mongolia
-MP;;Ishujt e Marianës Veriore
-MZ;;Mozambiku
-MR;;Mauritania
-MS;;Montserrat
-MQ;;Martinika
+MN;;Mongoli
+MP;;Ishujt Veriorë Mariana
+MZ;;Mozambik
+MR;;Mauritani
+MS;;Monserrat
+MQ;;Martinikë
 MU;;Mauricius
-MW;;Malawi
-MY;;Malajzia
-YT;;Mayotte
-NA;;Namibia
+MW;;Malaui
+MY;;Malajzi
+YT;;Majote
+NA;;Namibi
 NC;;Kaledonia e Re
-NE;;Nigeri
+NE;;Niger
 NF;;Ishulli Norfolk
-NG;;Nigeria
+NG;;Nigeri
 NI;;Nikaragua
 NU;;Niue
-NL;;Hollanda
-NO;;Norvegjia
-NP;;Nepali
+NL;;Holandë
+NO;;Norvegji
+NP;;Nepal
 NR;;Nauru
-NZ;;Zelanda e Re
-OM;;Omani
-PK;;Pakistani
+NZ;;Zelandë e Re
+OM;;Oman
+PK;;Pakistan
 PA;;Panama
-PN;;Pitcairn
+PN;;Pitkern
 PE;;Peru
-PH;;Filipinet
+PH;;Filipine
 PW;;Palau
 PG;;Guinea e Re Papua
-PL;;Polonia
-PR;;Porto Rico
+PL;;Poloni
+PR;;Porto Riko
 KP;;Korea, Republika Popullore Demokratike e
-PT;;Portugalia
-PY;;Paraguaj
-PS;;Palestine, State of
-PF;;Polinezia Franceze
-QA;;Katari
+PT;;Portugali
+PY;;Paraguai
+PS;;Palestinë, Shteti i 
+PF;;Polinezia Frënge
+QA;;Katar
 RE;;Réunion
-RO;;Rumania
+RO;;Rumani
 RU;;Federata Ruse
-RW;;Ruanda
+RW;;Ruandë
 SA;;Arabia Saudite
-SD;;Sudani
-SN;;Senegali
-SG;;Singapori
-GS;;Gjeorgjia Jugore dhe Ishujt Sandwich Jugorë
-SH;;Saint Helena, Ascension and Tristan da Cunha
-SJ;;Svalbard dhe Jan Mayen
+SD;;Sudan
+SN;;Senegal
+SG;;Singapor
+GS;;Xhorxhia Jugore dhe Ishujt Sanduiç të Jugut
+SH;;Shën Helena, Asension dhe Tristan da Kunja
+SJ;;Svalbard dhe Jan Majen
 SB;;Ishujt Solomon
 SL;;Sierra Leone
-SV;;El Salvador
+SV;;Salvador
 SM;;San Marino
-SO;;Somalia
-PM;;Saint Pierre dhe Miquelon
-RS;;Serbia
-SS;;Republika e Sudanit
+SO;;Somali
+PM;;Shën Pierr dhe Mikëlon
+RS;;Serbi
+SS;;Sudani i Jugut
 ST;;Sao Tome dhe Principe
-SR;;Suriname
-SK;;Sllovakia
-SI;;Sllovenia
-SE;;Suedia
-SZ;;Svaziland
-SX;;Saint Martin (pjesa Franceze)
-SC;;Seychelles
+SR;;Surinam
+SK;;Sllovaki
+SI;;Slloveni
+SE;;Suedi
+SZ;;Esuatini
+SX;;Shën Martin (pjesa Holandeze)
+SC;;Sejshelle
 SY;;Republika Arabe e Sirisë
-TC;;Ishujt Turke dhe Caicos
+TC;;Ishujt Turks dhe Kaikos
 TD;;Çad
 TG;;Togo
-TH;;Tajlanda
-TJ;;Taxhikistani
+TH;;Tajlandë
+TJ;;Taxhikistan
 TK;;Tokelau
-TM;;Turkmenistani
-TL;;Timor-Leste
+TM;;Turkmenistan
+TL;;Timori Lindor-Leste
 TO;;Tonga
 TT;;Trinidad dhe Tobago
-TN;;Tunizia
-TR;;Turqia
+TN;;Tunizi
+TR;;Turqi
 TV;;Tuvalu
-TW;;Tajvani
-TZ;;Tanzania
-UG;;Uganda
-UA;;Ukraina
-UM;;Ishujt e Vegjël Amerikanë
-UY;;Uruguaj
+TW;;Tajvan
+TZ;;Tanzani
+UG;;Ugandë
+UA;;Ukrainë
+UM;;Ishujt e Vegjël të Përtejmë të Shteteve të Bashkuara
+UY;;Uruguai
 US;;Shtetet e Bashkuara
-UZ;;Uzbekistani
-VA;;Papati (Shtet-qyteti i Vatikanit)
-VC;;Saint Vincent dhe Grenadines
-VE;;Venezuela
-VG;;Ishujt Virgin, Britanikë
-VI;;Ishujt Virgin, U.S.
-VN;;Vjet Nam
+UZ;;Uzbekistan
+VA;;Selia e Shenjtë (Qytet-shteti i Vatikanit)
+VC;;Shën Vinsent dhe Grenadinet
+VE;;Venezuelë
+VG;;Ishujt e Virgjër, Britanikë
+VI;;Ishujt e Virgjër, ShBA
+VN;;Vietnam
 VU;;Vanuatu
-WF;;Wallis dhe Futuna
+WF;;Uollis dhe Futuna
 WS;;Samoa
-YE;;Yemen
-ZA;;Afrika e Jugut
+YE;;Jemen
+ZA;;Afrikë e Jugut
 ZM;;Zambia
 ZW;;Zimbabve

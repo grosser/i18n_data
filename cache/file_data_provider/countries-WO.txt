@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldiif
 MX;;Meksik
 MH;;Marshall Islands
-MK;;Masedwaan, Republik bu
+MK;;Nuweel Kaledooni
 ML;;Mali
 MT;;Malt
 MM;;Miyanmaar
@@ -209,7 +209,7 @@ SR;;Surinaam
 SK;;Eslowaaki
 SI;;Esloweeni
 SE;;Suweed
-SZ;;Suwaasilaand
+SZ;;Eswatini
 SX;;Saint Martin (Français)
 SC;;Seychelles
 SY;;Republik Araab bu Siiri

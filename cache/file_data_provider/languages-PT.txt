@@ -3,7 +3,7 @@ AB;;abkhazian
 AF;;Africanos
 AK;;Africanos
 AM;;Arábico
-AR;;Arábico
+AR;;Árabe
 AN;;Faroês
 AS;;assamês
 AV;;Arábico
@@ -51,7 +51,7 @@ GD;;Gaélico; Gaélico Escocês
 GA;;Irlandês
 GL;;Galego
 GV;;Man
-GN;;guarani
+GN;;Guarani
 GU;;guzerate
 HT;;Haitiano; Crioulo Haitiano
 HA;;Parar
@@ -61,7 +61,7 @@ HI;;Hindi
 HO;;Procurar
 HR;;Croata
 HU;;Húngaro
-HY;;armênio
+HY;;arménio
 IG;;ibo
 IO;;ido
 II;;Lituano

@@ -2,14 +2,14 @@ AW;;Aruba
 AF;;Afeganistão
 AO;;Angola
 AI;;Anguilla
-AX;;Ilhas Åland
+AX;;Ilhas Alanda
 AL;;Albânia
 AD;;Andorra
 AE;;Emirados Árabes Unidos
 AR;;Argentina
 AM;;Arménia
 AS;;Samoa Americana
-AQ;;Antárctida
+AQ;;Antártida
 TF;;Territórios Franceses do Sul
 AG;;Antígua e Barbuda
 AU;;Austrália
@@ -20,15 +20,15 @@ BE;;Bélgica
 BJ;;Benim
 BQ;;Bonaire, Santo Eustáquio e Saba
 BF;;Burkina Faso
-BD;;Bangladesh
+BD;;Bangladeche
 BG;;Bulgária
-BH;;Barein
+BH;;Barém
 BS;;Bahamas
-BA;;Bósnia-Herzegóvina
+BA;;Bósnia e Herzegovina
 BL;;Saint Barthélemy
 BY;;Bielorússia
 BZ;;Belize
-BM;;Bermuda
+BM;;Bermudas
 BO;;Bolívia
 BR;;Brasil
 BB;;Barbados
@@ -48,7 +48,7 @@ CD;;Congo, República Democrática do
 CG;;Congo
 CK;;Ilhas Cook
 CO;;Colômbia
-KM;;Comoros
+KM;;Comores
 CV;;Cabo Verde
 CR;;Costa Rica
 CU;;Cuba
@@ -68,13 +68,13 @@ EG;;Egito
 ER;;Eritreia
 EH;;Saara Ocidental
 ES;;Espanha
-EE;;Estônia
+EE;;Estónia
 ET;;Etiópia
 FI;;Finlândia
 FJ;;Fiji
 FK;;Ilhas Falkland (Malvinas)
 FR;;França
-FO;;Ilhas Faroe
+FO;;Ilhas Faroé
 FM;;Micronésia, Estados Federados da
 GA;;Gabão
 GB;;Reino Unido
@@ -116,10 +116,10 @@ JO;;Jordânia
 JP;;Japão
 KZ;;Cazaquistão
 KE;;Quénia
-KG;;Quirgistão
-KH;;Cambodja
+KG;;Quirguistão
+KH;;Camboja
 KI;;Kiribati
-KN;;Saint Kitts e Nevis
+KN;;São Cristóvão e Nevis
 KR;;Coreia, República da
 KW;;Kuwait
 LA;;República Democrática Popular do Laos
@@ -142,18 +142,18 @@ MG;;Madagáscar
 MV;;Maldivas
 MX;;México
 MH;;Ilhas Marshall
-MK;;Macedónia, República
+MK;;Macedónia do Norte
 ML;;Mali
 MT;;Malta
-MM;;Myanmar
+MM;;Birmânia
 ME;;Montenegro
 MN;;Mongólia
 MP;;Ilhas Marianas do Norte
 MZ;;Moçambique
 MR;;Mauritânia
-MS;;Montserrat
+MS;;Monserrate
 MQ;;Martinica
-MU;;Maurícias
+MU;;Maurícia
 MW;;Malawi
 MY;;Malásia
 YT;;Mayotte
@@ -169,7 +169,7 @@ NO;;Noruega
 NP;;Nepal
 NR;;Nauru
 NZ;;Nova Zelândia
-OM;;Oman
+OM;;Omã
 PK;;Paquistão
 PA;;Panamá
 PN;;Pitcairn
@@ -179,12 +179,12 @@ PW;;Palau
 PG;;Papua Nova Guiné
 PL;;Polónia
 PR;;Porto Rico
-KP;;Coreia, República Popular Democrática de
+KP;;Coreia, República Popular Democrática da
 PT;;Portugal
 PY;;Paraguai
-PS;;Palestina, Autoridade da
+PS;;Palestina, Estado da
 PF;;Polinésia Francesa
-QA;;Quatar
+QA;;Catar
 RE;;Ilha Reunião
 RO;;Roménia
 RU;;Federação Russa
@@ -193,8 +193,8 @@ SA;;Arábia Saudita
 SD;;Sudão
 SN;;Senegal
 SG;;Singapura
-GS;;Geórgia do Sul e Ilhas Sandwich do Sul
-SH;;Santa Helema, Ascenção e Tristão da Cunha
+GS;;Ilhas Geórgia do Sul e Sandwich do Sul
+SH;;Santa Helena, Ascensão e Tristão da Cunha
 SJ;;Svalbard e Jan Mayen
 SB;;Ilhas Salomão
 SL;;Serra Leoa
@@ -213,16 +213,16 @@ SZ;;Suazilândia
 SX;;São Martinho (Países Baixos)
 SC;;Seychelles
 SY;;República Árabe Síria
-TC;;Ilhas Turks e Caicos
+TC;;Ilhas Turcas e Caicos
 TD;;Chade
 TG;;Togo
 TH;;Tailândia
-TJ;;Tadjaquistão
+TJ;;Tajiquistão
 TK;;Tokelau
-TM;;Turcomenistão
+TM;;Turquemenistão
 TL;;Timor-Leste
 TO;;Tonga
-TT;;Trinidade e Tobago
+TT;;Trindade e Tobago
 TN;;Tunísia
 TR;;Turquia
 TV;;Tuvalu
@@ -230,12 +230,12 @@ TW;;Taiwan
 TZ;;Tanzânia
 UG;;Uganda
 UA;;Ucrânia
-UM;;Ilhas Menores Exteriores dos Estados Unidos
+UM;;Ilhas Menores Distantes dos Estados Unidos
 UY;;Uruguai
 US;;Estados Unidos
 UZ;;Uzbequistão
-VA;;Santa Sé (Estado Cidade do Vaticano)
-VC;;São Vicente e Grenadinas
+VA;;Santa Sé (Estado da Cidade do Vaticano)
+VC;;São Vicente e Granadinas
 VE;;Venezuela
 VG;;Ilhas Virgens, Britânicas
 VI;;Ilhas Virgens, Estados Unidos
@@ -243,7 +243,7 @@ VN;;Vietname
 VU;;Vanuatu
 WF;;Wallis e Futuna
 WS;;Samoa
-YE;;Yémen
+YE;;Iémen
 ZA;;África do Sul
 ZM;;Zâmbia
-ZW;;Zimbabwe
+ZW;;Zimbábue

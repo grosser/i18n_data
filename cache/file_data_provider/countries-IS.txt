@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldíveyjar
 MX;;Mexíkó
 MH;;Marshalleyjar
-MK;;Lýðveldið Makedónía
+MK;;Norður-Makedónía
 ML;;Malí
 MT;;Malta
 MM;;Mjanmar
@@ -209,7 +209,7 @@ SR;;Súrínam
 SK;;Slóvakía
 SI;;Slóvenía
 SE;;Svíþjóð
-SZ;;Svasíland
+SZ;;Esvatiní (Svasíland)
 SX;;Sankti Maarten (hollenski hluti)
 SC;;Seychelles-eyjar
 SY;;Sýrlenska arabalýðveldið

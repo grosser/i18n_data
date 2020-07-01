@@ -142,7 +142,7 @@ MG;;Ma-đa-ga-xợ-ca
 MV;;Mal-đi-vợx
 MX;;Mê-hi-cô
 MH;;Quần Đảo Ma-san
-MK;;Nước Cộng Hoà Ma-xê-đô-ni
+MK;;Niu Ca-lê-đô-ni-a
 ML;;Ma-li
 MT;;Moa-ta
 MM;;Miến Điện
@@ -209,7 +209,7 @@ SR;;Xu-ri-na-me
 SK;;Xlô-vác
 SI;;Xlô-ven
 SE;;Thuỵ Điển
-SZ;;Xouă-xi-lan
+SZ;;Eswatini
 SX;;Xin Mác-Ten (vùng Hà Lan)
 SC;;Xây-sen
 SY;;Cộng hoà A-rập Xi-ri-a

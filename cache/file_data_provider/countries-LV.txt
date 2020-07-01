@@ -142,7 +142,7 @@ MG;;Madagaskara
 MV;;Maldīvija
 MX;;Meksika
 MH;;Māršala salas
-MK;;Maķedonija
+MK;;Jaunkaledonija
 ML;;Mali
 MT;;Malta
 MM;;Mjanma
@@ -209,7 +209,7 @@ SR;;Surinama
 SK;;Slovākija
 SI;;Slovēnija
 SE;;Zviedrija
-SZ;;Svazilenda
+SZ;;Eswatini
 SX;;Sintmārtena (Nīderlandes daļa)
 SC;;Seišelas
 SY;;Sīrija

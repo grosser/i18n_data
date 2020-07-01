@@ -1,5 +1,5 @@
 AA;;Afar
-AB;;الأذربيجانية
+AB;;الأبخازية
 AF;;الأفريقانية
 AK;;الأكانية
 AM;;الأمهرية
@@ -20,7 +20,7 @@ BO;;التبتية
 BS;;البوسنية
 BR;;البريتونية
 BG;;البلغارية
-CA;;Catalan; Valencian
+CA;;الكاتالونية؛ فالنسيا
 CS;;التشيكية
 CH;;التشاموروية
 CE;;الشيشانية
@@ -34,7 +34,7 @@ DA;;الدنماركية
 DE;;الألمانية
 DV;;Divehi; Dhivehi; Maldivian
 DZ;;الزونخاية
-EL;;Greek, Modern (1453-)
+EL;;اليونانية الحديثة (1453-)
 EN;;الإنجليزية
 EO;;الإسبرانتو
 ET;;الإستونية
@@ -50,36 +50,36 @@ FF;;Fulah
 GD;;Gaelic; Scottish Gaelic
 GA;;الأيرلندية
 GL;;الغاليكية
-GV;;Manx
-GN;;البلغارية
+GV;;مانكس
+GN;;غواراني
 GU;;الغوجاراتية
 HT;;Haitian; Haitian Creole
-HA;;Hausa
+HA;;الهاوسا
 HE;;العبرية
 HZ;;العبرية
 HI;;الهندية
 HO;;التركية
 HR;;الكرواتية
 HU;;الهنغارية (المجرية)
-HY;;الرومانية
-IG;;Igbo
-IO;;Ido
+HY;;الأرمينية
+IG;;إيغبو
+IO;;ايدو
 II;;الليتوانية
 IU;;Inuktitut
 IE;;Interlingue; Occidental
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;الإندونيسية
-IK;;Inupiaq
+IK;;الإنوبياكية
 IS;;الآيسلندية
 IT;;الإيطالية
 JV;;اليابانية
 JA;;اليابانية
 KL;;Kalaallisut; Greenlandic
 KN;;Kannada
-KS;;Kashmiri
+KS;;الكشميرية
 KA;;الألمانية
 KR;;الكردية
-KK;;Kazakh
+KK;;الكازاخية
 KM;;Central Khmer
 KI;;Kikuyu; Gikuyu
 RW;;Kinyarwanda
@@ -90,7 +90,7 @@ KO;;الكورية
 KJ;;Kuanyama; Kwanyama
 KU;;الكردية
 LO;;Lao
-LA;;اللاتفية
+LA;;اللاتينية
 LV;;اللاتفية
 LI;;Limburgan; Limburger; Limburgish
 LN;;Lingala
@@ -99,43 +99,43 @@ LB;;Luxembourgish; Letzeburgesch
 LU;;Luba-Katanga
 LG;;Ganda
 MH;;المالطية
-ML;;Malayalam
+ML;;المالايلامية
 MR;;الموري
 MK;;المقدونية
 MG;;Malagasy
 MT;;المالطية
-MN;;المقدونية
+MN;;المنغولية
 MI;;الموري
 MS;;لغة الملايو
 MY;;البورمية
 NA;;ناورو
-NV;;Navajo; Navaho
+NV;;نافاجو؛ نافاهو
 NR;;Ndebele, South; South Ndebele
 ND;;Ndebele, North; North Ndebele
 NG;;البوسنية
 NE;;النيبالية
 NL;;Dutch; Flemish
 NN;;النرويجية (نينورسك)
-NB;;Bokmål, Norwegian; Norwegian Bokmål
+NB;;بوكمول، النرويجية؛ بوكمول النرويجية
 NO;;النرويجية
 NY;;Chichewa; Chewa; Nyanja
-OC;;Occitan (post 1500); Provençal
+OC;;القسطانية (ما بعد  1500)؛ البروفانسية
 OJ;;Ojibwa
 OR;;Oriya
 OM;;Oromo
 OS;;الروسية
-PA;;Panjabi; Punjabi
+PA;;بانجابي؛ البنجابية
 PI;;البولندية
 PL;;البولندية
 PT;;البرتغالية
 PS;;Pushto; Pashto
-QU;;Quechua
+QU;;الكيشوا
 RM;;الرومانية
 RO;;اللاتفية
-RN;;Rundi
+RN;;الروندي
 RU;;الروسية
 SG;;Sango
-SA;;Sanskrit
+SA;;السنسكريتية
 SI;;الفييتنامية
 SK;;السلوفاكية
 SL;;السلوفينية
@@ -143,14 +143,14 @@ SE;;Northern Sami
 SM;;Samoan
 SN;;الهاوسا
 SD;;Sindhi
-SO;;Somali
+SO;;الصومالية
 ST;;Sotho, Southern
 ES;;Spanish; Castilian
 SQ;;الأذربيجانية
 SC;;المقدونية
 SR;;الصربية
 SS;;Swati
-SU;;Sundanese
+SU;;السوندانيسية
 SW;;السواحلية
 SV;;السويدية
 TY;;اللاتفية
@@ -177,7 +177,7 @@ VO;;Volapük
 WA;;الوالون
 WO;;Wolof
 XH;;الهاوسا
-YI;;Yiddish
+YI;;اليديشية
 YO;;Yoruba
 ZA;;Zhuang; Chuang
 ZH;;الصينية

@@ -142,7 +142,7 @@ MG;;Мадагаскар
 MV;;Мальдиви
 MX;;Мексика
 MH;;Marshall Islands
-MK;;Macedonia, Republic of
+MK;;Керла Каледони
 ML;;Мали
 MT;;Мальта
 MM;;Мьянма
@@ -209,7 +209,7 @@ SR;;Суринам
 SK;;Словаки
 SI;;Словени
 SE;;Швеци
-SZ;;Свазиленд
+SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Сейшелан гlайреш
 SY;;Syrian Arab Republic

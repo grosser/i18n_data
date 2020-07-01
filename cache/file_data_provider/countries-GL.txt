@@ -56,7 +56,7 @@ CW;;Curaçao
 CX;;Illa Christmas
 KY;;Illas Caimán
 CY;;Chipre
-CZ;;Czechia
+CZ;;Chequia
 DE;;Alemaña
 DJ;;Xibutí
 DM;;Dominica
@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Maldivas
 MX;;México
 MH;;Illas Marshall
-MK;;Macedonia, República de
+MK;;Nova Caledonia
 ML;;Mali
 MT;;Malta
 MM;;Birmania
