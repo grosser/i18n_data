@@ -62,6 +62,16 @@ module I18nData
     end
 
     def recognise_code(type, search)
+      if search.include?(';')
+        found_codes = []
+
+        search.split(';').each do |subsearch|
+          found_codes << recognise_code(type, subsearch)
+        end
+
+        return found_codes.uniq.count == 1 ? found_codes.first : nil
+      end
+
       search = search.strip
 
       # common languages first <-> faster in majority of cases
