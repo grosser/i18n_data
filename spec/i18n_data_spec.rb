@@ -186,6 +186,14 @@ describe I18nData do
       I18nData.language_code("   Deutsch \n\r ").should eq 'DE'
     end
 
+    it "recognizes when multiple names of the same language are given" do
+      I18nData.language_code("Valencian; Catalan").should eq 'CA'
+    end
+
+    it "returns nil when names of multiple languages are given" do
+      I18nData.language_code("Valencian; Polish").should eq nil
+    end
+
     it "returns nil when it cannot recognise" do
       I18nData.language_code('XY').should eq nil
     end
