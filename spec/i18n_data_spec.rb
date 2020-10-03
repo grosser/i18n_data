@@ -12,6 +12,13 @@ describe I18nData do
     hash.detect{|k,v| k.to_s.empty? or v.to_s.empty?}
   end
 
+  around do |t|
+    old = I18nData.data_provider
+    t.call
+  ensure
+    I18nData.data_provider = old
+  end
+
   describe ".data_provider" do
     it "get the current provider" do
       I18nData.data_provider.should eq I18nData::FileDataProvider
