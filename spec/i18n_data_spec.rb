@@ -182,6 +182,10 @@ describe I18nData do
       I18nData.language_code('Flemish').should eq 'NL'
     end
 
+    it "recognizes full language name with ;" do
+      I18nData.language_code("Kirghiz; Kyrgyz").should eq 'KY'
+    end
+
     it "recognises with blanks" do
       I18nData.language_code("   Deutsch \n\r ").should eq 'DE'
     end
