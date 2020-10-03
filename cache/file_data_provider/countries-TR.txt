@@ -238,7 +238,7 @@ VA;;Holy See (Vatikan Şehir Devleti)
 VC;;Saint Vincent ve Grenadinler
 VE;;Venezuela
 VG;;İngiliz Virgin Adaları
-VI;;Amerikan Virgin Adaları
+VI;;Virgin Adaları, A.B.D.
 VN;;Vietnam
 VU;;Vanuatu
 WF;;Wallis ve Futuna Adaları

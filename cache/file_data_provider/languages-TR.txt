@@ -67,7 +67,7 @@ IO;;Ido
 II;;Sichuan Yi; Nuosu
 IU;;Inuktitut
 IE;;Yapay dil; Batıya özgün
-IA;;Interlingua (International Auxiliary Language Association)
+IA;;Interlingua (Uluslararası Yapay Dil Derneği)
 ID;;Endonezyaca
 IK;;Inupiaq
 IS;;İzlandaca

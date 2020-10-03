@@ -2,15 +2,15 @@ AW;;Aruba
 AF;;Afganistán
 AO;;Angola
 AI;;Anguila
-AX;;Åland
+AX;;Islas Åland
 AL;;Albania
 AD;;Andorra
-AE;;Emiratos Arabes Unitos
+AE;;Emiratos Arabes Unius
 AR;;Archentina
 AM;;Armenia
-AS;;American Samoa
-AQ;;Antarctica
-TF;;French Southern Territories
+AS;;Samoa Americana
+AQ;;Antartida
+TF;;Territorios Franceses d'o Sud
 AG;;Antigua y Barbuda
 AU;;Australia
 AT;;Austria
@@ -18,7 +18,7 @@ AZ;;Azerbaichán
 BI;;Burundi
 BE;;Belchica
 BJ;;Benín
-BQ;;Bonaire, Sint Eustatius and Saba
+BQ;;Bonaire, Sint Eustatius i Saba
 BF;;Burkina Faso
 BD;;Bangladesh
 BG;;Bulgaria
@@ -34,7 +34,7 @@ BR;;Brasil
 BB;;Barbados
 BN;;Brunei Darussalam
 BT;;Bután
-BV;;Bouvet Island
+BV;;Isla Bouvet
 BW;;Botswana
 CF;;Republica Centroafricana
 CA;;Canadá

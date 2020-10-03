@@ -13,7 +13,7 @@ AZ;;azéri
 BA;;bachkir
 BM;;bambara
 BE;;biélorusse
-BN;;Bengali
+BN;;bengali
 BH;;langues biharis
 BI;;bichelamar
 BO;;tibétain
@@ -99,7 +99,7 @@ LB;;luxembourgeois
 LU;;luba-katanga
 LG;;ganda
 MH;;marshallais
-ML;;Malayalam
+ML;;malayalam
 MR;;marathe
 MK;;macédonien
 MG;;malgache
@@ -121,7 +121,7 @@ NO;;norvégien
 NY;;nyanja
 OC;;occitan
 OJ;;ojibwa
-OR;;Oriya
+OR;;oriya
 OM;;oromo
 OS;;ossète
 PA;;pendjabi
@@ -159,7 +159,7 @@ TT;;tatar
 TE;;télougou
 TG;;tadjik
 TL;;tagalog
-TH;;Thaï
+TH;;thaï
 TI;;tigrigna
 TO;;tongien (Îles Tonga)
 TN;;tswana

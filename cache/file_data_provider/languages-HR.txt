@@ -7,11 +7,11 @@ AR;;Arapski
 AN;;Aragonski
 AS;;Asamski
 AV;;Avarski
-AE;;Avestanski
+AE;;Avestansko
 AY;;Ajmarski
 AZ;;Azerbajdžanski
 BA;;Baškirski
-BM;;Bambarski
+BM;;Bambara
 BE;;Bjeloruski
 BN;;Bengalski
 BH;;Biharski jezici
@@ -51,7 +51,7 @@ GD;;Škotski gaelski
 GA;;Irski
 GL;;Galicijski
 GV;;Manski
-GN;;Paragvajski gvarani
+GN;;Guarani
 GU;;Gudžaratski
 HT;;Haićanski kreolski
 HA;;Hauski
@@ -67,7 +67,7 @@ IO;;Ido
 II;;Sichuan Yi; Nuosu
 IU;;Inuktitut
 IE;;Interlingue; Occidental
-IA;;Interlingua
+IA;;Interlingua (Međunarodno udruženje za pomoćne jezike)
 ID;;Indonezijski
 IK;;Inupiaq
 IS;;Islandski
@@ -89,7 +89,7 @@ KG;;Kongo
 KO;;Korejski
 KJ;;Kuanyama; Kwanyama
 KU;;Kurdski
-LO;;Laoško
+LO;;Laoški
 LA;;Latinica
 LV;;Latvijski
 LI;;Limburški

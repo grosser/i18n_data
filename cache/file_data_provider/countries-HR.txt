@@ -230,7 +230,7 @@ TW;;Tajvan
 TZ;;Tanzanija
 UG;;Uganda
 UA;;Ukrajina
-UM;;Američki Djevičanski Otoci
+UM;;Američki mali izvanjski otoci
 UY;;Urugvaj
 US;;Sjedinjene Države
 UZ;;Uzbekistan

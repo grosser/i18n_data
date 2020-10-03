@@ -32,7 +32,7 @@ CR;;Grego
 CY;;galês
 DA;;Dinamarquês
 DE;;Alemão
-DV;;Divehi; Dhivehi; Maldivian
+DV;;Divehi; Maldívio
 DZ;;dzonga
 EL;;Grego, Moderno (1453-)
 EN;;Inglês
@@ -52,7 +52,7 @@ GA;;Irlandês
 GL;;Galego
 GV;;Man
 GN;;Guarani
-GU;;guzerate
+GU;;Guzerate
 HT;;Haitiano; Crioulo Haitiano
 HA;;Parar
 HE;;Hebreu
@@ -67,20 +67,20 @@ IO;;ido
 II;;Lituano
 IU;;inuktitut
 IE;;Renderização
-IA;;Interlingua (International Auxiliary Language Association)
+IA;;Interlíngua
 ID;;Indonésio
 IK;;Indiano
 IS;;Islandês
 IT;;Italiano
 JV;;Javanês
 JA;;Japonês
-KL;;Kalaallisut; Greenlandic
-KN;;canarês
+KL;;Groenlandês
+KN;;Kannada
 KS;;kashmiri
 KA;;georgiano
 KR;;Turco
 KK;;cazaque
-KM;;Central Khmer
+KM;;Khmer Central
 KI;;quicuio
 RW;;kinyarwanda
 KY;;quirguiz
@@ -89,10 +89,10 @@ KG;;congolês
 KO;;Coreano
 KJ;;Kuanyama
 KU;;Curdo
-LO;;laosiano
+LO;;Laosiano
 LA;;Latim
 LV;;Letão
-LI;;Limburgan; Limburger; Limburgish
+LI;;Limburgês
 LN;;Le_gal
 LT;;Lituano
 LB;;luxemburguês
@@ -109,26 +109,26 @@ MI;;Maori
 MS;;Malaio
 MY;;birmanês
 NA;;nauruano
-NV;;Navajo; Navaho
+NV;;Navarro
 NR;;ndebele, south
 ND;;ndebele, north
 NG;;dongo
 NE;;Nepalês
 NL;;Holandês; Flamengo
 NN;;Norueguês
-NB;;Bokmål, Norwegian; Norwegian Bokmål
+NB;;Norwegian Bokmål
 NO;;Norueguês
-NY;;Chichewa; Chewa; Nyanja
-OC;;Occitan (post 1500); Provençal
+NY;;Cinianja
+OC;;Occitâno (pós-1500); Provençal
 OJ;;ojibwa
 OR;;oriya
 OM;;de
 OS;;Russo
-PA;;Panjabi; Punjabi
+PA;;Panjabi
 PI;;Polaco
 PL;;Polaco
 PT;;Português
-PS;;Pushto; Pashto
+PS;;Pachto
 QU;;quíchua
 RM;;Romêno
 RO;;moldávio
@@ -140,8 +140,8 @@ SI;;Vietnamita
 SK;;Eslovaco
 SL;;Eslovêno
 SE;;northern sami
-SM;;Samoan
-SN;;Shona
+SM;;Samoano
+SN;;Xona
 SD;;sindi
 SO;;somali
 ST;;soto, do sul
@@ -156,9 +156,9 @@ SV;;Sueco
 TY;;Letão
 TA;;Tailandês
 TT;;tatar
-TE;;telugu
+TE;;Telugu
 TG;;Tailandês
-TL;;Tagalog
+TL;;Tagalo
 TH;;Tailandês
 TI;;Turco
 TO;;tonga (ilhas tonga)
@@ -173,7 +173,7 @@ UR;;urdu
 UZ;;usbeque
 VE;;venda
 VI;;Vietnamita
-VO;;Volapük
+VO;;Volapuque
 WA;;walloon
 WO;;uolofe
 XH;;xosa
