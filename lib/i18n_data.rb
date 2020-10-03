@@ -65,18 +65,23 @@ module I18nData
       search = search.strip
 
       # common languages first <-> faster in majority of cases
-      common_language_codes = ['EN','ES','FR','DE','ZH']
-      language_codes = common_language_codes.concat (available_language_codes - common_language_codes)
+      language_codes = ['EN','ES','FR','DE','ZH'] | available_language_codes
 
-      language_codes.detect do |language_code|
-        begin
-          send(type, language_code).detect do |code, name|
-            # support "Dutch" and "Dutch; Flemish", checks for inclusion first -> faster
-            return code if (name.include?(search) && name.split(';').each(&:strip!).include?(search))
+      language_codes.each do |language_code|
+        options =
+          begin
+            send(type, language_code)
+          rescue NoTranslationAvailable
+            next
           end
-        rescue NoTranslationAvailable
+
+        options.each do |code, name|
+          # support "Dutch" and "Dutch; Flemish", checks for inclusion first -> faster
+          return code if name.include?(search) && name.split(';').each(&:strip!).include?(search)
         end
       end
+
+      nil # not found
     end
 
     # NOTE: this is not perfect since the used provider might have more or less languages available
