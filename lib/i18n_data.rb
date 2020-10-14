@@ -78,7 +78,7 @@ module I18nData
         options.each do |code, name|
           # support "Dutch" and "Dutch; Flemish", checks for inclusion first to skip the splitting
           # then check for exact match
-          return code if name.include?(search) && (name == search || name.split(';').each(&:strip!).include?(search))
+          return code if name.include?(search) && (name == search || name.split('; ').include?(search))
         end
       end
 
