@@ -24,6 +24,10 @@ describe I18nData::FileDataProvider do
     File.basename(cache_file).should == "countries-YY_YY.txt"
   end
 
+  it "reads locale name 'zh-TW' correctly when hyphen (-) to underscore (_)" do
+    read(:countries, "zh-TW")["TW"].should == "臺灣"
+  end
+
   it "preserves data when writing and then reading" do
     data = {"x"=>"y","z"=>"w"}
     I18nData::FileDataProvider.send(:write_to_file, data, cache_file)
