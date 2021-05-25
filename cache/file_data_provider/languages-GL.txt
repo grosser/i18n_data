@@ -2,11 +2,9 @@ AA;;Afar
 AB;;Abxaziano
 AF;;Afrikaans
 AK;;Akán
-SQ;;Albanés
 AM;;Amárico
 AR;;Árabe
 AN;;Aragonés
-HY;;Armenio
 AS;;Asamés
 AV;;Avar
 AE;;Avéstico
@@ -14,46 +12,45 @@ AY;;Aimará
 AZ;;Azerí
 BA;;Bashkir
 BM;;Bambara
-EU;;Basco; Éuscaro
 BE;;Bielorruso
 BN;;Bengalí; Bangla
 BH;;Idiomas bihari
 BI;;Bislama
+BO;;Tibetano
 BS;;Bosnio
 BR;;Bretón
 BG;;Búlgaro
-MY;;Birmano
 CA;;Catalán; Valenciano
+CS;;Checo
 CH;;Chamorro
 CE;;Checheno
-ZH;;Chinés
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;Chuvache; Chuvash
 KW;;Córnico
 CO;;Corso
 CR;;Cree
-CS;;Checo
+CY;;Galés
 DA;;Dinamarqués
+DE;;Alemán
 DV;;Divehi; Dhivehi; Mahl; Maldivio
-NL;;Neerlandés; Holandés; Flamengo
 DZ;;Dzonga; Butanés
+EL;;Grego moderno (1453-)
 EN;;Inglés
 EO;;Esperanto
 ET;;Estonio
+EU;;Basco; Éuscaro
 EE;;Ewe
 FO;;Feroés
+FA;;Persa
 FJ;;Fixiano
 FI;;Finés
 FR;;Francés
 FY;;Frisio occidental
 FF;;Fula
-KA;;Xeorxiano
-DE;;Alemán
 GD;;Gaélico; Gaélico escocés
 GA;;Irlandés; Gaélico irlandés
 GL;;Galego
 GV;;Gaélico manés
-EL;;Grego moderno (1453-)
 GN;;Guaraní
 GU;;Guxaratí
 HT;;Haitiano; Crioulo haitiano
@@ -64,8 +61,8 @@ HI;;Hindi
 HO;;Hiri Motu
 HR;;Croata
 HU;;Húngaro
+HY;;Armenio
 IG;;Igbo
-IS;;Islandés
 IO;;Ido
 II;;Yi Sinchuáni; Nuosu
 IU;;Inuktitut
@@ -73,12 +70,14 @@ IE;;Interlingua: Occidental
 IA;;Interlingua (Asociación da Lingua Auxiliar Internacional)
 ID;;Indonesio
 IK;;Inupiaq
+IS;;Islandés
 IT;;Italiano
 JV;;Xavanés
 JA;;Xaponés
 KL;;Kalaallisut; Groenlandés
 KN;;Canarés
 KS;;Cachemir
+KA;;Xeorxiano
 KR;;Kanuri
 KK;;Kazaxo
 KM;;Xemer central
@@ -99,22 +98,23 @@ LT;;Lituano
 LB;;Luxemburgués
 LU;;Luba-Katanga
 LG;;Ganda
-MK;;Macedonio
 MH;;Marshalés
 ML;;Malaio
-MI;;Maorí
 MR;;Marati
-MS;;Malaio
+MK;;Macedonio
 MG;;Malgache
 MT;;Maltés
-MO;;Moldavio
 MN;;Mongol
+MI;;Maorí
+MS;;Malaio
+MY;;Birmano
 NA;;Naurú
 NV;;Navajo; Navaho
 NR;;Ndebele, Sur; Sur Ndebele
 ND;;Ndebele, Norte; Norte Ndebele
 NG;;Ndonga
 NE;;Nepalés
+NL;;Neerlandés; Holandés; Flamengo
 NN;;Noruegués Nynorsk; Nynorsk, noruegués
 NB;;Bokmål, noruegués; Noruegués Bokmål
 NO;;Noruegués
@@ -125,14 +125,13 @@ OR;;Orixa
 OM;;Oromo
 OS;;Osetio
 PA;;Punxabí
-FA;;Persa
 PI;;Pali
 PL;;Polaco
 PT;;Portugués
 PS;;Pushto; Pachtu
 QU;;Quechúa
 RM;;Romanche
-RO;;Romanés
+RO;;Moldavio
 RN;;Rundi; Kurundi
 RU;;Ruso
 SG;;Sango
@@ -147,6 +146,7 @@ SD;;Sindhi
 SO;;Somalí
 ST;;Sotho do sur
 ES;;Español; Castelán
+SQ;;Albanés
 SC;;Sardo
 SR;;Serbio
 SS;;Swazi
@@ -160,7 +160,6 @@ TE;;Telugu
 TG;;Taxico
 TL;;Tagalo
 TH;;Thai
-BO;;Tibetano
 TI;;Tigriñés
 TO;;Tonga (Illas Tonga)
 TN;;Setchwana
@@ -175,11 +174,11 @@ UZ;;Uzbeco
 VE;;Venda
 VI;;Vietnamita
 VO;;Volapük
-CY;;Galés
 WA;;Valón
 WO;;Wolof
 XH;;Xosa
 YI;;Yiddish
 YO;;Ioruba
 ZA;;Zhuang; Chuang
+ZH;;Chinés
 ZU;;Zulú

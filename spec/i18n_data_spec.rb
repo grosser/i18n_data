@@ -1,7 +1,7 @@
 # encoding: utf-8
 require "spec_helper"
 
-NUM_2_LETTER_LANGUAGES = 185
+NUM_2_LETTER_LANGUAGES = 184
 NUM_COUNTRIES = 249
 
 describe I18nData do
@@ -10,6 +10,13 @@ describe I18nData do
 
   def blank_keys_or_values(hash)
     hash.detect{|k,v| k.to_s.empty? or v.to_s.empty?}
+  end
+
+  around do |t|
+    old = I18nData.data_provider
+    t.call
+  ensure
+    I18nData.data_provider = old
   end
 
   describe ".data_provider" do
@@ -162,6 +169,10 @@ describe I18nData do
     it "returns nil when it cannot recognise" do
       I18nData.country_code('XY').should eq nil
     end
+
+    it "can find languages that are not in english list" do
+      I18nData.country_code('奧蘭群島').should eq 'AX'
+    end
   end
 
   describe :language_code do
@@ -176,6 +187,10 @@ describe I18nData do
     it "recognizes languages that are ; seperated" do
       I18nData.language_code('Dutch').should eq 'NL'
       I18nData.language_code('Flemish').should eq 'NL'
+    end
+
+    it "recognizes full language name with ;" do
+      I18nData.language_code("Kirghiz; Kyrgyz").should eq 'KY'
     end
 
     it "recognises with blanks" do

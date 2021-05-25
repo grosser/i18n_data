@@ -1,249 +1,249 @@
+AW;;Aruba
 AF;;Afganistan
-AX;;Åland uharteak
-AL;;Albania
-DZ;;Aljeria
-AS;;Samoa amerikarra
-AD;;Andorra
 AO;;Angola
 AI;;Anguilla
-AQ;;Antartika
-AG;;Antigua eta Barbuda
+AX;;Åland uharteak
+AL;;Albania
+AD;;Andorra
+AE;;Arabiar Emirerri Batuak
 AR;;Argentina
 AM;;Armenia
-AW;;Aruba
+AS;;Amerikar Samoa
+AQ;;Antartika
+TF;;Hegoaldeko Lurralde Frantsesak
+AG;;Antigua eta Barbuda
 AU;;Australia
 AT;;Austria
 AZ;;Azerbaijan
-BS;;Bahamak
-BH;;Bahrain
-BD;;Bangladesh
-BB;;Barbados
-BY;;Bielorrusia
-BE;;Belgika
-BZ;;Belize
-BJ;;Benin
-BM;;Bermuda
-BT;;Bhutan
-BO;;Bolivia, Nazio-anitzeko Estatua
-BQ;;Bonaire, Sint Eustatius eta Saba
-BA;;Bosnia eta Herzegovina
-BW;;Botswana
-BV;;Bouvet uhartea
-BR;;Brasil
-IO;;Indiar Ozeanoko Lurralde Britainiarra
-BN;;Brunei Darussalam
-BG;;Bulgaria
-BF;;Burkina Faso
 BI;;Burundi
-KH;;Kanbodia
-CM;;Kamerun
-CA;;Kanada
-CV;;Cabo Verde
-KY;;Kaiman uharteak
+BE;;Belgika
+BJ;;Benin
+BQ;;Bonaire, Sint Eustatius eta Saba
+BF;;Burkina Faso
+BD;;Bangladesh
+BG;;Bulgaria
+BH;;Bahrain
+BS;;Bahamak
+BA;;Bosnia eta Herzegovina
+BL;;Saint Barthélemy
+BY;;Bielorrusia
+BZ;;Belize
+BM;;Bermuda
+BO;;Bolivia
+BR;;Brasil
+BB;;Barbados
+BN;;Brunei Darussalam
+BT;;Bhutan
+BV;;Bouvet uhartea
+BW;;Botswana
 CF;;Afrika Erdiko Errepublika
-TD;;Txad
+CA;;Kanada
+CC;;Cocos (Keeling) uharteak
+CH;;Suitza
 CL;;Txile
 CN;;Txina
-CX;;Christmas uhartea
-CC;;Cocos (Keeling) uharteak
+CI;;Boli Kosta
+CM;;Kamerun
+CD;;Kongoko Herri Errepublika Demokratikoa
+CG;;Kongo
+CK;;Cook uharteak
 CO;;Kolonbia
 KM;;Komoreak
-CG;;Kongo
-CD;;Kongoko Herri Errepublika Demokratikoa
-CK;;Cook uharteak
+CV;;Cabo Verde
 CR;;Costa Rica
-CI;;Boli Kosta
-HR;;Kroazia
 CU;;Kuba
 CW;;Curaçao
+CX;;Christmas uhartea
+KY;;Kaiman uharteak
 CY;;Zipre
-CZ;;Txekiar Errepublika
-DK;;Danimarka
+CZ;;Txekia
+DE;;Alemania
 DJ;;Djibuti
 DM;;Dominika
+DK;;Danimarka
 DO;;Dominikar Errepublika
+DZ;;Aljeria
 EC;;Ekuador
 EG;;Egipto
-SV;;El Salvador
-GQ;;Ekuatore Ginea
 ER;;Eritrea
+EH;;Mendebaldeko Sahara
+ES;;Espainia
 EE;;Estonia
 ET;;Etiopia
-FK;;Falkland uharteak (Malvina uharteak)
-FO;;Faroe uharteak
-FJ;;Fiji
 FI;;Finlandia
+FJ;;Fiji
+FK;;Falkland uharteak (Malvina uharteak)
 FR;;Frantzia
-GF;;Guyana Frantsesa
-PF;;Frantziar Polinesia
-TF;;Hegoaldeko Lurralde Frantsesak
+FO;;Faroe uharteak
+FM;;Mikronesia, Estatu Federatuak
 GA;;Gabon
-GM;;Gambia
+GB;;Erresuma Batua
 GE;;Georgia
-DE;;Alemania
+GG;;Guernsey
 GH;;Ghana
 GI;;Gibraltar
-GR;;Grezia
-GL;;Groenlandia
-GD;;Grenada
-GP;;Guadalupe
-GU;;Guam
-GT;;Guatemala
-GG;;Guernsey
 GN;;Ginea
+GP;;Guadalupe
+GM;;Gambia
 GW;;Ginea Bissau
+GQ;;Ekuatore Ginea
+GR;;Grezia
+GD;;Grenada
+GL;;Groenlandia
+GT;;Guatemala
+GF;;Guyana Frantsesa
+GU;;Guam
 GY;;Guyana
-HT;;Haiti
-HM;;Heard eta McDonald uharteak
-VA;;Egoitza Santua (Vatikano Hiria)
-HN;;Honduras
 HK;;Hong Kong
+HM;;Heard eta McDonald uharteak
+HN;;Honduras
+HR;;Kroazia
+HT;;Haiti
 HU;;Hungaria
-IS;;Islandia
-IN;;India
 ID;;Indonesia
+IM;;Man uhartea
+IN;;India
+IO;;Indiar Ozeanoko Lurralde Britainiarra
+IE;;Irlanda
 IR;;Iran, Islamiar Errepublika
 IQ;;Irak
-IE;;Irlanda
-IM;;Man uhartea
+IS;;Islandia
 IL;;Israel
 IT;;Italia
 JM;;Jamaika
-JP;;Japonia
 JE;;Jersey
 JO;;Jordania
+JP;;Japonia
 KZ;;Kazakhstan
 KE;;Kenya
+KG;;Kirgizistan
+KH;;Kanbodia
 KI;;Kiribati
-KP;;Korea, Herri Errepublika Demokratikoa
+KN;;Saint Kitts eta Nevis
 KR;;Korea, Errepublika
 KW;;Kuwait
-KG;;Kirgizistan
 LA;;Laoseko Herri Errepublika Demokratikoa
-LV;;Letonia
 LB;;Libano
-LS;;Lesotho
 LR;;Liberia
 LY;;Libia
+LC;;Santa Luzia
 LI;;Liechtenstein
+LK;;Sri Lanka
+LS;;Lesotho
 LT;;Lituania
 LU;;Luxenburgo
+LV;;Letonia
 MO;;Macau
-MK;;Mazedonia, Errepublika
+MF;;Saint Martin (Frantziar zatia)
+MA;;Maroko
+MC;;Monako
+MD;;Moldavia
 MG;;Madagaskar
-MW;;Malawi
-MY;;Malasia
 MV;;Maldivak
+MX;;Mexiko
+MH;;Marshall uharteak
+MK;;Ipar Mazedonia
 ML;;Mali
 MT;;Malta
-MH;;Marshall uharteak
-MQ;;Martinika
-MR;;Mauritania
-MU;;Maurizio
-YT;;Mayotte
-MX;;Mexiko
-FM;;Mikronesia, Estatu Federatuak
-MD;;Moldavia, Errepublika
-MC;;Monako
-MN;;Mongolia
-ME;;Montenegro
-MS;;Montserrat
-MA;;Maroko
-MZ;;Mozanbike
 MM;;Myanmar
-NA;;Namibia
-NR;;Nauru
-NP;;Nepal
-NL;;Herbehereak
-NC;;Kaledonia Berria
-NZ;;Zeelanda Berria
-NI;;Nikaragua
-NE;;Niger
-NG;;Nigeria
-NU;;Niue
-NF;;Norfolk uhartea
+ME;;Montenegro
+MN;;Mongolia
 MP;;Iparraldeko Mariana Uharteak
+MZ;;Mozanbike
+MR;;Mauritania
+MS;;Montserrat
+MQ;;Martinika
+MU;;Maurizio
+MW;;Malawi
+MY;;Malasia
+YT;;Mayotte
+NA;;Namibia
+NC;;Kaledonia Berria
+NE;;Niger
+NF;;Norfolk uhartea
+NG;;Nigeria
+NI;;Nikaragua
+NU;;Niue
+NL;;Herbehereak
 NO;;Norvegia
+NP;;Nepal
+NR;;Nauru
+NZ;;Zeelanda Berria
 OM;;Oman
 PK;;Pakistan
-PW;;Palau
-PS;;Palestinako Estatua
 PA;;Panama
-PG;;Papua Ginea Berria
-PY;;Paraguai
+PN;;Pitcairn
 PE;;Peru
 PH;;Filipinak
-PN;;Pitcairn
+PW;;Palau
+PG;;Papua Ginea Berria
 PL;;Polonia
-PT;;Portugal
 PR;;Puerto Rico
+KP;;Korea, Herri Errepublika Demokratikoa
+PT;;Portugal
+PY;;Paraguai
+PS;;Palestinako Estatua
+PF;;Frantziar Polinesia
 QA;;Qatar
 RE;;Réunion
 RO;;Errumania
 RU;;Errusiar Federakundea
 RW;;Ruanda
-BL;;Saint Barthélemy
-SH;;Santa Helena, Ascension eta Tristan da Cunha
-KN;;Saint Kitts eta Nevis
-LC;;Santa Luzia
-MF;;Saint Martin (Frantziar zatia)
-PM;;Saint Pierre eta Miquelon
-VC;;Saint Vincent eta Grenadinak
-WS;;Samoa
-SM;;San Marino
-ST;;Sao Tome eta Principe
 SA;;Saudi Arabia
+SD;;Sudan
 SN;;Senegal
-RS;;Serbia
-SC;;Seychelleak
-SL;;Sierra Leona
 SG;;Singapur
-SX;;Saint Martin (Holandar zatia)
+GS;;Hegoaldeko Georgia eta Hegoaldeko Sandwich uharteak
+SH;;Santa Helena, Ascension eta Tristan da Cunha
+SJ;;Svalbard eta Jan Mayen
+SB;;Salomon uharteak
+SL;;Sierra Leona
+SV;;El Salvador
+SM;;San Marino
+SO;;Somalia
+PM;;Saint Pierre eta Miquelon
+RS;;Serbia
+SS;;Hegoaldeko Sudan
+ST;;Sao Tome eta Principe
+SR;;Surinam
 SK;;Eslovakia
 SI;;Eslovenia
-SB;;Salomon uharteak
-SO;;Somalia
-ZA;;Hegoafrika
-GS;;Hegoaldeko Georgia eta Hegoaldeko Sandwich uharteak
-ES;;Espainia
-LK;;Sri Lanka
-SD;;Sudan
-SR;;Surinam
-SS;;Hegoaldeko Sudan
-SJ;;Svalbard eta Jan Mayen
-SZ;;Swazilandia
 SE;;Suedia
-CH;;Suitza
+SZ;;Eswatini
+SX;;Saint Martin (Holandar zatia)
+SC;;Seychelleak
 SY;;Siriako Arabiar Errepublika
-TW;;Taiwan
-TJ;;Tajikistan
-TZ;;Tanzania, Errepublika Batua
-TH;;Tailandia
-TL;;Ekialdeko Timor
+TC;;Turk eta Caicos uharteak
+TD;;Txad
 TG;;Togo
+TH;;Tailandia
+TJ;;Tajikistan
 TK;;Tokelau
+TM;;Turkmenistan
+TL;;Ekialdeko Timor
 TO;;Tonga
 TT;;Trinidad eta Tobago
 TN;;Tunisia
 TR;;Turkia
-TM;;Turkmenistan
-TC;;Turk eta Caicos uharteak
 TV;;Tuvalu
+TW;;Taiwan
+TZ;;Tanzania
 UG;;Uganda
 UA;;Ukrania
-AE;;Arabiar Emirerri Batuak
-GB;;Erresuma Batua
-US;;Estatu Batuak
 UM;;Ameriketako Estatu Batuetako itsasoz haraindiko uharteak
 UY;;Uruguai
+US;;Estatu Batuak
 UZ;;Uzbekistan
-VU;;Vanuatu
-VE;;Venezuela, Bolibartar Errepublika
-VN;;Vietnam
+VA;;Egoitza Santua (Vatikano Hiria)
+VC;;Saint Vincent eta Grenadinak
+VE;;Venezuela
 VG;;Birjina uharteak, Britainiarrak
 VI;;Birjina uharteak, A.E.B.
+VN;;Vietnam
+VU;;Vanuatu
 WF;;Wallis eta Futuna
-EH;;Mendebaldeko Sahara
+WS;;Samoa
 YE;;Yemen
+ZA;;Hegoafrika
 ZM;;Zambia
 ZW;;Zimbabwe

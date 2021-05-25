@@ -47,13 +47,9 @@ module I18nData
 
     private
 
-    def fetch(*args)
-      @cache ||= {}
-      if @cache.key?(args)
-        @cache[args]
-      else
-        @cache[args] = yield
-      end
+    def fetch(type, language_code)
+      @cache ||= Hash.new { |h, k| h[k] = {} }
+      @cache[type].fetch(language_code) { @cache[type][language_code] = yield }
     end
 
     # hardcode languages that do not have a default type
@@ -69,20 +65,33 @@ module I18nData
       search = search.strip
 
       # common languages first <-> faster in majority of cases
-      common_languages = ['EN','ES','FR','DE','ZH']
-      langs = (common_languages + (languages.keys - common_languages))
+      language_codes = ['EN','ES','FR','DE','ZH'] | available_language_codes
 
-      langs.each do |lang|
-        begin
-          send(type, lang).each do |code, name|
-            # supports "Dutch" and "Dutch; Flemish", checks for inclusion first -> faster
-            match_found = (name.include?(search) and name.split(';').map{|s| s.strip }.include?(search))
-            return code if match_found
+      language_codes.each do |language_code|
+        options =
+          begin
+            send(type, language_code)
+          rescue NoTranslationAvailable
+            next
           end
-        rescue NoTranslationAvailable
+
+        options.each do |code, name|
+          # support "Dutch" and "Dutch; Flemish", checks for inclusion first to skip the splitting
+          # then check for exact match
+          return code if name.include?(search) && (name == search || name.split('; ').include?(search))
         end
       end
-      nil
+
+      nil # not found
+    end
+
+    # NOTE: this is not perfect since the used provider might have more or less languages available
+    # but it's better than just using the available english language codes
+    def available_language_codes
+      @available_languges ||= begin
+        files = Dir[File.expand_path("../../cache/file_data_provider/languages-*", __FILE__)]
+        files.map! { |f| f[/languages-(.*)\./, 1] }
+      end
     end
   end
 end

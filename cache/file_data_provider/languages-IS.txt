@@ -2,70 +2,67 @@ AA;;Afar
 AB;;Abkhazian
 AF;;Afrikaans
 AK;;Akan
-SQ;;Albanska
 AM;;Amharíska
-AR;;Arabíska
+AR;;Arabískt
 AN;;Aragónska
-HY;;Armenska
 AS;;Assamíska
-AV;;Avarísk
-AE;;Avesta
+AV;;Avaríska
+AE;;Avestan
 AY;;Aymara
 AZ;;Azerbaijanska
 BA;;Bashkir
-BM;;Bambaríska
-EU;;Baskamál
+BM;;Bambara
 BE;;Hvítrússneska
-BN;;Bengalska
+BN;;Bengalskt
 BH;;Bihari tungumál
 BI;;Bislama
+BO;;Tíbetska
 BS;;Bosníska
 BR;;Bretónska
 BG;;Búlgarska
-MY;;Búrmíska
 CA;;Katalónska; Valensía
+CS;;Tékkneska
 CH;;Chamorró
 CE;;Tétjenska
-ZH;;Kínverska
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;Chuvash
 KW;;Cornish
 CO;;Korsíska
 CR;;Cree
-CS;;Tékkneska
+CY;;Velska
 DA;;Danska
+DE;;Þýska
 DV;;Divehi; Dhivehi; Maldivíska
-NL;;Hollenska; Flæmska
 DZ;;Dzongkha
+EL;;Gríska, nútíma (1453-)
 EN;;Enska
 EO;;Esperantó
 ET;;Eistneska
+EU;;Baskamál
 EE;;Ewe
 FO;;Færeyska
+FA;;Persneska
 FJ;;Fidjíeyska
 FI;;Finnska
 FR;;Franska
 FY;;Vestur-frísneska
 FF;;Fulah
-KA;;Georgíska
-DE;;Þýska
 GD;;Gelíska; Skosk gelíska
 GA;;Írska
 GL;;Galisíska
 GV;;Manx
-EL;;Gríska, nútíma (1453-)
 GN;;Guaraní
-GU;;Gujaratíska
+GU;;Gujaratískt
 HT;;Haítíska; Haítískt kreólamál
 HA;;Hausa
-HE;;Hebreska
+HE;;Hebreskt
 HZ;;Herero
 HI;;Hindí
 HO;;Hiri Motu
 HR;;Króatíska
 HU;;Ungverska
+HY;;Armenskt
 IG;;Igbo
-IS;;Íslenska
 IO;;Ido
 II;;Sichuan Yi; Nuosu
 IU;;Inuktitut
@@ -73,12 +70,14 @@ IE;;Interlingue; vestræn
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;Indónesíska
 IK;;Inupiaq
+IS;;Íslenska
 IT;;Ítalska
-JV;;Javaneskt
+JV;;Javanska
 JA;;Japanska
 KL;;Kalaallisut; grænlenska
-KN;;Kannada
+KN;;Kannadískt
 KS;;Kasmírska
+KA;;Georgíska
 KR;;Kanuri
 KK;;Kasakíska
 KM;;Mið-khmeríska
@@ -90,8 +89,8 @@ KG;;Kongóska
 KO;;Kóreska
 KJ;;Kuanyama; Kwanyama
 KU;;Kúrdíska
-LO;;Laóska
-LA;;Latína
+LO;;Laó
+LA;;Latneskt
 LV;;Lettneska
 LI;;Limburgan; Limburger; Limburgish
 LN;;Lingala
@@ -99,40 +98,40 @@ LT;;Litháíska
 LB;;Lúxemborgíska
 LU;;Luba-Katanga
 LG;;Ganda
-MK;;Makedóníska
 MH;;Marshallíska
-ML;;Malasíska
-MI;;Maori
+ML;;Malayanskt
 MR;;Marathi
-MS;;Malaíska
+MK;;Makedóníska
 MG;;Malagasíska
 MT;;Maltneska
-MO;;Moldóvíska
-MN;;Mongólska
+MN;;Mongólskt
+MI;;Maori
+MS;;Malaíska
+MY;;Búrmíska
 NA;;Nárú
 NV;;Navajo; Navaho
 NR;;Ndebele, suður; Suður-Ndebele
 ND;;Ndebele, norður; Norður-Ndebele
 NG;;Ndonga
 NE;;Nepalska
+NL;;Hollenska; Flæmska
 NN;;Nýnorska
 NB;;Bókmál, norska; Norskt bókmál
 NO;;Norska
 NY;;Chichewa; Chewa; Nyanja
-OC;;Occitan (eftir 1500)
+OC;;Occitanska (eftir 1500); Próvensíska
 OJ;;Ojibwa
-OR;;Oryanska
+OR;;Oryanskt
 OM;;Oromo
 OS;;Ossetíska; Ossetic
 PA;;Panjabi; Punjabi
-FA;;Persneska
 PI;;Pali
 PL;;Pólska
 PT;;Portúgalska
 PS;;Pushto; Pashto
 QU;;Quechua
-RM;;Rómansh
-RO;;Rúmenska
+RM;;Rómanska; rhetorómanska
+RO;;Rúmenska; Moldóvíska; Moldóvan
 RN;;Rundí
 RU;;Rússneska
 SG;;Sango
@@ -147,20 +146,20 @@ SD;;Sindí
 SO;;Sómalska
 ST;;Sotho, suður
 ES;;Spænska; kastilíanska
+SQ;;Albanska
 SC;;Sardiníska
 SR;;Serbneska
 SS;;Swati
-SU;;Sundanese
+SU;;Sundaneskt
 SW;;Svahílí
 SV;;Sænska
 TY;;Tahítíska
-TA;;Tamílska
+TA;;Tamílskt
 TT;;Tataríska
 TE;;Telúgú
-TG;;Tajikíska
+TG;;Tadsikíska
 TL;;Tagalog
-TH;;Tælenska
-BO;;Tíbetska
+TH;;Tælenskt
 TI;;Tigrinya
 TO;;Tonga (Tonga-eyjar)
 TN;;Tswana
@@ -175,11 +174,11 @@ UZ;;Úsbekíska
 VE;;Venda
 VI;;Víetnamska
 VO;;Volapük
-CY;;Velska
 WA;;Vallónska
 WO;;Wolof
 XH;;Xhosa
 YI;;Jiddíska
 YO;;Yoruba
 ZA;;Zhuang; Chuang
+ZH;;Kínverska
 ZU;;Zúlú

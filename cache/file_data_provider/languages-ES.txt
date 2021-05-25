@@ -2,11 +2,9 @@ AA;;Afar
 AB;;Abjaziano
 AF;;Afrikaans
 AK;;Akan
-SQ;;Albanés
 AM;;Ámárico
 AR;;Árábe
 AN;;Aragonés
-HY;;Armenio
 AS;;Assamais
 AV;;Avaric
 AE;;Avestan
@@ -14,49 +12,48 @@ AY;;Aymará
 AZ;;Azerbayano
 BA;;Bashkir
 BM;;Bambara
-EU;;Vasco
 BE;;Bieloruso
 BN;;Bengalí
-BH;;Tupi, lenguas
+BH;;Idiomas bihari
 BI;;Bislama
+BO;;Tibetano
 BS;;Bosnio
 BR;;Bretón
 BG;;Búlgaro
-MY;;Birmano
 CA;;Catalán, Valenciano
+CS;;Checo
 CH;;Chamorro
 CE;;Checheno
-ZH;;Chino
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;Chuvash
 KW;;Córnico
 CO;;Corso
 CR;;Cree
-CS;;Checo
+CY;;Galés
 DA;;Danés
-DV;;Divehi; Dhivehi; Maldivian
-NL;;Holandés, Flamenco
+DE;;Alemán
+DV;;Maldivo
 DZ;;Butaní
+EL;;Griego Moderno (>1453)
 EN;;Inglés
 EO;;Esperanto
 ET;;Estonio
+EU;;Vasco
 EE;;Ewe
 FO;;Feroés
+FA;;Persa
 FJ;;Fidji
 FI;;Finés
 FR;;Francés
 FY;;Frisón occidental
 FF;;Fulah
-KA;;Georgiano
-DE;;Alemán
 GD;;Gaélico, escocés gaélico
 GA;;Irlandés
 GL;;Gallego
 GV;;Manx [Gaélico de Manx]
-EL;;Griego Moderno (>1453)
 GN;;Guaraní
-GU;;Gujarati
-HT;;Hawayano (Creole haitiano)
+GU;;guyaratí
+HT;;Haitiano; criollo haitiano
 HA;;Haussa
 HE;;Hebreo
 HZ;;Herero
@@ -64,8 +61,8 @@ HI;;Hindi
 HO;;Hiri Motu
 HR;;Croata
 HU;;Húngaro
+HY;;Armenio
 IG;;Igbo
-IS;;Islandés
 IO;;Ido
 II;;Yi Sinchuán
 IU;;Inuktitut
@@ -73,12 +70,14 @@ IE;;Interlingue
 IA;;Interlingua (Asociación de la Lengua Auxiliar Internacional)
 ID;;Indonesio
 IK;;Inupiak
+IS;;Islandés
 IT;;Italiano
 JV;;Javanés
 JA;;Japonés
-KL;;Kalaallisut; Greenlandic
-KN;;Kannada
+KL;;Groenlandés
+KN;;Canarés
 KS;;Kashmir
+KA;;Georgiano
 KR;;Kanuri
 KK;;Kazako
 KM;;Camboyano (jémer) central
@@ -90,49 +89,49 @@ KG;;Kongo
 KO;;Coreano
 KJ;;Kuanyama
 KU;;Kurdo
-LO;;Laosiano
+LO;;laosiano
 LA;;Latín
 LV;;Letón
-LI;;Limburgan; Limburger; Limburgish
+LI;;Limburgués
 LN;;Lingala
 LT;;Lituano
 LB;;Luxemburgués
 LU;;Luba-Katanga
 LG;;Ganda
-MK;;Macedonio
 MH;;Marshall
-ML;;Malayalamo
-MI;;Maorí
+ML;;malabar
 MR;;Marath
-MS;;Malayo
+MK;;Macedonio
 MG;;Malgache
 MT;;Maltés
-MO;;Moldavo
 MN;;Mongol
-NA;;Naurí
+MI;;Maorí
+MS;;Malayo
+MY;;Birmano
+NA;;Nauru
 NV;;Navajo
 NR;;Ndebele del Sur; Ndebele meridional
 ND;;Ndebele del Norte; Nbdele septentrional
 NG;;Ndonga
 NE;;Nepalés
+NL;;Holandés, Flamenco
 NN;;Noruego Nynorsk; Nynorsk, Noruego
-NB;;Bokmål, Norwegian; Norwegian Bokmål
+NB;;Bokmål, Noruego; Noruego Bokmål
 NO;;Noruego
 NY;;Chewa; Chichewa; Nyanja
-OC;;Occitano (después de 1500); Provencal
+OC;;Occitano (después de 1500); Provenzal
 OJ;;Ojibwa
 OR;;Oriya
 OM;;Oromo (Afan)
-OS;;Ossetico
+OS;;Ossetiano; Ossético
 PA;;Panyabí; Penyabí
-FA;;Persa
 PI;;Pali
 PL;;Polaco
 PT;;Portugués
-PS;;Pashtún
+PS;;Pushto; Pashto
 QU;;Quechua
 RM;;Romaní
-RO;;Rumano
+RO;;Rumano; Moldavo
 RN;;Kiroundi
 RU;;Ruso
 SG;;Sango
@@ -147,20 +146,20 @@ SD;;Sindhi
 SO;;Somalí
 ST;;Sotho del Sur
 ES;;Español; Castellano
+SQ;;Albanés
 SC;;Sardo
 SR;;Serbio
 SS;;Siswati
-SU;;Sundanés
+SU;;Sondanés
 SW;;Swahili
 SV;;Sueco
 TY;;Tahitiano
 TA;;Tamil
 TT;;Tataro
-TE;;Telougou
+TE;;Telugu
 TG;;Tajiko
 TL;;Tagalo
-TH;;Tailandés (thai)
-BO;;Tibetano
+TH;;Tailandés
 TI;;Tigrinya
 TO;;Tonga (Islas Tonga)
 TN;;Setchwana
@@ -175,11 +174,11 @@ UZ;;Uzbeko
 VE;;Venda
 VI;;Vietnamita
 VO;;Volapük
-CY;;Galés
 WA;;valón
 WO;;Wolof
 XH;;Xhosa
 YI;;Yidish
 YO;;Yoruba
 ZA;;Zhuang; Chuang
+ZH;;Chino
 ZU;;Zulu

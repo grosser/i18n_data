@@ -1,84 +1,83 @@
 AA;;Afar
 AB;;Abcázio
-AF;;Africânder
+AF;;Africâner
 AK;;Akan
-SQ;;Albanês
 AM;;Amárico
 AR;;Árabe
 AN;;Aragonês
-HY;;Armênio
 AS;;Assamês
 AV;;Avárico
 AE;;Avéstico
 AY;;Aimará
 AZ;;Azerbaidjano
-BA;;Bashkir
+BA;;Basquir
 BM;;Bambara
-EU;;Basco
 BE;;Bielorusso
 BN;;Bengali
-BH;;Idiomas Tupi
-BI;;Bislama
+BH;;Línguas biaris
+BI;;Bislamá
+BO;;Tibetano
 BS;;Bósnio
 BR;;Bretão
 BG;;Búlgaro
-MY;;Birmanês
 CA;;Catalão; Valenciano
+CS;;Tcheco
 CH;;Chamorro
-CE;;Tchetcheno
-ZH;;Chinês
+CE;;Checheno
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;Tchuvache
-KW;;Cornish
+KW;;Córnico
 CO;;Corso
 CR;;Cree
-CS;;Tcheco
+CY;;Galês
 DA;;Dinamarquês
+DE;;Alemão
 DV;;Divehi; Maldívio
-NL;;Holandês; Flamengo
 DZ;;Butanês
+EL;;Grego, Moderno (1453-)
 EN;;Inglês
 EO;;Esperanto
 ET;;Estoniano
+EU;;Basco
 EE;;Jeje
-FO;;Faróico
+FO;;Faroês
+FA;;Persa
 FJ;;Fidjiano
 FI;;Finlandês
 FR;;Francês
 FY;;Frísio ocidental
-FF;;Fulah
-KA;;Georgiano
-DE;;Alemão
+FF;;Fula
 GD;;Escocês
 GA;;Irlandês
 GL;;Galego
-GV;;Manês
-EL;;Grego Moderno (1453-)
+GV;;Manx
 GN;;Guarani
-GU;;Guzerate
+GU;;gujerati
 HT;;Haitiano; Crioulo haitiano
 HA;;Hauçá
 HE;;Hebraico
 HZ;;Hereró
-HI;;Hindi
+HI;;Híndi
 HO;;Hiri Motu
 HR;;Croata
 HU;;Húngaro
+HY;;Armênio
 IG;;Ibo
-IS;;Islandês
 IO;;Ido
-II;;Sichuan Yi; Nuosu
+II;;Yi de Sichuan; Nuosu
 IU;;Inuktitut
 IE;;Ocidental
 IA;;Interlíngua
 ID;;Indonésio
 IK;;Inupiaque
+IS;;Islandês
 IT;;Italiano
 JV;;Javanês
 JA;;Japonês
 KL;;Groenlandês
-KN;;Kannada
+KN;;Canarês
 KS;;Caxemira
+KA;;Georgiano
 KR;;Canúri
 KK;;Cazaque
 KM;;Khmer Central
@@ -99,40 +98,40 @@ LT;;Lituano
 LB;;Luxemburguês
 LU;;Baluba
 LG;;Nganda
-MK;;Macedônio
-MH;;Marshallino
+MH;;Marshalês
 ML;;Malaiala
-MI;;Maori
 MR;;Marati
-MS;;Malaio
+MK;;Macedônio
 MG;;Malgaxe
 MT;;Maltês
-MO;;Moldávio
 MN;;Mongol
-NA;;Naurano
+MI;;Maori
+MS;;Malaio
+MY;;Birmanês
+NA;;Nauru
 NV;;Navarro
 NR;;Ndebele do Sul
 ND;;Ndebele do Norte
 NG;;Ovampo
 NE;;Nepali
+NL;;Holandês; Flamengo
 NN;;Norueguês Nynorsk
-NB;;Bokmål, Norwegian; Norwegian Bokmål
+NB;;Norwegian Bokmål
 NO;;Norueguês
 NY;;Cinianja
-OC;;Provençal
+OC;;Occitâno (pós-1500); Provençal
 OJ;;Obíjua
 OR;;Oriá
 OM;;Oromo
 OS;;Osseta
 PA;;Panjabi
-FA;;Persa
 PI;;Páli
 PL;;Polonês
 PT;;Português
 PS;;Pachto
 QU;;Quíchua
 RM;;Romanche
-RO;;Romeno
+RO;;Romeno; Moldávio; Moldavo
 RN;;Kirundi
 RU;;Russo
 SG;;Sango
@@ -140,13 +139,14 @@ SA;;Sânscrito
 SI;;Cingalês
 SK;;Eslovaco
 SL;;Esloveno
-SE;;Lapão do Norte
+SE;;Sami do norte
 SM;;Samoano
 SN;;Xona
 SD;;Síndi
 SO;;Somali
 ST;;Sesoto do Sul
 ES;;Espanhol; Castelhano
+SQ;;Albanês
 SC;;Sardo
 SR;;Sérvio
 SS;;Swati
@@ -160,10 +160,9 @@ TE;;Télugo
 TG;;Tadjique
 TL;;Tagalo
 TH;;Tailandês
-BO;;Tibetano
 TI;;Tigrínia
 TO;;Tonga
-TN;;Tswana
+TN;;Tsuana
 TS;;Tsonga
 TK;;Turcomeno
 TR;;Turco
@@ -175,11 +174,11 @@ UZ;;Uzbeque
 VE;;Venda
 VI;;Vietnamita
 VO;;Volapuque
-CY;;Galês
 WA;;Valão
 WO;;Uólofe
 XH;;Xhosa
 YI;;Iídiche
 YO;;Ioruba
 ZA;;Zhuang; Chuang
+ZH;;Chinês
 ZU;;Zulu

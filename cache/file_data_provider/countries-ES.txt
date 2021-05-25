@@ -1,249 +1,249 @@
+AW;;Aruba
 AF;;Afganistán
-AX;;Islas Äland
-AL;;Albania
-DZ;;Algeria
-AS;;Samoa Americana
-AD;;Andorra
 AO;;Angola
 AI;;Anguila
-AQ;;Antártida
-AG;;Antigua y Barbuda
+AX;;Islas Äland
+AL;;Albania
+AD;;Andorra
+AE;;Emiratos Árabes Unidos
 AR;;Argentina
 AM;;Armenia
-AW;;Aruba
+AS;;Samoa Estadounidense
+AQ;;Antártida
+TF;;Territorios Franceses del Sur
+AG;;Antigua y Barbuda
 AU;;Australia
 AT;;Austria
-AZ;;Azerbayán
-BS;;Bahamas
-BH;;Bahrein
-BD;;Bangladesh
-BB;;Barbados
-BY;;Bielorrusia
-BE;;Bélgica
-BZ;;Belice
-BJ;;Benín
-BM;;Islas Bermudas
-BT;;Bhután
-BO;;Bolivia, Estado plurinacional de
-BQ;;Islas BES (Caribe Neerlandés)
-BA;;Bosnia y Herzegovina
-BW;;Botsuana
-BV;;Isla Bouvet
-BR;;Brasil
-IO;;Británico del Océano Índico, Territorio
-BN;;Brunei Darussalam
-BG;;Bulgaria
-BF;;Burquina Faso
+AZ;;Azerbaiyán
 BI;;Burundi
-KH;;Camboya
-CM;;Camerún
+BE;;Bélgica
+BJ;;Benín
+BQ;;Islas BES (Caribe Neerlandés)
+BF;;Burquina Faso
+BD;;Bangladés
+BG;;Bulgaria
+BH;;Baréin
+BS;;Bahamas
+BA;;Bosnia y Herzegovina
+BL;;San Bartolomé
+BY;;Bielorrusia
+BZ;;Belice
+BM;;Islas Bermudas
+BO;;Bolivia
+BR;;Brasil
+BB;;Barbados
+BN;;Brunei Darussalam
+BT;;Bután
+BV;;Isla Bouvet
+BW;;Botsuana
+CF;;República Centroafricana
 CA;;Canadá
-CV;;Cabo Verde
-KY;;Islas Caimán
-CF;;República Centro-africana
-TD;;Chad
+CC;;Islas Cocos (Keeling)
+CH;;Suiza
 CL;;Chile
 CN;;China
-CX;;Isla de Navidad
-CC;;Islas Cocos (Keeling)
+CI;;Costa de Marfíl
+CM;;Camerún
+CD;;Congo, República Democrática del
+CG;;Congo
+CK;;Islas Cook
 CO;;Colombia
 KM;;Comores, Islas
-CG;;Congo
-CD;;Congo, República Democrática del
-CK;;Islas Cook
+CV;;Cabo Verde
 CR;;Costa Rica
-CI;;Costa de Marfíl
-HR;;Croacia
 CU;;Cuba
-CW;;Curasao
+CW;;Curazao
+CX;;Isla de Navidad
+KY;;Islas Caimán
 CY;;Chipre
-CZ;;República Checa
-DK;;Dinamarca
+CZ;;Chequia
+DE;;Alemania
 DJ;;Yibuti
 DM;;Dominica
+DK;;Dinamarca
 DO;;República Dominicana
+DZ;;Algeria
 EC;;Ecuador
 EG;;Egipto
-SV;;El Salvador
-GQ;;Guinea Ecuatorial
 ER;;Eritrea
+EH;;Sahara Occidental
+ES;;España
 EE;;Estonia
 ET;;Etiopía
-FK;;Islas Falkland (Malvinas)
-FO;;Islas Feroe
-FJ;;Fiyi
 FI;;Finlandia
+FJ;;Fiyi
+FK;;Islas Falkland (Malvinas)
 FR;;Francia
-GF;;Guayana Francesa
-PF;;Polinesia Francesa
-TF;;Territorios Franceses del Sur
+FO;;Islas Feroe
+FM;;Micronesia, Estados Federados de
 GA;;Gabón
-GM;;Gambia
+GB;;Reino Unido
 GE;;Georgia
-DE;;Alemania
+GG;;Guernsey
 GH;;Ghana
 GI;;Gibraltar
-GR;;Grecia
-GL;;Groenlandia
-GD;;Granada
-GP;;Guadalupe
-GU;;Guam
-GT;;Guatemala
-GG;;Guernsey
 GN;;Guinea
-GW;;Guinea-Bissau
+GP;;Guadalupe
+GM;;Gambia
+GW;;Guinea-Bisáu
+GQ;;Guinea Ecuatorial
+GR;;Grecia
+GD;;Granada
+GL;;Groenlandia
+GT;;Guatemala
+GF;;Guayana Francesa
+GU;;Guam
 GY;;Guyana
-HT;;Haití
-HM;;Islas Heard e Islas McDonald
-VA;;Santa Sede (Ciudad Estado del Vaticano)
-HN;;Honduras
 HK;;Hong Kong
+HM;;Islas Heard y McDonald
+HN;;Honduras
+HR;;Croacia
+HT;;Haití
 HU;;Hungría
-IS;;Islandia
-IN;;India
 ID;;Indonesia
+IM;;Isla de Man
+IN;;India
+IO;;Territorio Británico del Océano Índico
+IE;;Irlanda
 IR;;Irán, República islámica de
 IQ;;Irak
-IE;;Irlanda
-IM;;Isla de Man
+IS;;Islandia
 IL;;Israel
 IT;;Italia
 JM;;Jamaica
-JP;;Japón
 JE;;Jersey
 JO;;Jordania
+JP;;Japón
 KZ;;Kazajistán
 KE;;Kenia
+KG;;Kirguistán
+KH;;Camboya
 KI;;Kiribati
-KP;;Corea, República Democrática Popular de
+KN;;San Cristóbal y Nieves
 KR;;Corea, República de
 KW;;Kuwait
-KG;;Kirgizstán
 LA;;República Democrática Popular de Lao
-LV;;Letonia
 LB;;Líbano
-LS;;Lesoto
 LR;;Liberia
 LY;;Libia
+LC;;Santa Lucía
 LI;;Liechtenstein
+LK;;Sri Lanka
+LS;;Lesoto
 LT;;Lituania
 LU;;Luxemburgo
+LV;;Letonia
 MO;;Macao
-MK;;Macedonia, República de
+MF;;San Martín (zona francesa)
+MA;;Marruecos
+MC;;Mónaco
+MD;;Moldavia
 MG;;Madagascar
-MW;;Malawi
-MY;;Malasia
 MV;;Islas Maldivas
+MX;;México
+MH;;Islas Marshall
+MK;;Macedonia del Norte
 ML;;Mali
 MT;;Malta
-MH;;Islas Marshall
-MQ;;Martinica
-MR;;Mauritania
-MU;;Mauricio
-YT;;Mayotte
-MX;;México
-FM;;Micronesia, Estados Federados de
-MD;;Moldavia, República de
-MC;;Mónaco
-MN;;Mongolia
-ME;;Montenegro
-MS;;Montserrat
-MA;;Marruecos
-MZ;;Mozambique
 MM;;Birmania
-NA;;Namibia
-NR;;Nauru
-NP;;Nepal
-NL;;Países Bajos
-NC;;Nueva Caledonia
-NZ;;Nueva Zelanda
-NI;;Nicaragua
-NE;;Niger
-NG;;Nigeria
-NU;;Niue
-NF;;Isla Norfolk
+ME;;Montenegro
+MN;;Mongolia
 MP;;Islas Marianas del Norte
+MZ;;Mozambique
+MR;;Mauritania
+MS;;Montserrat
+MQ;;Martinica
+MU;;Mauricio
+MW;;Malaui
+MY;;Malasia
+YT;;Mayotte
+NA;;Namibia
+NC;;Nueva Caledonia
+NE;;Niger
+NF;;Isla Norfolk
+NG;;Nigeria
+NI;;Nicaragua
+NU;;Niue
+NL;;Países Bajos
 NO;;Noruega
+NP;;Nepal
+NR;;Nauru
+NZ;;Nueva Zelanda
 OM;;Omán
 PK;;Pakistán
-PW;;Palau
-PS;;Palestina, Estado de
 PA;;Panamá
-PG;;Papúa Nueva Guinea
-PY;;Paraguay
+PN;;Pitcairn
 PE;;Perú
 PH;;Filipinas
-PN;;Pitcairn
+PW;;Palaos
+PG;;Papúa Nueva Guinea
 PL;;Polonia
-PT;;Portugal
 PR;;Puerto Rico
-QA;;Qatar
+KP;;Corea, República Democrática Popular de
+PT;;Portugal
+PY;;Paraguay
+PS;;Palestina, Estado de
+PF;;Polinesia Francesa
+QA;;Catar
 RE;;Reunión
 RO;;Rumanía
 RU;;Federación Rusa
 RW;;Ruanda
-BL;;San Bartolomé
-SH;;Santa Elena, Ascensión y Tristán de Acuña
-KN;;San Cristobo y Nevis
-LC;;Santa Lucía
-MF;;San Martín (zona francesa)
-PM;;San Pedro y Miquelon
-VC;;San Vicente y las Granadinas
-WS;;Samoa
-SM;;San Marino
-ST;;Santo Tomé y Príncipe
 SA;;Arabia Saudí
+SD;;Sudán
 SN;;Senegal
-RS;;Serbia
-SC;;Seychelles
-SL;;Sierra Leona
 SG;;Singapur
-SX;;Isla de San Martín (zona holandsea)
+GS;;Islas Georgias del Sur y Sándwich del Sur
+SH;;Santa Elena, Ascensión y Tristán de Acuña
+SJ;;Svalbard y Jan Mayen
+SB;;Islas Salomón
+SL;;Sierra Leona
+SV;;El Salvador
+SM;;San Marino
+SO;;Somalia
+PM;;San Pedro y Miquelon
+RS;;Serbia
+SS;;Sudán del Sur
+ST;;Santo Tomé y Príncipe
+SR;;Surinám
 SK;;Eslovaquia
 SI;;Eslovenia
-SB;;Islas Salomón
-SO;;Somalia
-ZA;;Suráfrica
-GS;;Georgia del Sur e Islas Sandwitch del Sur
-ES;;España
-LK;;Sri Lanka
-SD;;Sudán
-SR;;Surinám
-SS;;Sudán del Sur
-SJ;;Svalbard y Jan Mayen
-SZ;;Swazilandia
 SE;;Suecia
-CH;;Suiza
+SZ;;Suazilandia
+SX;;Isla de San Martín (zona holandsea)
+SC;;Seychelles
 SY;;República árabe de Siria
-TW;;Taiwán
-TJ;;Tadjikistán
-TZ;;Tanzania, República unida de
-TH;;Tailandia
-TL;;Timor Oriental
+TC;;Islas Turcas y Caicos
+TD;;Chad
 TG;;Togo
+TH;;Tailandia
+TJ;;Tayikistán
 TK;;Tokelau
+TM;;Turkmenistán
+TL;;Timor Oriental
 TO;;Tonga
 TT;;Trinidad y Tobago
 TN;;Tunez
 TR;;Turquía
-TM;;Turkmenistán
-TC;;Turks y Caicos, Islas
 TV;;Tuvalu
+TW;;Taiwán
+TZ;;Tanzania
 UG;;Uganda
 UA;;Ucrania
-AE;;Emiratos Árabes Unidos
-GB;;Reino Unido
-US;;Estados Unidos
-UM;;Islas menores exteriores de Estados Unidos
+UM;;Islas Ultramarinas Menores de Estados Unidos
 UY;;Uruguay
+US;;Estados Unidos
 UZ;;Uzbekistán
-VU;;Vanuatu
-VE;;Venezuela, República Bolivariana de
-VN;;Vietnam
+VA;;Santa Sede (Ciudad Estado del Vaticano)
+VC;;San Vicente y las Granadinas
+VE;;Venezuela
 VG;;Islas Vírgenes, Británicas
 VI;;Islas Vírgenes, de EEUU
+VN;;Vietnam
+VU;;Vanuatu
 WF;;Wallis y Futuna
-EH;;Sahara Occidental
+WS;;Samoa
 YE;;Yemen
+ZA;;Sudáfrica
 ZM;;Zambia
 ZW;;Zimbabue

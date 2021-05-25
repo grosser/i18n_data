@@ -1,71 +1,68 @@
-AA;;Afar
-AB;;אזרביג'נית
-AF;;אפריקנס
+AA;;עפרית
+AB;;אבחזית
+AF;;אפריקאנס
 AK;;אזרביג'נית
-SQ;;אזרביג'נית
-AM;;ערבית
+AM;;אמהרית
 AR;;ערבית
-AN;;Aragonese
-HY;;רומנית
+AN;;אראגונית
 AS;;Assamese
 AV;;ערבית
-AE;;Avestan
+AE;;אווסטית
 AY;;Aymara
-AZ;;אזרביג'נית
-BA;;Bashkir
-BM;;Bambara
-EU;;בסקית
-BE;;בולגרית
-BN;;Bengali
+AZ;;אזרית
+BA;;בשקירית
+BM;;במברה
+BE;;בלארוסית
+BN;;בנגלית
 BH;;קוריאנית
 BI;;Bislama
+BO;;Tibetan
 BS;;רומנית
 BR;;ברטונית
 BG;;בולגרית
-MY;;Burmese
 CA;;Catalan; Valencian
+CS;;צ'כית
 CH;;Chamorro
 CE;;צ'כית
-ZH;;סינית
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;Chuvash
 KW;;אירית
 CO;;בוסנית
 CR;;יוונית
-CS;;צ'כית
+CY;;וולשית
 DA;;דנית
+DE;;גרמנית
 DV;;Divehi; Dhivehi; Maldivian
-NL;;Dutch; Flemish
 DZ;;Dzongkha
+EL;;Greek, Modern (1453-)
 EN;;אנגלית (בריטניה)
 EO;;אספרנטו
 ET;;אסטונית
+EU;;בסקית
 EE;;Ewe
 FO;;Faroese
+FA;;סרבית
 FJ;;Fijian
 FI;;פינית
 FR;;צרפתית
-FY;;אוקראינית
+FY;;פריזית מערבית
 FF;;Fulah
-KA;;גרמנית
-DE;;גרמנית
 GD;;Gaelic; Scottish Gaelic
 GA;;אירית
-GL;;גליציאנית
+GL;;גליסית
 GV;;Manx
-EL;;Greek, Modern (1453-)
-GN;;בולגרית
+GN;;גוארני
 GU;;Gujarati
 HT;;Haitian; Haitian Creole
 HA;;Hausa
 HE;;עברית
 HZ;;עברית
 HI;;Hindi
-HO;;טורקית
+HO;;הירי מוטו
 HR;;קרואטית
 HU;;הונגרית
+HY;;ארמנית
 IG;;Igbo
-IS;;איסלנדית
 IO;;Ido
 II;;ליטאית
 IU;;Inuktitut
@@ -73,12 +70,14 @@ IE;;Interlingue; Occidental
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;אינדונזית
 IK;;Inupiaq
+IS;;איסלנדית
 IT;;איטלקית
-JV;;יפנית
+JV;;ג׳אווה
 JA;;יפנית
 KL;;Kalaallisut; Greenlandic
 KN;;Kannada
 KS;;Kashmiri
+KA;;גאורגית
 KR;;כורדית
 KK;;Kazakh
 KM;;Central Khmer
@@ -91,7 +90,7 @@ KO;;קוריאנית
 KJ;;Kuanyama; Kwanyama
 KU;;כורדית
 LO;;Lao
-LA;;לטבית
+LA;;לטינית
 LV;;לטבית
 LI;;Limburgan; Limburger; Limburgish
 LN;;Lingala
@@ -99,40 +98,40 @@ LT;;ליטאית
 LB;;Luxembourgish; Letzeburgesch
 LU;;Luba-Katanga
 LG;;Ganda
-MK;;מקדונית
-MH;;מלטזית
+MH;;מרשלית
 ML;;Malayalam
-MI;;מאורית
-MR;;מאורית
-MS;;Malay
+MR;;מראטהית
+MK;;מקדונית
 MG;;Malagasy
 MT;;מלטזית
-MO;;לטבית
-MN;;מקדונית
+MN;;מונגולית
+MI;;מאורית
+MS;;Malay
+MY;;Burmese
 NA;;Nauru
 NV;;Navajo; Navaho
 NR;;Ndebele, South; South Ndebele
 ND;;Ndebele, North; North Ndebele
-NG;;בוסנית
+NG;;נדונגה
 NE;;Nepali
-NN;;נורבגית (Nynorsk)
+NL;;Dutch; Flemish
+NN;;נורווגית חדשה; נינורשק
 NB;;Bokmål, Norwegian; Norwegian Bokmål
-NO;;קוריאנית
+NO;;נורווגית
 NY;;Chichewa; Chewa; Nyanja
-OC;;Occitan (post 1500)
+OC;;Occitan (post 1500); Provençal
 OJ;;Ojibwa
 OR;;Oriya
 OM;;Oromo
 OS;;רוסית
 PA;;Panjabi; Punjabi
-FA;;סרבית
 PI;;פולנית
 PL;;פולנית
-PT;;פורטוגזית
+PT;;פורטוגלית
 PS;;Pushto; Pashto
 QU;;Quechua
 RM;;רומנית
-RO;;רומנית
+RO;;לטבית
 RN;;Rundi
 RU;;רוסית
 SG;;Sango
@@ -147,6 +146,7 @@ SD;;Sindhi
 SO;;Somali
 ST;;Sotho, Southern
 ES;;Spanish; Castilian
+SQ;;אזרביג'נית
 SC;;מקדונית
 SR;;סרבית
 SS;;Swati
@@ -160,7 +160,6 @@ TE;;Telugu
 TG;;תאילנדית
 TL;;Tagalog
 TH;;תאילנדית
-BO;;Tibetan
 TI;;טורקית
 TO;;Tonga (Tonga Islands)
 TN;;Tswana
@@ -168,18 +167,18 @@ TS;;Tsonga
 TK;;Turkmen
 TR;;טורקית
 TW;;Twi
-UG;;Uighur; Uyghur
+UG;;אויגורית
 UK;;אוקראינית
-UR;;Urdu
-UZ;;Uzbek
-VE;;Venda
+UR;;אורדו
+UZ;;אוזבקית
+VE;;ונדה
 VI;;וייטנאמית
-VO;;Volapük
-CY;;וולשית
+VO;;וולאפיק
 WA;;וולונית
-WO;;Wolof
+WO;;וולוף
 XH;;קוזה
-YI;;Yiddish
-YO;;Yoruba
+YI;;יידיש
+YO;;יורובה
 ZA;;Zhuang; Chuang
+ZH;;סינית
 ZU;;זולו

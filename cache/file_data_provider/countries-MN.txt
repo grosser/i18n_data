@@ -1,249 +1,249 @@
+AW;;Аруба
 AF;;Афганстан
-AX;;Соломоны арлууд
-AL;;Албани
-DZ;;Алжир
-AS;;Америкын самао
-AD;;Андорра
 AO;;Ангол
 AI;;Anguilla
-AQ;;Антрактид
-AG;;Antigua and Barbuda
+AX;;Соломоны арлууд
+AL;;Албани
+AD;;Андорра
+AE;;Арабын нэгдсэн имерат
 AR;;Аргентин
 AM;;Армен
-AW;;Aruba
+AS;;Америкын самао
+AQ;;Антрактид
+TF;;French Southern Territories
+AG;;Antigua and Barbuda
 AU;;Австрали
 AT;;Австри
 AZ;;Азербайжан
-BS;;Bahamas
-BH;;Bahrain
-BD;;Бангладеш
-BB;;Барбадос
-BY;;Белорусс
+BI;;Бурунди
 BE;;Белги
-BZ;;Belize
-BJ;;Benin
-BM;;Bermuda
-BT;;Бутан
-BO;;Bolivia, Plurinational State of
+BJ;;Бенин
 BQ;;Bonaire, Sint Eustatius and Saba
-BA;;Босний ба Нерцеговин
-BW;;Botswana
-BV;;Bouvet Island
-BR;;Бразил
-IO;;Британий энэтхэгийн далайн нутаг  
-BN;;Брунейн вант улс
+BF;;Буркина Фасо
+BD;;Бангладеш
 BG;;Болгар
-BF;;Burkina Faso
-BI;;Burundi
-KH;;Cambodia
-CM;;Камерун
-CA;;Канад
-CV;;Cape Verde
-KY;;Cayman Islands
+BH;;Бахрейн
+BS;;Bahamas
+BA;;Босний ба Нерцеговин
+BL;;Saint Barthélemy
+BY;;Белорусс
+BZ;;Белиз
+BM;;Bermuda
+BO;;Боливи
+BR;;Бразил
+BB;;Барбадос
+BN;;Брунейн вант улс
+BT;;Бутан
+BV;;Буве арал
+BW;;Ботсвана
 CF;;Төв африкын ард улс
-TD;;Чад
+CA;;Канад
+CC;;Кокос (Кийлинг) Арлууд
+CH;;Швецарь
 CL;;Чили
 CN;;Хятад
-CX;;Кристмас исланд
-CC;;Cocos (Keeling) Islands
+CI;;Côte d'Ivoire
+CM;;Камерун
+CD;;Ардчилсан Конго ард улс
+CG;;Конго
+CK;;Cook Islands
 CO;;Колумб
 KM;;Comoros
-CG;;Конго
-CD;;Ардчилсан Конго ард улс
-CK;;Cook Islands
+CV;;Cabo Verde
 CR;;Коста рика
-CI;;Côte d'Ivoire
-HR;;Croatia
 CU;;Куба
 CW;;Curaçao
-CY;;Cyprus
-CZ;;Чех ард улс
-DK;;Дани
+CX;;Кристмас исланд
+KY;;Cayman Islands
+CY;;Кипр
+CZ;;Czechia
+DE;;Герман
 DJ;;Djibouti
 DM;;Доминик
+DK;;Дани
 DO;;Доминик ард улс
+DZ;;Алжир
 EC;;Эквадор
 EG;;Египт
-SV;;Эл салвадор
-GQ;;Equatorial Guinea
-ER;;Eritrea
+ER;;Эритрей
+EH;;Баруун сахар
+ES;;Испани
 EE;;Эстони
 ET;;Этопи
-FK;;Falkland Islands (Malvinas)
-FO;;Faroe Islands
-FJ;;Fiji
 FI;;Финнлянд
+FJ;;Фижи
+FK;;Falkland Islands (Malvinas)
 FR;;Франц
-GF;;Франц гана
-PF;;French Polynesia
-TF;;French Southern Territories
+FO;;Фарерын арлууд
+FM;;Micronesia, Federated States of
 GA;;Габон
-GM;;Гамби
+GB;;Нэгдсэн Вант Улс
 GE;;Георги
-DE;;Герман
+GG;;Герман
 GH;;Гана
 GI;;Гибралтар
-GR;;Грек
-GL;;Греенланд
-GD;;Гренда
+GN;;Гвиней
 GP;;Guadeloupe
-GU;;Guam
-GT;;Guatemala
-GG;;Герман
-GN;;Guinea
+GM;;Гамби
 GW;;Guinea-Bissau
-GY;;Guyana
-HT;;Haiti
-HM;;Төв исланд & МКдоналд исланд
-VA;;Holy See (Vatican City State)
-HN;;Гондурас
+GQ;;Equatorial Guinea
+GR;;Грек
+GD;;Гренда
+GL;;Греенланд
+GT;;Гватемал
+GF;;Франц гана
+GU;;Гуам
+GY;;Гайана
 HK;;Хонконг
+HM;;Төв исланд & МКдоналд исланд
+HN;;Гондурас
+HR;;Хорват
+HT;;Гайти
 HU;;Унгар
-IS;;Исланд
-IN;;Энэтхэг
 ID;;Индонез
+IM;;Isle of Man
+IN;;Энэтхэг
+IO;;Британий энэтхэгийн далайн нутаг
+IE;;Ирланд
 IR;;Солонгос ард улс
 IQ;;Ирак
-IE;;Ирланд
-IM;;Isle of Man
+IS;;Исланд
 IL;;Израйл
 IT;;Итали
 JM;;Ямайк
-JP;;Япон
 JE;;Jersey
 JO;;Ёрдан
+JP;;Япон
 KZ;;Казакстан
 KE;;Кениа
-KI;;Kiribati
-KP;;Ардчилсан солонгос улс
+KG;;Киргиз
+KH;;Камбож
+KI;;Кирибати
+KN;;Сент-Китс ба Невис
 KR;;Солонгос ард улс
 KW;;Кувейт
-KG;;Киргиз
 LA;;Ардчилсан Конго ард улс
-LV;;Латви
 LB;;Либони
-LS;;Lesotho
 LR;;Liberia
-LY;;Libya
+LY;;Ливи
+LC;;Saint Lucia
 LI;;Лейхтенштайн
-LT;;Lithuania
+LK;;Шри Ланка
+LS;;Лесото
+LT;;Литва
 LU;;Льюксембург
+LV;;Латви
 MO;;Макао
-MK;;Солонгос ард улс
+MF;;Saint Martin (French part)
+MA;;Морокко
+MC;;Монако
+MD;;Молдав
 MG;;Мадагаскар
-MW;;Малави
-MY;;Малайз
 MV;;Малдивс
+MX;;Мексик
+MH;;Маршаллын арлууд
+MK;;Шинэ калдени
 ML;;Мали
 MT;;Малта
-MH;;Маршаллын арлууд
-MQ;;Martinique
-MR;;Mauritania
-MU;;Mauritius
-YT;;Mayotte
-MX;;Мексик
-FM;;Micronesia, Federated States of
-MD;;Солонгос ард улс
-MC;;Монако
-MN;;Монгол
-ME;;Montenegro
-MS;;Montserrat
-MA;;Морокко
-MZ;;Мозамбайк
 MM;;Мянмар
-NA;;Намиб
-NR;;Nauru
-NP;;Нипал
-NL;;Нидерланд
-NC;;Шинэ калдени
-NZ;;Шинэ зеланд
-NI;;Никрагуа
-NE;;Нигер
-NG;;Нигерь
-NU;;Niue
-NF;;Norfolk Island
+ME;;Montenegro
+MN;;Монгол
 MP;;Хойд марианы арлууд
+MZ;;Мозамбайк
+MR;;Мавритан
+MS;;Montserrat
+MQ;;Martinique
+MU;;Mauritius
+MW;;Малави
+MY;;Малайз
+YT;;Майотте
+NA;;Намиб
+NC;;Шинэ калдени
+NE;;Нигер
+NF;;Норфолк Арал
+NG;;Нигерь
+NI;;Никрагуа
+NU;;Niue
+NL;;Нидерланд
 NO;;Норвеги
+NP;;Нипал
+NR;;Науру
+NZ;;Шинэ зеланд
 OM;;Оман
 PK;;Пакистан
-PW;;Палау
-PS;;Palestine, State of
 PA;;Панама
-PG;;Papua New Guinea
-PY;;Прагвай
+PN;;Pitcairn
 PE;;Перу
 PH;;Флиппен
-PN;;Pitcairn
+PW;;Палау
+PG;;Папуа Шинэ Гвиней
 PL;;Польш
-PT;;Португаль
 PR;;Пуерто рико
-QA;;Qatar
-RE;;Réunion
+KP;;Ардчилсан солонгос улс
+PT;;Португаль
+PY;;Прагвай
+PS;;Palestine, State of
+PF;;French Polynesia
+QA;;Катар
+RE;;Реюньон
 RO;;Румын
 RU;;Оросын холбооны улс
-RW;;Rwanda
-BL;;Saint Barthélemy
-SH;;Saint Helena, Ascension and Tristan da Cunha
-KN;;Saint Kitts and Nevis
-LC;;Saint Lucia
-MF;;Saint Martin (French part)
-PM;;Saint Pierre and Miquelon
-VC;;Saint Vincent and the Grenadines
-WS;;Самоа
-SM;;Сан марино
-ST;;Sao Tome and Principe
+RW;;Руанда
 SA;;Саудын араб
+SD;;Судан
 SN;;Сингали
-RS;;Сири
-SC;;Seychelles
-SL;;Sierra Leone
 SG;;Сингафур
-SX;;Sint Maarten (Dutch part)
+GS;;Өмнөд георги ба өмнөд завсрын арлууд
+SH;;Saint Helena, Ascension and Tristan da Cunha
+SJ;;Svalbard and Jan Mayen
+SB;;Соломоны арлууд
+SL;;Сьерра-Леоне
+SV;;Эл салвадор
+SM;;Сан марино
+SO;;Сомали
+PM;;Сен-Пьер ба Микелон
+RS;;Сири
+SS;;Өмнөд африк
+ST;;Sao Tome and Principe
+SR;;Суринам
 SK;;Словак
 SI;;Словени
-SB;;Соломоны арлууд
-SO;;Сомали
-ZA;;Өмнөд африк
-GS;;Өмнөд георги ба өмнөд завсрын арлууд
-ES;;Испани
-LK;;Sri Lanka
-SD;;Судан
-SR;;Suriname
-SS;;Өмнөд африк
-SJ;;Svalbard and Jan Mayen
-SZ;;Швецарь
 SE;;Швед
-CH;;Швецарь
+SZ;;Eswatini
+SX;;Sint Maarten (Dutch part)
+SC;;Seychelles
 SY;;Төв африкын ард улс
-TW;;Тайван
-TJ;;Тажикстан
-TZ;;Солонгос ард улс
-TH;;Тайланд
-TL;;Timor-Leste
+TC;;Turks and Caicos Islands
+TD;;Чад
 TG;;Того
+TH;;Тайланд
+TJ;;Тажикстан
 TK;;Tokelau
+TM;;Туркменстан
+TL;;Timor-Leste
 TO;;Тонга
-TT;;Trinidad and Tobago
+TT;;Тринидад ба Тобаго
 TN;;Тунгус
 TR;;Турк
-TM;;Туркменстан
-TC;;Turks and Caicos Islands
 TV;;Тували
+TW;;Тайван
+TZ;;Танзани
 UG;;Уганда
 UA;;Украйн
-AE;;Арабын нэгдсэн имерат
-GB;;United Kingdom
-US;;Америкын нэгдсэн улс
 UM;;United States Minor Outlying Islands
 UY;;Уругвай
+US;;Америкын нэгдсэн улс
 UZ;;узбекстан
-VU;;Vanuatu
-VE;;Солонгос ард улс
-VN;;Виетьнам
+VA;;Holy See (Vatican City State)
+VC;;Saint Vincent and the Grenadines
+VE;;Винессуэл
 VG;;Виржиний британи арлууд
 VI;;Виржиний АНУ арлууд
+VN;;Виетьнам
+VU;;Вануату
 WF;;Wallis and Futuna
-EH;;Баруун сахар
+WS;;Самоа
 YE;;Иемэн
+ZA;;Өмнөд африк
 ZM;;Замби
 ZW;;Замбибаби

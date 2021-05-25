@@ -2,11 +2,9 @@ AA;;afar
 AB;;abkhasisk
 AF;;afrikaans
 AK;;akan
-SQ;;albansk
 AM;;amharisk
 AR;;arabisk
 AN;;aragonisk
-HY;;armensk
 AS;;assamesisk
 AV;;avarisk
 AE;;avestisk
@@ -14,46 +12,45 @@ AY;;aymará
 AZ;;azerbaijansk
 BA;;bajkirsk
 BM;;bambara
-EU;;baskisk
 BE;;hviderussisk
 BN;;bengali
 BH;;bihariske sprog
 BI;;bislama
+BO;;tibetansk
 BS;;bosnisk
 BR;;bretonsk
 BG;;bulgarsk
-MY;;murmesisk
 CA;;catalansk; valensisk
+CS;;tjekkisk
 CH;;chamorro
 CE;;tjetjensk
-ZH;;kinesisk
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;tjuvaskisk
 KW;;cornisk
 CO;;korsikansk
 CR;;cree
-CS;;tjekkisk
+CY;;walisisk
 DA;;dansk
+DE;;tysk
 DV;;divehi
-NL;;hollandsk; flamsk
 DZ;;dzongkha
+EL;;græsk, moderne (1453-)
 EN;;engelsk
 EO;;esperanto
 ET;;estisk
+EU;;baskisk
 EE;;ewe
 FO;;færøsk
+FA;;persisk
 FJ;;fijisk
 FI;;finsk
 FR;;fransk
 FY;;vestfrisisk
 FF;;fulah
-KA;;georgisk
-DE;;tysk
-GD;;gælisk; Skotsk gælisk; Gælisk (skotsk)
-GA;;irsk; Gælisk (irsk)
+GD;;gælisk; skotsk gælisk; gælisk (skotsk)
+GA;;irsk; gælisk (irsk)
 GL;;galicisk
 GV;;manx
-EL;;græsk, moderne (1453-)
 GN;;guarani
 GU;;gujarati
 HT;;haitisk; haitisk kreolsk
@@ -64,8 +61,8 @@ HI;;hindi
 HO;;hiri Motu
 HR;;kroatisk
 HU;;ungarsk
+HY;;armensk
 IG;;igbo
-IS;;islandsk
 IO;;ido
 II;;sichuan yi; nuosu
 IU;;inuktitut
@@ -73,12 +70,14 @@ IE;;interlingue
 IA;;interlingua
 ID;;indonesisk
 IK;;inupiaq
+IS;;islandsk
 IT;;italiensk
 JV;;javanesisk
 JA;;japansk
 KL;;kalaallisut; grønlandsk
 KN;;kannaresisk
 KS;;kashmirsk
+KA;;georgisk
 KR;;kanuri
 KK;;kasakhisk
 KM;;central khmer
@@ -99,40 +98,40 @@ LT;;litauisk
 LB;;luxembourgsk
 LU;;luba-katanga
 LG;;luganda
-MK;;makedonsk
 MH;;marshall
 ML;;malayalam
-MI;;maori
 MR;;marathi
-MS;;malajisk
+MK;;makedonsk
 MG;;malagasy
 MT;;maltesisk
-MO;;moldavisk
 MN;;mongolsk
+MI;;maori
+MS;;malajisk
+MY;;murmesisk
 NA;;nauru
 NV;;navajo
 NR;;ndebele, syd; sydndebele
 ND;;ndebele, nord; nordndebele
 NG;;ndonga
 NE;;nepalesisk
+NL;;hollandsk; flamsk
 NN;;nynorsk; norsk nynorsk
 NB;;bokmål, norsk; norsk bokmål
 NO;;norsk
 NY;;nyanja; cinyanja
-OC;;occitansk (efter 1500)
+OC;;occitansk (efter 1500); provencalsk
 OJ;;ojibwa
 OR;;orija
 OM;;oromo
 OS;;ossetisk
 PA;;punjabi
-FA;;persisk
 PI;;pali
 PL;;polsk
 PT;;portugisisk
 PS;;pashto; pushto
 QU;;kechua
 RM;;rætoromansk; rhætoromansk
-RO;;rumænsk
+RO;;rumænsk; moldavisk; moldovisk
 RN;;rundi
 RU;;russisk
 SG;;sango
@@ -147,6 +146,7 @@ SD;;sindhi
 SO;;somalisk
 ST;;sotho, syd
 ES;;spansk; kastiliansk
+SQ;;albansk
 SC;;sardinsk
 SR;;serbisk
 SS;;swati
@@ -160,7 +160,6 @@ TE;;telugu
 TG;;tajik
 TL;;tagalog
 TH;;thai
-BO;;tibetansk
 TI;;tigrinja
 TO;;tonga (Tongaøerne)
 TN;;tswana
@@ -175,11 +174,11 @@ UZ;;uzbesisk
 VE;;venda
 VI;;vietnamesisk
 VO;;volapyk
-CY;;walisisk
 WA;;wallonsk
 WO;;wolof
 XH;;xhosa
 YI;;jiddish
 YO;;yoruba
 ZA;;zhuang
+ZH;;kinesisk
 ZU;;zulu

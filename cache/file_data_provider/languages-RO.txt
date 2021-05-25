@@ -2,11 +2,9 @@ AA;;Afară
 AB;;Abhază
 AF;;Afrikaans
 AK;;Akană
-SQ;;Albaneză
 AM;;Amharică
 AR;;Arabă
 AN;;Aragoneză
-HY;;Armeană
 AS;;Asameză
 AV;;Avară
 AE;;Avestană
@@ -14,46 +12,45 @@ AY;;Aimară
 AZ;;Azeră
 BA;;Bașchiră
 BM;;Bambară
-EU;;Bască
 BE;;Bielorusă
 BN;;Bengaleză
 BH;;Limbi Bihari
 BI;;Bislamă
+BO;;Tibetană
 BS;;Bosniacă
 BR;;Bretonă
 BG;;Bulgară
-MY;;Burmeză
 CA;;Catalană; valenciană
+CS;;Cehă
 CH;;Chamorro
 CE;;Cecenă
-ZH;;Chineză
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;Ciuvașă
 KW;;Corneză
 CO;;Corsicană
 CR;;Creenă
-CS;;Cehă
+CY;;Galeză
 DA;;Daneză
+DE;;Germană
 DV;;Divehineză; Dhivehineză; Maldivineză
-NL;;Olandeză; flamandă
 DZ;;Dzongkhană
+EL;;Greacă modernă (din 1453)
 EN;;Engleză
 EO;;Esperanto
 ET;;Estonă
+EU;;Bască
 EE;;Ewe
 FO;;Feroeză
+FA;;Persană
 FJ;;Fijiană
 FI;;Finlandeză
 FR;;Franceză
 FY;;Frizona occidentală
 FF;;Fulah
-KA;;Georgiană
-DE;;Germană
 GD;;Gaelică; gaelică scoțiană
 GA;;Irlandeză
 GL;;Galiciană
 GV;;Manxă
-EL;;Greacă modernă (din 1453)
 GN;;Guarană
 GU;;Gujaratineză
 HT;;Haitiană; creolă haitiană
@@ -64,8 +61,8 @@ HI;;Hindusă
 HO;;Hiri Motuneză
 HR;;Croată
 HU;;Maghiară
+HY;;Armeană
 IG;;Igboneză
-IS;;Islandeză
 IO;;Idoneză
 II;;Sichuan Yi; Nuosuneză
 IU;;Inuktitut
@@ -73,12 +70,14 @@ IE;;Interlingue; Occidentală
 IA;;Interlingua (Asociația limbii auxiliare internaționale)
 ID;;Indoneziană
 IK;;Inupiacă
+IS;;Islandeză
 IT;;Italiană
 JV;;Javaneză
 JA;;Japoneză
 KL;;Kalaallisută; Greenlandeză
 KN;;Kannada
 KS;;Cașmiră
+KA;;Georgiană
 KR;;Kanurineză
 KK;;Cazacă
 KM;;Khmeră centrală
@@ -99,22 +98,23 @@ LT;;Lituaniană
 LB;;Luxemburgheză
 LU;;Luba-Katanganeză
 LG;;Ganda
-MK;;Macedoneană
 MH;;Marșaleză
 ML;;Malayalam
-MI;;Maură
 MR;;Marathi
-MS;;Malaeză
+MK;;Macedoneană
 MG;;Malgașă
 MT;;Malteză
-MO;;Română
 MN;;Mongolă
-NA;;Naură
+MI;;Maură
+MS;;Malaeză
+MY;;Burmeză
+NA;;Nauru
 NV;;Navajo; Navaho
 NR;;Ndebele sudică
 ND;;Ndebele nordică
 NG;;Ndongă
 NE;;Nepaleză
+NL;;Olandeză; flamandă
 NN;;Nynorsk, norvegiană; Norvegiană nynorsk (modernă)
 NB;;Bokmål, norvegiană; Norvegiană bokmål (cărturărească)
 NO;;Norvegiană
@@ -125,7 +125,6 @@ OR;;Oriană
 OM;;Oromă
 OS;;Osețiană
 PA;;Punjabă
-FA;;Persană
 PI;;Pali
 PL;;Poloneză
 PT;;Portugheză
@@ -147,6 +146,7 @@ SD;;Sindi
 SO;;Somaleză
 ST;;Soto sudică
 ES;;Spaniolă; castiliană
+SQ;;Albaneză
 SC;;Sardiniană
 SR;;Sârbă
 SS;;Suată
@@ -160,7 +160,6 @@ TE;;Teluguă
 TG;;Tajikă
 TL;;Tagalogă
 TH;;Thailandeză
-BO;;Tibetană
 TI;;Tigriniană
 TO;;Tonga (Insulele Tonga)
 TN;;Tswană
@@ -175,11 +174,11 @@ UZ;;Uzbecă
 VE;;Vendă
 VI;;Vietnameză
 VO;;Volapük
-CY;;Galeză
 WA;;Walloon
 WO;;Wolofă
 XH;;Xhosă
 YI;;Idiș
 YO;;Iorubă
 ZA;;Chuangoneză
+ZH;;Chineză
 ZU;;Zulu

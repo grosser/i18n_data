@@ -1,249 +1,249 @@
+AW;;Aruba
 AF;;Afganistan
-AX;;Åland Islands
-AL;;Albania
-DZ;;Algeria
-AS;;American Samoa
-AD;;Andorra
 AO;;Angola
 AI;;Anguilla
-AQ;;Antarktis
-AG;;Antigua og Barbuda
+AX;;Åland Islands
+AL;;Albania
+AD;;Andorra
+AE;;Sameindu Emirríkini
 AR;;Argentina
 AM;;Armenia
-AW;;Aruba
+AS;;American Samoa
+AQ;;Antarktis
+TF;;French Southern Territories
+AG;;Antigua og Barbuda
 AU;;Avstralia
 AT;;Eysturríki
 AZ;;Aserbajdsjan
-BS;;Bahamas
-BH;;Bahrain
-BD;;Bangladesj
-BB;;Barbados
-BY;;Hvítarussland
-BE;;Belgia
-BZ;;Belis
-BJ;;Benin
-BM;;Bermuda
-BT;;Butan
-BO;;Bolivia, Plurinational State of
-BQ;;Bonaire, Sint Eustatius and Saba
-BA;;Bosnia-Hersegovina
-BW;;Botsvana
-BV;;Bouvet Island
-BR;;Brasilia
-IO;;British Indian Ocean Territory
-BN;;Brunei Darussalam
-BG;;Bulgaria
-BF;;Burkina Faso
 BI;;Burundi
-KH;;Kambodja
-CM;;Kamerun
-CA;;Kanada
-CV;;Grønhøvdaoyggjarnar
-KY;;Cayman Islands
+BE;;Belgia
+BJ;;Benin
+BQ;;Bonaire, Sint Eustatius and Saba
+BF;;Burkina Faso
+BD;;Bangladesj
+BG;;Bulgaria
+BH;;Bahrain
+BS;;Bahamas
+BA;;Bosnia-Hersegovina
+BL;;Saint Barthélemy
+BY;;Hvítarussland
+BZ;;Belis
+BM;;Bermuda
+BO;;Bolivia
+BR;;Brasilia
+BB;;Barbados
+BN;;Brunei Darussalam
+BT;;Butan
+BV;;Bouvet Island
+BW;;Botsvana
 CF;;Miðafrikalýðveldið
-TD;;Kjad
+CA;;Kanada
+CC;;Cocos (Keeling) Islands
+CH;;Sveis
 CL;;Kili
 CN;;Kina
-CX;;Christmas Island
-CC;;Cocos (Keeling) Islands
+CI;;Côte d'Ivoire
+CM;;Kamerun
+CD;;Congo, The Democratic Republic of the
+CG;;Kongo
+CK;;Cook Islands
 CO;;Kolombia
 KM;;Komorooyggjarnar
-CG;;Kongo
-CD;;Congo, The Democratic Republic of the
-CK;;Cook Islands
+CV;;Grønhøvdaoyggjarnar
 CR;;Kosta Rika
-CI;;Côte d'Ivoire
-HR;;Kroatia
 CU;;Kuba
 CW;;Curaçao
+CX;;Christmas Island
+KY;;Cayman Islands
 CY;;Kýpros
-CZ;;Kekkia
-DK;;Danmørk
+CZ;;Czechia
+DE;;Týskland
 DJ;;Djibouti
 DM;;Dominika
+DK;;Danmørk
 DO;;Domingo lýðveldið
+DZ;;Algeria
 EC;;Ekvador
 EG;;Egyptaland
-SV;;El Salvador
-GQ;;Ekvator Guinea
 ER;;Eritrea
+EH;;Western Sahara
+ES;;Spania
 EE;;Estland
 ET;;Etiopia
-FK;;Falkland Islands (Malvinas)
-FO;;Føroyar
-FJ;;Fiji
 FI;;Finnland
+FJ;;Fiji
+FK;;Falkland Islands (Malvinas)
 FR;;Frakland
-GF;;French Guiana
-PF;;French Polynesia
-TF;;French Southern Territories
+FO;;Føroyar
+FM;;Micronesia, Federated States of
 GA;;Gabon
-GM;;Gambia
+GB;;United Kingdom
 GE;;Georgia
-DE;;Týskland
+GG;;Guernsey
 GH;;Ghana
 GI;;Gibraltar
-GR;;Grikkaland
-GL;;Greenland
-GD;;Grenada
-GP;;Guadeloupe
-GU;;Guam
-GT;;Guatemala
-GG;;Guernsey
 GN;;Guinea
+GP;;Guadeloupe
+GM;;Gambia
 GW;;Guinea Bissau
+GQ;;Ekvator Guinea
+GR;;Grikkaland
+GD;;Grenada
+GL;;Greenland
+GT;;Guatemala
+GF;;French Guiana
+GU;;Guam
 GY;;Gujana
-HT;;Haiti
-HM;;Heard Island and McDonald Islands
-VA;;Holy See (Vatican City State)
-HN;;Honduras
 HK;;Hong Kong
+HM;;Heard Island and McDonald Islands
+HN;;Honduras
+HR;;Kroatia
+HT;;Haiti
 HU;;Ungarn
-IS;;Ísland
-IN;;India
 ID;;Indonesia
+IM;;Isle of Man
+IN;;India
+IO;;British Indian Ocean Territory
+IE;;Írland
 IR;;Iran, Islamic Republic of
 IQ;;Irak
-IE;;Írland
-IM;;Isle of Man
+IS;;Ísland
 IL;;Ísrael
 IT;;Italia
 JM;;Jameika
-JP;;Japan
 JE;;Jersey
 JO;;Jordan
+JP;;Japan
 KZ;;Kasakstan
 KE;;Kenja
+KG;;Kirgisia
+KH;;Kambodja
 KI;;Kiribati
-KP;;Korea, Democratic People's Republic of
+KN;;Saint Kitts og Nevis
 KR;;Korea, Republic of
 KW;;Kuvait
-KG;;Kirgisia
 LA;;Lao People's Democratic Republic
-LV;;Lettland
 LB;;Libanon
-LS;;Lesoto
 LR;;Liberia
 LY;;Libya
+LC;;Saint Lusia
 LI;;Liktenstein
+LK;;Sri Lanka
+LS;;Lesoto
 LT;;Litava
 LU;;Luksemborg
+LV;;Lettland
 MO;;Macao
-MK;;Domingo lýðveldið
+MF;;Saint Martin (French part)
+MA;;Marokko
+MC;;Monako
+MD;;Moldova
 MG;;Madagaskar
-MW;;Malavi
-MY;;Maleisia
 MV;;Maldivuoyggjarnar
+MX;;Meksiko
+MH;;Marshalloyggjarnar
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
-MH;;Marshalloyggjarnar
-MQ;;Martinique
-MR;;Móritania
-MU;;Móritius
-YT;;Mayotte
-MX;;Meksiko
-FM;;Micronesia, Federated States of
-MD;;Domingo lýðveldið
-MC;;Monako
-MN;;Mongolia
-ME;;Montenegro
-MS;;Montserrat
-MA;;Marokko
-MZ;;Mosambik
 MM;;Myanmar
-NA;;Namibia
-NR;;Nauru
-NP;;Nepal
-NL;;Niðurlond
-NC;;New Caledonia
-NZ;;Ný Sæland
-NI;;Nikaragua
-NE;;Niger
-NG;;Nigeria
-NU;;Niue
-NF;;Norfolk Island
+ME;;Montenegro
+MN;;Mongolia
 MP;;Northern Mariana Islands
+MZ;;Mosambik
+MR;;Móritania
+MS;;Montserrat
+MQ;;Martinique
+MU;;Móritius
+MW;;Malavi
+MY;;Maleisia
+YT;;Mayotte
+NA;;Namibia
+NC;;New Caledonia
+NE;;Niger
+NF;;Norfolk Island
+NG;;Nigeria
+NI;;Nikaragua
+NU;;Niue
+NL;;Niðurlond
 NO;;Noreg
+NP;;Nepal
+NR;;Nauru
+NZ;;Ný Sæland
 OM;;Oman
 PK;;Pakistan
-PW;;Palau
-PS;;Palestine, State of
 PA;;Panama
-PG;;Papua Nýguinea
-PY;;Paraguei
+PN;;Pitcairn
 PE;;Perú
 PH;;Filipsoyggjar
-PN;;Pitcairn
+PW;;Palau
+PG;;Papua Nýguinea
 PL;;Pólland
-PT;;Portugal
 PR;;Puerto Rico
+KP;;Korea, Democratic People's Republic of
+PT;;Portugal
+PY;;Paraguei
+PS;;Palestine, State of
+PF;;French Polynesia
 QA;;Katar
 RE;;Réunion
 RO;;Rumenia
 RU;;Russian Federation
 RW;;Ruanda
-BL;;Saint Barthélemy
-SH;;Saint Helena, Ascension and Tristan da Cunha
-KN;;Saint Kitts og Nevis
-LC;;Saint Lusia
-MF;;Saint Martin (French part)
-PM;;Saint Pierre and Miquelon
-VC;;Saint Vinsent og Grenadinoyggjar
-WS;;Sámoa
-SM;;San Marino
-ST;;Sao Tome og Prinsipi
 SA;;Saudi-Arábia
+SD;;Sudan
 SN;;Senegal
-RS;;Aserbajdsjan
-SC;;Seyskelloyggjarnar
-SL;;Sierra Leone
 SG;;Singapor
-SX;;Sint Maarten (Dutch part)
+GS;;South Georgia and the South Sandwich Islands
+SH;;Saint Helena, Ascension and Tristan da Cunha
+SJ;;Svalbard and Jan Mayen
+SB;;Sálomonoyggjarnar
+SL;;Sierra Leone
+SV;;El Salvador
+SM;;San Marino
+SO;;Somalia
+PM;;Saint Pierre and Miquelon
+RS;;Aserbajdsjan
+SS;;Domingo lýðveldið
+ST;;Sao Tome og Prinsipi
+SR;;Surinam
 SK;;Slovakia
 SI;;Slovenia
-SB;;Sálomonoyggjarnar
-SO;;Somalia
-ZA;;Suðurafrika
-GS;;South Georgia and the South Sandwich Islands
-ES;;Spania
-LK;;Sri Lanka
-SD;;Sudan
-SR;;Surinam
-SS;;Domingo lýðveldið
-SJ;;Svalbard and Jan Mayen
-SZ;;Svasiland
 SE;;Svøríki
-CH;;Sveis
+SZ;;Eswatini
+SX;;Sint Maarten (Dutch part)
+SC;;Seyskelloyggjarnar
 SY;;Syrian Arab Republic
-TW;;Teivan
-TJ;;Tadsjikistan
-TZ;;Tanzania, United Republic of
-TH;;Thailand
-TL;;Timor-Leste
+TC;;Turks and Caicos Islands
+TD;;Kjad
 TG;;Togo
+TH;;Thailand
+TJ;;Tadsjikistan
 TK;;Tokelau
+TM;;Turkmenistan
+TL;;Timor-Leste
 TO;;Tonga
 TT;;Trinidad og Tobago
 TN;;Tunesia
 TR;;Turkaland
-TM;;Turkmenistan
-TC;;Turks and Caicos Islands
 TV;;Tuvalu
+TW;;Teivan
+TZ;;Tanzania
 UG;;Uganda
 UA;;Ukreina
-AE;;Sameindu Emirríkini
-GB;;United Kingdom
-US;;Sambandsríki Amerika
 UM;;United States Minor Outlying Islands
 UY;;Uruguei
+US;;Sambandsríki Amerika
 UZ;;Usbekistan
-VU;;Vanuatu
-VE;;Domingo lýðveldið
-VN;;Viet Nam
+VA;;Holy See (Vatican City State)
+VC;;Saint Vinsent og Grenadinoyggjar
+VE;;Venesuela
 VG;;Virgin Islands, British
 VI;;Virgin Islands, U.S.
+VN;;Vietnam
+VU;;Vanuatu
 WF;;Wallis and Futuna
-EH;;Western Sahara
+WS;;Sámoa
 YE;;Jemen
+ZA;;Suðurafrika
 ZM;;Sambia
 ZW;;Simbabvi

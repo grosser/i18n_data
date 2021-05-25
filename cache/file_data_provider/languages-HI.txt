@@ -2,11 +2,9 @@ AA;;अफ़ार
 AB;;अब्खाज़ियन्
 AF;;अफ्रीकी
 AK;;Akan
-SQ;;अल्बेनियन्
 AM;;अम्हारिक्
 AR;;अरबी
 AN;;Aragonese
-HY;;अरमेनियन्
 AS;;असामी
 AV;;Avaric
 AE;;Avestan
@@ -14,46 +12,45 @@ AY;;आयमारा
 AZ;;अज़रबैंजानी
 BA;;बशख़िर
 BM;;Bambara
-EU;;बास्क्
 BE;;बैलोरूशियन्
 BN;;बँगाली
 BH;;कोरीयन्
 BI;;बिस्लामा
+BO;;तिब्बती
 BS;;Bosnian
 BR;;ब्रेटन
 BG;;बल्गेरियन्
-MY;;बर्लिस
 CA;;Catalan; Valencian
+CS;;चेक
 CH;;Chamorro
 CE;;Chechen
-ZH;;चीनी
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;Chuvash
 KW;;Cornish
 CO;;कोर्सीकन
 CR;;Cree
-CS;;चेक
+CY;;वेल्श
 DA;;डैनीश
+DE;;ज़र्मन
 DV;;Divehi; Dhivehi; Maldivian
-NL;;Dutch; Flemish
 DZ;;भुटानी
+EL;;Greek, Modern (1453-)
 EN;;अंग्रेजी
 EO;;एस्पेरान्तो
 ET;;ऐस्तोनियन्
+EU;;बास्क्
 EE;;Ewe
 FO;;फिरोज़ी
+FA;;पर्शियन्
 FJ;;फ़ीजी
 FI;;फिनिश
 FR;;फ्रेंच
 FY;;फ्रीज़न्
 FF;;Fulah
-KA;;जॉर्जीयन्
-DE;;ज़र्मन
 GD;;Gaelic; Scottish Gaelic
 GA;;आईरिश
 GL;;गैलिशियन्
 GV;;Manx
-EL;;Greek, Modern (1453-)
 GN;;गुआरानी
 GU;;गुज़राती
 HT;;Haitian; Haitian Creole
@@ -64,8 +61,8 @@ HI;;हिंदी
 HO;;Hiri Motu
 HR;;क्रोएशन्
 HU;;हंगेरी
+HY;;अरमेनियन्
 IG;;Igbo
-IS;;आईस्लैंडिक्
 IO;;Ido
 II;;Sichuan Yi; Nuosu
 IU;;इनूकीटूत्
@@ -73,12 +70,14 @@ IE;;ईन्टरलिंगुइ
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;इन्डोनेशियन्
 IK;;इनुपियाक्
+IS;;आईस्लैंडिक्
 IT;;ईटालियन्
 JV;;जावानीस
 JA;;जापानी
 KL;;Kalaallisut; Greenlandic
 KN;;कन्नड़
 KS;;काश्मिरी
+KA;;जॉर्जीयन्
 KR;;Kanuri
 KK;;कज़ाख
 KM;;Central Khmer
@@ -99,40 +98,40 @@ LT;;लिथुनियन्
 LB;;Luxembourgish; Letzeburgesch
 LU;;Luba-Katanga
 LG;;Ganda
-MK;;मैसेडोनियन्
 MH;;Marshallese
 ML;;मलयालम
-MI;;मेओरी
 MR;;मराठी
-MS;;मलय
+MK;;मैसेडोनियन्
 MG;;मालागासी
 MT;;मालटिस्
-MO;;मोलडावियन्
 MN;;मोंगोलियन
+MI;;मेओरी
+MS;;मलय
+MY;;बर्लिस
 NA;;नायरू
 NV;;Navajo; Navaho
 NR;;Ndebele, South; South Ndebele
 ND;;Ndebele, North; North Ndebele
 NG;;Ndonga
 NE;;नेपाली
+NL;;Dutch; Flemish
 NN;;Norwegian Nynorsk; Nynorsk, Norwegian
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;नार्वेजीयन्
 NY;;Chichewa; Chewa; Nyanja
-OC;;Occitan (post 1500)
+OC;;Occitan (post 1500); Provençal
 OJ;;Ojibwa
 OR;;उड़िया
 OM;;ओरोमो (अफ़ान)
 OS;;Ossetian; Ossetic
 PA;;Panjabi; Punjabi
-FA;;पर्शियन्
 PI;;Pali
 PL;;पॉलिश
 PT;;पुर्तुगी
 PS;;Pushto; Pashto
 QU;;क्वेशुआ
 RM;;रूमानीयन्
-RO;;रूमानीयन्
+RO;;मोलडावियन्
 RN;;किरून्दी
 RU;;रुसी
 SG;;साँग्रो
@@ -147,6 +146,7 @@ SD;;सिन्धी
 SO;;सोमाली
 ST;;सेसोथो
 ES;;Spanish; Castilian
+SQ;;अल्बेनियन्
 SC;;Sardinian
 SR;;सर्बियन्
 SS;;सीस्वाटि
@@ -160,7 +160,6 @@ TE;;तेलेगु
 TG;;ताजिक्
 TL;;तागालोग
 TH;;थाई
-BO;;तिब्बती
 TI;;तिग्रीन्या
 TO;;टोंगा
 TN;;सेत्स्वाना
@@ -175,11 +174,11 @@ UZ;;उज़बेक्
 VE;;Venda
 VI;;वियेतनामी
 VO;;Volapük
-CY;;वेल्श
 WA;;Walloon
 WO;;वोलोफ
 XH;;षोसा
 YI;;येहुदी
 YO;;योरूबा
 ZA;;Zhuang; Chuang
+ZH;;चीनी
 ZU;;ज़ुलू

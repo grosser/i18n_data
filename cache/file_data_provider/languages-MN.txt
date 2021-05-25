@@ -2,11 +2,9 @@ AA;;Афаар
 AB;;Абкааз
 AF;;Африк
 AK;;Абкааз
-SQ;;Албани
 AM;;Амхарик
 AR;;Араб
 AN;;Фароес
-HY;;Армен
 AS;;Ассамес
 AV;;Амхарик
 AE;;Авестан
@@ -14,46 +12,45 @@ AY;;Аямара
 AZ;;Азербежайн
 BA;;Башкир
 BM;;Аямара
-EU;;Баскүе
 BE;;Цагаан орос
 BN;;Бенгаль
 BH;;Малагас
 BI;;Бислама
+BO;;Төвд
 BS;;Босни
 BR;;Бретон
 BG;;Болгар
-MY;;Бурн
 CA;;Catalan; Valencian
+CS;;Чех
 CH;;Чаморро
 CE;;Чечень
-ZH;;Хятад
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;Чуваш
 KW;;Корни
 CO;;Корсикан
 CR;;Cree
-CS;;Чех
+CY;;Уэльс
 DA;;Дани
+DE;;Герман
 DV;;Divehi; Dhivehi; Maldivian
-NL;;Dutch; Flemish
 DZ;;Жонгка
+EL;;Грек, шинэ (1453-)
 EN;;Англи
 EO;;Аспиранто
 ET;;Эстони
+EU;;Баскүе
 EE;;Ewe
 FO;;Фароес
+FA;;Перс
 FJ;;Фижиан
 FI;;Финнлянд
 FR;;Франц
 FY;;Фрис
 FF;;Fulah
-KA;;Георги
-DE;;Герман
 GD;;Gaelic; Scottish Gaelic
 GA;;Ирланд
 GL;;Галици
 GV;;Манкс
-EL;;Грек, шинэ (1453-)
 GN;;Гуяран
 GU;;Гуярати
 HT;;Haitian; Haitian Creole
@@ -64,8 +61,8 @@ HI;;Хинди
 HO;;Хинди
 HR;;Хорват
 HU;;Унгар
+HY;;Армен
 IG;;Igbo
-IS;;Исланд
 IO;;Идо
 II;;Сиху Юи
 IU;;Инуктитут
@@ -73,12 +70,14 @@ IE;;Интэрлингуэ
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;Индонези
 IK;;Инупиак
+IS;;Исланд
 IT;;Итали
 JV;;Жава
 JA;;Япон
 KL;;Kalaallisut; Greenlandic
 KN;;Канад
 KS;;Кашмири
+KA;;Георги
 KR;;Күрд
 KK;;Казак
 KM;;Central Khmer
@@ -99,22 +98,23 @@ LT;;Литва
 LB;;Льюксембург
 LU;;Luba-Katanga
 LG;;Канад
-MK;;Макидони
 MH;;Маршалл
 ML;;Малаялам
-MI;;Маори
 MR;;Марати
-MS;;Малай
+MK;;Макидони
 MG;;Малагас
 MT;;Малтес
-MO;;Молдав
 MN;;Монгол
+MI;;Маори
+MS;;Малай
+MY;;Бурн
 NA;;Науру
 NV;;Навахо
 NR;;Ndebele, South; South Ndebele
 ND;;Ndebele, North; North Ndebele
 NG;;Ндонга
 NE;;Непал
+NL;;Dutch; Flemish
 NN;;Норвеги (Nynorsk)
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;Норвеги
@@ -125,14 +125,13 @@ OR;;Орияа
 OM;;Оромо
 OS;;Оссетиан
 PA;;Панжаби
-FA;;Перс
 PI;;Пали
 PL;;Польш
 PT;;Португали
 PS;;Пушто
 QU;;Куэчуа
 RM;;Румын
-RO;;Румын
+RO;;Молдав
 RN;;Рунди
 RU;;Орос
 SG;;Санго
@@ -147,6 +146,7 @@ SD;;Синди
 SO;;Самали
 ST;;Сото, Соутерн
 ES;;Spanish; Castilian
+SQ;;Албани
 SC;;Сардиниан
 SR;;Серби
 SS;;Свати
@@ -160,7 +160,6 @@ TE;;Тэлүгү
 TG;;Тажик
 TL;;Тагалог
 TH;;Тай
-BO;;Төвд
 TI;;Тигран
 TO;;Тонга (исландын тонга)
 TN;;Цвана
@@ -175,11 +174,11 @@ UZ;;Үзбек
 VE;;Венда
 VI;;Ветьнам
 VO;;Волапук
-CY;;Уэльс
 WA;;Валлон
 WO;;Волоф
 XH;;Чхоса
 YI;;Юүд
 YO;;Ёруба
 ZA;;Жуанг
+ZH;;Хятад
 ZU;;Зулу

@@ -8,5 +8,5 @@ Gem::Specification.new name, I18nData::VERSION do |s|
   s.homepage = "https://github.com/grosser/#{name}"
   s.files = `git ls-files lib cache `.split("\n")
   s.license = "MIT"
-  s.required_ruby_version = '>= 1.9.3'
+  s.required_ruby_version = '>= 2.5.0'
 end

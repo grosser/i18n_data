@@ -1,249 +1,249 @@
+AW;;Aruba
 AF;;Əfqanıstan
-AX;;Kayman Adaları
-AL;;Albaniya
-DZ;;Əlcəzair
-AS;;Amerikan Samoa
-AD;;Andorra
 AO;;Anqola
 AI;;Anquilla
-AQ;;Antarktika
-AG;;Antiq və Barbuda
+AX;;Aland adaları
+AL;;Albaniya
+AD;;Andorra
+AE;;Birləşmiş Ərəb Əmirlikləri
 AR;;Argentina
 AM;;Ermənistan
-AW;;Aruba
+AS;;Amerikan Samoa
+AQ;;Antarktika
+TF;;Cənubi Fransız Sahələri
+AG;;Antiq və Barbuda
 AU;;Avstraliya
 AT;;Avstriya
 AZ;;Azərbaycan
-BS;;Bahama
-BH;;Bahreyn
-BD;;Banqladeş
-BB;;Barbados
-BY;;Belarusiya
-BE;;Belçika
-BZ;;Beliz
-BJ;;Benin
-BM;;Bermuda
-BT;;Butan
-BO;;Bolivia, Plurinational State of
-BQ;;Bonaire, Sint Eustatius and Saba
-BA;;Bosniya və Herzoqovina
-BW;;Botsvana
-BV;;Buvet Adası
-BR;;Braziliya
-IO;;Britaniya Hind Okeanı Sahəsi
-BN;;Bruney Darüssəlam
-BG;;Bolqarıstan
-BF;;Burkina Faso
 BI;;Burundi
-KH;;Kambodja
-CM;;Kamerun
-CA;;Kanada
-CV;;Keyp Verde
-KY;;Kayman Adaları
+BE;;Belçika
+BJ;;Benin
+BQ;;Bonaire, Sint Eustatius and Saba
+BF;;Burkina Faso
+BD;;Banqladeş
+BG;;Bolqarıstan
+BH;;Bahreyn
+BS;;Bahama
+BA;;Bosniya və Herzoqovina
+BL;;Saint Barthélemy
+BY;;Belarusiya
+BZ;;Beliz
+BM;;Bermuda
+BO;;Boliviya
+BR;;Braziliya
+BB;;Barbados
+BN;;Bruney Darüssəlam
+BT;;Butan
+BV;;Buvet Adası
+BW;;Botsvana
 CF;;Mərkəzi Afrika Respublikası
-TD;;Çad
+CA;;Kanada
+CC;;Kokos Adası
+CH;;İsveçrə
 CL;;Çili
 CN;;Çin
-CX;;Kristmas Adası
-CC;;Kokos Adası
+CI;;Kot Divuar
+CM;;Kamerun
+CD;;Konqo, Demokratik Respublikası
+CG;;Konqo
+CK;;Cook Adaları
 CO;;Kolumbiya
 KM;;Komor
-CG;;Konqo
-CD;;Konqo, Demokratik Respublikası
-CK;;Cook Adaları
+CV;;Keyp Verde
 CR;;Kosta Rika
-CI;;Kot Divuar
-HR;;Xırvatıstan
 CU;;Kuba
-CW;;Curaçao
+CW;;Kürasao
+CX;;Kristmas Adası
+KY;;Kayman Adaları
 CY;;Kipr
-CZ;;Çex Respublikası
-DK;;Danimarka
+CZ;;Çexiya
+DE;;Almaniya
 DJ;;Cibuti
 DM;;Dominik
+DK;;Danimarka
 DO;;Dominikan Respublikası
+DZ;;Əlcəzair
 EC;;Ekvador
 EG;;Misir
-SV;;Elsalvador
-GQ;;Ekvatorial Qvineya
 ER;;Eritre
+EH;;Qərbi Saxara
+ES;;İspaniya
 EE;;Estoniya
 ET;;Efiopiya
-FK;;Fokland Adaları (Malvin)
-FO;;Faro Adaları
-FJ;;Fici
 FI;;Finlandiya
+FJ;;Fici
+FK;;Fokland Adaları (Malvin)
 FR;;Fransa
-GF;;Fransız Gvineyası
-PF;;Fransız Poloneziyası
-TF;;Cənubi Fransız Sahələri
+FO;;Faro Adaları
+FM;;Micronesia, Federated States of
 GA;;Qabon
-GM;;Qambiya
+GB;;Böyük Britaniya
 GE;;Gürcüstan
-DE;;Almaniya
+GG;;Gernsi
 GH;;Qana
 GI;;Gibraltar
-GR;;Yunanıstan
-GL;;Qrinland
-GD;;Qrenada
-GP;;Quadelup
-GU;;Quam
-GT;;Quatemala
-GG;;Guernsey
 GN;;Qvineya
+GP;;Quadelup
+GM;;Qambiya
 GW;;Qvineya Bissau
+GQ;;Ekvatorial Qvineya
+GR;;Yunanıstan
+GD;;Qrenada
+GL;;Qrinland
+GT;;Quatemala
+GF;;Fransız Gvineyası
+GU;;Quam
 GY;;Quyana
-HT;;Haiti
-HM;;Heard Adası və McDonald Adaları
-VA;;Holy See (Vatikan Şəhər Dövləti)
-HN;;Honduras
 HK;;Honq Konq
+HM;;Herd adası və Makdonald adaları
+HN;;Honduras
+HR;;Xırvatıstan
+HT;;Haiti
 HU;;Macarıstan
-IS;;İslandiya
-IN;;Hindistan
 ID;;İndoneziya
-IR;;Koreya, Respublika
-IQ;;İraq
+IM;;Men adası
+IN;;Hindistan
+IO;;Britaniya Hind Okeanı Sahəsi
 IE;;İrlandiya
-IM;;Isle of Man
+IR;;Respublika İran
+IQ;;İraq
+IS;;İslandiya
 IL;;İsrail
 IT;;İtaliya
 JM;;Yamayka
-JP;;Yaponiya
-JE;;Jersey
+JE;;Cersi
 JO;;İordaniya
+JP;;Yaponiya
 KZ;;Qazaxstan
 KE;;Kenya
+KG;;Qırğızıstan
+KH;;Kambodja
 KI;;Kiribati
-KP;;Koreya, Demokratık Xalq Respublikası
+KN;;Sent-Kits və Nevis
 KR;;Koreya, Respublika
 KW;;Küveyt
-KG;;Qırğızıstan
-LA;;Konqo, Demokratik Respublikası
-LV;;Latviya
+LA;;Laos
 LB;;Livan
-LS;;Lesoto
 LR;;Liberiya
-LY;;Liberiya
+LY;;Liviya
+LC;;Sent-Lüsiya
 LI;;Lixtenşteyn
+LK;;Şri Lanka
+LS;;Lesoto
 LT;;Litva
 LU;;Lüksemburq
+LV;;Latviya
 MO;;Makao
-MK;;Koreya, Respublika
+MF;;Sent Martin
+MA;;Mərakeş
+MC;;Monako
+MD;;Moldova
 MG;;Madaqaskar
-MW;;Malavi
-MY;;Malayziya
 MV;;Maldives
+MX;;Meksika
+MH;;Marşal Adaları
+MK;;Yeni Kaledoniya
 ML;;Mali
 MT;;Malta
-MH;;Marşal Adaları
-MQ;;Martiniq
-MR;;Mavritaniya
-MU;;Mauritius
-YT;;Mayot
-MX;;Meksika
-FM;;Micronesia, Federated States of
-MD;;Koreya, Respublika
-MC;;Monako
-MN;;Monqolustan
-ME;;Montserrat
-MS;;Montserrat
-MA;;Mərakeş
-MZ;;Mozambiq
 MM;;Myanmar
-NA;;Namibiya
-NR;;Nauru
-NP;;Nepal
-NL;;Hollandiya
-NC;;Yeni Kaledoniya
-NZ;;Yeni Zellandiya
-NI;;Nikaraqua
-NE;;Niger
-NG;;Nigeriya
-NU;;Niue
-NF;;Norfolk Adaları
+ME;;Çernoqoriya
+MN;;Monqolustan
 MP;;Şimali Marian Adaları
+MZ;;Mozambiq
+MR;;Mavritaniya
+MS;;Montserrat
+MQ;;Martiniq
+MU;;Mauritius
+MW;;Malavi
+MY;;Malayziya
+YT;;Mayot
+NA;;Namibiya
+NC;;Yeni Kaledoniya
+NE;;Niger
+NF;;Norfolk Adaları
+NG;;Nigeriya
+NI;;Nikaraqua
+NU;;Niue
+NL;;Hollandiya
 NO;;Norveç
+NP;;Nepal
+NR;;Nauru
+NZ;;Yeni Zellandiya
 OM;;Oman
 PK;;Pakistan
-PW;;Palau
-PS;;Palestine, State of
 PA;;Panama
-PG;;Papua Yeni Qvineya
-PY;;Paraqvay
+PN;;Pitkairn
 PE;;Peru
 PH;;Filippin
-PN;;Pitkairn
+PW;;Palau
+PG;;Papua Yeni Qvineya
 PL;;Polşa
-PT;;Portuqaliya
 PR;;Porto Riko
+KP;;Koreya, Demokratık Xalq Respublikası
+PT;;Portuqaliya
+PY;;Paraqvay
+PS;;Fələstin Dövləti
+PF;;Fransız Poloneziyası
 QA;;Katar
 RE;;Reyunion
 RO;;Ruminıya
 RU;;Rusiya Federasiyası
 RW;;Rvanda
-BL;;Saint Barthélemy
-SH;;Saint Helena, Ascension and Tristan da Cunha
-KN;;Müqəddəs Kit və Nevis
-LC;;Müqəddəs Lusiya
-MF;;Saint Martin (French part)
-PM;;Müqəddəs Pyer və Migelion
-VC;;Müqəddəs Vinsent və Qrenadin
-WS;;Samoa
-SM;;San Marino
-ST;;Sao Tome və Prinsip
 SA;;Səudiyyə Ərəbistan
+SD;;Sudan
 SN;;Seneqal
-RS;;Siriya
-SC;;Seyşel
-SL;;Siera Lione
 SG;;Sinqapur
-SX;;Sint Maarten (Dutch part)
+GS;;Cənubi Georgiya və Cənubi Sendviç Adaları
+SH;;Müqəddəs Yelena, Askenson və Tristan-da-Kunya adaları
+SJ;;Svalbard və Jan Mayen
+SB;;Solomon Adaları
+SL;;Siera Lione
+SV;;Elsalvador
+SM;;San Marino
+SO;;Somali
+PM;;Sent Pyer və Mikelon
+RS;;Serbiya
+SS;;Cənubi Sudan
+ST;;Sao Tome və Prinsip
+SR;;Surinam
 SK;;Slovakiya
 SI;;Sloveniya
-SB;;Solomon Adaları
-SO;;Somali
-ZA;;Cənubi Afrika
-GS;;Cənubi Georgiya və Cənubi Sendviç Adaları
-ES;;İspaniya
-LK;;Şri Lanka
-SD;;Sudan
-SR;;Surinam
-SS;;Cənubi Afrika
-SJ;;Svalbard və Jan Mayen
-SZ;;Svaziland
 SE;;İsveç
-CH;;İsveçrə
+SZ;;Eswatini
+SX;;Sint Maarten (Dutch part)
+SC;;Seyşel
 SY;;Mərkəzi Afrika Respublikası
-TW;;Tayvan
-TJ;;Tacikistan
-TZ;;Koreya, Respublika
-TH;;Tayland
-TL;;Timor Leste
+TC;;Törks və Kaykos
+TD;;Çad
 TG;;Toqo
+TH;;Tayland
+TJ;;Tacikistan
 TK;;Tokelo
+TM;;Türkmənistan
+TL;;Şərqi Timor
 TO;;Tonqa
 TT;;Trinidad və Tobaqo
 TN;;Tunis
 TR;;Türkiyə
-TM;;Türkmənistan
-TC;;Türk və Kaykos Adaları
 TV;;Tuvalu
+TW;;Tayvan
+TZ;;Tanzaniya
 UG;;Uqanda
 UA;;Ukrayna
-AE;;Birləşmiş Ərəb Əmirlikləri
-GB;;United Kingdom
-US;;Birləşmiş Ştatlar
 UM;;Birləşmiş Ştatlar Yanı Kiçik Adalar
 UY;;Uruqvay
+US;;Birləşmiş Ştatlar
 UZ;;Özbəkistan
-VU;;Vanuatu
-VE;;Koreya, Respublika
-VN;;Vyetnam
+VA;;Holy See (Vatikan Şəhər Dövləti)
+VC;;Sent-Vinsent və Qrenadina
+VE;;Venezuela
 VG;;Virgin Adaları, Britaniya
 VI;;Virgin Adaları, ABŞ
+VN;;Vyetnam
+VU;;Vanuatu
 WF;;Vallis və Futuna
-EH;;Qərbi Saxara
+WS;;Samoa
 YE;;Yəmən
+ZA;;Cənubi Afrika
 ZM;;Zambiya
 ZW;;Zimbabve

@@ -1,249 +1,249 @@
+AW;;Aruba
 AF;;Apganistan
-AX;;Mga Islang Åland
-AL;;Albanya
-DZ;;Alheriya
-AS;;Amerikanong Samowa
-AD;;Andora
 AO;;Anggola
 AI;;Anggilya
-AQ;;Antarktika
-AG;;Antigwa at Barbuda
+AX;;Mga Islang Åland
+AL;;Albanya
+AD;;Andora
+AE;;Mga Pinag-isang Arabong Emirado
 AR;;Arhentina
 AM;;Armenya
-AW;;Aruba
+AS;;Amerikanong Samowa
+AQ;;Antarktika
+TF;;Teritoryong Hilagang Pranses
+AG;;Antigwa at Barbuda
 AU;;Australya
 AT;;Austriya
 AZ;;Azerbaijan
-BS;;Bahamas
-BH;;Bahrain
-BD;;Bangladesh
-BB;;Barbados
-BY;;Belarus
-BE;;Belhika
-BZ;;Belize
-BJ;;Benin
-BM;;Bermuda
-BT;;Bhutan
-BO;;Bolivia, Plurinational State of
-BQ;;Bonaire, Sint Eustatius and Saba
-BA;;Bosnia at Herzegovina
-BW;;Botswana
-BV;;Islang Bouvet
-BR;;Brasil
-IO;;Teritoryong Britaniya sa Dagat Indiyo
-BN;;Brunei Darussalam
-BG;;Bulgaria
-BF;;Burkina Faso
 BI;;Burundi
-KH;;Kambodya
-CM;;Kamerun
-CA;;Kanada
-CV;;Cape Verde
-KY;;Pulong Cayman
+BE;;Belhika
+BJ;;Benin
+BQ;;Bonaire, Sint Eustatius and Saba
+BF;;Burkina Faso
+BD;;Bangladesh
+BG;;Bulgaria
+BH;;Bahrain
+BS;;Bahamas
+BA;;Bosnia at Herzegovina
+BL;;Saint Barthélemy
+BY;;Belarus
+BZ;;Belize
+BM;;Bermuda
+BO;;Bolivia
+BR;;Brasil
+BB;;Barbados
+BN;;Brunei Darussalam
+BT;;Bhutan
+BV;;Islang Bouvet
+BW;;Botswana
 CF;;Republikang Panggitnang Aprika
-TD;;Tsad
+CA;;Kanada
+CC;;Kapuluang Cocos (Keeling)
+CH;;Switzerland
 CL;;Tsile
 CN;;Tsina
-CX;;Christmas Island
-CC;;Cocos (Keeling) Islands
+CI;;Côte d'Ivoire
+CM;;Kamerun
+CD;;Congo, Ang Demokratikong Republika ng
+CG;;Congo
+CK;;Kapuluang Cook
 CO;;Kolombya
 KM;;Comoros
-CG;;Congo
-CD;;Congo, Ang Demokratikong Republika ng
-CK;;Cook Islands
+CV;;Cape Verde
 CR;;Costa Rica
-CI;;Côte d'Ivoire
-HR;;Croatia
 CU;;Kuba
 CW;;Curaçao
+CX;;Christmas Island
+KY;;Pulong Cayman
 CY;;Cyprus
-CZ;;Republikang Czech
-DK;;Denmark
+CZ;;Czechia
+DE;;Alemanya
 DJ;;Djibouti
 DM;;Dominika
+DK;;Denmark
 DO;;Republikang Dominikano
+DZ;;Alheriya
 EC;;Ekwador
 EG;;Ehipto
-SV;;El Salvador
-GQ;;Equatorial Guinea
 ER;;Eritrea
+EH;;Kanlurang Sahara
+ES;;Espanya
 EE;;Estoniya
 ET;;Ethiopia
-FK;;Falkland Islands (Malvinas)
-FO;;Faroe Islands
-FJ;;Fiji
 FI;;Finland
+FJ;;Fiji
+FK;;Falkland Islands (Malvinas)
 FR;;Pransya
-GF;;French Guiana
-PF;;French Polynesia
-TF;;Teritoryong Hilagang Pranses
+FO;;Faroe Islands
+FM;;Micronesia, Federated States of
 GA;;Gabon
-GM;;Gambia
+GB;;Nagkaisang Kaharian
 GE;;Georgia
-DE;;Alemanya
+GG;;Guernsey
 GH;;Ghana
 GI;;Gibraltar
-GR;;Gresya
-GL;;Lupangluntian
-GD;;Grenada
-GP;;Guadeloupe
-GU;;Gwam
-GT;;Gwatemala
-GG;;Guernsey
 GN;;Guinea
+GP;;Guadeloupe
+GM;;Gambia
 GW;;Guinea-Bissau
+GQ;;Equatorial Guinea
+GR;;Gresya
+GD;;Grenada
+GL;;Lupangluntian
+GT;;Gwatemala
+GF;;French Guiana
+GU;;Gwam
 GY;;Guyana
-HT;;Haiti
-HM;;Heard Island at McDonald Islands
-VA;;Holy See (Estado ng Siyudad Vatican)
-HN;;Honduras
 HK;;Hong Kong
+HM;;Heard Island at McDonald Islands
+HN;;Honduras
+HR;;Croatia
+HT;;Haiti
 HU;;Hungary
-IS;;Lupangyelo
-IN;;Indiya
 ID;;Indonesia
+IM;;Pulo ng Man
+IN;;Indiya
+IO;;Teritoryong Britaniya sa Dagat Indiyo
+IE;;Ireland
 IR;;Iran, Republikang Islam ng
 IQ;;Iraq
-IE;;Ireland
-IM;;Isle of Man
+IS;;Lupangyelo
 IL;;Israel
 IT;;Italya
 JM;;Jamaica
-JP;;Hapon
 JE;;Jersey
 JO;;Jordan
+JP;;Hapon
 KZ;;Kazakhstan
 KE;;Kenya
+KG;;Kyrgyzstan
+KH;;Kambodya
 KI;;Kiribati
-KP;;Korea, Taumbayang Demokratikong Republika of
+KN;;Saint Kitts at Nevis
 KR;;Korea, Republika ng
 KW;;Kuwait
-KG;;Kyrgyzstan
 LA;;Taumbayang Demokratikong Republikang Lao
-LV;;Latvia
 LB;;Lebanon
-LS;;Lesotho
 LR;;Liberia
-LY;;Liberia
+LY;;Libya
+LC;;Saint Lucia
 LI;;Liechtenstein
+LK;;Sri Lanka
+LS;;Lesotho
 LT;;Lithuania
 LU;;Luxembourg
+LV;;Latvia
 MO;;Makaw
-MK;;Macedonia, Republika ng
+MF;;Saint Martin (French part)
+MA;;Morocco
+MC;;Monaco
+MD;;Moldova
 MG;;Madagascar
-MW;;Malawi
-MY;;Malaysia
 MV;;Maldives
+MX;;Mehiko
+MH;;Marshall Islands
+MK;;Bagong Caledonia
 ML;;Mali
 MT;;Malta
-MH;;Marshall Islands
-MQ;;Martiniko
-MR;;Mauritania
-MU;;Mauritius
-YT;;Mayotte
-MX;;Mehiko
-FM;;Micronesia, Federated States of
-MD;;Macedonia, Republika ng
-MC;;Monaco
-MN;;Mongolia
-ME;;Montenegro
-MS;;Montserrat
-MA;;Morocco
-MZ;;Mozambique
 MM;;Myanmar
-NA;;Namibia
-NR;;Nauru
-NP;;Nepal
-NL;;Netherlands
-NC;;Bagong Caledonia
-NZ;;New Zealand
-NI;;Nicaragua
-NE;;Niger
-NG;;Nigeria
-NU;;Niue
-NF;;Norfolk Island
+ME;;Montenegro
+MN;;Mongolia
 MP;;Northern Mariana Islands
+MZ;;Mozambique
+MR;;Mauritania
+MS;;Montserrat
+MQ;;Martiniko
+MU;;Mauritius
+MW;;Malawi
+MY;;Malaysia
+YT;;Mayotte
+NA;;Namibia
+NC;;Bagong Caledonia
+NE;;Niger
+NF;;Pulo ng Norfolk
+NG;;Nigeria
+NI;;Nicaragua
+NU;;Niue
+NL;;Netherlands
 NO;;Norway
+NP;;Nepal
+NR;;Nauru
+NZ;;New Zealand
 OM;;Oman
 PK;;Pakistan
-PW;;Palau
-PS;;Palestine, State of
 PA;;Panama
-PG;;Papua New Guinea
-PY;;Paraguay
+PN;;Pitcairn
 PE;;Peru
 PH;;Pilipinas
-PN;;Pitcairn
+PW;;Palau
+PG;;Papua New Guinea
 PL;;Poland
-PT;;Portugal
 PR;;Puerto Rico
+KP;;Korea, Taumbayang Demokratikong Republika of
+PT;;Portugal
+PY;;Paraguay
+PS;;Palestine, State of
+PF;;French Polynesia
 QA;;Qatar
 RE;;Réunion
 RO;;Romania
 RU;;Pederasyong Ruso
 RW;;Rwanda
-BL;;Saint Barthélemy
-SH;;Saint Helena, Ascension and Tristan da Cunha
-KN;;Saint Kitts at Nevis
-LC;;Saint Lucia
-MF;;Saint Martin (French part)
-PM;;Saint Pierre at Miquelon
-VC;;Saint Vincent at Grenadines
-WS;;Samoa
-SM;;San Marino
-ST;;Sao Tome at Principe
 SA;;Saudi Arabia
+SD;;Sudan
 SN;;Senegal
-RS;;Serbiya
-SC;;Seychelles
-SL;;Sierra Leone
 SG;;Singapore
-SX;;Sint Maarten (Dutch part)
+GS;;South Georgia at ang South Sandwich Islands
+SH;;Saint Helena, Ascension and Tristan da Cunha
+SJ;;Svalbard at Jan Mayen
+SB;;Solomon Islands
+SL;;Sierra Leone
+SV;;El Salvador
+SM;;San Marino
+SO;;Somalia
+PM;;Saint Pierre at Miquelon
+RS;;Serbiya
+SS;;Timog Sudan
+ST;;Sao Tome at Principe
+SR;;Suriname
 SK;;Slovakia
 SI;;Slovenia
-SB;;Solomon Islands
-SO;;Somalia
-ZA;;Timog Aprika
-GS;;South Georgia at ang South Sandwich Islands
-ES;;Espanya
-LK;;Sri Lanka
-SD;;Sudan
-SR;;Suriname
-SS;;Republika ng Sudan
-SJ;;Svalbard at Jan Mayen
-SZ;;Swaziland
 SE;;Sweden
-CH;;Switzerland
+SZ;;Eswatini
+SX;;Sint Maarten (Dutch part)
+SC;;Seychelles
 SY;;Syrian Arab Republika
-TW;;Taiwan
-TJ;;Tajikistan
-TZ;;Tanzania, Nagkaisang Republika ng
-TH;;Thailand
-TL;;Timor-Leste
+TC;;Turks at Caicos Islands
+TD;;Tsad
 TG;;Togo
+TH;;Thailand
+TJ;;Tajikistan
 TK;;Tokelau
+TM;;Turkmenistan
+TL;;Timor-Leste
 TO;;Tonga
 TT;;Trinidad at Tobago
 TN;;Tunisia
 TR;;Turkey
-TM;;Turkmenistan
-TC;;Turks at Caicos Islands
 TV;;Tuvalu
+TW;;Taiwan
+TZ;;Tanzania
 UG;;Uganda
 UA;;Ukraine
-AE;;United Arab Emirates
-GB;;Nagkaisang Kaharian
-US;;Estados Unidos
 UM;;United States Minor Outlying Islands
 UY;;Uruguay
+US;;Estados Unidos
 UZ;;Uzbekistan
-VU;;Vanuatu
-VE;;Bolivarian Republika ng Venezuela
-VN;;Viet Nam
+VA;;Holy See (Estado ng Siyudad Vatican)
+VC;;Saint Vincent at Grenadines
+VE;;Venezuela
 VG;;Pulong Birhen, British
 VI;;Pulong Birhen, Estados Unidos
+VN;;Viet Nam
+VU;;Vanuatu
 WF;;Wallis at Futuna
-EH;;Kanlurang Sahara
+WS;;Samoa
 YE;;Yemen
+ZA;;Timog Aprika
 ZM;;Zambia
 ZW;;Zimbabwe
