@@ -133,8 +133,8 @@ LS;;Lesoto
 LT;;Lituània
 LU;;Luxemborg
 LV;;Letònia
-MO;;Kanu
-MF;;Saint Martin (French part)
+MO;;Macau
+MF;;Sant Martin (Part francesa)
 MA;;Marròc
 MC;;Monegue
 MD;;Moldàvia
@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Maldivas
 MX;;Mèxic
 MH;;Illas Marshall
-MK;;Nòva Caledònia
+MK;;Macedònia del Nòrd
 ML;;Mali
 MT;;Malta
 MM;;Birmania
@@ -230,16 +230,16 @@ TW;;Taiwan
 TZ;;Tanzania
 UG;;Oganda
 UA;;Ucraïna
-UM;;Estats Units d'Amèrica
+UM;;Islas perifericas Menores dels Estats Units
 UY;;Uruguai
-US;;France
+US;;Estats Units
 UZ;;Ozbequistan
 VA;;Santa Ses (Estat de la Ciutat de Vatican)
 VC;;St. Vincent e les Granadines
 VE;;Veneçuèla
-VG;;Virgin Islands, British
-VI;;Finlandia
 VN;;Vinyes
+VG;;Illas Verges, britanicas
+VI;;illas Verges, EU
 VU;;Vanuatu
 WF;;Wallis e Futuna
 WS;;Samoa

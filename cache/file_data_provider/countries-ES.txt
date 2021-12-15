@@ -209,7 +209,7 @@ SR;;Surinám
 SK;;Eslovaquia
 SI;;Eslovenia
 SE;;Suecia
-SZ;;Suazilandia
+SZ;;Esuatini
 SX;;Isla de San Martín (zona holandsea)
 SC;;Seychelles
 SY;;República árabe de Siria

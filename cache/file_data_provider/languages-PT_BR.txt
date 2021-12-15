@@ -14,7 +14,7 @@ BA;;Basquir
 BM;;Bambara
 BE;;Bielorusso
 BN;;Bengali
-BH;;Línguas biaris
+BH;;Idiomas biaris
 BI;;Bislamá
 BO;;Tibetano
 BS;;Bósnio
