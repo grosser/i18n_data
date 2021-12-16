@@ -120,7 +120,7 @@ KG;;Kirgisistan
 KH;;Kambódía
 KI;;Kíribatí
 KN;;Sankti Kitts og Neviseyjar
-KR;;Lýðveldið Suður-Kórea
+KR;;Suður-Kórea
 KW;;Kúveit
 LA;;Alþýðulýðveldið Laó
 LB;;Líbanon
@@ -179,7 +179,7 @@ PW;;Palá
 PG;;Papúa Nýja-Gínea
 PL;;Pólland
 PR;;Puerto Ríko
-KP;;Norður-Kórea, sambandsalþýðulýðveldið
+KP;;Norður-Kórea
 PT;;Portúgal
 PY;;Paragvæ
 PS;;Palestína

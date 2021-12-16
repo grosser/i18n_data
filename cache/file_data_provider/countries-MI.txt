@@ -120,7 +120,7 @@ KG;;Kyrgyzstan
 KH;;Kamapōtia
 KI;;Kiripati
 KN;;Saint Kitts and Nevis
-KR;;Kōrea-ki-te-tonga
+KR;;Āwherika-ki-te-tonga
 KW;;Kuwait
 LA;;Rāoho
 LB;;Lebanon
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua Nūkini
 PL;;Pōrana
 PR;;Puerto Rico
-KP;;Kōrea-ki-te-raki
+KP;;North Korea
 PT;;Potukara
 PY;;Parakai
 PS;;Palestine, State of

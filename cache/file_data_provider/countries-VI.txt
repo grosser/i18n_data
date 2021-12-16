@@ -120,7 +120,7 @@ KG;;Khư-rơ-gư-xtanh
 KH;;Căm Bốt
 KI;;Ki-ri-ba-ti
 KN;;Xan-kít và Nê-vi
-KR;;Cộng hoà Nam Hàn
+KR;;Nam Phi
 KW;;Cu-ouai-thợ
 LA;;Cộng hoà Nhân dân Dân chủ Lào
 LB;;Le-ba-non
@@ -179,7 +179,7 @@ PW;;Pa-lau
 PG;;Pa-pu-a Niu Ghi-nê
 PL;;Ba Lan
 PR;;Pu-éc-thô Ri-cô
-KP;;Bắc Hàn, Cộng hoà Nhân dân Dân chủ
+KP;;Niu Ca-lê-đô-ni-a
 PT;;Bồ Đào Nha
 PY;;Pa-ra-guay
 PS;;Palestine, quốc gia

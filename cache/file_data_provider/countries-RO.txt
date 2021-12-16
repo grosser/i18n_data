@@ -120,7 +120,7 @@ KG;;Kârgâzstan
 KH;;Cambogia
 KI;;Kiribati
 KN;;Saint Kitts și Nevis
-KR;;Republica Coreea
+KR;;Africa de sud
 KW;;Kuweit
 LA;;Republica populară democrată Lao
 LB;;Liban
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua Noua Guinee
 PL;;Polonia
 PR;;Puerto Rico
-KP;;Republica democrată populară Coreea
+KP;;Noua Caledonie
 PT;;Portugalia
 PY;;Paraguay
 PS;;Palestina, Statul

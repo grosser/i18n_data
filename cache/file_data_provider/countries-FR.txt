@@ -120,7 +120,7 @@ KG;;Kirghizistan
 KH;;Cambodge
 KI;;Kiribati
 KN;;Saint-Christophe-et-Niévès
-KR;;Corée, République de
+KR;;Corée du Sud
 KW;;Koweït
 LA;;Lao, République démocratique populaire
 LB;;Liban
@@ -179,7 +179,7 @@ PW;;Palaos
 PG;;Papouasie-Nouvelle-Guinée
 PL;;Pologne
 PR;;Porto Rico
-KP;;Corée, République populaire démocratique de
+KP;;Corée du Nord
 PT;;Portugal
 PY;;Paraguay
 PS;;Palestine, État de
@@ -238,7 +238,7 @@ VA;;Saint-Siège (état de la cité du Vatican)
 VC;;Saint-Vincent-et-les-Grenadines
 VE;;Vénézuela
 VG;;Îles Vierges britanniques
-VI;;Îles Vierges des États-Unis
+VI;;Îles Vierges, États-Unis
 VN;;Viêt Nam
 VU;;Vanuatu
 WF;;Wallis et Futuna

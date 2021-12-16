@@ -120,7 +120,7 @@ KG;;Kirgizstan
 KH;;Kambodja
 KI;;Kiribati
 KN;;S. Kitts ha Nevis
-KR;;Korea, Republic of
+KR;;Suafrika
 KW;;Koweit
 LA;;Lao People's Democratic Republic
 LB;;Liban
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papoua Ginea-Nevez
 PL;;Polonia
 PR;;Puerto Rico
-KP;;Korea, Democratic People's Republic of
+KP;;Kaledonia-Nevez
 PT;;Portugal
 PY;;Paraguay
 PS;;Palestine, State of

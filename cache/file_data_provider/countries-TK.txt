@@ -5,7 +5,7 @@ AI;;Anguilla
 AX;;Aland Adalry
 AL;;Albaniýa
 AD;;Andorra
-AE;;Birleşen  Arap Emiratlary
+AE;;Birleşen Arap Emiratlary
 AR;;Argentina
 AM;;Ermenistan
 AS;;Samao Amerika
@@ -120,7 +120,7 @@ KG;;Gyrgyzystan
 KH;;Kamboçiýa
 KI;;Kiribati
 KN;;Sent-Kitts we Newis
-KR;;Koreýa Respublikasy
+KR;;Günorta Afrika
 KW;;Kuweýt
 LA;;Lao People's Democratic Republic
 LB;;Liwan
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua-Täze Gwineýa
 PL;;Polşa
 PR;;Puerto-Riko
-KP;;Koreýa, Halk Demokratik Respublikasy
+KP;;Täze Kaledoniýa
 PT;;Portugaliýa
 PY;;Paragwaý
 PS;;Palestine, State of

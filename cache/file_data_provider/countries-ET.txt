@@ -120,7 +120,7 @@ KG;;Kõrgõzstan
 KH;;Kambodža
 KI;;Kiribati
 KN;;Saint Kitts ja Nevis
-KR;;Lõuna-Korea (Korea Vabariik)
+KR;;Lõuna-Korea
 KW;;Kuveit
 LA;;Laose Demokraatlik Rahvavabariik
 LB;;Liibanon
@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldiivid
 MX;;Mehhiko
 MH;;Marshalli Saared
-MK;;Uus-Kaledoonia
+MK;;Põhja-Makedoonia
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -209,7 +209,7 @@ SR;;Suriname
 SK;;Slovakkia
 SI;;Sloveenia
 SE;;Rootsi
-SZ;;Eswatini
+SZ;;Svaasimaa
 SX;;Sint Maarten (Hollandi osa)
 SC;;Seišellid
 SY;;Süüria Araabia Vabariik

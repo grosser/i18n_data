@@ -120,7 +120,7 @@ KG;;Ҡырғыҙстан
 KH;;Камбоджа
 KI;;Кирибати
 KN;;Сент-Китс һәм Невис
-KR;;Korea, Republic of
+KR;;Көньяҡ Африка Республикаһы
 KW;;Күвейт
 LA;;Lao People's Democratic Republic
 LB;;Ливан
@@ -179,7 +179,7 @@ PW;;Палау
 PG;;Папуа — Яңы Гвинея
 PL;;Польша
 PR;;Пуэрто-Рико
-KP;;Korea, Democratic People's Republic of
+KP;;North Korea
 PT;;Португалия
 PY;;Парагвай
 PS;;Palestine, State of

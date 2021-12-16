@@ -120,7 +120,7 @@ KG;;Yn Chyrgistaan
 KH;;Yn Chamboyd
 KI;;Yn Chiribati
 KN;;Noo Kitts as Nevis
-KR;;Korea, Republic of
+KR;;Yn Affrick Yiass
 KW;;Yn Choowait
 LA;;Lao People's Democratic Republic
 LB;;Yn Livaan
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papooey Guinea Noa
 PL;;Yn Pholynn
 PR;;Yn Phurt Verçhagh
-KP;;Korea, Democratic People's Republic of
+KP;;North Korea
 PT;;Yn Phortiugal
 PY;;Yn Pharaguay
 PS;;Palestine, State of

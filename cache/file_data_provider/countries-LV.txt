@@ -120,7 +120,7 @@ KG;;Kirgizstāna
 KH;;Kambodža
 KI;;Kiribati
 KN;;Sentkitsa un Nevisa
-KR;;Dienvidkoreja
+KR;;Dienvidāfrika
 KW;;Kuveita
 LA;;Laosa
 LB;;Libāna
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua-Jaungvineja
 PL;;Polija
 PR;;Puertoriko
-KP;;Ziemeļkoreja
+KP;;Jaunkaledonija
 PT;;Portugāle
 PY;;Paragvaja
 PS;;Palestīnas valsts

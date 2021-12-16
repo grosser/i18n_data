@@ -164,7 +164,7 @@ TI;;Tigrinya
 TO;;Tonga (Isole Tonga)
 TN;;Tswana
 TS;;Tsonga
-TK;;Turcmeno
+TK;;Turkmeno; Turcomanno
 TR;;Turco
 TW;;Twi
 UG;;Uighur

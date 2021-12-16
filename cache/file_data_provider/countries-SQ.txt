@@ -120,7 +120,7 @@ KG;;Kirgistan
 KH;;Kamboxhia
 KI;;Kiribati
 KN;;Shën Kits dhe Nevis
-KR;;Korea, Republika e
+KR;;Afrikë e Jugut
 KW;;Kuvajt
 LA;;Republika Demokratike Popullore e Laosit
 LB;;Liban
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Guinea e Re Papua
 PL;;Poloni
 PR;;Porto Riko
-KP;;Korea, Republika Popullore Demokratike e
+KP;;Maqedonia e Veriut
 PT;;Portugali
 PY;;Paraguai
 PS;;Palestinë, Shteti i 

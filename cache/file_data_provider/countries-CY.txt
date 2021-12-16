@@ -120,7 +120,7 @@ KG;;Kyrgyzstan
 KH;;Cambodia
 KI;;Kiribati
 KN;;Saint Kitts a Nevis
-KR;;Corëa, Gweriniaeth
+KR;;De Affrica
 KW;;Coweit
 LA;;Gweriniaeth Ddemocrataidd y Bobl Lao
 LB;;Lebanon
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua Guinea Newydd
 PL;;Gwlad Pwyl
 PR;;Puerto Rico
-KP;;Korea (Gweriniaeth Democrataidd Pobl)
+KP;;Gogledd Macedonia
 PT;;Portiwgal
 PY;;Paraguay
 PS;;Palestina, Gwladwriaeth

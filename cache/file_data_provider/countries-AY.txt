@@ -120,7 +120,7 @@ KG;;Kyrgyzstan
 KH;;Cambodia
 KI;;Kiribati
 KN;;San Kristobal wan Niebes
-KR;;Korea, Republic of
+KR;;South Korea
 KW;;Kuwait
 LA;;Lao People's Democratic Republic
 LB;;Lebanon
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua New Guinea
 PL;;Puluña
 PR;;Burinkin
-KP;;Korea, Democratic People's Republic of
+KP;;North Korea
 PT;;Purtuwal
 PY;;Parawayi
 PS;;Palestine, State of

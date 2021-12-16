@@ -77,7 +77,7 @@ JA;;Japonų
 KL;;Grenlandų
 KN;;Kanadų
 KS;;Kašmyrų
-KA;;Gruzinų
+KA;;Kartvelų
 KR;;Kanūrių
 KK;;Kazachų
 KM;;Khmerų centrinė

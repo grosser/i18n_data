@@ -120,7 +120,7 @@ KG;;Kirgizsko
 KH;;Kambodža
 KI;;Kiribati
 KN;;Svätý Krištof a Nevis
-KR;;Kórejská republika
+KR;;Južná Afrika
 KW;;Kuvajt
 LA;;Laoská ľudovodemokratická republika
 LB;;Libanon
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua - Nová Guinea
 PL;;Poľsko
 PR;;Portoriko
-KP;;Kórejská ľudovodemokratická republika
+KP;;Nová Kaledónia
 PT;;Portugalsko
 PY;;Paraguaj
 PS;;Palestína
