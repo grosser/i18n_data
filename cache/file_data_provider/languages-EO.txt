@@ -119,7 +119,7 @@ NN;;Norvega (Nynorsk)
 NB;;Norvega (Bokmål)
 NO;;Norvega
 NY;;Njanĝa
-OC;;Okcitana (post 1500)
+OC;;Okcitana (post 1500); Provenca
 OJ;;Oĝibva
 OR;;Orija
 OM;;Oroma
@@ -131,7 +131,7 @@ PT;;Portugala
 PS;;Paŝtua
 QU;;Keĉua
 RM;;Romanĉa
-RO;;Moldava
+RO;;Rumana; Moldava
 RN;;Burunda
 RU;;Rusa
 SG;;Sangoa

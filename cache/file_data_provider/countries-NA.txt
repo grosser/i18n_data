@@ -120,7 +120,7 @@ KG;;Kirgitan
 KH;;Kambodja
 KI;;Kiribat
 KN;;Saint Kitts and Nevis
-KR;;Korea, Republic of
+KR;;South Aprika
 KW;;Kuwait
 LA;;Lao People's Democratic Republic
 LB;;Ribanon
@@ -179,7 +179,7 @@ PW;;Parau
 PG;;Papua New Guinea
 PL;;Poran
 PR;;Puerto Rico
-KP;;Korea, Democratic People's Republic of
+KP;;North Korea
 PT;;Portsiugar
 PY;;Paraguay
 PS;;Palestine, State of

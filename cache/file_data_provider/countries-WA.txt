@@ -120,7 +120,7 @@ KG;;Kirguiztan
 KH;;Cambodje
 KI;;Kiribati
 KN;;St Kitts & Nevis
-KR;;Corêye (nonnrece)
+KR;;Nonne Afrike
 KW;;Kuweyt
 LA;;Laosse
 LB;;Liban
@@ -179,7 +179,7 @@ PW;;Palawou
 PG;;Papouwazeye Nouve Guinêye
 PL;;Pologne
 PR;;Porto Rico
-KP;;Corêye (bijhrece)
+KP;;Nouve Caledoneye
 PT;;Portugal
 PY;;Paragway
 PS;;Palestine, State of

@@ -1,42 +1,42 @@
 AW;;Aruba
 AF;;Afganistan
 AO;;Angòla
-AI;;Anguillà
+AI;;Anguilla
 AX;;Åland
 AL;;Albania
 AD;;Andòrra
 AE;;Emirats Arabs Units
 AR;;Argentina
 AM;;Armenia
-AS;;Samoa Americana
-AQ;;Antarctica
-TF;;French Southern Territories
+AS;;Samoa americana
+AQ;;Antartica
+TF;;Tèrras australas francesas
 AG;;Antigua e Barbuda
 AU;;Australia
 AT;;Austria
 AZ;;Azerbaitjan
 BI;;Burundi
-BE;;Bèlgica
+BE;;Belgica
 BJ;;Benin
-BQ;;Bonaire, Sint Eustatius and Saba
+BQ;;Bonaire, Sant Eustaqui e Saba
 BF;;Burkina Faso
 BD;;Bangladèsh
 BG;;Bulgaria
 BH;;Barein
 BS;;Bahamas
 BA;;Bòsnia e Ercegovina
-BL;;Saint Barthélemy
-BY;;Bielorusia
+BL;;Sant Bertomieu
+BY;;Bielorussia
 BZ;;Belize
 BM;;Bermudas
 BO;;Bolivia
 BR;;Brasil
 BB;;Barbada
-BN;;Sultanat de Brunei
+BN;;Brunei
 BT;;Botan
 BV;;Illa Bouvet
 BW;;Botswana
-CF;;Centrafrica
+CF;;Republica de Centrafrica
 CA;;Canadà
 CC;;Illas Cocos (Keeling)
 CH;;Soïssa
@@ -44,35 +44,35 @@ CL;;Chile
 CN;;China
 CI;;Còsta d'Evòri
 CM;;Cameron
-CD;;Republica Democratica de Còngo
-CG;;Congò
+CD;;Còngo, Republica Democratica de
+CG;;Còngo
 CK;;Illas Cook
 CO;;Colombia
 KM;;Comòras
 CV;;Cap Verd
 CR;;Còsta Rica
-CU;;Cubà
+CU;;Cuba
 CW;;Curaçao
 CX;;Illa Cristmas
 KY;;Illas Caiman
 CY;;Chipre
-CZ;;Czechia
+CZ;;Chequia
 DE;;Alemanha
 DJ;;Jiboti
 DM;;Dominica
 DK;;Danemarc
 DO;;Republica Dominicana
-DZ;;Algeria
+DZ;;Argeria
 EC;;Eqüator
 EG;;Egipte
 ER;;Eritrèa
-EH;;Sahara Occidental
+EH;;Sahara occidental
 ES;;Espanha
 EE;;Estònia
 ET;;Etiopia
-FI;;Finlandia
-FJ;;Fidji
-FK;;Falkland Islands (Malvinas)
+FI;;Finlàndia
+FJ;;Fiji
+FK;;Illas Falkand (Malvinas)
 FR;;França
 FO;;Illas Feròe
 FM;;Micronesia, Estats Federats de
@@ -81,48 +81,48 @@ GB;;Reialme Unit
 GE;;Georgia
 GG;;Guernesey
 GH;;Gana
-GI;;Gibraltar
+GI;;Gibartar
 GN;;Guinèa
 GP;;Guadalope
-GM;;Gambia
+GM;;Gàmbia
 GW;;Guinèa-Bissau
-GQ;;Guinèa Eqüatoriala
-GR;;Grèça
+GQ;;Guinèa eqüatoriala
+GR;;Grècia
 GD;;Granada
-GL;;Groenland
+GL;;Groenlàndia
 GT;;Guatemala
-GF;;Guiana francesa
+GF;;Guaiana francesa
 GU;;Guam
-GY;;Guianà
+GY;;Guyana
 HK;;Hong Kong
 HM;;Heard Island and McDonald Islands
-HN;;Hondures
-HR;;Croacia
-HT;;Aïtí
+HN;;Honduras
+HR;;Croàcia
+HT;;Haití
 HU;;Ongria
 ID;;Indonesia
 IM;;Illa de Man
 IN;;Índia
-IO;;Territòris britaniques de l'ocean indian
+IO;;Territòris britanics de l'ocean indian
 IE;;Irlanda
 IR;;Republica Dominicana
 IQ;;Iraq
 IS;;Islàndia
 IL;;Israel
-IT;;Italia
-JM;;Jamaïca
-JE;;Jersey
+IT;;Itàlia
+JM;;Jamaica
+JE;;Jersei
 JO;;Jordania
 JP;;Japon
 KZ;;Cazacstan
-KE;;Kenia
-KG;;Kirguizistan
+KE;;Kenya
+KG;;Kirguizstan
 KH;;Cambòtja
 KI;;Kiribati
 KN;;St. Kitts e Nevis
-KR;;Republica Dominicana
+KR;;Corèa del Sud
 KW;;Koweit
-LA;;Laòs
+LA;;Republica democratica populara del Laos
 LB;;Liban
 LR;;Libèria
 LY;;Libia
@@ -136,11 +136,11 @@ LV;;Letònia
 MO;;Macau
 MF;;Sant Martin (Part francesa)
 MA;;Marròc
-MC;;Monegue
+MC;;Mónegue
 MD;;Moldàvia
 MG;;Madagascar
 MV;;Maldivas
-MX;;Mèxic
+MX;;Mexic
 MH;;Illas Marshall
 MK;;Macedònia del Nòrd
 ML;;Mali
@@ -164,7 +164,7 @@ NF;;Illa Norfolk
 NG;;Nigèria
 NI;;Nicaragua
 NU;;Niue
-NL;;Holanda
+NL;;Païses Basses
 NO;;Norvègia
 NP;;Nepal
 NR;;Nauru
@@ -172,17 +172,17 @@ NZ;;Novèla Zelanda
 OM;;Oman
 PK;;Paquistan
 PA;;Panamà
-PN;;Pitcairn
+PN;;Illa de Pitcairn
 PE;;Peró
 PH;;Filipinas
-PW;;Palau
+PW;;Belau
 PG;;Papoa Nòva Guinèa
 PL;;Polonha
 PR;;Puerto Rico
-KP;;Corèa, Republica Populara Democratica de
+KP;;Corèa del Nòrd
 PT;;Portugal
 PY;;Paraguai
-PS;;Palestine, State of
+PS;;Palestina, estat de
 PF;;Polinesia francesa
 QA;;Qatar
 RE;;Réunion
@@ -194,7 +194,7 @@ SD;;Sodan
 SN;;Senegal
 SG;;Singapor
 GS;;Illas Georgia del Sud e Sandwich del Sud
-SH;;Saint Helena, Ascension and Tristan da Cunha
+SH;;Santa Elena, Ascension, e Tristan da Cunha
 SJ;;Svalbard e Jan Mayen
 SB;;Illas Salomon
 SL;;Sierra Leone
@@ -206,20 +206,20 @@ RS;;Serbia
 SS;;Sodan del Sud
 ST;;Sao Tomé e Principe
 SR;;Surinam
-SK;;Eslòvac
-SI;;Eslovenia
+SK;;Eslovaquia
+SI;;Eslovènia
 SE;;Suècia
 SZ;;Eswatini
-SX;;Sint Maarten (Dutch part)
+SX;;Sant Martin (Part neerlandesa)
 SC;;Seichèlas
 SY;;Republica Dominicana
 TC;;Illas Turcas e Caïcas
 TD;;Chad
 TG;;Tògo
-TH;;Tailandia
+TH;;Tailàndia
 TJ;;Tatgiquistan
 TK;;Tokelau
-TM;;Turqmenistan
+TM;;Turcmenistan
 TL;;Timor-Leste
 TO;;Tònga
 TT;;Trinitat e Tobago
@@ -235,11 +235,11 @@ UY;;Uruguai
 US;;Estats Units
 UZ;;Ozbequistan
 VA;;Santa Ses (Estat de la Ciutat de Vatican)
-VC;;St. Vincent e les Granadines
+VC;;Sant Vincenç e las Grenadinas
 VE;;Veneçuèla
-VN;;Vinyes
 VG;;Illas Verges, britanicas
 VI;;illas Verges, EU
+VN;;Vietnam
 VU;;Vanuatu
 WF;;Wallis e Futuna
 WS;;Samoa

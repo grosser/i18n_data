@@ -120,7 +120,7 @@ KG;;Kirgizistan
 KH;;Kanbodia
 KI;;Kiribati
 KN;;Saint Kitts eta Nevis
-KR;;Korea, Errepublika
+KR;;Hegoafrika
 KW;;Kuwait
 LA;;Laoseko Herri Errepublika Demokratikoa
 LB;;Libano
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua Ginea Berria
 PL;;Polonia
 PR;;Puerto Rico
-KP;;Korea, Herri Errepublika Demokratikoa
+KP;;Ipar Mazedonia
 PT;;Portugal
 PY;;Paraguai
 PS;;Palestinako Estatua

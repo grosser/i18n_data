@@ -238,7 +238,7 @@ VA;;Vaticaanstad
 VC;;Saint Vincent en de Grenadines
 VE;;Venezuela
 VG;;Maagdeneilanden, Britse
-VI;;Amerikaanse Maagdeneilanden
+VI;;Maagdeneilanden, Amerikaanse
 VN;;Vietnam
 VU;;Vanuatu
 WF;;Wallis en Futuna

@@ -120,7 +120,7 @@ KG;;Kirgistani
 KH;;Kàmbódíà
 KI;;Kìrìbátì
 KN;;Saint Kitts àti Nevis
-KR;;Korea, Republic of
+KR;;Gúúsù Áfríkà
 KW;;Kuwaiti
 LA;;Lao People's Democratic Republic
 LB;;Lẹ́bánọ́nì
@@ -179,7 +179,7 @@ PW;;Páláù
 PG;;Papua Guinea Titun
 PL;;Pólàndì
 PR;;Púẹ́rtò Ríkò
-KP;;Korea, Democratic People's Republic of
+KP;;Kalẹdóníà Tuntun
 PT;;Pọ́rtúgàl
 PY;;Paragúáì
 PS;;Palestine, State of

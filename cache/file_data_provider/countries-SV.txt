@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua Nya Guinea
 PL;;Polen
 PR;;Puerto Rico
-KP;;Korea, demokratiska folkrepubliken
+KP;;Nordkorea
 PT;;Portugal
 PY;;Paraguay
 PS;;Staten Palestina

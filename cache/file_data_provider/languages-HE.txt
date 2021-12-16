@@ -16,7 +16,7 @@ BE;;בלארוסית
 BN;;בנגלית
 BH;;קוריאנית
 BI;;Bislama
-BO;;Tibetan
+BO;;טיבטית
 BS;;רומנית
 BR;;ברטונית
 BG;;בולגרית
@@ -52,7 +52,7 @@ GA;;אירית
 GL;;גליסית
 GV;;Manx
 GN;;גוארני
-GU;;Gujarati
+GU;;גוג׳ראטית
 HT;;Haitian; Haitian Creole
 HA;;Hausa
 HE;;עברית
@@ -99,7 +99,7 @@ LB;;Luxembourgish; Letzeburgesch
 LU;;Luba-Katanga
 LG;;Ganda
 MH;;מרשלית
-ML;;Malayalam
+ML;;מלאיאלאם
 MR;;מראטהית
 MK;;מקדונית
 MG;;Malagasy
@@ -159,7 +159,7 @@ TT;;Tatar
 TE;;Telugu
 TG;;תאילנדית
 TL;;Tagalog
-TH;;תאילנדית
+TH;;תאית
 TI;;טורקית
 TO;;Tonga (Tonga Islands)
 TN;;Tswana

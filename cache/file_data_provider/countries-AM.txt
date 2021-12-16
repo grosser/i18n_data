@@ -120,7 +120,7 @@ KG;;ኪርጊዝስታን
 KH;;ጢሤቦ።።
 KI;;ኪሪባስ
 KN;;ሰይንት ኪትስና ኒቨስ
-KR;;ሰሣን ጥሱ።
+KR;;፠ቡብ ጐፔሱጢ
 KW;;ጤፃት
 LA;;Lao People's Democratic Republic
 LB;;ሑባኖስ
@@ -179,7 +179,7 @@ PW;;ፐላው
 PG;;ፓፑፂ ኒፄ ጑ኒ
 PL;;ፖሒን፥
 PR;;ፖሴታ ሱጥ
-KP;;፠ቡብ ጥሱ።
+KP;;ኒፄ ጢሓ፦ኒ።
 PT;;ፖርቱጋል
 PY;;ፓራጓይ
 PS;;Palestine, State of

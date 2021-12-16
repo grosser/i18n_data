@@ -108,7 +108,7 @@ MN;;mongoli
 MI;;maoori
 MS;;malai
 MY;;birma
-NA;;nauru
+NA;;Nauru
 NV;;navaho
 NR;;lõunandebele
 ND;;(põhja)ndebele

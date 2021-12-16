@@ -120,7 +120,7 @@ KG;;Kyrgyzstan
 KH;;Cambodia
 KI;;Kiribati
 KN;;Saint Kitts and Nevis
-KR;;Korea, Republic of
+KR;;Kéyah Naakaii Łizhinii Bikéyah Shádiʼááhjí Siʼánígíí
 KW;;Kuwait
 LA;;Lao People's Democratic Republic
 LB;;Lebanon
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Chooyééł Dineʼé Bikéyah
 PL;;Póolish Dineʼé Bikéyah
 PR;;Puerto Rico
-KP;;Korea, Democratic People's Republic of
+KP;;North Korea
 PT;;Portugal
 PY;;Paraguay
 PS;;Palestine, State of

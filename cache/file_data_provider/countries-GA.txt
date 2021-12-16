@@ -120,7 +120,7 @@ KG;;An Chirgeastáin
 KH;;An Chambóid
 KI;;Cireabaití
 KN;;Saint Kitts agus Nevis
-KR;;Poblacht na Cóiré
+KR;;An Afraic Theas
 KW;;Cuáit
 LA;;Daonphoblacht Dhaonlathach Laoch
 LB;;An Liobáin
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua Nua-Ghuine
 PL;;An Pholainn
 PR;;Portó Ríce
-KP;;Daonphoblacht Dhaonlathach na Cóiré
+KP;;An Nua-Chaladóin
 PT;;An Phortaingéil
 PY;;Paragua
 PS;;Palaistíne, Stát na

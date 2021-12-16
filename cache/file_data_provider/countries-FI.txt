@@ -120,7 +120,7 @@ KG;;Kirgisia
 KH;;Kambodža
 KI;;Kiribati
 KN;;Saint Kitts ja Nevis
-KR;;Korean tasavalta
+KR;;Etelä-Afrikka
 KW;;Kuwait
 LA;;Laos
 LB;;Libanon
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua-Uusi-Guinea
 PL;;Puola
 PR;;Puerto Rico
-KP;;Korean demokraattinen kansantasavalta
+KP;;Uusi-Kaledonia
 PT;;Portugali
 PY;;Paraguay
 PS;;Palestine, State of

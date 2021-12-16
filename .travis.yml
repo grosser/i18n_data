@@ -1,8 +1,0 @@
-sudo: false
-cache: bundler
-branches:
-  only: master
-rvm:
-  - 2.5
-  - 2.6
-  - 2.7

@@ -120,7 +120,7 @@ KG;;Pow Kyrgys
 KH;;Kamboji
 KI;;Kiribati
 KN;;Sen Kitts ha Nevis
-KR;;Korea, Republic of
+KR;;Afrika Dhyhow
 KW;;Koweyt
 LA;;Lao People's Democratic Republic
 LB;;Lebnon
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua New Guinea
 PL;;Poloni
 PR;;Puerto Rico
-KP;;Korea, Democratic People's Republic of
+KP;;Kelesoni Nowydh
 PT;;Portyngal
 PY;;Paragway
 PS;;Palestine, State of

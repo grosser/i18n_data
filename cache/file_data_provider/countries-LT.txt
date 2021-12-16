@@ -120,7 +120,7 @@ KG;;Kirgizija
 KH;;Kambodža
 KI;;Kiribatis
 KN;;Sent Kitsas ir Nevis
-KR;;Korėjos Respublika
+KR;;Pietų Afrika
 KW;;Kuveitas
 LA;;Laoso Liaudies Demokratinė Respublika
 LB;;Libanas
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua Naujoji Gvinėja
 PL;;Lenkija
 PR;;Puerto Rikas
-KP;;Korėjos Liaudies Demokratinė Respublika
+KP;;Naujoji Kaledonija
 PT;;Portugalija
 PY;;Paragvajus
 PS;;Palestinos valstybė

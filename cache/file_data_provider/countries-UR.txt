@@ -120,7 +120,7 @@ KG;;کرغیزستان
 KH;;کمبوڈیا
 KI;;کیریباتی
 KN;;سینٹ کیٹز و ناویس
-KR;;Korea, Republic of
+KR;;جنوبی افریقا
 KW;;کویت
 LA;;Lao People's Democratic Republic
 LB;;لبنان
@@ -179,7 +179,7 @@ PW;;پلاؤ
 PG;;پاپوا نیو گنی
 PL;;بولندا
 PR;;پورٹو ریکو
-KP;;Korea, Democratic People's Republic of
+KP;;نیو کیلیڈونیا
 PT;;پرتگال
 PY;;پیراگوئے
 PS;;Palestine, State of

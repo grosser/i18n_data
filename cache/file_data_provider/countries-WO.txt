@@ -120,7 +120,7 @@ KG;;Kirgistaan
 KH;;Kambodia
 KI;;Kiribati
 KN;;Saint Kitts and Nevis
-KR;;Koore, Republik bu
+KR;;Afrik di Sid
 KW;;Kuwet
 LA;;Republik Popileer Demokaraatik bu Laawos
 LB;;Libãa
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papwa Nuweel Ginne
 PL;;Poloñ
 PR;;Poorto Riiko
-KP;;Koore, Republik Popileer Demokaraatik bu
+KP;;Nuweel Kaledooni
 PT;;Portugaal
 PY;;Paraguwaay
 PS;;Palestine, State of

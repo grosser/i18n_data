@@ -120,7 +120,7 @@ KG;;Kyrgyzstan
 KH;;I Kholombiya
 KI;;Kiribati
 KN;;St. Kitts no Nevis
-KR;;Ulawulo lokuziphatha kwe Dominikhani
+KR;;IRiphabliki yaseNingizimu Afrika
 KW;;Kuwait
 LA;;Lao People's Democratic Republic
 LB;;Lebanon
@@ -179,7 +179,7 @@ PW;;I-Paraguwayi
 PG;;Papua New Guinea
 PL;;I-Polandi
 PR;;Puerto Rico
-KP;;Korea, Democratic People's Republic of
+KP;;I-Makhedoniya
 PT;;I-Phothugali
 PY;;I-Paraguwayi
 PS;;Palestine, State of

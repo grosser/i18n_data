@@ -108,7 +108,7 @@ MN;;मोंगोलियन
 MI;;मेओरी
 MS;;मलय
 MY;;बर्लिस
-NA;;नायरू
+NA;;नौरु
 NV;;Navajo; Navaho
 NR;;Ndebele, South; South Ndebele
 ND;;Ndebele, North; North Ndebele
