@@ -2,6 +2,7 @@ PATH
   remote: .
   specs:
     i18n_data (0.14.0)
+      simple_po_parser (~> 1.1)
 
 GEM
   remote: https://rubygems.org/
@@ -25,6 +26,7 @@ GEM
     simple_po_parser (1.1.5)
 
 PLATFORMS
+  x86_64-darwin-19
   x86_64-darwin-21
   x86_64-linux
 
@@ -33,7 +35,6 @@ DEPENDENCIES
   i18n_data!
   rake
   rspec (~> 3.0)
-  simple_po_parser (~> 1.1.5)
 
 BUNDLED WITH
    2.2.32
