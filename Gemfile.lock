@@ -33,7 +33,7 @@ DEPENDENCIES
   i18n_data!
   rake
   rspec (~> 3.0)
-  simple_po_parser
+  simple_po_parser (~> 1.1.5)
 
 BUNDLED WITH
    2.2.32

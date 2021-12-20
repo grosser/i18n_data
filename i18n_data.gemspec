@@ -9,4 +9,5 @@ Gem::Specification.new name, I18nData::VERSION do |s|
   s.files = `git ls-files lib cache `.split("\n")
   s.license = "MIT"
   s.required_ruby_version = '>= 2.5.0'
+  s.add_development_dependency('simple_po_parser', '~> 1.1.5')
 end
