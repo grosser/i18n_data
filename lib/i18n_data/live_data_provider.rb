@@ -91,7 +91,8 @@ module I18nData
       # Eg: "Name for GBR"
       po_entries.map.with_object({}) do |t, translations|
         alpha3 = t[:extracted_comment][-3..-1].upcase
-        translations[alpha3] = t[:msgstr]
+        translation = t[:msgstr]
+        translations[alpha3] = translation.is_a?(Array) ? translation.join : translation
       end
     end
 
