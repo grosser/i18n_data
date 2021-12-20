@@ -6,7 +6,7 @@ require 'yaml'
 $LOAD_PATH << "lib"
 require 'i18n_data'
 
-task default: [:spec, :write_cache_for_file_data_provider]
+task default: [:spec]
 
 task :spec do
   sh "rspec --warnings spec/"
