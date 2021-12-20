@@ -120,7 +120,7 @@ KG;;ကာဂျစ္စတန်နိုင်ငံ
 KH;;ကမ္ဘောဒီးယားနိုင်ငံ
 KI;;ကီရီဘတ်စ်နိုင်ငံ
 KN;;စိန့်ကစ်နှင့် နီးဗစ်နိုင်ငံ
-KR;;Korea, Republic of
+KR;;South Korea
 KW;;ကူဝိတ်နိုင်ငံ
 LA;;Lao People's Democratic Republic
 LB;;လက်ဘနွန်နိုင်ငံ
@@ -179,7 +179,7 @@ PW;;ပလောင်းနိုင်ငံ
 PG;;ပါပူအာနယူးဂီနီနိုင်ငံ
 PL;;ပိုလန်နိုင်ငံ
 PR;;Puerto Rico
-KP;;Korea, Democratic People's Republic of
+KP;;North Korea
 PT;;ပေါ်တူဂီနိုင်ငံ
 PY;;ပါရာဂွေးနိုင်ငံ
 PS;;Palestine, State of

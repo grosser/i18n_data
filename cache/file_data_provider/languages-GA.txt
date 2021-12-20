@@ -13,7 +13,7 @@ AZ;;Asarbaiseáinis
 BA;;Baiscíris
 BM;;Bambáiris
 BE;;Bealarúisis
-BN;;Beangáilis
+BN;;Bengali
 BH;;Bihari languages
 BI;;Bioslamais
 BO;;Tibéidis
@@ -24,7 +24,7 @@ CA;;Catalóinis; Vaileinsis
 CS;;Seicis
 CH;;Seamóróis
 CE;;Seisnis
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;Slaivis; Slavóinic; Slavóinis
 CV;;Suvaisis
 KW;;Coirnis
 CO;;Corsaicis
@@ -119,7 +119,7 @@ NN;;Ioruais Nynorsk
 NB;;Ioruais Bokmål
 NO;;Ioruais
 NY;;Siséivis
-OC;;Ocatáinis (tar éis 1500)
+OC;;Occitan (post 1500); Provençal
 OJ;;Óisibvis
 OR;;Oirísis
 OM;;Oraimis
@@ -131,7 +131,7 @@ PT;;Portaingéilis
 PS;;Paistis
 QU;;Ceatsuais
 RM;;Rómainis
-RO;;Moldávais
+RO;;Romanian; Moldavian; Moldovan
 RN;;Rundi
 RU;;Rúisis
 SG;;Sangóis

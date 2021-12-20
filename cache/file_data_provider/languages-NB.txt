@@ -1,19 +1,19 @@
 AA;;afar
-AB;;Aserbadjansk
+AB;;Abkhazian
 AF;;Afrikansk
-AK;;Aserbadjansk
-AM;;Arabisk
+AK;;Akan
+AM;;Amharic
 AR;;Arabisk
 AN;;aragonsk
 AS;;assamisk
-AV;;Arabisk
+AV;;Avaric
 AE;;avestisk
 AY;;aymara
 AZ;;Aserbadjansk
 BA;;basjkirsk
 BM;;bambara
 BE;;Hviterussisk
-BN;;bengali
+BN;;Bengali
 BH;;Bihari
 BI;;bislama
 BO;;tibetansk
@@ -23,10 +23,10 @@ BG;;Bulgarsk
 CA;;Catalan; Valencian
 CS;;Tjekkisk
 CH;;chamorro
-CE;;Tjekkisk
+CE;;Chechen
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;tsjuvansk
-KW;;Irsk
+KW;;Cornish
 CO;;Korsikansk
 CR;;Cree
 CY;;Walisisk
@@ -51,22 +51,22 @@ GD;;Gaelic; Scottish Gaelic
 GA;;Irsk
 GL;;Galisisk
 GV;;manx
-GN;;Bulgarsk
+GN;;Guarani
 GU;;gujarati
 HT;;Haitian; Haitian Creole
 HA;;Hausa
 HE;;Hebraisk
-HZ;;Hebraisk
+HZ;;Herero
 HI;;hindi
-HO;;Tyrkisk
+HO;;Hiri Motu
 HR;;Kroatsisk
 HU;;Ungarsk
 HY;;armensk
 IG;;ibo
 IO;;ido
-II;;Lituaisk
+II;;Sichuan Yi; Nuosu
 IU;;inuktitut
-IE;;interlingue
+IE;;Interlingue; Occidental
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;Indonesisk
 IK;;unupiak
@@ -78,16 +78,16 @@ KL;;Kalaallisut; Greenlandic
 KN;;kannada
 KS;;kasjmiri
 KA;;Georgisk
-KR;;Tyrkisk
+KR;;Kanuri
 KK;;kasakhisk
 KM;;Central Khmer
-KI;;kikuyu
+KI;;Kikuyu; Gikuyu
 RW;;kinjarwanda
-KY;;kirgisisk
+KY;;Kirghiz; Kyrgyz
 KV;;komi
 KG;;kikongo
 KO;;Koreansk
-KJ;;kuanyama
+KJ;;Kuanyama; Kwanyama
 KU;;Kurdisk
 LO;;laotisk
 LA;;Latin
@@ -95,12 +95,12 @@ LV;;Latvisk
 LI;;Limburgan; Limburger; Limburgish
 LN;;lingala
 LT;;Lituaisk
-LB;;luxemburgsk
+LB;;Luxembourgish; Letzeburgesch
 LU;;luba-katanga
 LG;;ganda
-MH;;Maltisk
+MH;;Marshallese
 ML;;malayalam
-MR;;Maori
+MR;;Marathi
 MK;;Makedonsk
 MG;;madagassisk
 MT;;Maltisk
@@ -110,9 +110,9 @@ MS;;malayisk
 MY;;burmesisk
 NA;;nauru
 NV;;Navajo; Navaho
-NR;;ndebele, sør
-ND;;ndebele (nord)
-NG;;Bosninsk
+NR;;Ndebele, South; South Ndebele
+ND;;Ndebele, North; North Ndebele
+NG;;Ndonga
 NE;;nepalsk
 NL;;Dutch; Flemish
 NN;;Norsk, nynorsk
@@ -123,25 +123,25 @@ OC;;Occitan (post 1500); Provençal
 OJ;;ojibwa
 OR;;oriya
 OM;;oromo
-OS;;Russisk
+OS;;Ossetian; Ossetic
 PA;;Panjabi; Punjabi
-PI;;Polsk
+PI;;Pali
 PL;;Polsk
 PT;;Portugisisk
 PS;;Pushto; Pashto
 QU;;quechua
-RM;;Rumensk
-RO;;Latvisk
+RM;;Romansh
+RO;;Romanian; Moldavian; Moldovan
 RN;;rundi
 RU;;Russisk
 SG;;sango
 SA;;sanskrit
-SI;;Vietnamesisk
+SI;;Sinhala; Sinhalese
 SK;;Slovakisk
 SL;;Slovensk
 SE;;nordsamisk
 SM;;samoansk
-SN;;Xhosa
+SN;;Shona
 SD;;sindhi
 SO;;somalisk
 ST;;Sotho, (sørlig)
@@ -157,17 +157,17 @@ TY;;Tahitisk
 TA;;Tamilsk
 TT;;tatarisk
 TE;;telugu
-TG;;Thai
+TG;;Tajik
 TL;;tagalog
 TH;;Thai
-TI;;Tyrkisk
+TI;;Tigrinya
 TO;;tonga (Tonga-øyene)
 TN;;tswana
 TS;;tsonga
 TK;;turkmensk
 TR;;Tyrkisk
 TW;;twi
-UG;;uigurisk
+UG;;Uighur; Uyghur
 UK;;Ukrainsk
 UR;;urdu
 UZ;;usbekisk
@@ -181,4 +181,4 @@ YI;;jiddisk
 YO;;joruba
 ZA;;Zhuang; Chuang
 ZH;;Kinesisk
-ZU;;Julia
+ZU;;Zulu

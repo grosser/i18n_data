@@ -49,7 +49,7 @@ CG;;Kongas
 CK;;Kuko salos
 CO;;Kolumbija
 KM;;Komorai
-CV;;Žaliasis Kyšulys
+CV;;Cabo Verde
 CR;;Kosta Rika
 CU;;Kuba
 CW;;Kiurasao
@@ -142,7 +142,7 @@ MG;;Madagaskaras
 MV;;Maldyvai
 MX;;Meksika
 MH;;Maršalo salos
-MK;;Naujoji Kaledonija
+MK;;North Macedonia
 ML;;Malis
 MT;;Malta
 MM;;Mianmaras
@@ -227,7 +227,7 @@ TN;;Tunisas
 TR;;Turkija
 TV;;Tuvalu
 TW;;Taivanas
-TZ;;Tanzanija
+TZ;;Tanzanijos Jungtinė Respublika
 UG;;Uganda
 UA;;Ukraina
 UM;;Jungtinių Amerikos Valstijų mažosios aplinkinės salos

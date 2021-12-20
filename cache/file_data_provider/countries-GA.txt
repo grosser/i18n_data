@@ -49,7 +49,7 @@ CG;;An Congó
 CK;;Oileáin Cook
 CO;;An Cholóim
 KM;;Oileán Chomóra
-CV;;Rinn Verde
+CV;;Cabo Verde
 CR;;Cósta Rice
 CU;;Cúba
 CW;;Curasao
@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Oileáin Mhaildíve
 MX;;Meicsiceo
 MH;;Oileáin Marshall
-MK;;An Nua-Chaladóin
+MK;;North Macedonia
 ML;;Mailí
 MT;;Málta
 MM;;Maenmar

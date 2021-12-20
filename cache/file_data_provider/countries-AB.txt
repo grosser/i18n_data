@@ -3,25 +3,25 @@ AF;;Afghanistan
 AO;;Angola
 AI;;Anguilla
 AX;;Åland Islands
-AL;;Арнауыҭтәыла
-AD;;Андора
+AL;;Albania
+AD;;Andorra
 AE;;United Arab Emirates
 AR;;Argentina
-AM;;Ермантәыла
+AM;;Armenia
 AS;;American Samoa
 AQ;;Antarctica
 TF;;French Southern Territories
 AG;;Antigua and Barbuda
-AU;;Австралиа
-AT;;Австриа
-AZ;;Азербаиџьан
+AU;;Australia
+AT;;Austria
+AZ;;Azerbaijan
 BI;;Burundi
 BE;;Belgium
 BJ;;Benin
 BQ;;Bonaire, Sint Eustatius and Saba
 BF;;Burkina Faso
 BD;;Bangladesh
-BG;;Былгариа
+BG;;Bulgaria
 BH;;Bahrain
 BS;;Bahamas
 BA;;Bosnia and Herzegovina
@@ -29,18 +29,18 @@ BL;;Saint Barthélemy
 BY;;Belarus
 BZ;;Belize
 BM;;Bermuda
-BO;;Боливиа
+BO;;Bolivia
 BR;;Brazil
 BB;;Barbados
 BN;;Brunei Darussalam
-BT;;Бутан
+BT;;Bhutan
 BV;;Bouvet Island
 BW;;Botswana
 CF;;Central African Republic
-CA;;Канада
+CA;;Canada
 CC;;Cocos (Keeling) Islands
 CH;;Switzerland
-CL;;Чили
+CL;;Chile
 CN;;China
 CI;;Côte d'Ivoire
 CM;;Cameroon
@@ -55,30 +55,30 @@ CU;;Cuba
 CW;;Curaçao
 CX;;Christmas Island
 KY;;Cayman Islands
-CY;;Ҟыбрыс
-CZ;;Чехиа
-DE;;Алмантәыла
+CY;;Cyprus
+CZ;;Czechia
+DE;;Germany
 DJ;;Djibouti
 DM;;Dominica
 DK;;Denmark
 DO;;Dominican Republic
 DZ;;Algeria
 EC;;Ecuador
-EG;;Мысры
+EG;;Egypt
 ER;;Eritrea
 EH;;Western Sahara
-ES;;Еспаниа
+ES;;Spain
 EE;;Estonia
 ET;;Ethiopia
-FI;;Суоми
+FI;;Finland
 FJ;;Fiji
 FK;;Falkland Islands (Malvinas)
-FR;;Франциа
+FR;;France
 FO;;Faroe Islands
 FM;;Micronesia, Federated States of
 GA;;Gabon
-GB;;Британиа Ду
-GE;;Қырҭтәыла
+GB;;United Kingdom
+GE;;Georgia
 GG;;Guernsey
 GH;;Ghana
 GI;;Gibraltar
@@ -87,57 +87,57 @@ GP;;Guadeloupe
 GM;;Gambia
 GW;;Guinea-Bissau
 GQ;;Equatorial Guinea
-GR;;Барзентәыла
+GR;;Greece
 GD;;Grenada
 GL;;Greenland
 GT;;Guatemala
 GF;;French Guiana
 GU;;Guam
 GY;;Guyana
-HK;;Гонконг
+HK;;Hong Kong
 HM;;Heard Island and McDonald Islands
 HN;;Honduras
-HR;;Хорватиа
+HR;;Croatia
 HT;;Haiti
-HU;;Мадиартәыла
+HU;;Hungary
 ID;;Indonesia
 IM;;Isle of Man
 IN;;India
 IO;;British Indian Ocean Territory
 IE;;Ireland
-IR;;Џьамтәыла
+IR;;Iran, Islamic Republic of
 IQ;;Iraq
 IS;;Iceland
 IL;;Israel
-IT;;Италиа
+IT;;Italy
 JM;;Jamaica
 JE;;Jersey
 JO;;Jordan
-JP;;Иапониа
-KZ;;Ҟазаҟсҭан
+JP;;Japan
+KZ;;Kazakhstan
 KE;;Kenya
-KG;;Ҟырҕызсҭан
+KG;;Kyrgyzstan
 KH;;Cambodia
 KI;;Kiribati
 KN;;Saint Kitts and Nevis
-KR;;Korea, Republic of
+KR;;South Korea
 KW;;Kuwait
 LA;;Lao People's Democratic Republic
 LB;;Lebanon
 LR;;Liberia
 LY;;Libya
 LC;;Saint Lucia
-LI;;Лихтенштаин
+LI;;Liechtenstein
 LK;;Sri Lanka
 LS;;Lesotho
-LT;;Литва
+LT;;Lithuania
 LU;;Luxembourg
 LV;;Latvia
 MO;;Macao
 MF;;Saint Martin (French part)
 MA;;Morocco
-MC;;Монако
-MD;;Молдова
+MC;;Monaco
+MD;;Moldova
 MG;;Madagascar
 MV;;Maldives
 MX;;Mexico
@@ -165,7 +165,7 @@ NG;;Nigeria
 NI;;Nicaragua
 NU;;Niue
 NL;;Netherlands
-NO;;Норвегиа
+NO;;Norway
 NP;;Nepal
 NR;;Nauru
 NZ;;New Zealand
@@ -173,13 +173,13 @@ OM;;Oman
 PK;;Pakistan
 PA;;Panama
 PN;;Pitcairn
-PE;;Перу
+PE;;Peru
 PH;;Philippines
 PW;;Palau
 PG;;Papua New Guinea
-PL;;Полша
+PL;;Poland
 PR;;Puerto Rico
-KP;;Korea, Democratic People's Republic of
+KP;;North Korea
 PT;;Portugal
 PY;;Paraguay
 PS;;Palestine, State of
@@ -187,7 +187,7 @@ PF;;French Polynesia
 QA;;Qatar
 RE;;Réunion
 RO;;Romania
-RU;;Урыстәыла
+RU;;Russian Federation
 RW;;Rwanda
 SA;;Saudi Arabia
 SD;;Sudan
@@ -199,20 +199,20 @@ SJ;;Svalbard and Jan Mayen
 SB;;Solomon Islands
 SL;;Sierra Leone
 SV;;El Salvador
-SM;;Сан Марино
+SM;;San Marino
 SO;;Somalia
 PM;;Saint Pierre and Miquelon
 RS;;Serbia
 SS;;South Sudan
 ST;;Sao Tome and Principe
 SR;;Suriname
-SK;;Словакиа
+SK;;Slovakia
 SI;;Slovenia
-SE;;Швециа
+SE;;Sweden
 SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seychelles
-SY;;Шьамтәыла
+SY;;Syrian Arab Republic
 TC;;Turks and Caicos Islands
 TD;;Chad
 TG;;Togo
@@ -224,12 +224,12 @@ TL;;Timor-Leste
 TO;;Tonga
 TT;;Trinidad and Tobago
 TN;;Tunisia
-TR;;Ҭырқәтәыла
+TR;;Turkey
 TV;;Tuvalu
 TW;;Taiwan
 TZ;;Tanzania
 UG;;Uganda
-UA;;Украина
+UA;;Ukraine
 UM;;United States Minor Outlying Islands
 UY;;Uruguay
 US;;United States
@@ -239,8 +239,8 @@ VC;;Saint Vincent and the Grenadines
 VE;;Venezuela
 VG;;Virgin Islands, British
 VI;;Virgin Islands, U.S.
-VN;;Виетнам
-VU;;Вануату
+VN;;Vietnam
+VU;;Vanuatu
 WF;;Wallis and Futuna
 WS;;Samoa
 YE;;Yemen

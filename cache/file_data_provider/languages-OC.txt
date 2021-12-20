@@ -13,8 +13,8 @@ AZ;;Azèri
 BA;;Bashkir
 BM;;Bambara
 BE;;Bielorús
-BN;;Bengalin
-BH;;Lengas nahuatl
+BN;;Bengali
+BH;;Bihari languages
 BI;;Bislama
 BO;;Tibetan
 BS;;Bosnian
@@ -119,7 +119,7 @@ NN;;Norvegian Nynorsk ; Nynorks, Norvegian
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;Norwegian
 NY;;Chichewa; Chewa; Nyanja
-OC;;Occitan (aprèp 1500)
+OC;;Occitan (post 1500); Provençal
 OJ;;Ojibwa
 OR;;Oriya
 OM;;Oromo

@@ -13,7 +13,7 @@ AZ;;Azerbajdžanski
 BA;;Baškirski
 BM;;Bambara
 BE;;Bjeloruski
-BN;;Bengalski
+BN;;Banglaški
 BH;;Biharski jezici
 BI;;Bislama
 BO;;Tibetski
@@ -24,7 +24,7 @@ CA;;Katalonski; valencijski
 CS;;Češki
 CH;;Chamorro
 CE;;Čečenski
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;["", "Crkveni slavenski; staroslavenski; starobugarski; stari crkveni slavenski"]
 CV;;Čuvaški
 KW;;Kornijski
 CO;;Korzički
@@ -150,7 +150,7 @@ SQ;;Albanski
 SC;;Sardinijski
 SR;;Srpski
 SS;;Swati
-SU;;Sudanski
+SU;;Sundansko
 SW;;Svahili
 SV;;Švedski
 TY;;Tahićanski

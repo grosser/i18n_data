@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Maldive
 MX;;Mexic
 MH;;Insulele Marshall
-MK;;Noua Caledonie
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Myanmar

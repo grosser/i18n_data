@@ -13,7 +13,7 @@ AZ;;azéri
 BA;;bachkir
 BM;;bambara
 BE;;biélorusse
-BN;;bengali
+BN;;bangla
 BH;;langues biharis
 BI;;bichelamar
 BO;;tibétain
@@ -24,7 +24,7 @@ CA;;catalan
 CS;;tchèque
 CH;;chamorro
 CE;;tchétchène
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;slavon d'église
 CV;;tchouvache
 KW;;cornique
 CO;;corse

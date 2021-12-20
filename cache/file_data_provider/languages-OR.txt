@@ -13,7 +13,7 @@ AZ;;Azerbaijani
 BA;;ବାସ୍କିର
 BM;;ବାମ୍ବାରା
 BE;;ବେଲାରୁସିୟାନ
-BN;;ବଙ୍ଗାଳୀ
+BN;;ବାଙ୍ଗାଳ
 BH;;ବିହାରୀ ଭାଷା
 BI;;Bislama
 BO;;ତିବ୍ବେତୀ
@@ -24,7 +24,7 @@ CA;;କାଟାଲାନ; ଭାଲେନସିଆନ
 CS;;ଚେକ
 CH;;Chamorro
 CE;;ଚେଚେନ
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;["", "ଚର୍ଚ୍ଚ ସ୍ଲାଭିକ; ପୁରୁଣା ସ୍ଲାଭୋନିକ; ଚର୍ଚ୍ଚ ସ୍ଲାଭୋନିକ; ପୁରୁଣା ବୁଲଗାରିଆନ; ପୁରୁଣା ଚର୍ଚ୍ଚ ସ୍ଲାଭୋନିକ"]
 CV;;Chuvash
 KW;;Cornish
 CO;;Corsican

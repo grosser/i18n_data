@@ -143,7 +143,7 @@ MV;;Islas Maldivas
 MX;;México
 MH;;Islas Marshall
 MK;;Macedonia del Norte
-ML;;Mali
+ML;;Malí
 MT;;Malta
 MM;;Birmania
 ME;;Montenegro
@@ -209,7 +209,7 @@ SR;;Surinám
 SK;;Eslovaquia
 SI;;Eslovenia
 SE;;Suecia
-SZ;;Suazilandia
+SZ;;Esuatini
 SX;;Isla de San Martín (zona holandsea)
 SC;;Seychelles
 SY;;República árabe de Siria

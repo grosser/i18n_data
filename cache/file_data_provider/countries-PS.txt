@@ -120,12 +120,12 @@ KG;;قرغزستان
 KH;;کمبودیا
 KI;;Kiribati
 KN;;Saint Kitts and Nevis
-KR;;Korea, Republic of
+KR;;South Korea
 KW;;کویټ
 LA;;Lao People's Democratic Republic
 LB;;لبنان
 LR;;لایبریا
-LY;;لایبریا
+LY;;Libya
 LC;;سېنټ لوسیا
 LI;;Liechtenstein
 LK;;سریلانکا
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua New Guinea
 PL;;پولنډ
 PR;;Puerto Rico
-KP;;Korea, Democratic People's Republic of
+KP;;North Korea
 PT;;پورتګال
 PY;;Paraguay
 PS;;Palestine, State of
@@ -202,7 +202,7 @@ SV;;سالوېډور
 SM;;سان مارینو
 SO;;سومالیا
 PM;;Saint Pierre and Miquelon
-RS;;الجزایر
+RS;;Serbia
 SS;;سوېلي سوډان
 ST;;Sao Tome and Principe
 SR;;سورينام

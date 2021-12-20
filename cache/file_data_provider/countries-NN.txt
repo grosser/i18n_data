@@ -49,7 +49,7 @@ CG;;Kongo
 CK;;Cookøyane
 CO;;Colombia
 KM;;Komorane
-CV;;Kapp Verde
+CV;;Cabo Verde
 CR;;Costa Rica
 CU;;Cuba
 CW;;Curaçao
@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldivane
 MX;;Mexico
 MH;;Marshalløyane
-MK;;Ny-Caledonia
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -168,7 +168,7 @@ NL;;Nederland
 NO;;Noreg
 NP;;Nepal
 NR;;Nauru
-NZ;;New Zealand; Ny-Zealand
+NZ;;New Zealand
 OM;;Oman
 PK;;Pakistan
 PA;;Panama

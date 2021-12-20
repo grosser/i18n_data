@@ -23,7 +23,7 @@ BF;;Burkina Faso
 BD;;Bangladexx
 BG;;Bulgarija
 BH;;Baħrejn
-BS;;Panama
+BS;;Bahamas
 BA;;Bożnija Ħerżegovina
 BL;;Saint Barthélemy
 BY;;Belarus
@@ -47,9 +47,9 @@ CM;;Kamerun
 CD;;Congo, The Democratic Republic of the
 CG;;Kongo
 CK;;Gżejjer Cook
-CO;;Kolumbja
+CO;;Colombia
 KM;;Komoros
-CV;;Kape Verde
+CV;;Cabo Verde
 CR;;Kosta Rika
 CU;;Kuba
 CW;;Curaçao
@@ -63,7 +63,7 @@ DM;;Dominika
 DK;;Danimarka
 DO;;Repubblika Dominikana
 DZ;;Alġerija
-EC;;Ekwador
+EC;;Ecuador
 EG;;Eġittu
 ER;;Eritreja
 EH;;Sahara tal-Punent
@@ -84,7 +84,7 @@ GH;;Gana
 GI;;Ġibiltà
 GN;;Gineja
 GP;;Gwadelupe
-GM;;Ġamajka
+GM;;Gambia
 GW;;Ginea-Bissaw
 GQ;;Ginea Ekwatorjali
 GR;;Greċja
@@ -105,12 +105,12 @@ IM;;Gżira ta' Man
 IN;;Indja
 IO;;Territorji Brittaniċi fl-Oċean Indjan
 IE;;Irlanda
-IR;;Repubblika Dominikana
+IR;;Iran, Islamic Republic of
 IQ;;Iraq
 IS;;Islandja
 IL;;Iżrael
 IT;;Italja
-JM;;Ġamajka
+JM;;Jamaica
 JE;;Jersey
 JO;;Ġordan
 JP;;Ġappun
@@ -119,21 +119,21 @@ KE;;Kenja
 KG;;Kirgistan
 KH;;Kambodja
 KI;;Kiribati
-KN;;St. Kitts u Nevis
-KR;;Repubblika Dominikana
+KN;;Saint Kitts and Nevis
+KR;;South Korea
 KW;;Kuwajt
 LA;;Lao People's Democratic Republic
 LB;;Libanu
 LR;;Liberja
 LY;;Libja
-LC;;St. Luċija
+LC;;Saint Lucia
 LI;;Liechtenstein
 LK;;Sri Lanka
 LS;;Lesoto
 LT;;Litwanja
 LU;;Lussemburgu
 LV;;Latvja
-MO;;Malta
+MO;;Macao
 MF;;Saint Martin (French part)
 MA;;Marokk
 MC;;Monako
@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldivi
 MX;;Messiku
 MH;;Gżejjer ta' Marshall
-MK;;Kaledonja l-Ġdida
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -179,7 +179,7 @@ PW;;Palaw
 PG;;Papwa-Ginea Ġdida
 PL;;Polonja
 PR;;Porto Riku
-KP;;Korea, Democratic People's Republic of
+KP;;North Korea
 PT;;Portugall
 PY;;Paragwaj
 PS;;Palestine, State of
@@ -202,28 +202,28 @@ SV;;El Salvador
 SM;;San Marino
 SO;;Somalja
 PM;;Saint Pierre u Miquelon
-RS;;Serbja
+RS;;Serbia
 SS;;Sudan t'Isfel
 ST;;Sao Tome and Principe
 SR;;Surinam
-SK;;Slovakk
+SK;;Slovakia
 SI;;Slovenja
 SE;;Svezja
 SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seychelles
-SY;;Repubblika Dominikana
+SY;;Syrian Arab Republic
 TC;;Gżejjer Turks u Kajkos
 TD;;Ċad
 TG;;Togo
 TH;;Tajlandja
-TJ;;Taġikistan
+TJ;;Tajikistan
 TK;;Tokelaw
 TM;;Turkmenistan
 TL;;Timor tal-Lvant
 TO;;Tonga
 TT;;Trinidad u Tobago
-TN;;Tuneżija
+TN;;Tunisia
 TR;;Turkija
 TV;;Tuvalu
 TW;;Tajwan
@@ -232,13 +232,13 @@ UG;;Uganda
 UA;;Ukranja
 UM;;Gżejjer Minuri Mbiegħda tal-Istati Uniti
 UY;;Urugwaj
-US;;Stati Uniti
+US;;United States
 UZ;;Użbekistan
 VA;;Holy See (Vatican City State)
-VC;;St. Vinċenz u l-Grenadini
+VC;;Saint Vincent and the Grenadines
 VE;;Veneżwela
 VG;;Virgin Islands, British
-VI;;Finlandja
+VI;;Virgin Islands, U.S.
 VN;;Vjetnam
 VU;;Vanwatu
 WF;;Wallis u Futuna

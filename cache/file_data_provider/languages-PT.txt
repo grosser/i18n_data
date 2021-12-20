@@ -1,20 +1,20 @@
 AA;;afar
 AB;;abkhazian
 AF;;Africanos
-AK;;Africanos
-AM;;Arábico
+AK;;Akan
+AM;;Amárico
 AR;;Árabe
-AN;;Faroês
+AN;;Aragonês
 AS;;assamês
-AV;;Arábico
+AV;;Avárico
 AE;;avéstico
 AY;;aimara
 AZ;;Azerbaijani
 BA;;bashkir
 BM;;bambara
 BE;;Bielorusso
-BN;;Bengali
-BH;;idiomas tupi
+BN;;Bangla
+BH;;Idiomas biaris
 BI;;bislamá
 BO;;tibetano
 BS;;Bósnio
@@ -24,11 +24,11 @@ CA;;Catalão; Valenciano
 CS;;Checo
 CH;;chamorro
 CE;;Checheno
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;["", "Eslavo Eclesiástico; Eslavo Antigo; Eslavo Eclesiástico; Búlgaro Antigo; ", "Eslavônico Antigo Eclesiástico"]
 CV;;chuvash
-KW;;Cores
+KW;;Córnico
 CO;;córsico
-CR;;Grego
+CR;;Cree
 CY;;galês
 DA;;Dinamarquês
 DE;;Alemão
@@ -45,31 +45,31 @@ FA;;Persa
 FJ;;fijiano
 FI;;Finlandês
 FR;;Francês
-FY;;Ucraniano
+FY;;Frísio ocidental
 FF;;fula
 GD;;Gaélico; Gaélico Escocês
 GA;;Irlandês
 GL;;Galego
-GV;;Man
+GV;;Manx
 GN;;Guarani
 GU;;Guzerate
 HT;;Haitiano; Crioulo Haitiano
-HA;;Parar
+HA;;Hauçá
 HE;;Hebreu
-HZ;;Hebreu
+HZ;;Hereró
 HI;;Hindi
-HO;;Procurar
+HO;;Hiri Motu
 HR;;Croata
 HU;;Húngaro
 HY;;arménio
 IG;;ibo
 IO;;ido
-II;;Lituano
+II;;Yi de Sichuan; Nuosu
 IU;;inuktitut
-IE;;Renderização
+IE;;Ocidental
 IA;;Interlíngua
 ID;;Indonésio
-IK;;Indiano
+IK;;Inupiaque
 IS;;Islandês
 IT;;Italiano
 JV;;Javanês
@@ -78,65 +78,65 @@ KL;;Groenlandês
 KN;;Kannada
 KS;;kashmiri
 KA;;georgiano
-KR;;Turco
+KR;;Canúri
 KK;;cazaque
 KM;;Khmer Central
-KI;;quicuio
+KI;;Quicuio
 RW;;kinyarwanda
-KY;;quirguiz
+KY;;Quiguiz
 KV;;komi
 KG;;congolês
 KO;;Coreano
-KJ;;Kuanyama
+KJ;;Cuanhama
 KU;;Curdo
 LO;;Laosiano
 LA;;Latim
 LV;;Letão
 LI;;Limburgês
-LN;;Le_gal
+LN;;Lingala
 LT;;Lituano
-LB;;luxemburguês
+LB;;Luxemburguês
 LU;;luba-catanga
 LG;;luganda
-MH;;Falso
+MH;;Marshalês
 ML;;malaiala
 MR;;marata
 MK;;Macedônio
 MG;;malgaxe
-MT;;Falso
+MT;;Maltês
 MN;;Mongol
 MI;;Maori
 MS;;Malaio
 MY;;birmanês
 NA;;nauruano
 NV;;Navarro
-NR;;ndebele, south
-ND;;ndebele, north
+NR;;Ndebele do Sul
+ND;;Ndebele do Norte
 NG;;dongo
 NE;;Nepalês
 NL;;Holandês; Flamengo
-NN;;Norueguês
+NN;;Norueguês Nynorsk
 NB;;Norwegian Bokmål
 NO;;Norueguês
 NY;;Cinianja
 OC;;Occitâno (pós-1500); Provençal
 OJ;;ojibwa
 OR;;oriya
-OM;;de
-OS;;Russo
+OM;;Oromo
+OS;;Osseta
 PA;;Panjabi
-PI;;Polaco
+PI;;Páli
 PL;;Polaco
 PT;;Português
 PS;;Pachto
 QU;;quíchua
-RM;;Romêno
-RO;;moldávio
+RM;;Romanche
+RO;;Romeno; Moldávio; Moldavo
 RN;;rundi
 RU;;Russo
 SG;;sango
-SA;;Sans serif
-SI;;Vietnamita
+SA;;Sânscrito
+SI;;Cingalês
 SK;;Eslovaco
 SL;;Eslovêno
 SE;;northern sami
@@ -147,27 +147,27 @@ SO;;somali
 ST;;soto, do sul
 ES;;Espanhol; Castelhano
 SQ;;Albanês
-SC;;Macedônio
+SC;;Sardo
 SR;;Sérvio
 SS;;swati
 SU;;sundanês
 SW;;suaíli
 SV;;Sueco
-TY;;Letão
-TA;;Tailandês
+TY;;Taitiano
+TA;;Tâmil
 TT;;tatar
 TE;;Telugu
-TG;;Tailandês
+TG;;Tadjique
 TL;;Tagalo
 TH;;Tailandês
-TI;;Turco
+TI;;Tigrínia
 TO;;tonga (ilhas tonga)
 TN;;tswana
 TS;;tsonga
 TK;;turcomano
 TR;;Turco
 TW;;twi
-UG;;uighur
+UG;;Uigur
 UK;;Ucraniano
 UR;;urdu
 UZ;;usbeque

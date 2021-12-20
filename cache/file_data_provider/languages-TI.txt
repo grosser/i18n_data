@@ -13,8 +13,8 @@ AZ;;አዜርባይጃንኛ
 BA;;ባስኪርኛ
 BM;;Bambara
 BE;;ቤላራሻኛ
-BN;;በንጋሊኛ
-BH;;ኮሪያኛ
+BN;;Bengali
+BH;;Bihari languages
 BI;;ቢስላምኛ
 BO;;ትበትንኛ
 BS;;Bosnian
@@ -45,7 +45,7 @@ FA;;ፐርሲያኛ
 FJ;;ፊጂኛ
 FI;;ፊኒሽ
 FR;;ፈረንሳይኛ
-FY;;ፍሪስኛ
+FY;;Western Frisian
 FF;;Fulah
 GD;;Gaelic; Scottish Gaelic
 GA;;አይሪሽ
@@ -66,7 +66,7 @@ IG;;Igbo
 IO;;Ido
 II;;Sichuan Yi; Nuosu
 IU;;እኑክቲቱትኛ
-IE;;እንተርሊንግወ
+IE;;Interlingue; Occidental
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;እንዶኒሲኛ
 IK;;እኑፒያቅኛ
@@ -83,7 +83,7 @@ KK;;ካዛክኛ
 KM;;Central Khmer
 KI;;Kikuyu; Gikuyu
 RW;;ኪንያርዋንድኛ
-KY;;ኪርጊዝኛ
+KY;;Kirghiz; Kyrgyz
 KV;;Komi
 KG;;Kongo
 KO;;ኮሪያኛ
@@ -130,13 +130,13 @@ PL;;ፖሊሽ
 PT;;ፖርቱጋሊኛ
 PS;;Pushto; Pashto
 QU;;ኵቿኛ
-RM;;ሮማኒያን
-RO;;ሞልዳቫዊና
+RM;;Romansh
+RO;;Romanian; Moldavian; Moldovan
 RN;;ሩንዲኛ
 RU;;ራሽኛ
 SG;;ሳንጎኛ
 SA;;ሳንስክሪትኛ
-SI;;ስንሃልኛ
+SI;;Sinhala; Sinhalese
 SK;;ስሎቫክኛ
 SL;;ስሎቪኛ
 SE;;Northern Sami
@@ -167,7 +167,7 @@ TS;;ጾንጋኛ
 TK;;ቱርክመንኛ
 TR;;ቱርክኛ
 TW;;ትዊኛ
-UG;;ኡዊግሁርኛ
+UG;;Uighur; Uyghur
 UK;;ዩክረኒኛ
 UR;;ኡርዱኛ
 UZ;;ኡዝበክኛ

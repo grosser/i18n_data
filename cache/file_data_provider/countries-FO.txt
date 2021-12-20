@@ -2,13 +2,13 @@ AW;;Aruba
 AF;;Afganistan
 AO;;Angola
 AI;;Anguilla
-AX;;Åland Islands
+AX;;Áland
 AL;;Albania
 AD;;Andorra
-AE;;Sameindu Emirríkini
+AE;;Sameindu arabisku emiratini
 AR;;Argentina
 AM;;Armenia
-AS;;American Samoa
+AS;;Sámoa
 AQ;;Antarktis
 TF;;French Southern Territories
 AG;;Antigua og Barbuda
@@ -49,7 +49,7 @@ CG;;Kongo
 CK;;Cook Islands
 CO;;Kolombia
 KM;;Komorooyggjarnar
-CV;;Grønhøvdaoyggjarnar
+CV;;Cabo Verde
 CR;;Kosta Rika
 CU;;Kuba
 CW;;Curaçao
@@ -120,7 +120,7 @@ KG;;Kirgisia
 KH;;Kambodja
 KI;;Kiribati
 KN;;Saint Kitts og Nevis
-KR;;Korea, Republic of
+KR;;South Korea
 KW;;Kuvait
 LA;;Lao People's Democratic Republic
 LB;;Libanon
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua Nýguinea
 PL;;Pólland
 PR;;Puerto Rico
-KP;;Korea, Democratic People's Republic of
+KP;;North Korea
 PT;;Portugal
 PY;;Paraguei
 PS;;Palestine, State of
@@ -202,8 +202,8 @@ SV;;El Salvador
 SM;;San Marino
 SO;;Somalia
 PM;;Saint Pierre and Miquelon
-RS;;Aserbajdsjan
-SS;;Domingo lýðveldið
+RS;;Serbia
+SS;;South Sudan
 ST;;Sao Tome og Prinsipi
 SR;;Surinam
 SK;;Slovakia
@@ -234,7 +234,7 @@ UM;;United States Minor Outlying Islands
 UY;;Uruguei
 US;;Sambandsríki Amerika
 UZ;;Usbekistan
-VA;;Holy See (Vatican City State)
+VA;;Vatikanríki
 VC;;Saint Vinsent og Grenadinoyggjar
 VE;;Venesuela
 VG;;Virgin Islands, British

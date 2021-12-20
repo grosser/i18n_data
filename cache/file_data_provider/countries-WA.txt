@@ -49,7 +49,7 @@ CG;;Congo-Brazza
 CK;;Iyes Cook
 CO;;Colombeye
 KM;;Comores
-CV;;Cap Vert
+CV;;Cabo Verde
 CR;;Costa Rica
 CU;;Cuba
 CW;;Curaçao
@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Maldives
 MX;;Mecsike
 MH;;Iyes Marshall
-MK;;Nouve Caledoneye
+MK;;North Macedonia
 ML;;Mali
 MT;;Male
 MM;;Birmaneye

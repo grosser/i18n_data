@@ -120,7 +120,7 @@ KG;;Kirgyzje
 KH;;Kambodja
 KI;;Kiribaty
 KN;;Sint Kits en Nevis
-KR;;Korea, Republic of
+KR;;South Korea
 KW;;Koeweit
 LA;;Lao People's Democratic Republic
 LB;;Libanon
@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldiven
 MX;;Meksiko
 MH;;Marshall Islands
-MK;;Nij-Kaledoanje
+MK;;North Macedonia
 ML;;Maly
 MT;;Malta
 MM;;Birma
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papoea Nij-Guinea
 PL;;Poalen
 PR;;Puerto Riko
-KP;;Korea, Democratic People's Republic of
+KP;;North Korea
 PT;;Portegal
 PY;;Paraguay
 PS;;Palestine, State of

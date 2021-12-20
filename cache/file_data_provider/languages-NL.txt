@@ -13,7 +13,7 @@ AZ;;Azerbeidzjaans
 BA;;Basjkiers, Basjkirisch
 BM;;Bambara
 BE;;Wit-Russisch, Belarussisch
-BN;;Bengaals
+BN;;Bangaals
 BH;;Bihari-talen
 BI;;Bislama
 BO;;Tibetaans
@@ -24,7 +24,7 @@ CA;;Catalaans; Valenciaans
 CS;;Tsjechisch
 CH;;Chamorro
 CE;;Tsjetsjeens
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;Kerkslavisch; Oud-Slavisch; Oud-Bulgaars; Oud-Kerkslavisch
 CV;;Tsjoevasjisch
 KW;;Cornish
 CO;;Corsicaans

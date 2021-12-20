@@ -14,7 +14,7 @@ BA;;Basjkirsk
 BM;;Bambara
 BE;;Kviterussisk
 BN;;Bengali
-BH;;Tupi-språk
+BH;;Bihari languages
 BI;;Bislama
 BO;;Tibetansk
 BS;;Bosnisk
@@ -24,7 +24,7 @@ CA;;Katalansk
 CS;;Tsjekkisk
 CH;;Chamorro
 CE;;Tsjetsjensk
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;Kyrkjeslavisk
 CV;;Tsjuvasjisk
 KW;;Kornisk
 CO;;Korsikansk
@@ -66,7 +66,7 @@ IG;;Ibo
 IO;;Ido
 II;;Sichuan Yi; Nuosu
 IU;;Inuittisk
-IE;;Interlingue
+IE;;Interlingue; Occidental
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;Indonesisk
 IK;;Inupiak
@@ -83,7 +83,7 @@ KK;;Kasakhisk
 KM;;Central Khmer
 KI;;Kikuyu
 RW;;Kinyarwanda
-KY;;Kirgisisk
+KY;;Kirghiz; Kyrgyz
 KV;;Komi
 KG;;Kongo
 KO;;Koreansk
@@ -110,33 +110,33 @@ MS;;Malayisk
 MY;;Burmesisk
 NA;;Naurisk
 NV;;Navaho
-NR;;Sør-Afrika
+NR;;Ndebele, South; South Ndebele
 ND;;Ndebele, North; North Ndebele
 NG;;Ndonga
 NE;;Nepali
-NL;;nederlandsk
+NL;;Dutch; Flemish
 NN;;Norsk (nynorsk)
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;Norsk
 NY;;Chichewa; Chewa; Nyanja
-OC;;Oksitansk (etter 1500)
+OC;;Occitan (post 1500); Provençal
 OJ;;Ojibwa
 OR;;Oriya
 OM;;Oromo
 OS;;Ossetisk
-PA;;panjabi
+PA;;Panjabi; Punjabi
 PI;;Pali
 PL;;Polsk
 PT;;Portugisisk
-PS;;Pashto
+PS;;Pushto; Pashto
 QU;;Puechua
-RM;;Romani
-RO;;Moldovsk
+RM;;Romansh
+RO;;Romanian; Moldavian; Moldovan
 RN;;Rundi
 RU;;Russisk
 SG;;Sango
 SA;;Sanskrit
-SI;;singalesisk singalesisk
+SI;;Sinhala; Sinhalese
 SK;;Slovakisk
 SL;;Slovensk
 SE;;Nordsamisk
@@ -167,7 +167,7 @@ TS;;Tsonga
 TK;;Turkmensk
 TR;;Tyrkisk
 TW;;Twi
-UG;;uigurisk
+UG;;Uighur; Uyghur
 UK;;Ukrainsk
 UR;;Urdu
 UZ;;Usbekisk

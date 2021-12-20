@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldivy
 MX;;Mexiko
 MH;;Marshallove ostrovy
-MK;;Nová Kaledónia
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Mjanmarsko

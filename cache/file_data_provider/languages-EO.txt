@@ -24,7 +24,7 @@ CA;;Kataluna; Valencia
 CS;;Ĉeĥa
 CH;;Ĉamora
 CE;;Ĉeĉena
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;Slavona
 CV;;Ĉuvaŝa
 KW;;Kornvala
 CO;;Korsika
@@ -119,7 +119,7 @@ NN;;Norvega (Nynorsk)
 NB;;Norvega (Bokmål)
 NO;;Norvega
 NY;;Njanĝa
-OC;;Okcitana (post 1500)
+OC;;Okcitana (post 1500); Provenca
 OJ;;Oĝibva
 OR;;Orija
 OM;;Oroma
@@ -131,7 +131,7 @@ PT;;Portugala
 PS;;Paŝtua
 QU;;Keĉua
 RM;;Romanĉa
-RO;;Moldava
+RO;;Rumana; Moldava
 RN;;Burunda
 RU;;Rusa
 SG;;Sangoa

@@ -49,7 +49,7 @@ CG;;Kongo
 CK;;Cookovi otoki
 CO;;Kolumbija
 KM;;Komori
-CV;;Zelenortski otoki
+CV;;Cabo Verde
 CR;;Kostarika
 CU;;Kuba
 CW;;Curaçao
@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldivi
 MX;;Mehika
 MH;;Marshallovi otoki
-MK;;Nova Kaledonija
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Mjanmar

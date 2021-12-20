@@ -13,7 +13,7 @@ AZ;;azeri
 BA;;baškiiri
 BM;;bambara
 BE;;valkovenäjä
-BN;;bengali
+BN;;Bengali
 BH;;bihari-kielet
 BI;;bislama
 BO;;tiibetti
@@ -24,7 +24,7 @@ CA;;katalaani
 CS;;tšekki
 CH;;chamorro
 CE;;tšetšeeni
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;kirkkoslaavi
 CV;;tšuvassi
 KW;;korni
 CO;;korsika
@@ -119,7 +119,7 @@ NN;;norja (nynorsk)
 NB;;norja (bokmål)
 NO;;norja
 NY;;nyanja (chewa)
-OC;;oksitaani
+OC;;Occitan (post 1500); Provençal
 OJ;;odžibwa
 OR;;oriya
 OM;;oromo
@@ -131,7 +131,7 @@ PT;;portugali
 PS;;pašto
 QU;;ketšua
 RM;;retoromaani
-RO;;moldavia
+RO;;Romanian; Moldavian; Moldovan
 RN;;rundi
 RU;;venäjä
 SG;;sango

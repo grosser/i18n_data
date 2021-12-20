@@ -13,8 +13,8 @@ AZ;;Azerbaidjano
 BA;;Basquir
 BM;;Bambara
 BE;;Bielorusso
-BN;;Bengali
-BH;;Línguas biaris
+BN;;Bangla
+BH;;Idiomas biaris
 BI;;Bislamá
 BO;;Tibetano
 BS;;Bósnio
@@ -24,7 +24,7 @@ CA;;Catalão; Valenciano
 CS;;Tcheco
 CH;;Chamorro
 CE;;Checheno
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;["", "Eslavo Eclesiástico; Eslavo Antigo; Eslavo Eclesiástico; Búlgaro Antigo; ", "Eslavônico Antigo Eclesiástico"]
 CV;;Tchuvache
 KW;;Córnico
 CO;;Corso

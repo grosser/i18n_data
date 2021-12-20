@@ -13,7 +13,7 @@ AZ;;阿塞拜疆語
 BA;;巴什基爾語
 BM;;班巴拉語
 BE;;白俄羅斯語
-BN;;孟加拉語
+BN;;Bengali
 BH;;比哈爾語系
 BI;;比斯拉瑪語
 BO;;藏語
@@ -24,7 +24,7 @@ CA;;加泰羅尼亞語
 CS;;捷克語
 CH;;查莫羅語
 CE;;車臣語
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;古教會斯拉夫語
 CV;;楚瓦什語
 KW;;康沃爾語
 CO;;科西嘉語

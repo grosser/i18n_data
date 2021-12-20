@@ -56,7 +56,7 @@ CW;;Kuracao
 CX;;Kristnaskinsulo
 KY;;Kejmanoj
 CY;;Kipro
-CZ;;Czechia
+CZ;;Ĉeĥio
 DE;;Germanio
 DJ;;Ĝibutio
 DM;;Dominiko
@@ -120,7 +120,7 @@ KG;;Kirgizio
 KH;;Kamboĝo
 KI;;Kiribato
 KN;;Sankta-Kito kaj Neviso
-KR;;Koreio, Respubliko
+KR;;Sud-Koreio
 KW;;Kuvajto
 LA;;Laosa Popola Demokratia Respubliko
 LB;;Libano
@@ -142,7 +142,7 @@ MG;;Madagaskaro
 MV;;Maldivoj
 MX;;Meksiko
 MH;;Marŝaloj
-MK;;Nov-Kaledonio
+MK;;Nord-Makedonio
 ML;;Malio
 MT;;Malto
 MM;;Mjanmao
@@ -179,7 +179,7 @@ PW;;Palaŭo
 PG;;Papuo-Nov-Gvineo
 PL;;Pollando
 PR;;Puerto-Riko
-KP;;Koreio, Demokratia Popola Respubliko
+KP;;Nord-Koreio
 PT;;Portugalio
 PY;;Paragvajo
 PS;;Palestino, Ŝtato
@@ -209,7 +209,7 @@ SR;;Surinamo
 SK;;Slovakio
 SI;;Slovenio
 SE;;Svedio
-SZ;;Eswatini
+SZ;;Svazilando
 SX;;Sankta-Marteno (nederlanda parto)
 SC;;Sejŝeloj
 SY;;Siria Araba Respubliko

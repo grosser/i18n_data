@@ -49,7 +49,7 @@ CG;;Công-gô
 CK;;Quần đảo Khu-khợ
 CO;;Cô-lôm-bi-a
 KM;;Cô-mô-rô-xợ
-CV;;Cáp-ve-đẹ
+CV;;Cabo Verde
 CR;;Cốt-x-tha Ri-ca
 CU;;Cu-ba
 CW;;Cu-ra-cao
@@ -142,7 +142,7 @@ MG;;Ma-đa-ga-xợ-ca
 MV;;Mal-đi-vợx
 MX;;Mê-hi-cô
 MH;;Quần Đảo Ma-san
-MK;;Niu Ca-lê-đô-ni-a
+MK;;North Macedonia
 ML;;Ma-li
 MT;;Moa-ta
 MM;;Miến Điện

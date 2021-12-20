@@ -44,12 +44,12 @@ CL;;Chile
 CN;;China
 CI;;Ivorycoast
 CM;;Kamerun
-CD;;Congo
+CD;;Congo, The Democratic Republic of the
 CG;;Congo
 CK;;Visiwa vya Cook
 CO;;Kolombia
 KM;;Komori
-CV;;Cape Verde
+CV;;Cabo Verde
 CR;;Costa Rica
 CU;;Cuba
 CW;;Curaçao
@@ -85,7 +85,7 @@ GI;;Gibraltar
 GN;;Guinea
 GP;;Guadeloupe
 GM;;Gambia
-GW;;Guinea
+GW;;Guinea-Bissau
 GQ;;Equatorial Guinea
 GR;;Greece
 GD;;Grenada
@@ -103,7 +103,7 @@ HU;;Hungary
 ID;;Indonesia
 IM;;Isle of Man
 IN;;India
-IO;;u
+IO;;British Indian Ocean Territory
 IE;;Ireland
 IR;;Iran, Islamic Republic of
 IQ;;Iraq
@@ -120,12 +120,12 @@ KG;;Kyrgyzstan
 KH;;Cambodia
 KI;;Kiribati
 KN;;Saint Kitts and Nevis
-KR;;Korea, Republic of
+KR;;South Korea
 KW;;Kuwait
 LA;;Lao People's Democratic Republic
 LB;;Lebanon
 LR;;Liberia
-LY;;Liberia
+LY;;Libya
 LC;;Saint Lucia
 LI;;Liechtenstein
 LK;;Sri Lanka
@@ -176,10 +176,10 @@ PN;;Pitcairn
 PE;;Peru
 PH;;Philippines
 PW;;Palau
-PG;;Guinea
+PG;;Papua New Guinea
 PL;;Poland
 PR;;Puerto Rico
-KP;;Korea, Democratic People's Republic of
+KP;;North Korea
 PT;;Portugal
 PY;;Paraguay
 PS;;Palestine, State of
@@ -193,7 +193,7 @@ SA;;Saudi Arabia
 SD;;Sudan
 SN;;Senegal
 SG;;Singapore
-GS;;Georgia
+GS;;South Georgia and the South Sandwich Islands
 SH;;Saint Helena, Ascension and Tristan da Cunha
 SJ;;Svalbard and Jan Mayen
 SB;;Solomon Islands
@@ -203,7 +203,7 @@ SM;;San Marino
 SO;;Somalia
 PM;;Saint Pierre and Miquelon
 RS;;Serbia
-SS;;Lithuania
+SS;;South Sudan
 ST;;Sao Tome and Principe
 SR;;Suriname
 SK;;Slovakia

@@ -49,7 +49,7 @@ CG;;Kongo
 CK;;Ibirwa bya Kuke
 CO;;Kolombiya
 KM;;Komore
-CV;;Kapu Veri
+CV;;Cabo Verde
 CR;;Kosita Rika
 CU;;Kiba
 CW;;Curaçao
@@ -79,7 +79,7 @@ FM;;Mikoronesiya, Leta Zishyizehamwe za
 GA;;Gabo
 GB;;Ubwongereza (UK)
 GE;;Geworigiya
-GG;;Ubudage
+GG;;Guernsey
 GH;;Gana
 GI;;Giburalitari
 GN;;Gineya
@@ -142,7 +142,7 @@ MG;;Madagasikari
 MV;;Malidivezi
 MX;;Megizike
 MH;;Ibirwa bya Marishali
-MK;;Nuveli Kalidoniya
+MK;;North Macedonia
 ML;;Mali
 MT;;Malita
 MM;;Mayanimari
@@ -203,7 +203,7 @@ SM;;Mutagatifu Marino
 SO;;Somaliya
 PM;;Mutagatifu Petero na Mikeloni
 RS;;Seribiya
-SS;;Repubulika ya Sudani
+SS;;South Sudan
 ST;;Sawo Tome na Purensipe
 SR;;Surinamu
 SK;;Silovakiya

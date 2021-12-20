@@ -13,7 +13,7 @@ AZ;;Azerí
 BA;;Bashkir
 BM;;Bambara
 BE;;Bielorruso
-BN;;Bengalí; Bangla
+BN;;Bengali
 BH;;Idiomas bihari
 BI;;Bislama
 BO;;Tibetano
@@ -24,7 +24,7 @@ CA;;Catalán; Valenciano
 CS;;Checo
 CH;;Chamorro
 CE;;Checheno
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;["", "Eslavo eclesiástico; Eslavo antigo; Búlgaro antigo; Macedonio antigo; Antigo ", "eslavo eclesiástico"]
 CV;;Chuvache; Chuvash
 KW;;Córnico
 CO;;Corso
@@ -119,7 +119,7 @@ NN;;Noruegués Nynorsk; Nynorsk, noruegués
 NB;;Bokmål, noruegués; Noruegués Bokmål
 NO;;Noruegués
 NY;;Chichewa; Chewa; Nyanja
-OC;;Occitano (posterior a 1500)
+OC;;Occitan (post 1500); Provençal
 OJ;;Ojibwa
 OR;;Orixa
 OM;;Oromo
@@ -131,7 +131,7 @@ PT;;Portugués
 PS;;Pushto; Pachtu
 QU;;Quechúa
 RM;;Romanche
-RO;;Moldavio
+RO;;Romanian; Moldavian; Moldovan
 RN;;Rundi; Kurundi
 RU;;Ruso
 SG;;Sango

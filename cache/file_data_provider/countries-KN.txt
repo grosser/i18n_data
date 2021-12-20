@@ -49,7 +49,7 @@ CG;;ಕಾಂಗೋ
 CK;;ಕುಕ್ ದ್ವೀಪಗಳು
 CO;;ಕೋಲಂಬಿಯಾ
 KM;;ಕೊಮೊರೋಸ್
-CV;;ಕೆಪ ವಿರದಿ
+CV;;Cabo Verde
 CR;;ಕೋಸ್ಟಾರಿಕಾ
 CU;;ಕ್ಯೂಬಾ
 CW;;Curaçao
@@ -125,7 +125,7 @@ KW;;ಕುವೈತ್
 LA;;ಲಾವೋ ಪೀಪಲ್ಸ್ ಡೆಮೊಕ್ರಟಿಕ್ ರಿಪಬ್ಲಿಕ್
 LB;;ಲೆಬನನ್
 LR;;ಲೈಬೀರಿಯಾ
-LY;;ಲೈಬೀರಿಯಾ
+LY;;Libya
 LC;;ಸೇಂಟ್ ಲೂಸಿಯಾ
 LI;;ಲೆಷ್ಟೆಂಸ್ಟೆನ್
 LK;;ಶ್ರೀಲಂಕಾ
@@ -142,7 +142,7 @@ MG;;ಮಡಗಾಸ್ಕರ್
 MV;;ಮಾಲ್ಡೀವ್ಸ್
 MX;;ಹೊಂಡುರಾಸ್
 MH;;ಮಾರ್ಷಲ್ ದ್ವೀಪಗಳು
-MK;;ಹೊಸ ಕೆಲೆಡೊನಿಯಾ
+MK;;North Macedonia
 ML;;ಮಾಲಿ
 MT;;ಮಾಲ್ಟಾ
 MM;;ಮಿಯನ್ಮಾರ್
@@ -203,7 +203,7 @@ SM;;ಸ್ಯಾನ್ ಮಾರಿನೋ
 SO;;ಸೋಮಾಲಿಯಾ
 PM;;Saint Pierre and Miquelon
 RS;;ಸರ್ಬಿಯಾ
-SS;;ಸೂಡಾನ್ ಗಣರಾಜ್ಯ
+SS;;South Sudan
 ST;;Sao Tome and Principe
 SR;;ಸೂರಿನಾಮ್
 SK;;ಸ್ಲೋವಾಕಿಯಾ
@@ -234,7 +234,7 @@ UM;;United States Minor Outlying Islands
 UY;;ಉರುಗ್ವೇ
 US;;ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನಗಳು
 UZ;;ಉಜ್ಬೆಕಿಸ್ತಾನ್
-VA;;ಪವಿತ್ರ See,ವ್ಯಾಟಿಕನ್ ನಗರ ರಾಜ್ಯ
+VA;;Holy See (Vatican City State)
 VC;;Saint Vincent and the Grenadines
 VE;;ವೆನೇಹಜುವೇಲಾ
 VG;;ವರ್ಜಿನ್ ಐಲಂಡ್ಸ್, ಬ್ರಿಟಿಷ್

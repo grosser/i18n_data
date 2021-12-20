@@ -120,7 +120,7 @@ KG;;Kırgızistan
 KH;;Kamboçya
 KI;;Kiribati
 KN;;Saint Kitts ve Nevis
-KR;;Kore Cumhuriyeti
+KR;;Güney Kore
 KW;;Kuveyt
 LA;;Lao Demokratik Halk Cumhuriyeti
 LB;;Lübnan
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua Yeni Gine
 PL;;Polonya
 PR;;Porto Riko
-KP;;Kore Demokratik Halk Cumhuriyeti
+KP;;Kuzey Kore
 PT;;Portekiz
 PY;;Paraguay
 PS;;Filistin Devleti

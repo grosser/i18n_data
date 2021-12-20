@@ -13,7 +13,7 @@ AZ;;Azerbaijan
 BA;;Bashkir
 BM;;Bambara
 BE;;Belarusia
-BN;;Bengal
+BN;;Bangla
 BH;;Bahasa Bihari
 BI;;Bislama
 BO;;Tibet
@@ -24,7 +24,7 @@ CA;;Catalan; Valencian
 CS;;Ceko
 CH;;Chamorro
 CE;;Chechen
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;["", "Gereja Slavic; Slavonic Kuno; Gereja Slavonic; Bulgaria Kuno; Gereja Tua ", "Slavonic"]
 CV;;Chuvash
 KW;;Cornish
 CO;;Korsika

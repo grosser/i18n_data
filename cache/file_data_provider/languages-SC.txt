@@ -13,7 +13,7 @@ AZ;;Azeru
 BA;;Baschiru
 BM;;Bambara
 BE;;Bielorussu
-BN;;Bengalesu
+BN;;Bangla
 BH;;Limbas bihari
 BI;;Bislama
 BO;;Tibetanu
@@ -24,7 +24,7 @@ CA;;Catalanu; Valentzianu
 CS;;Tzecu
 CH;;Chamorru
 CE;;Cecenu
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;["", "Islavu eclesiàsticu; Islavu antigu; Islavònicu eclesiàsticu; Bùlgaru antigu; ", "Islavònicu eclesiasticu antigu"]
 CV;;Ciuvàsciu
 KW;;Còrnicu
 CO;;Corsu

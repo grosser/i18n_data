@@ -1,11 +1,11 @@
 AW;;Aruba
-AF;;Ahyganitã
+AF;;Afghanistan
 AO;;Angola
 AI;;Anguilla
 AX;;Åland Islands
 AL;;Albania
 AD;;Andorra
-AE;;Aravia Emiryvy Joaju
+AE;;United Arab Emirates
 AR;;Argentina
 AM;;Armenia
 AS;;American Samoa
@@ -120,7 +120,7 @@ KG;;Kyrgyzstan
 KH;;Cambodia
 KI;;Kiribati
 KN;;Saint Kitts and Nevis
-KR;;Korea, Republic of
+KR;;South Korea
 KW;;Kuwait
 LA;;Lao People's Democratic Republic
 LB;;Lebanon
@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Maldives
 MX;;Mexico
 MH;;Marshall Islands
-MK;;New Caledonia
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua New Guinea
 PL;;Poland
 PR;;Puerto Rico
-KP;;Korea, Democratic People's Republic of
+KP;;North Korea
 PT;;Portugal
 PY;;Paraguay
 PS;;Palestine, State of

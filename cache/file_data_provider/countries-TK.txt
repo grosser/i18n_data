@@ -5,7 +5,7 @@ AI;;Anguilla
 AX;;Aland Adalry
 AL;;Albaniýa
 AD;;Andorra
-AE;;Birleşen  Arap Emiratlary
+AE;;Birleşen Arap Emiratlary
 AR;;Argentina
 AM;;Ermenistan
 AS;;Samao Amerika
@@ -49,7 +49,7 @@ CG;;Kongo
 CK;;Cook Islands
 CO;;Kolumbiýa
 KM;;Komor Adalary
-CV;;Kabo-Werdi
+CV;;Cabo Verde
 CR;;Kosta-Rika
 CU;;Kuba
 CW;;Curaçao
@@ -64,7 +64,7 @@ DK;;Daniýa
 DO;;Dominakan Respublikasy
 DZ;;Algerýa
 EC;;Ekwador
-EG;;Müsür
+EG;;Egypt
 ER;;Eriteriýa
 EH;;Western Sahara
 ES;;Ispaniýa
@@ -142,18 +142,18 @@ MG;;Madagaskar
 MV;;Maldiwa
 MX;;Meksikanyň
 MH;;Marşalowlar adasy
-MK;;Täze Kaledoniýa
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Birma
-ME;;Montserrat
+ME;;Montenegro
 MN;;Mongoliýa
 MP;;Northern Mariana Islands
 MZ;;Mozambik
 MR;;Mawritaniýa
 MS;;Montserrat
 MQ;;Martinika
-MU;;Mawrikiý
+MU;;Mauritius
 MW;;Malawi
 MY;;Malaýziýa
 YT;;Maýotta

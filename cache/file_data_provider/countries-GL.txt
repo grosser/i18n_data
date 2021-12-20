@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Maldivas
 MX;;México
 MH;;Illas Marshall
-MK;;Nova Caledonia
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Birmania
@@ -227,7 +227,7 @@ TN;;Tunicia
 TR;;Turquía
 TV;;Tuvalu
 TW;;Taiwán
-TZ;;Tanzania
+TZ;;Tanzania, República Unida de
 UG;;Uganda
 UA;;Ucraína
 UM;;Illas Exteriores Menores dos Estados Unidos de América

@@ -1,25 +1,25 @@
-AW;;Aruba
-AF;;Afghanistan
+AW;;ኣሩባ
+AF;;ኣፍጋኒስታን
 AO;;ኣንጎላ
 AI;;Anguilla
 AX;;Åland Islands
 AL;;አልባኒያ
 AD;;አንዶራ
 AE;;የተባበሩት አረብ ኤምሬትስ
-AR;;አርጀንቲና
-AM;;አርሜኒያ
+AR;;ኣርጀንቲና
+AM;;ኣርሜንያ
 AS;;American Samoa
 AQ;;Antarctica
 TF;;የፈረንሳይ ደቡባዊ ግዛቶች
 AG;;Antigua and Barbuda
-AU;;አውስትሬሊያ
+AU;;ኣውስትራልያ
 AT;;ኦስትሪያ
-AZ;;አዘርባጃን
+AZ;;ኣዘርባጃን
 BI;;Burundi
 BE;;ቤልጄም
 BJ;;ቤኒን
 BQ;;Bonaire, Sint Eustatius and Saba
-BF;;Burkina Faso
+BF;;ቡርኪና ፋሶ
 BD;;Bangladesh
 BG;;ቡልጌሪያ
 BH;;ባህሬን
@@ -29,29 +29,29 @@ BL;;Saint Barthélemy
 BY;;ቤላሩስ
 BZ;;ቤሊዘ
 BM;;ቤርሙዳ
-BO;;ቦሊቪያ
+BO;;ቦሊቭያ
 BR;;ብራዚል
 BB;;ባርቤዶስ
 BN;;Brunei Darussalam
 BT;;ቡህታን
 BV;;Bouvet Island
 BW;;ቦትስዋና
-CF;;የመካከለኛው አፍሪካ ሪፐብሊክ
-CA;;Canada
+CF;;ሪፓብሊክ ማእከላይ ኣፍሪቃ
+CA;;ካናዳ
 CC;;Cocos (Keeling) Islands
 CH;;ስዊዘርላንድ
 CL;;ቺሊ
 CN;;ቻይና
 CI;;Côte d'Ivoire
 CM;;ካሜሩን
-CD;;Congo, The Democratic Republic of the
-CG;;Congo
+CD;;ደሞክራስያዊት ሪፓብሊክ ኮንጎ
+CG;;ኮንጎ
 CK;;Cook Islands
-CO;;ኮሎምቢያ
+CO;;ኮሎምብያ
 KM;;ኮሞሮስ
-CV;;ኬፕ ቬርዴ
-CR;;Costa Rica
-CU;;Cuba
+CV;;Cabo Verde
+CR;;ኮስታ ሪካ
+CU;;ኩባ
 CW;;Curaçao
 CX;;Christmas Island
 KY;;Cayman Islands
@@ -61,23 +61,23 @@ DE;;ጀርመን
 DJ;;ጂቡቲ
 DM;;ዶሚኒካ
 DK;;ዴንማርክ
-DO;;ዶሚኒክ ሪፑብሊክ
+DO;;ዶሚኒካዊት ሪፓብሊክ
 DZ;;አልጄሪያ
-EC;;ኢኳዶር
-EG;;ግብጽ
+EC;;ኤኳዶር
+EG;;ግብጺ
 ER;;ኤርትራ
 EH;;ምዕራባዊ ሳህራ
-ES;;ስፔን
+ES;;ስጳኛ
 EE;;ኤስቶኒያ
 ET;;ኢትዮጵያ
 FI;;ፊንላንድ
 FJ;;ፊጂ
 FK;;Falkland Islands (Malvinas)
-FR;;ፈረንሳይ
+FR;;ፈረንሳ
 FO;;Faroe Islands
 FM;;Micronesia, Federated States of
 GA;;Gabon
-GB;;እንግሊዝ
+GB;;ብሪጣንያ
 GE;;ጆርጂያ
 GG;;Guernsey
 GH;;Ghana
@@ -87,29 +87,29 @@ GP;;Guadeloupe
 GM;;ጋምቢያ
 GW;;ቢሳዎ
 GQ;;ኢኳቶሪያል ጊኒ
-GR;;ግሪክ
+GR;;ግሪኽ
 GD;;Grenada
 GL;;Greenland
-GT;;Guatemala
+GT;;ጓቲማላ
 GF;;የፈረንሳይ ጉዊአና
 GU;;Guam
 GY;;ጉያና
-HK;;Hong Kong
+HK;;ሆንግ ኮንግ
 HM;;Heard Island and McDonald Islands
-HN;;Honduras
+HN;;ሆንዱራስ
 HR;;ክሮኤሽያ
 HT;;ሀይቲ
 HU;;ሀንጋሪ
 ID;;ኢንዶኔዢያ
 IM;;Isle of Man
-IN;;ህንድ
+IN;;ህንዲ
 IO;;British Indian Ocean Territory
 IE;;አየርላንድ
 IR;;Iran, Islamic Republic of
-IQ;;ኢራቅ
+IQ;;ዒራቅ
 IS;;አይስላንድ
 IL;;እስራኤል
-IT;;ጣሊያን
+IT;;ኢጣልያ
 JM;;ጃማይካ
 JE;;Jersey
 JO;;ጆርዳን
@@ -120,15 +120,15 @@ KG;;Kyrgyzstan
 KH;;ካምቦዲያ
 KI;;Kiribati
 KN;;Saint Kitts and Nevis
-KR;;Korea, Republic of
+KR;;South Korea
 KW;;ክዌት
 LA;;Lao People's Democratic Republic
 LB;;ሊባኖስ
 LR;;Liberia
-LY;;ሊቢያ
+LY;;ሊብያ
 LC;;Saint Lucia
 LI;;Liechtenstein
-LK;;Sri Lanka
+LK;;ስሪ ላንካ
 LS;;Lesotho
 LT;;ሊቱዌኒያ
 LU;;Luxembourg
@@ -142,12 +142,12 @@ MG;;ማዳጋስካር
 MV;;Maldives
 MX;;ሜክሲኮ
 MH;;Marshall Islands
-MK;;ኒው ካሌዶኒያ
+MK;;North Macedonia
 ML;;ማሊ
 MT;;ማልታ
 MM;;Myanmar
 ME;;Montenegro
-MN;;ሞንጎሊያ
+MN;;ሞንጎልያ
 MP;;Northern Mariana Islands
 MZ;;ሞዛምቢክ
 MR;;ሞሪቴኒያ
@@ -162,16 +162,16 @@ NC;;ኒው ካሌዶኒያ
 NE;;ናይጀር
 NF;;Norfolk Island
 NG;;ናይጄሪያ
-NI;;Nicaragua
+NI;;ኒካራጓ
 NU;;Niue
 NL;;ኔዘርላንድ
-NO;;ኖርዌ
+NO;;ኖርወይ
 NP;;ኔፓል
 NR;;Nauru
 NZ;;ኒው ዚላንድ
 OM;;Oman
-PK;;Pakistan
-PA;;Panama
+PK;;ፓኪስታን
+PA;;ፓናማ
 PN;;Pitcairn
 PE;;ፔሩ
 PH;;Philippines
@@ -179,9 +179,9 @@ PW;;Palau
 PG;;ፓፑዋ ኒው ጊኒ
 PL;;ፖላንድ
 PR;;ፖርታ ሪኮ
-KP;;Korea, Democratic People's Republic of
-PT;;Portugal
-PY;;Paraguay
+KP;;North Korea
+PT;;ፖርቱጋል
+PY;;ፓራጓይ
 PS;;Palestine, State of
 PF;;የፈረንሳይ ፖሊኔዢያ
 QA;;Qatar
@@ -189,7 +189,7 @@ RE;;Réunion
 RO;;ሮሜኒያ
 RU;;Russian Federation
 RW;;ሩዋንዳ
-SA;;ሳውድአረቢያ
+SA;;ሰዑዲ ዓረብ
 SD;;ሱዳን
 SN;;ሴኔጋል
 SG;;ሲንጋፖር
@@ -198,17 +198,17 @@ SH;;Saint Helena, Ascension and Tristan da Cunha
 SJ;;Svalbard and Jan Mayen
 SB;;Solomon Islands
 SL;;Sierra Leone
-SV;;El Salvador
+SV;;ኤል ሳልቫዶር
 SM;;San Marino
-SO;;ሱማሌ
+SO;;ሶማልያ
 PM;;Saint Pierre and Miquelon
-RS;;አዘርባጃን
-SS;;ዶሚኒክ ሪፑብሊክ
+RS;;Serbia
+SS;;ደቡብ ሱዳን
 ST;;Sao Tome and Principe
 SR;;ሱሪናም
 SK;;ስሎቫኪያ
 SI;;ስሎቬኒያ
-SE;;ስዊድን
+SE;;ስወደን
 SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seychelles
@@ -222,28 +222,28 @@ TK;;Tokelau
 TM;;Turkmenistan
 TL;;ምስራቅ ቲሞር
 TO;;Tonga
-TT;;ትሪኒዳድ እና ቶባጎ
-TN;;ቱኒዚያ
-TR;;ቱርክ
+TT;;ትሪኒዳድን ቶባጎን
+TN;;ቱኒዝያ
+TR;;ቱርኪ
 TV;;Tuvalu
-TW;;Taiwan
-TZ;;ታንዛኒያ
+TW;;ታይዋን
+TZ;;ታንዛንያ
 UG;;ዩጋንዳ
 UA;;ዩክረይን
 UM;;United States Minor Outlying Islands
-UY;;Uruguay
-US;;አሜሪካ
-UZ;;ዩዝበኪስታን
+UY;;ኡራጓይ
+US;;ኣመሪካ
+UZ;;ኡዝበኪስታን
 VA;;Holy See (Vatican City State)
 VC;;Saint Vincent and the Grenadines
-VE;;ቬንዙዌላ
+VE;;ቬኔዝዌላ
 VG;;Virgin Islands, British
 VI;;Virgin Islands, U.S.
-VN;;Vietnam
+VN;;ቬትናም
 VU;;Vanuatu
 WF;;Wallis and Futuna
 WS;;Samoa
 YE;;የመን
-ZA;;ደቡብ አፍሪካ
+ZA;;ደቡብ ኣፍሪቃ
 ZM;;ዛምቢያ
 ZW;;ዚምባብዌ

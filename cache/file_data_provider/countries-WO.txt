@@ -49,7 +49,7 @@ CG;;Kongóo
 CK;;Iil yu Cook
 CO;;Koloombi
 KM;;Komoor
-CV;;Kap Weer
+CV;;Cabo Verde
 CR;;Kosta Riika
 CU;;Kubaa
 CW;;Curaçao
@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldiif
 MX;;Meksik
 MH;;Marshall Islands
-MK;;Nuweel Kaledooni
+MK;;North Macedonia
 ML;;Mali
 MT;;Malt
 MM;;Miyanmaar
@@ -203,14 +203,14 @@ SM;;San Marino
 SO;;Somaali
 PM;;Saint Pierre ak Miquelon
 RS;;Serbi
-SS;;Republik bu Suudaan
+SS;;South Sudan
 ST;;Sao Tome ak Principe
 SR;;Surinaam
 SK;;Eslowaaki
 SI;;Esloweeni
 SE;;Suweed
 SZ;;Eswatini
-SX;;Saint Martin (Français)
+SX;;Sint Maarten (Dutch part)
 SC;;Seychelles
 SY;;Republik Araab bu Siiri
 TC;;Turks and Caicos Islands

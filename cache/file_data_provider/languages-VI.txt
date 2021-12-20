@@ -13,7 +13,7 @@ AZ;;Tiếng A-xợ-bai-gianh
 BA;;Tiếng Ba-x-kia
 BM;;Tiếng Bam-ba-ra
 BE;;Tiếng Be-la-ruxợ
-BN;;Tiếng Băng Gan
+BN;;Tiếng Bengal
 BH;;Hệ ngôn ngữ Bihari
 BI;;Tiếng Bix-la-ma
 BO;;Tiếng Tây Tạng
@@ -24,7 +24,7 @@ CA;;Tiếng Ca-ta-lan
 CS;;Tiếng Séc
 CH;;Tiếng Cha-mo-ro
 CE;;Tiếng Che-chẹnh
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;Xla-vợ cũ
 CV;;Tiếng Chu-vas
 KW;;Tiếng Khoanh-uoănh
 CO;;Tiếng Coa-si-ca
@@ -119,7 +119,7 @@ NN;;Tiếng Na Uy (Ni-noa-x-kh)
 NB;;Na Uy (Bóc-man)
 NO;;Tiếng Na Uy
 NY;;Tiếng Chi-che-oua
-OC;;Tiếng Oc-xi-tan (từ năm 1500)
+OC;;Occitan (post 1500); Provençal
 OJ;;Tiếng O-gip-oua
 OR;;Tiếng O-ri-a
 OM;;Tiếng O-ro-mô
@@ -131,7 +131,7 @@ PT;;Tiếng Bồ Đào Nha
 PS;;Tiếng Pu-s-tô
 QU;;Tiếng Cue-chu-a
 RM;;Tiếng Gip-xi (Romansh)
-RO;;Tiếng Mon-đa-vi
+RO;;Romanian; Moldavian; Moldovan
 RN;;Tiếng Run-đi
 RU;;Tiếng Nga
 SG;;Tiếng Xan-gô

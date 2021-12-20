@@ -24,7 +24,7 @@ CA;;Catalan
 CS;;Tcheke
 CH;;Tchamoro
 CE;;Tchetchene
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;Vî slavonyin
 CV;;Tchouvache
 KW;;Cornike
 CO;;Corse
@@ -119,7 +119,7 @@ NN;;Norvedjin nynorsk; Noû norvedjin
 NB;;Norvedjin bokmål
 NO;;Norvedjin
 NY;;Tchitchewa; Nyanja
-OC;;Occitan (après 1500)
+OC;;Occitan (post 1500); Provençal
 OJ;;Ojibwa
 OR;;Oriya
 OM;;Oromo
@@ -131,7 +131,7 @@ PT;;Portuguès
 PS;;Pashto
 QU;;Ketchwa
 RM;;Romantche
-RO;;Moldåve
+RO;;Romanian; Moldavian; Moldovan
 RN;;Kiroundi
 RU;;Rûsse
 SG;;Sango

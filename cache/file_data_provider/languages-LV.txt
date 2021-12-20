@@ -13,7 +13,7 @@ AZ;;Azerbaidžāņu
 BA;;Baškīru
 BM;;Bambaru
 BE;;Baltkrievu
-BN;;Bengāļu
+BN;;Bangalu
 BH;;Biharu
 BI;;Bišlamā
 BO;;Tibetiešu
@@ -24,7 +24,7 @@ CA;;Katalāņu
 CS;;Čehu
 CH;;Čamorru
 CE;;Čečenu
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;Baznīcslāvu
 CV;;Čuvašu
 KW;;Korniešu
 CO;;Korsikāņu
@@ -119,7 +119,7 @@ NN;;Jaunnorvēģu
 NB;;Norvēģu bukmols
 NO;;Norvēģu
 NY;;Čičeva
-OC;;Oksitāņu
+OC;;Occitan (post 1500); Provençal
 OJ;;Odžibvu
 OR;;Oriju
 OM;;Oromu
@@ -131,7 +131,7 @@ PT;;Portugāļu
 PS;;Puštu
 QU;;Kečvu
 RM;;Retoromāņu
-RO;;Moldāvu
+RO;;Romanian; Moldavian; Moldovan
 RN;;Rundu
 RU;;Krievu
 SG;;Sangu

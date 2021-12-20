@@ -120,7 +120,7 @@ KG;;ކިރިގިސްތާން
 KH;;ކެންބޯޑިއާ
 KI;;ކިރިބަތީ
 KN;;ސަންތި ކިޓަސް އަދި ނޭވީސް
-KR;;Korea, Republic of
+KR;;South Korea
 KW;;ކުވެއިތު
 LA;;Lao People's Democratic Republic
 LB;;ލުބުނާން
@@ -142,7 +142,7 @@ MG;;މަޑަގަސްކަރަ
 MV;;ދިވެހިރާއްޖެ
 MX;;މެކްސިކޯ
 MH;;Marshall Islands
-MK;;ނިއު ކެލެޑޯނިއާ
+MK;;North Macedonia
 ML;;މާލީ
 MT;;މޯލްޓާ
 MM;;ބަރުމާ
@@ -179,7 +179,7 @@ PW;;ޕަލާއޫ
 PG;;ޕަޕުއާ ނިއު ގިނީ
 PL;;ޕޮލެންޑު
 PR;;ޕުއެރްތޮ ރީކޯ
-KP;;Korea, Democratic People's Republic of
+KP;;North Korea
 PT;;ޕޯޗުގަލް
 PY;;ޕެރަގުއޭ
 PS;;Palestine, State of

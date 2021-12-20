@@ -120,7 +120,7 @@ KG;;Kirgisistan
 KH;;Kambodsja
 KI;;Kiribati
 KN;;Saint Kitts og Nevis
-KR;;Korea, Republikken
+KR;;Sør-Korea
 KW;;Kuwait
 LA;;Den demokratiske folkerepublikk Laos
 LB;;Libanon
@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldivene
 MX;;Mexico
 MH;;Marshalløyene
-MK;;Ny-Caledonia
+MK;;Nord-Makedonia
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua Ny-Guinea
 PL;;Polen
 PR;;Puerto Rico
-KP;;Korea, Den demokratiske folkerepublikk
+KP;;Nord-Korea
 PT;;Portugal
 PY;;Paraguay
 PS;;Palestina, staten
@@ -193,7 +193,7 @@ SA;;Saudi-Arabia
 SD;;Sudan
 SN;;Senegal
 SG;;Singapore
-GS;;Sør-Georgia og de sørlige Sandwichøyene
+GS;;Sør-Georgia og Sør-Sandwichøyene
 SH;;Saint Helena, Ascension og Tristan da Cunha
 SJ;;Svalbard og Jan Mayen
 SB;;Salomonøyene

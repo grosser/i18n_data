@@ -1,34 +1,34 @@
 AA;;Afar
 AB;;Abkhazian
 AF;;Afrikaans
-AK;;Afrikaans
-AM;;Bahasa Arab
+AK;;Akan
+AM;;Amharic
 AR;;Bahasa Arab
-AN;;Faeroese
+AN;;Aragonese
 AS;;Assamese
-AV;;Bahasa Arab
+AV;;Avaric
 AE;;Avestan
 AY;;Aymara
 AZ;;Azerbaijan
 BA;;Bashkir
 BM;;Bambara
 BE;;Byelorussian
-BN;;Baltic
-BH;;Korean
+BN;;Bengali
+BH;;Bihari languages
 BI;;Bislama
 BO;;Tibetan
-BS;;Romanian
+BS;;Bosnian
 BR;;Breton
 BG;;Bulgarian
 CA;;Catalan; Valencian
 CS;;Czech
 CH;;Chamorro
-CE;;Czech
+CE;;Chechen
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;Chuvash
-KW;;Warna
+KW;;Cornish
 CO;;Corsican
-CR;;Greek
+CR;;Cree
 CY;;Welsh
 DA;;Danish
 DE;;German
@@ -41,44 +41,44 @@ ET;;Estonian
 EU;;Basque
 EE;;Ewe
 FO;;Faeroese
-FA;;Cetak
+FA;;Persian
 FJ;;Fijian
 FI;;Finnish
 FR;;French
-FY;;Ukrainian
+FY;;Western Frisian
 FF;;Fulah
 GD;;Gaelic; Scottish Gaelic
 GA;;Irish
-GL;;Galeon
-GV;;Man
+GL;;Galician
+GV;;Manx
 GN;;Guarani
 GU;;Gujarati
 HT;;Haitian; Haitian Creole
-HA;;Tangguh
+HA;;Hausa
 HE;;Hebrew
-HZ;;Hebrew
-HI;;Cari
-HO;;Cari
+HZ;;Herero
+HI;;Hindi
+HO;;Hiri Motu
 HR;;Croatian
 HU;;Hungarian
 HY;;Armenian
 IG;;Igbo
 IO;;Ido
-II;;Lithuanian
+II;;Sichuan Yi; Nuosu
 IU;;Inuktitut
-IE;;Rendering
+IE;;Interlingue; Occidental
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;Indonesia
-IK;;India
+IK;;Inupiaq
 IS;;Icelandic
 IT;;Itali
-JV;;Japanese
+JV;;Javanese
 JA;;Japanese
 KL;;Kalaallisut; Greenlandic
 KN;;Kannada
 KS;;Kashmiri
 KA;;Georgian
-KR;;Turkish
+KR;;Kanuri
 KK;;Kazakh
 KM;;Central Khmer
 KI;;Kikuyu; Gikuyu
@@ -88,24 +88,24 @@ KV;;Komi
 KG;;Kongo
 KO;;Korean
 KJ;;Kuanyama; Kwanyama
-KU;;Turkish
+KU;;Kurdish
 LO;;Lao
-LA;;Lokasi
+LA;;Latin
 LV;;Latvian
 LI;;Limburgan; Limburger; Limburgish
-LN;;Le_gal
+LN;;Lingala
 LT;;Lithuanian
 LB;;Luxembourgish; Letzeburgesch
 LU;;Luba-Katanga
 LG;;Ganda
-MH;;Salah
+MH;;Marshallese
 ML;;Malayalam
 MR;;Marathi
 MK;;Macedonian
 MG;;Malagasy
-MT;;Salah
+MT;;Maltese
 MN;;Mongolian
-MI;;Margin
+MI;;Maori
 MS;;Bahasa Melayu
 MY;;Burmese
 NA;;Nauru
@@ -113,30 +113,30 @@ NV;;Navajo; Navaho
 NR;;Ndebele, South; South Ndebele
 ND;;Ndebele, North; North Ndebele
 NG;;Ndonga
-NE;;_Alias baru
+NE;;Nepali
 NL;;Dutch; Flemish
-NN;;Norwegian
+NN;;Norwegian Nynorsk; Nynorsk, Norwegian
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;Norwegian
 NY;;Chichewa; Chewa; Nyanja
 OC;;Occitan (post 1500); Provençal
 OJ;;Ojibwa
 OR;;Oriya
-OM;;daripada
-OS;;Russian
+OM;;Oromo
+OS;;Ossetian; Ossetic
 PA;;Panjabi; Punjabi
-PI;;Polish
+PI;;Pali
 PL;;Polish
 PT;;Portugis
 PS;;Pushto; Pashto
 QU;;Quechua
-RM;;Romanian
+RM;;Romansh
 RO;;Romanian; Moldavian; Moldovan
 RN;;Rundi
 RU;;Russian
 SG;;Sango
-SA;;Sans-serif
-SI;;Vietnamese
+SA;;Sanskrit
+SI;;Sinhala; Sinhalese
 SK;;Slovak
 SL;;Slovenian
 SE;;Northern Sami
@@ -147,20 +147,20 @@ SO;;Somali
 ST;;Sotho, Southern
 ES;;Spanish; Castilian
 SQ;;Albanian
-SC;;Macedonian
+SC;;Sardinian
 SR;;Serbian
 SS;;Swati
 SU;;Sundanese
 SW;;Swahili
 SV;;Swedish
-TY;;Latvian
-TA;;Thai
+TY;;Tahitian
+TA;;Tamil
 TT;;Tatar
 TE;;Telugu
-TG;;Thai
+TG;;Tajik
 TL;;Tagalog
 TH;;Thai
-TI;;Turkish
+TI;;Tigrinya
 TO;;Tonga (Tonga Islands)
 TN;;Tswana
 TS;;Tsonga

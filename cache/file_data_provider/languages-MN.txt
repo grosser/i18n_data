@@ -1,20 +1,20 @@
 AA;;Афаар
 AB;;Абкааз
 AF;;Африк
-AK;;Абкааз
+AK;;Akan
 AM;;Амхарик
 AR;;Араб
-AN;;Фароес
+AN;;Aragonese
 AS;;Ассамес
-AV;;Амхарик
+AV;;Avaric
 AE;;Авестан
 AY;;Аямара
 AZ;;Азербежайн
 BA;;Башкир
-BM;;Аямара
+BM;;Bambara
 BE;;Цагаан орос
-BN;;Бенгаль
-BH;;Малагас
+BN;;Bengali
+BH;;Bihari languages
 BI;;Бислама
 BO;;Төвд
 BS;;Босни
@@ -45,7 +45,7 @@ FA;;Перс
 FJ;;Фижиан
 FI;;Финнлянд
 FR;;Франц
-FY;;Фрис
+FY;;Western Frisian
 FF;;Fulah
 GD;;Gaelic; Scottish Gaelic
 GA;;Ирланд
@@ -58,15 +58,15 @@ HA;;Хайза
 HE;;Еврей
 HZ;;Хереро
 HI;;Хинди
-HO;;Хинди
+HO;;Hiri Motu
 HR;;Хорват
 HU;;Унгар
 HY;;Армен
 IG;;Igbo
 IO;;Идо
-II;;Сиху Юи
+II;;Sichuan Yi; Nuosu
 IU;;Инуктитут
-IE;;Интэрлингуэ
+IE;;Interlingue; Occidental
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;Индонези
 IK;;Инупиак
@@ -78,16 +78,16 @@ KL;;Kalaallisut; Greenlandic
 KN;;Канад
 KS;;Кашмири
 KA;;Георги
-KR;;Күрд
+KR;;Kanuri
 KK;;Казак
 KM;;Central Khmer
-KI;;Кикуюу
+KI;;Kikuyu; Gikuyu
 RW;;Кинярванда
-KY;;Киргиз
+KY;;Kirghiz; Kyrgyz
 KV;;Коми
-KG;;Санго
+KG;;Kongo
 KO;;Солонгос
-KJ;;Куаняма
+KJ;;Kuanyama; Kwanyama
 KU;;Күрд
 LO;;Лао
 LA;;Латин
@@ -95,9 +95,9 @@ LV;;Латви
 LI;;Limburgan; Limburger; Limburgish
 LN;;Лингал
 LT;;Литва
-LB;;Льюксембург
+LB;;Luxembourgish; Letzeburgesch
 LU;;Luba-Katanga
-LG;;Канад
+LG;;Ganda
 MH;;Маршалл
 ML;;Малаялам
 MR;;Марати
@@ -109,34 +109,34 @@ MI;;Маори
 MS;;Малай
 MY;;Бурн
 NA;;Науру
-NV;;Навахо
+NV;;Navajo; Navaho
 NR;;Ndebele, South; South Ndebele
 ND;;Ndebele, North; North Ndebele
 NG;;Ндонга
 NE;;Непал
 NL;;Dutch; Flemish
-NN;;Норвеги (Nynorsk)
+NN;;Norwegian Nynorsk; Nynorsk, Norwegian
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;Норвеги
 NY;;Chichewa; Chewa; Nyanja
-OC;;Окситан
+OC;;Occitan (post 1500); Provençal
 OJ;;Ojibwa
 OR;;Орияа
 OM;;Оромо
-OS;;Оссетиан
-PA;;Панжаби
+OS;;Ossetian; Ossetic
+PA;;Panjabi; Punjabi
 PI;;Пали
 PL;;Польш
 PT;;Португали
-PS;;Пушто
+PS;;Pushto; Pashto
 QU;;Куэчуа
-RM;;Румын
-RO;;Молдав
+RM;;Romansh
+RO;;Romanian; Moldavian; Moldovan
 RN;;Рунди
 RU;;Орос
 SG;;Санго
 SA;;Санскрит
-SI;;Сингал
+SI;;Sinhala; Sinhalese
 SK;;Словак
 SL;;Словиен
 SE;;Нордэрн Сами
@@ -167,18 +167,18 @@ TS;;Цонга
 TK;;Туркмен
 TR;;Турк
 TW;;Тви
-UG;;Уйгур
+UG;;Uighur; Uyghur
 UK;;Украйн
 UR;;Урду
 UZ;;Үзбек
 VE;;Венда
 VI;;Ветьнам
-VO;;Волапук
+VO;;Volapük
 WA;;Валлон
 WO;;Волоф
 XH;;Чхоса
 YI;;Юүд
 YO;;Ёруба
-ZA;;Жуанг
+ZA;;Zhuang; Chuang
 ZH;;Хятад
 ZU;;Зулу

@@ -49,7 +49,7 @@ CG;;Congo
 CK;;Kapuluang Cook
 CO;;Kolombya
 KM;;Comoros
-CV;;Cape Verde
+CV;;Cabo Verde
 CR;;Costa Rica
 CU;;Kuba
 CW;;Curaçao
@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Maldives
 MX;;Mehiko
 MH;;Marshall Islands
-MK;;Bagong Caledonia
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
