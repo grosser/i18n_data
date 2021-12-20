@@ -2,7 +2,7 @@ AW;;Аруба
 AF;;Афганстан
 AO;;Ангол
 AI;;Anguilla
-AX;;Соломоны арлууд
+AX;;Åland Islands
 AL;;Албани
 AD;;Андорра
 AE;;Арабын нэгдсэн имерат
@@ -44,7 +44,7 @@ CL;;Чили
 CN;;Хятад
 CI;;Côte d'Ivoire
 CM;;Камерун
-CD;;Ардчилсан Конго ард улс
+CD;;Congo, The Democratic Republic of the
 CG;;Конго
 CK;;Cook Islands
 CO;;Колумб
@@ -79,7 +79,7 @@ FM;;Micronesia, Federated States of
 GA;;Габон
 GB;;Нэгдсэн Вант Улс
 GE;;Георги
-GG;;Герман
+GG;;Guernsey
 GH;;Гана
 GI;;Гибралтар
 GN;;Гвиней
@@ -95,7 +95,7 @@ GF;;Франц гана
 GU;;Гуам
 GY;;Гайана
 HK;;Хонконг
-HM;;Төв исланд & МКдоналд исланд
+HM;;Heard Island and McDonald Islands
 HN;;Гондурас
 HR;;Хорват
 HT;;Гайти
@@ -105,7 +105,7 @@ IM;;Isle of Man
 IN;;Энэтхэг
 IO;;Британий энэтхэгийн далайн нутаг
 IE;;Ирланд
-IR;;Солонгос ард улс
+IR;;Iran, Islamic Republic of
 IQ;;Ирак
 IS;;Исланд
 IL;;Израйл
@@ -120,9 +120,9 @@ KG;;Киргиз
 KH;;Камбож
 KI;;Кирибати
 KN;;Сент-Китс ба Невис
-KR;;Өмнөд африк
+KR;;Солонгос ард улс
 KW;;Кувейт
-LA;;Ардчилсан Конго ард улс
+LA;;Lao People's Democratic Republic
 LB;;Либони
 LR;;Liberia
 LY;;Ливи
@@ -142,7 +142,7 @@ MG;;Мадагаскар
 MV;;Малдивс
 MX;;Мексик
 MH;;Маршаллын арлууд
-MK;;Шинэ калдени
+MK;;North Macedonia
 ML;;Мали
 MT;;Малта
 MM;;Мянмар
@@ -179,7 +179,7 @@ PW;;Палау
 PG;;Папуа Шинэ Гвиней
 PL;;Польш
 PR;;Пуерто рико
-KP;;Шинэ калдени
+KP;;Ардчилсан солонгос улс
 PT;;Португаль
 PY;;Прагвай
 PS;;Palestine, State of
@@ -202,8 +202,8 @@ SV;;Эл салвадор
 SM;;Сан марино
 SO;;Сомали
 PM;;Сен-Пьер ба Микелон
-RS;;Сири
-SS;;Өмнөд африк
+RS;;Serbia
+SS;;South Sudan
 ST;;Sao Tome and Principe
 SR;;Суринам
 SK;;Словак
@@ -212,7 +212,7 @@ SE;;Швед
 SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seychelles
-SY;;Төв африкын ард улс
+SY;;Syrian Arab Republic
 TC;;Turks and Caicos Islands
 TD;;Чад
 TG;;Того
@@ -239,7 +239,7 @@ VC;;Saint Vincent and the Grenadines
 VE;;Винессуэл
 VG;;Виржиний британи арлууд
 VI;;Виржиний АНУ арлууд
-VN;;Виетьнам
+VN;;Vietnam
 VU;;Вануату
 WF;;Wallis and Futuna
 WS;;Самоа

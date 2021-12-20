@@ -13,7 +13,7 @@ AZ;;アゼルバイジャン語
 BA;;バシキール語
 BM;;バンバラ語
 BE;;白ロシア語
-BN;;ベンガル語
+BN;;Bengali
 BH;;ビハール語族
 BI;;ビスラマ語
 BO;;チベット語
@@ -24,7 +24,7 @@ CA;;カタロニア語; バレンシア語
 CS;;チェコ語
 CH;;チャモロ語
 CE;;チェチェン語
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;教会スラブ語; 古スラブ語; 教会スラブ語; 古ブルガリア語; 古教会スラブ語
 CV;;チュヴァシュ語
 KW;;コーンウォール語
 CO;;コルシカ語
@@ -64,9 +64,9 @@ HU;;ハンガリー語
 HY;;アルメニア語
 IG;;イボ語
 IO;;イド語
-II;;四川イ (彝) 語
+II;;Sichuan Yi; Nuosu
 IU;;イヌクウティトット語
-IE;;インターリング
+IE;;Interlingue; Occidental
 IA;;インターリングア語 (国際補助語協会)
 ID;;インドネシア語
 IK;;イヌピアック語
@@ -119,7 +119,7 @@ NN;;ニーノシュク・ノルウェー語; ノルウェー語, ニーノシュ
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;ノルウェー語
 NY;;チチェワ語; チェワ語; ニャンジャ語
-OC;;オック語 (1500以後); プロバンス語
+OC;;Occitan (post 1500); Provençal
 OJ;;オジブワ語
 OR;;オリヤー語
 OM;;オロモ語
@@ -128,10 +128,10 @@ PA;;パンジャブ語; Punjabi
 PI;;パーリ語
 PL;;ポーランド語
 PT;;ポルトガル語
-PS;;プシュトゥー語
+PS;;Pushto; Pashto
 QU;;キチュワ語
 RM;;ロマンシュ語
-RO;;モルダヴィア語
+RO;;Romanian; Moldavian; Moldovan
 RN;;ルンディ語
 RU;;ロシア語
 SG;;サンゴ語

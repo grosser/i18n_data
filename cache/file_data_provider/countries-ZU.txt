@@ -2,13 +2,13 @@ AW;;Aruba
 AF;;I-Afganistani
 AO;;I-Angola
 AI;;Anguilla
-AX;;I-Irelandi
+AX;;Åland Islands
 AL;;I-Albaniya
 AD;;I-Andora
 AE;;United Arab Emirates
 AR;;I-Argentina
-AM;;I-Argentina
-AS;;Melika, Mntla
+AM;;Armenia
+AS;;American Samoa
 AQ;;Antarctica
 TF;;French Southern Territories
 AG;;Antigua no Barbuda
@@ -22,12 +22,12 @@ BQ;;Bonaire, Sint Eustatius and Saba
 BF;;IBukhina Faso
 BD;;Isi-Bhangladeshi
 BG;;I-Buligariya
-BH;;I Brazili
-BS;;I-Panama
+BH;;Bahrain
+BS;;Bahamas
 BA;;IBhosniya neHerzegovina
 BL;;Saint Barthélemy
 BY;;I Bhelarusi
-BZ;;Isi-Bhelijiyamu
+BZ;;Belize
 BM;;Bermuda
 BO;;I Boliviya
 BR;;I Brazili
@@ -36,7 +36,7 @@ BN;;Brunei Darussalam
 BT;;Bhutan
 BV;;Bouvet Island
 BW;;IButswana
-CF;;Ulawulo lokuziphatha kwe Dominikhani
+CF;;Central African Republic
 CA;;I Khanada
 CC;;Cocos (Keeling) Islands
 CH;;I-Switzerland
@@ -47,11 +47,11 @@ CM;;IKamerooni
 CD;;Congo, The Democratic Republic of the
 CG;;Congo
 CK;;Cook Islands
-CO;;I Kholombiya
+CO;;Colombia
 KM;;IsiKhomorosi
 CV;;Cabo Verde
 CR;;Costa Rica
-CU;;I Kholombiya
+CU;;Cuba
 CW;;Curaçao
 CX;;Christmas Island
 KY;;Cayman Islands
@@ -59,11 +59,11 @@ CY;;Cyprus
 CZ;;Czechia
 DE;;Isi-Jalimani
 DJ;;IJibuthi
-DM;;I-Romaniya
+DM;;Dominica
 DK;;Isi-Denimaki
 DO;;Ulawulo lokuziphatha kwe Dominikhani
 DZ;;IAljiriya
-EC;;Equador
+EC;;Ecuador
 EG;;IGibhithe
 ER;;I-Eritrea
 EH;;Western Sahara
@@ -74,25 +74,25 @@ FI;;I-Finilandi
 FJ;;IFiji
 FK;;Falkland Islands (Malvinas)
 FR;;Isi Frentshi
-FO;;I-Irelandi
+FO;;Faroe Islands
 FM;;Micronesia, Federated States of
 GA;;IGaboni
 GB;;United Kingdom
-GE;;I-Serbiya
+GE;;Georgia
 GG;;Guernsey
 GH;;IGana
 GI;;Gibraltar
 GN;;IGini
 GP;;Guadeloupe
-GM;;I Jamayikha
+GM;;Gambia
 GW;;IGini Bisawu
 GQ;;IGini Enkabazwe
 GR;;I-Grisi
 GD;;I-Grenada
-GL;;I-Grenada
+GL;;Greenland
 GT;;I-Guwathemala
 GF;;French Guiana
-GU;;I-Guwathemala
+GU;;Guam
 GY;;Guyana
 HK;;Hong Kong
 HM;;Heard Island and McDonald Islands
@@ -102,50 +102,50 @@ HT;;Haiti
 HU;;I-Hungariya
 ID;;I-Indoneshiya
 IM;;Isle of Man
-IN;;INdiya
+IN;;India
 IO;;British Indian Ocean Territory
 IE;;I-Irelandi
-IR;;Ulawulo lokuziphatha kwe Dominikhani
+IR;;Iran, Islamic Republic of
 IQ;;I-Iraki
 IS;;I-Icelandi
 IL;;I-Sirayeli
 IT;;I-Ithali
-JM;;I Jamayikha
+JM;;Jamaica
 JE;;Jersey
-JO;;Isi-Koreyani
+JO;;Jordan
 JP;;I-Japhani
-KZ;;I-Tayiwani
+KZ;;Kazakhstan
 KE;;Kenya
 KG;;Kyrgyzstan
-KH;;I Kholombiya
+KH;;Cambodia
 KI;;Kiribati
 KN;;St. Kitts no Nevis
-KR;;IRiphabliki yaseNingizimu Afrika
+KR;;South Korea
 KW;;Kuwait
 LA;;Lao People's Democratic Republic
 LB;;Lebanon
 LR;;ILiberia
 LY;;ILibiya
-LC;;St. Lucia
+LC;;Saint Lucia
 LI;;Liechtenstein
 LK;;Sri Lanka
 LS;;Lesotho
 LT;;I-Lithuwaniya
 LU;;I-Luxembourg
 LV;;I-Latviya
-MO;;I-Malta
+MO;;Macao
 MF;;Saint Martin (French part)
 MA;;Morocco
 MC;;Monaco
 MD;;Moldova
 MG;;Madagascar
-MV;;I-Malta
+MV;;Maldives
 MX;;I-Mexico
 MH;;Marshall Islands
-MK;;I-Makhedoniya
+MK;;North Macedonia
 ML;;IMali
 MT;;I-Malta
-MM;;I-Panama
+MM;;Myanmar
 ME;;Montenegro
 MN;;Mongolia
 MP;;Northern Mariana Islands
@@ -155,10 +155,10 @@ MS;;Montserrat
 MQ;;Martinique
 MU;;IMorishisi
 MW;;IMalawi
-MY;;I-Malta
+MY;;Malaysia
 YT;;IMayotte
 NA;;INamibhiya
-NC;;I-Makhedoniya
+NC;;New Caledonia
 NE;;INayighe
 NF;;Norfolk Island
 NG;;INigeria
@@ -175,16 +175,16 @@ PA;;I-Panama
 PN;;Pitcairn
 PE;;I-Peru
 PH;;Philippines
-PW;;I-Paraguwayi
+PW;;Palau
 PG;;Papua New Guinea
 PL;;I-Polandi
 PR;;Puerto Rico
-KP;;I-Makhedoniya
+KP;;North Korea
 PT;;I-Phothugali
 PY;;I-Paraguwayi
 PS;;Palestine, State of
 PF;;French Polynesia
-QA;;I-Malta
+QA;;Qatar
 RE;;Réunion
 RO;;I-Romaniya
 RU;;Russian Federation
@@ -202,7 +202,7 @@ SV;;I-El Salvador
 SM;;San Marino
 SO;;ISomalia
 PM;;Saint Pierre and Miquelon
-RS;;I-Serbiya
+RS;;Serbia
 SS;;ISudan yaseNingizimu
 ST;;ISawu Tome noPhrinitshipeyi
 SR;;Suriname
@@ -212,12 +212,12 @@ SE;;Isi-Swideni
 SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seychelles
-SY;;Ulawulo lokuziphatha kwe Dominikhani
+SY;;Syrian Arab Republic
 TC;;Turks and Caicos Islands
 TD;;ITshedi
 TG;;ITogo
 TH;;I-Thayilandi
-TJ;;I-Tayiwani
+TJ;;Tajikistan
 TK;;Tokelau
 TM;;Turkmenistan
 TL;;Timor-Leste
@@ -228,18 +228,18 @@ TR;;I-Turkey
 TV;;Tuvalu
 TW;;I-Tayiwani
 TZ;;ITanzania
-UG;;I Khanada
+UG;;Uganda
 UA;;I-Ukraine
-UM;;United States ye Melika
+UM;;United States Minor Outlying Islands
 UY;;I-Uruguwayi
-US;;United States ye Melika
+US;;United States
 UZ;;Uzbekistan
 VA;;Holy See (Vatican City State)
-VC;;I-St. Vincent ne Grenadines
+VC;;Saint Vincent and the Grenadines
 VE;;I-Venezuwela
 VG;;Virgin Islands, British
-VI;;I-Finilandi
-VN;;I-Vietnami
+VI;;Virgin Islands, U.S.
+VN;;Vietnam
 VU;;Vanuatu
 WF;;Wallis and Futuna
 WS;;Samoa

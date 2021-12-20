@@ -49,7 +49,7 @@ CG;;Kongo
 CK;;Kuka salas
 CO;;Kolumbija
 KM;;Komoras
-CV;;Kaboverde
+CV;;Cabo Verde
 CR;;Kostarika
 CU;;Kuba
 CW;;Kirasao
@@ -120,7 +120,7 @@ KG;;Kirgizstāna
 KH;;Kambodža
 KI;;Kiribati
 KN;;Sentkitsa un Nevisa
-KR;;Dienvidāfrika
+KR;;Dienvidkoreja
 KW;;Kuveita
 LA;;Laosa
 LB;;Libāna
@@ -142,7 +142,7 @@ MG;;Madagaskara
 MV;;Maldīvija
 MX;;Meksika
 MH;;Māršala salas
-MK;;Jaunkaledonija
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Mjanma
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua-Jaungvineja
 PL;;Polija
 PR;;Puertoriko
-KP;;Jaunkaledonija
+KP;;Ziemeļkoreja
 PT;;Portugāle
 PY;;Paragvaja
 PS;;Palestīnas valsts

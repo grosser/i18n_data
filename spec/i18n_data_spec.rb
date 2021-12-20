@@ -132,6 +132,18 @@ describe I18nData do
             I18nData.countries('IS')['PK'].should eq I18nData.countries['PK']
           end
 
+          it "prefers 'Common name for' when available" do
+            I18nData.countries('PT')['MD'].should eq "Moldávia"
+          end
+
+          it "prefers 'Name for' as a fallback to 'Common name for'" do
+            I18nData.countries('PT')['MV'].should eq "Maldivas"
+          end
+
+          it "ignores 'fuzzy' .po entries" do
+            I18nData.countries('AF')['MK'].should eq "North Macedonia"
+          end
+
           it "does not contain blanks" do
             blank_keys_or_values(I18nData.countries('GL')).should eq nil
           end

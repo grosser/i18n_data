@@ -120,7 +120,7 @@ KG;;Kyrgyzstan
 KH;;Cambodia
 KI;;Kiribati
 KN;;Saint Kitts and Nevis
-KR;;Kéyah Naakaii Łizhinii Bikéyah Shádiʼááhjí Siʼánígíí
+KR;;South Korea
 KW;;Kuwait
 LA;;Lao People's Democratic Republic
 LB;;Lebanon

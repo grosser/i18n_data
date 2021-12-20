@@ -11,16 +11,16 @@ AM;;ጐሴሣኒ።
 AS;;American Samoa
 AQ;;Antarctica
 TF;;ፘፈረንሳ፤ ፠ቡባፁ ጔፒቶኄ
-AG;;አንቲጋ እና ባርቡዳ
+AG;;Antigua and Barbuda
 AU;;ጐፄስትሳሑ።
 AT;;጖ስትሱ።
 AZ;;ጐፈሴባጃን
-BI;;ቡሩንዲ
+BI;;Burundi
 BE;;ቤሔጄሤ
-BJ;;ቤኒን
+BJ;;Benin
 BQ;;Bonaire, Sint Eustatius and Saba
-BF;;ቡርኪና ፋሶ
-BD;;ባንግላዴሽ
+BF;;Burkina Faso
+BD;;Bangladesh
 BG;;ቡሔጓሱ።
 BH;;ባህሳን
 BS;;Bahamas
@@ -35,30 +35,30 @@ BB;;ባሴቤ፦ስ
 BN;;Brunei Darussalam
 BT;;ቡህታን
 BV;;Bouvet Island
-BW;;ቦትስዋና
+BW;;Botswana
 CF;;ፘመጢጘለኢፄ ጐፔሱጢ ሱፐብሑጤ
-CA;;ካናዳ
+CA;;Canada
 CC;;Cocos (Keeling) Islands
 CH;;ስፁፈሴሒን፥
 CL;;ኁሑ
 CN;;ኂ፤ና
 CI;;Côte d'Ivoire
 CM;;ጢሣሩን
-CD;;ጥንጕ
+CD;;Congo, The Democratic Republic of the
 CG;;ኮንጎ
 CK;;Cook Islands
 CO;;ጥሕሤቢ።
 KM;;ጥሥስስ
-CV;;ጣፕ ታሴ፤
-CR;;ኮስታ ሪካ
-CU;;ኩባ
+CV;;Cabo Verde
+CR;;Costa Rica
+CU;;Cuba
 CW;;Curaçao
 CX;;Christmas Island
 KY;;Cayman Islands
 CY;;ሳ፤ፕረስ
 CZ;;Czechia
 DE;;ጀሴመን
-DJ;;ጅቡቲ
+DJ;;Djibouti
 DM;;፦ሡኒጢ
 DK;;፤ንሢሴጤ
 DO;;፦ሡኒጤ ሱፑብሑጤ
@@ -73,37 +73,37 @@ ET;;ጒት፥ጵ።
 FI;;ፑንሒን፥
 FJ;;ፑጂ
 FK;;Falkland Islands (Malvinas)
-FR;;ፈረንሣይ
-FO;;ፋሮ ደሴቶች
+FR;;France
+FO;;Faroe Islands
 FM;;ሡጤስኔፒ።
-GA;;ጋቦን
+GA;;Gabon
 GB;;ጕንጔሑፔ
 GE;;ጆሴጂ።
 GG;;Guernsey
-GH;;ጋና
-GI;;ጅብራልታር
+GH;;Ghana
+GI;;Gibraltar
 GN;;ጊኔ
 GP;;Guadeloupe
 GM;;ጒሤቢ።
 GW;;ቢሳፅ
-GQ;;ጒጣቶሱ።ሔ ጑ኒ
+GQ;;Equatorial Guinea
 GR;;ጔሱጤ
-GD;;ግረነይዳ
-GL;;ግሪንላንድ
-GT;;ጓቴማላ
+GD;;Grenada
+GL;;Greenland
+GT;;Guatemala
 GF;;ፘፈረንሳ፤ ጉፁጐና
 GU;;Guam
 GY;;ጉ።ና
 HK;;ሆንጔ ጥንጔ
 HM;;Heard Island and McDonald Islands
-HN;;ሆንዱራስ
+HN;;Honduras
 HR;;ጤስጔቄ።
 HT;;ሀ፤ቲ
 HU;;ሀንጒሱ
 ID;;ጒን፦ኔፒ።
 IM;;Isle of Man
 IN;;ህን፥
-IO;;የብሪታንያ ሕንድ ውቅያኖስ ግዛት
+IO;;British Indian Ocean Territory
 IE;;ጐፘሴሒን፥
 IR;;Iran, Islamic Republic of
 IQ;;ጒሲቅ
@@ -120,7 +120,7 @@ KG;;ኪርጊዝስታን
 KH;;ጢሤቦ።።
 KI;;ኪሪባስ
 KN;;ሰይንት ኪትስና ኒቨስ
-KR;;፠ቡብ ጐፔሱጢ
+KR;;ደቡብ ኮሪያ
 KW;;ጤፃት
 LA;;Lao People's Democratic Republic
 LB;;ሑባኖስ
@@ -179,7 +179,7 @@ PW;;ፐላው
 PG;;ፓፑፂ ኒፄ ጑ኒ
 PL;;ፖሒን፥
 PR;;ፖሴታ ሱጥ
-KP;;ኒፄ ጢሓ፦ኒ።
+KP;;ሰሜናዊ ኮሪያ
 PT;;ፖርቱጋል
 PY;;ፓራጓይ
 PS;;Palestine, State of

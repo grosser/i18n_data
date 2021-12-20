@@ -24,7 +24,7 @@ CA;;Kataluna; Valencia
 CS;;Ĉeĥa
 CH;;Ĉamora
 CE;;Ĉeĉena
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;Slavona
 CV;;Ĉuvaŝa
 KW;;Kornvala
 CO;;Korsika

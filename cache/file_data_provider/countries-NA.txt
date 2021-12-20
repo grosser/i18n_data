@@ -120,7 +120,7 @@ KG;;Kirgitan
 KH;;Kambodja
 KI;;Kiribat
 KN;;Saint Kitts and Nevis
-KR;;South Aprika
+KR;;South Korea
 KW;;Kuwait
 LA;;Lao People's Democratic Republic
 LB;;Ribanon

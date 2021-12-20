@@ -49,7 +49,7 @@ CG;;Kongóo
 CK;;Iil yu Cook
 CO;;Koloombi
 KM;;Komoor
-CV;;Kap Weer
+CV;;Cabo Verde
 CR;;Kosta Riika
 CU;;Kubaa
 CW;;Curaçao
@@ -120,7 +120,7 @@ KG;;Kirgistaan
 KH;;Kambodia
 KI;;Kiribati
 KN;;Saint Kitts and Nevis
-KR;;Afrik di Sid
+KR;;Koore, Republik bu
 KW;;Kuwet
 LA;;Republik Popileer Demokaraatik bu Laawos
 LB;;Libãa
@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldiif
 MX;;Meksik
 MH;;Marshall Islands
-MK;;Nuweel Kaledooni
+MK;;North Macedonia
 ML;;Mali
 MT;;Malt
 MM;;Miyanmaar
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papwa Nuweel Ginne
 PL;;Poloñ
 PR;;Poorto Riiko
-KP;;Nuweel Kaledooni
+KP;;Koore, Republik Popileer Demokaraatik bu
 PT;;Portugaal
 PY;;Paraguwaay
 PS;;Palestine, State of
@@ -203,14 +203,14 @@ SM;;San Marino
 SO;;Somaali
 PM;;Saint Pierre ak Miquelon
 RS;;Serbi
-SS;;Republik bu Suudaan
+SS;;South Sudan
 ST;;Sao Tome ak Principe
 SR;;Surinaam
 SK;;Eslowaaki
 SI;;Esloweeni
 SE;;Suweed
 SZ;;Eswatini
-SX;;Saint Martin (Français)
+SX;;Sint Maarten (Dutch part)
 SC;;Seychelles
 SY;;Republik Araab bu Siiri
 TC;;Turks and Caicos Islands

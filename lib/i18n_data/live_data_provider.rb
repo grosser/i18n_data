@@ -1,4 +1,5 @@
 require 'json'
+require 'simple_po_parser'
 
 module I18nData
   # fetches data online from debian git
@@ -42,18 +43,19 @@ module I18nData
       end
     end
 
-    def translate(type, language, to_language_code)
-      translated = translations(type, to_language_code)[language]
-      translated.to_s.empty? ? nil : translated
-    end
-
     def translated(type, language_code)
       @translated ||= {}
+
       @translated["#{type}_#{language_code}"] ||= begin
-        Hash[send("english_#{type}").map do |code, name|
-          [code, translate(type, name, language_code) || name]
+        Hash[send("alpha_codes_for_#{type}").map do |alpha2, alpha3|
+          [alpha2, translate(type, alpha3, language_code) || fallback_name(type, alpha3)]
         end]
       end
+    end
+
+    def translate(type, alpha3, to_language_code)
+      translated = translations(type, to_language_code)[alpha3]
+      translated.to_s.empty? ? nil : translated
     end
 
     def translations(type, language_code)
@@ -63,16 +65,50 @@ module I18nData
         code[0].downcase!
         code = code.join("_")
 
-        url = TRANSLATIONS[type]+"#{code}.po"
         begin
-          data = get(url)
+          file_path = "#{CLONE_DEST}/#{TRANSLATIONS[type]}#{code}.po"
+          data = SimplePoParser.parse(file_path)
+          data = data[1..-1] # Remove the initial info block in the .po file
+
+          # Prefer the "Common name for" blocks, but fallback to "Name for" blocks
+          common_names = get_po_data(data, 'Common name for')
+          fallback_names = get_po_data(data, 'Name for')
+
+          fallback_names.merge(common_names)
         rescue Errno::ENOENT
           raise NoTranslationAvailable, "for #{type} and language code = #{code} (#{$!})"
         end
+      end
+    end
 
-        data = data.force_encoding('utf-8') if data.respond_to?(:force_encoding) # 1.9
-        data = data.split("\n")
-        po_to_hash data
+    def get_po_data(data, extracted_comment_string)
+      # Ignores the 'fuzzy' entries
+      po_entries = data.select do |t|
+        t[:extracted_comment].start_with?(extracted_comment_string) && t[:flag] != 'fuzzy'
+      end
+
+      # Maps over the alpha3 country code in the 'extracted_comment'
+      # Eg: "Name for GBR"
+      po_entries.map.with_object({}) do |t, translations|
+        alpha3 = t[:extracted_comment][-3..-1].upcase
+        translation = t[:msgstr]
+        translations[alpha3] = translation.is_a?(Array) ? translation.join : translation
+      end
+    end
+
+    def alpha_codes_for_countries
+      @alpha_codes_for_countries ||= json(:countries)['3166-1'].each_with_object({}) do |entry, codes|
+        alpha2 = entry['alpha_2']&.upcase
+        alpha3 = entry['alpha_3']&.upcase
+        codes[alpha2] = alpha3 unless alpha2.nil?
+      end
+    end
+
+    def alpha_codes_for_languages
+      @alpha_codes_for_languages ||= json(:languages)['639-2'].each_with_object({}) do |entry, codes|
+        alpha2 = entry['alpha_2']&.upcase
+        alpha3 = entry['alpha_3']&.upcase
+        codes[alpha2] = alpha3 unless alpha2.nil?
       end
     end
 
@@ -101,13 +137,8 @@ module I18nData
       end
     end
 
-    def po_to_hash(data)
-      names = data.select{|l| l =~ /^msgid/ }.map{|line| line.match(/^msgid "(.*?)"/)[1] }
-      translations = data.select{|l| l =~ /^msgstr/ }.map{|line| line.match(/^msgstr "(.*?)"/)[1] }
-
-      Hash[names.each_with_index.map do |name,index|
-        [name, translations[index]]
-      end]
+    def fallback_name(type, alpha3)
+      send("english_#{type}")[send("alpha_codes_for_#{type}").invert[alpha3]]
     end
 
     def get(url)

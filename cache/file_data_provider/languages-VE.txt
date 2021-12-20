@@ -1,20 +1,20 @@
 AA;;Afar
 AB;;Abkhazian
 AF;;Tshivhuru
-AK;;Abkhazian
+AK;;Akan
 AM;;Amharic
 AR;;Tshiarabiki
-AN;;Faroese
+AN;;Aragonese
 AS;;Assamese
-AV;;Amharic
+AV;;Avaric
 AE;;Avestan
 AY;;Aymara
 AZ;;Azerbaijani
 BA;;Bashkir
-BM;;Aymara
+BM;;Bambara
 BE;;Belarusian
 BN;;Bengali
-BH;;Malagasy
+BH;;Bihari languages
 BI;;Bislama
 BO;;Tibetan
 BS;;Mubosinia
@@ -45,7 +45,7 @@ FA;;Persian
 FJ;;Fijian
 FI;;Finnish
 FR;;Mufura
-FY;;Frisian
+FY;;Western Frisian
 FF;;Fulah
 GD;;Gaelic; Scottish Gaelic
 GA;;Irish
@@ -58,7 +58,7 @@ HA;;Hausa
 HE;;Hebrew
 HZ;;Herero
 HI;;Hindi
-HO;;Hindi
+HO;;Hiri Motu
 HR;;Croatian
 HU;;Hungarian
 HY;;Armenian
@@ -66,7 +66,7 @@ IG;;Igbo
 IO;;Ido
 II;;Sichuan Yi; Nuosu
 IU;;Inuktitut
-IE;;Luambo lwa hothe
+IE;;Interlingue; Occidental
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;Indonesian
 IK;;Inupiaq
@@ -78,14 +78,14 @@ KL;;Kalaallisut; Greenlandic
 KN;;Kannada
 KS;;Kashmiri
 KA;;Georgian
-KR;;Kurdish
+KR;;Kanuri
 KK;;Kazakh
 KM;;Central Khmer
-KI;;Kikuyu
+KI;;Kikuyu; Gikuyu
 RW;;Kinyarwanda
-KY;;Kirghiz
+KY;;Kirghiz; Kyrgyz
 KV;;Komi
-KG;;Sango
+KG;;Kongo
 KO;;Korean
 KJ;;Kuanyama; Kwanyama
 KU;;Kurdish
@@ -95,9 +95,9 @@ LV;;Latvian
 LI;;Limburgan; Limburger; Limburgish
 LN;;Lingala
 LT;;Lithuanian
-LB;;Luxembourgish
+LB;;Luxembourgish; Letzeburgesch
 LU;;Luba-Katanga
-LG;;Kannada
+LG;;Ganda
 MH;;Marshallese
 ML;;Malayalam
 MR;;Marathi
@@ -115,7 +115,7 @@ ND;;Ndebele, North; North Ndebele
 NG;;Ndonga
 NE;;Nepali
 NL;;Dutch; Flemish
-NN;;Norwegian Nynorsk
+NN;;Norwegian Nynorsk; Nynorsk, Norwegian
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;Norwegian
 NY;;Chichewa; Chewa; Nyanja
@@ -123,28 +123,28 @@ OC;;Occitan (post 1500); Provençal
 OJ;;Ojibwa
 OR;;Oriya
 OM;;Oromo
-OS;;Ossetian
-PA;;Punjabi
+OS;;Ossetian; Ossetic
+PA;;Panjabi; Punjabi
 PI;;Pali
 PL;;Polish
 PT;;Portuguese
-PS;;Pushto
+PS;;Pushto; Pashto
 QU;;Quechua
-RM;;Romanian
-RO;;Moldavian; Moldovan
+RM;;Romansh
+RO;;Romanian; Moldavian; Moldovan
 RN;;Rundi
 RU;;Russian
 SG;;Sango
 SA;;Sanskrit
-SI;;Sinhalese
-SK;;Musilovaka
+SI;;Sinhala; Sinhalese
+SK;;Slovak
 SL;;Slovenian
-SE;;Sami ya Devhula
+SE;;Northern Sami
 SM;;Samoan
 SN;;Shona
 SD;;Sindhi
 SO;;Somali
-ST;;Sotho, Tshipembe
+ST;;Sotho, Southern
 ES;;Spanish; Castilian
 SQ;;Albanian
 SC;;Sardinian
@@ -164,10 +164,10 @@ TI;;Tigrinya
 TO;;Tonga (Tonga Islands)
 TN;;Tswana
 TS;;Tsonga
-TK;;Munna wa Turkey
+TK;;Turkmen
 TR;;Turkish
 TW;;Twi
-UG;;Uighur
+UG;;Uighur; Uyghur
 UK;;Ukrainian
 UR;;Urdu
 UZ;;Uzbek
@@ -176,9 +176,9 @@ VI;;Vietnamese
 VO;;Volapük
 WA;;Walloon
 WO;;Wolof
-XH;;Xhoza
+XH;;Xhosa
 YI;;Yiddish
 YO;;Yoruba
-ZA;;Zhuang
-ZH;;Mutshaina
-ZU;;Muzulu
+ZA;;Zhuang; Chuang
+ZH;;Chinese
+ZU;;Zulu

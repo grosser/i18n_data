@@ -49,7 +49,7 @@ CG;;An Congó
 CK;;Oileáin Cook
 CO;;An Cholóim
 KM;;Oileán Chomóra
-CV;;Rinn Verde
+CV;;Cabo Verde
 CR;;Cósta Rice
 CU;;Cúba
 CW;;Curasao
@@ -120,7 +120,7 @@ KG;;An Chirgeastáin
 KH;;An Chambóid
 KI;;Cireabaití
 KN;;Saint Kitts agus Nevis
-KR;;An Afraic Theas
+KR;;Poblacht na Cóiré
 KW;;Cuáit
 LA;;Daonphoblacht Dhaonlathach Laoch
 LB;;An Liobáin
@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Oileáin Mhaildíve
 MX;;Meicsiceo
 MH;;Oileáin Marshall
-MK;;An Nua-Chaladóin
+MK;;North Macedonia
 ML;;Mailí
 MT;;Málta
 MM;;Maenmar
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua Nua-Ghuine
 PL;;An Pholainn
 PR;;Portó Ríce
-KP;;An Nua-Chaladóin
+KP;;Daonphoblacht Dhaonlathach na Cóiré
 PT;;An Phortaingéil
 PY;;Paragua
 PS;;Palaistíne, Stát na

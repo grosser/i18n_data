@@ -49,7 +49,7 @@ CG;;Kongo
 CK;;Cookinsaaret
 CO;;Kolumbia
 KM;;Komorit
-CV;;Kap Verde
+CV;;Cabo Verde
 CR;;Costa Rica
 CU;;Kuuba
 CW;;Curaçao
@@ -120,7 +120,7 @@ KG;;Kirgisia
 KH;;Kambodža
 KI;;Kiribati
 KN;;Saint Kitts ja Nevis
-KR;;Etelä-Afrikka
+KR;;Korean tasavalta
 KW;;Kuwait
 LA;;Laos
 LB;;Libanon
@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Malediivit
 MX;;Meksiko
 MH;;Marshallinsaaret
-MK;;Uusi-Kaledonia
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua-Uusi-Guinea
 PL;;Puola
 PR;;Puerto Rico
-KP;;Uusi-Kaledonia
+KP;;Korean demokraattinen kansantasavalta
 PT;;Portugali
 PY;;Paraguay
 PS;;Palestine, State of
@@ -227,7 +227,7 @@ TN;;Tunisia
 TR;;Turkki
 TV;;Tuvalu
 TW;;Taiwan
-TZ;;Tansania
+TZ;;Tansanian yhdistynyt tasavalta
 UG;;Uganda
 UA;;Ukraina
 UM;;Yhdysvaltain pienet erillissaaret

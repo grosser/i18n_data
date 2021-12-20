@@ -120,7 +120,7 @@ KG;;Kirgizstan
 KH;;Kambodja
 KI;;Kiribati
 KN;;S. Kitts ha Nevis
-KR;;Suafrika
+KR;;South Korea
 KW;;Koweit
 LA;;Lao People's Democratic Republic
 LB;;Liban
@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldivez
 MX;;Mec'hiko
 MH;;Marshall Islands
-MK;;Kaledonia-Nevez
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papoua Ginea-Nevez
 PL;;Polonia
 PR;;Puerto Rico
-KP;;Kaledonia-Nevez
+KP;;North Korea
 PT;;Portugal
 PY;;Paraguay
 PS;;Palestine, State of
@@ -210,7 +210,7 @@ SK;;Slovakia
 SI;;Slovenia
 SE;;Sveden
 SZ;;Eswatini
-SX;;Sant Marzhin (rann gallek)
+SX;;Sint Maarten (Dutch part)
 SC;;Sechelez
 SY;;Syrian Arab Republic
 TC;;Inizi Turks ha Caicos

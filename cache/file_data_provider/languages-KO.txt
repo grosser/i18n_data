@@ -13,7 +13,7 @@ AZ;;아제르바이잔어
 BA;;바시키르어
 BM;;밤바라어
 BE;;벨로루시어
-BN;;벵골어
+BN;;방글라데시어
 BH;;비하르어
 BI;;비슬라마
 BO;;티베트어
@@ -24,7 +24,7 @@ CA;;카탈루냐어
 CS;;체코어
 CH;;차모로어
 CE;;체첸어
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;슬라브어 (고대 교회)
 CV;;추바슈어
 KW;;콘월어
 CO;;코르시카어

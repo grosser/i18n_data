@@ -49,7 +49,7 @@ CG;;Congo-Brazza
 CK;;Iyes Cook
 CO;;Colombeye
 KM;;Comores
-CV;;Cap Vert
+CV;;Cabo Verde
 CR;;Costa Rica
 CU;;Cuba
 CW;;Curaçao
@@ -120,7 +120,7 @@ KG;;Kirguiztan
 KH;;Cambodje
 KI;;Kiribati
 KN;;St Kitts & Nevis
-KR;;Nonne Afrike
+KR;;Corêye (nonnrece)
 KW;;Kuweyt
 LA;;Laosse
 LB;;Liban
@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Maldives
 MX;;Mecsike
 MH;;Iyes Marshall
-MK;;Nouve Caledoneye
+MK;;North Macedonia
 ML;;Mali
 MT;;Male
 MM;;Birmaneye
@@ -179,7 +179,7 @@ PW;;Palawou
 PG;;Papouwazeye Nouve Guinêye
 PL;;Pologne
 PR;;Porto Rico
-KP;;Nouve Caledoneye
+KP;;Corêye (bijhrece)
 PT;;Portugal
 PY;;Paragway
 PS;;Palestine, State of

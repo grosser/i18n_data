@@ -24,7 +24,7 @@ CA;;katalánčina; valencijčina
 CS;;čeština
 CH;;čamorčina
 CE;;čečenčina
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;cirkevná slovančina; slovienčina; staroslovenčina; staroslovienčina
 CV;;čuvaština
 KW;;kornčina
 CO;;korzičtina

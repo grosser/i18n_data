@@ -120,7 +120,7 @@ KG;;Kirgizisztán
 KH;;Kambodzsa
 KI;;Kiribati
 KN;;Saint Kitts és Nevis
-KR;;Dél-Afrika
+KR;;Koreai Köztársaság
 KW;;Kuvait
 LA;;Laoszi Népi Demokratikus Köztársaság
 LB;;Libanon
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Pápua Új-Guinea
 PL;;Lengyelország
 PR;;Puerto Rico
-KP;;Észak-Macedónia
+KP;;Koreai Népi Demokratikus Köztársaság
 PT;;Portugália
 PY;;Paraguay
 PS;;Palesztina

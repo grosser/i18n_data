@@ -120,12 +120,12 @@ KG;;قرغزستان
 KH;;کمبودیا
 KI;;Kiribati
 KN;;Saint Kitts and Nevis
-KR;;سویلي افریقا
+KR;;South Korea
 KW;;کویټ
 LA;;Lao People's Democratic Republic
 LB;;لبنان
 LR;;لایبریا
-LY;;لایبریا
+LY;;Libya
 LC;;سېنټ لوسیا
 LI;;Liechtenstein
 LK;;سریلانکا
@@ -202,7 +202,7 @@ SV;;سالوېډور
 SM;;سان مارینو
 SO;;سومالیا
 PM;;Saint Pierre and Miquelon
-RS;;الجزایر
+RS;;Serbia
 SS;;سوېلي سوډان
 ST;;Sao Tome and Principe
 SR;;سورينام

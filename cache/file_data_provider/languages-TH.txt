@@ -13,7 +13,7 @@ AZ;;อาเซอร์ไบจาน
 BA;;บาสช์กีร์
 BM;;Bambara
 BE;;เบลารุส
-BN;;เบ็งกาลี
+BN;;Bengali
 BH;;กลุ่มภาษาพิหารี
 BI;;บิสลามา
 BO;;ทิเบต
@@ -119,7 +119,7 @@ NN;;นอร์เวย์ (นีนอร์สก์)
 NB;;นอร์เวย์ (บุคมอล)
 NO;;นอร์เวย์
 NY;;Chichewa; Chewa; Nyanja
-OC;;ออกซิตัน (หลัง 1500)
+OC;;Occitan (post 1500); Provençal
 OJ;;โอจิบเว
 OR;;โอริยา
 OM;;โอโรโม
@@ -131,7 +131,7 @@ PT;;โปรตุเกส
 PS;;พาชโต
 QU;;เกชัว
 RM;;Romansh
-RO;;มอลโดวา
+RO;;Romanian; Moldavian; Moldovan
 RN;;รุนดี
 RU;;รัสเซีย
 SG;;ซังโก

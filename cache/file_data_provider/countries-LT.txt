@@ -49,7 +49,7 @@ CG;;Kongas
 CK;;Kuko salos
 CO;;Kolumbija
 KM;;Komorai
-CV;;Žaliasis Kyšulys
+CV;;Cabo Verde
 CR;;Kosta Rika
 CU;;Kuba
 CW;;Kiurasao
@@ -120,7 +120,7 @@ KG;;Kirgizija
 KH;;Kambodža
 KI;;Kiribatis
 KN;;Sent Kitsas ir Nevis
-KR;;Pietų Afrika
+KR;;Korėjos Respublika
 KW;;Kuveitas
 LA;;Laoso Liaudies Demokratinė Respublika
 LB;;Libanas
@@ -142,7 +142,7 @@ MG;;Madagaskaras
 MV;;Maldyvai
 MX;;Meksika
 MH;;Maršalo salos
-MK;;Naujoji Kaledonija
+MK;;North Macedonia
 ML;;Malis
 MT;;Malta
 MM;;Mianmaras
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua Naujoji Gvinėja
 PL;;Lenkija
 PR;;Puerto Rikas
-KP;;Naujoji Kaledonija
+KP;;Korėjos Liaudies Demokratinė Respublika
 PT;;Portugalija
 PY;;Paragvajus
 PS;;Palestinos valstybė
@@ -227,7 +227,7 @@ TN;;Tunisas
 TR;;Turkija
 TV;;Tuvalu
 TW;;Taivanas
-TZ;;Tanzanija
+TZ;;Tanzanijos Jungtinė Respublika
 UG;;Uganda
 UA;;Ukraina
 UM;;Jungtinių Amerikos Valstijų mažosios aplinkinės salos

@@ -120,7 +120,7 @@ KG;;کرغیزستان
 KH;;کمبوڈیا
 KI;;کیریباتی
 KN;;سینٹ کیٹز و ناویس
-KR;;جنوبی افریقا
+KR;;South Korea
 KW;;کویت
 LA;;Lao People's Democratic Republic
 LB;;لبنان
@@ -142,7 +142,7 @@ MG;;مڈغاسکر
 MV;;مالدیپ
 MX;;میکسیکو
 MH;;Marshall Islands
-MK;;نیو کیلیڈونیا
+MK;;North Macedonia
 ML;;مالی
 MT;;مالٹا
 MM;;میانمار
@@ -179,7 +179,7 @@ PW;;پلاؤ
 PG;;پاپوا نیو گنی
 PL;;بولندا
 PR;;پورٹو ریکو
-KP;;نیو کیلیڈونیا
+KP;;North Korea
 PT;;پرتگال
 PY;;پیراگوئے
 PS;;Palestine, State of

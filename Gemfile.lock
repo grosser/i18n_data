@@ -22,15 +22,18 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.10.0)
     rspec-support (3.10.3)
+    simple_po_parser (1.1.5)
 
 PLATFORMS
-  ruby
+  x86_64-darwin-21
+  x86_64-linux
 
 DEPENDENCIES
   bump
   i18n_data!
   rake
   rspec (~> 3.0)
+  simple_po_parser (~> 1.1.5)
 
 BUNDLED WITH
-   2.1.4
+   2.2.32

@@ -13,7 +13,7 @@ AZ;;Azerbaijanska
 BA;;Bashkir
 BM;;Bambara
 BE;;Hvítrússneska
-BN;;Bengalskt
+BN;;Bangla
 BH;;Bihari tungumál
 BI;;Bislama
 BO;;Tíbetska
@@ -24,7 +24,7 @@ CA;;Katalónska; Valensía
 CS;;Tékkneska
 CH;;Chamorró
 CE;;Tétjenska
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;["", "Kirkjuleg slavíska; forn slavneska; kirkjuleg slavneska; forn búlgarska; ", "forn kirkjuleg slavneska"]
 CV;;Chuvash
 KW;;Cornish
 CO;;Korsíska

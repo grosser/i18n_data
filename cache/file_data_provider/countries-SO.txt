@@ -44,7 +44,7 @@ CL;;Jili
 CN;;Shiinaha
 CI;;Côte d'Ivoire
 CM;;Kameruun
-CD;;Kuuriyada Waqooyi
+CD;;Congo, The Democratic Republic of the
 CG;;Congo
 CK;;Cook Islands
 CO;;Kolombiya
@@ -120,7 +120,7 @@ KG;;Qargistan
 KH;;Kamboodiya
 KI;;Kiribati
 KN;;Saint Kitts and Nevis
-KR;;Koonfur Afrika
+KR;;South Korea
 KW;;Kuwayt
 LA;;Lao People's Democratic Republic
 LB;;Lubnaan
@@ -202,8 +202,8 @@ SV;;El Salvador
 SM;;San Marino
 SO;;Soomaaliya
 PM;;Saint Pierre and Miquelon
-RS;;Laybeeriya
-SS;;Koonfur Afrika
+RS;;Serbia
+SS;;South Sudan
 ST;;Sao Tome and Principe
 SR;;Suriname
 SK;;Slovakia
@@ -226,7 +226,7 @@ TT;;Trinidad and Tobago
 TN;;Tuniisiya
 TR;;Turki
 TV;;Tuvalu
-TW;;Taylaand
+TW;;Taiwan
 TZ;;Tanzania
 UG;;Ugaanda
 UA;;Ukraine

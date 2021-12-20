@@ -13,8 +13,8 @@ AZ;;Azerbaidžaniečių
 BA;;Baškirų
 BM;;Bambara
 BE;;Baltarusių
-BN;;Bengalų
-BH;;Tajų kalbos
+BN;;Bengali
+BH;;Bihari languages
 BI;;Bislama
 BO;;Tibetiečių
 BS;;Bosnių
@@ -24,7 +24,7 @@ CA;;Katalonų; Valencijos
 CS;;Čekų
 CH;;Čamorų
 CE;;Čečėnų
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;Bažnytinė slavų; Senoji slavų; Senoji bažnytinė slavų
 CV;;Čiuvašų
 KW;;Kornų
 CO;;Korsikiečių
@@ -119,7 +119,7 @@ NN;;Norvegų nynorsk; nynorsk, norvegų
 NB;;Bokmål; norvegų; norvegų bokmål
 NO;;Norvegų
 NY;;Nianja
-OC;;Očitarų (po 1500)
+OC;;Occitan (post 1500); Provençal
 OJ;;Ojibva
 OR;;Orijų
 OM;;Oromų
@@ -131,7 +131,7 @@ PT;;Portugalų
 PS;;Puštūnų
 QU;;Kečujų
 RM;;Retoromanų
-RO;;Moldavų
+RO;;Romanian; Moldavian; Moldovan
 RN;;Rundi
 RU;;Rusų
 SG;;Sango

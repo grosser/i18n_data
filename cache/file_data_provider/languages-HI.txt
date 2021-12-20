@@ -13,8 +13,8 @@ AZ;;अज़रबैंजानी
 BA;;बशख़िर
 BM;;Bambara
 BE;;बैलोरूशियन्
-BN;;बँगाली
-BH;;कोरीयन्
+BN;;Bengali
+BH;;Bihari languages
 BI;;बिस्लामा
 BO;;तिब्बती
 BS;;Bosnian
@@ -45,7 +45,7 @@ FA;;पर्शियन्
 FJ;;फ़ीजी
 FI;;फिनिश
 FR;;फ्रेंच
-FY;;फ्रीज़न्
+FY;;Western Frisian
 FF;;Fulah
 GD;;Gaelic; Scottish Gaelic
 GA;;आईरिश
@@ -66,7 +66,7 @@ IG;;Igbo
 IO;;Ido
 II;;Sichuan Yi; Nuosu
 IU;;इनूकीटूत्
-IE;;ईन्टरलिंगुइ
+IE;;Interlingue; Occidental
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;इन्डोनेशियन्
 IK;;इनुपियाक्
@@ -83,7 +83,7 @@ KK;;कज़ाख
 KM;;Central Khmer
 KI;;Kikuyu; Gikuyu
 RW;;किन्यारवाण्डा
-KY;;किरघिज़
+KY;;Kirghiz; Kyrgyz
 KV;;Komi
 KG;;Kongo
 KO;;कोरीयन्
@@ -130,13 +130,13 @@ PL;;पॉलिश
 PT;;पुर्तुगी
 PS;;Pushto; Pashto
 QU;;क्वेशुआ
-RM;;रूमानीयन्
-RO;;मोलडावियन्
+RM;;Romansh
+RO;;Romanian; Moldavian; Moldovan
 RN;;किरून्दी
 RU;;रुसी
 SG;;साँग्रो
 SA;;संस्कृत
-SI;;शिंघालीस्
+SI;;Sinhala; Sinhalese
 SK;;स्लोवाक्
 SL;;स्लोवेनियन्
 SE;;Northern Sami
@@ -167,7 +167,7 @@ TS;;सोंगा
 TK;;तुक्रमेन
 TR;;तुक्रीश
 TW;;ट्वी
-UG;;उईघुर
+UG;;Uighur; Uyghur
 UK;;यूक्रेनियन्
 UR;;ऊर्दु
 UZ;;उज़बेक्

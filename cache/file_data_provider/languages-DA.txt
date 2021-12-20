@@ -13,7 +13,7 @@ AZ;;azerbaijansk
 BA;;bajkirsk
 BM;;bambara
 BE;;hviderussisk
-BN;;bengali
+BN;;bangla
 BH;;bihariske sprog
 BI;;bislama
 BO;;tibetansk
@@ -24,7 +24,7 @@ CA;;catalansk; valensisk
 CS;;tjekkisk
 CH;;chamorro
 CE;;tjetjensk
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;kirkeslavisk; oldbulgarsk
 CV;;tjuvaskisk
 KW;;cornisk
 CO;;korsikansk

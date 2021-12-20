@@ -49,7 +49,7 @@ CG;;Congo
 CK;;Kapuluang Cook
 CO;;Kolombya
 KM;;Comoros
-CV;;Cape Verde
+CV;;Cabo Verde
 CR;;Costa Rica
 CU;;Kuba
 CW;;Curaçao
@@ -120,7 +120,7 @@ KG;;Kyrgyzstan
 KH;;Kambodya
 KI;;Kiribati
 KN;;Saint Kitts at Nevis
-KR;;Timog Aprika
+KR;;Korea, Republika ng
 KW;;Kuwait
 LA;;Taumbayang Demokratikong Republikang Lao
 LB;;Lebanon
@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Maldives
 MX;;Mehiko
 MH;;Marshall Islands
-MK;;Bagong Caledonia
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua New Guinea
 PL;;Poland
 PR;;Puerto Rico
-KP;;Bagong Caledonia
+KP;;Korea, Taumbayang Demokratikong Republika of
 PT;;Portugal
 PY;;Paraguay
 PS;;Palestine, State of

@@ -49,7 +49,7 @@ CG;;ኮንጎ
 CK;;Cook Islands
 CO;;ኮሎምብያ
 KM;;ኮሞሮስ
-CV;;ኬፕ ቬርዴ
+CV;;Cabo Verde
 CR;;ኮስታ ሪካ
 CU;;ኩባ
 CW;;Curaçao
@@ -120,7 +120,7 @@ KG;;Kyrgyzstan
 KH;;ካምቦዲያ
 KI;;Kiribati
 KN;;Saint Kitts and Nevis
-KR;;ደቡብ ኣፍሪቃ
+KR;;South Korea
 KW;;ክዌት
 LA;;Lao People's Democratic Republic
 LB;;ሊባኖስ
@@ -142,7 +142,7 @@ MG;;ማዳጋስካር
 MV;;Maldives
 MX;;ሜክሲኮ
 MH;;Marshall Islands
-MK;;ኒው ካሌዶኒያ
+MK;;North Macedonia
 ML;;ማሊ
 MT;;ማልታ
 MM;;Myanmar
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;ፓፑዋ ኒው ጊኒ
 PL;;ፖላንድ
 PR;;ፖርታ ሪኮ
-KP;;ኒው ካሌዶኒያ
+KP;;North Korea
 PT;;ፖርቱጋል
 PY;;ፓራጓይ
 PS;;Palestine, State of
@@ -202,7 +202,7 @@ SV;;ኤል ሳልቫዶር
 SM;;San Marino
 SO;;ሶማልያ
 PM;;Saint Pierre and Miquelon
-RS;;አዘርባጃን
+RS;;Serbia
 SS;;ደቡብ ሱዳን
 ST;;Sao Tome and Principe
 SR;;ሱሪናም

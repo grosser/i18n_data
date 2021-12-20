@@ -24,7 +24,7 @@ CA;;katalaani
 CS;;tšehhi
 CH;;tšamorro
 CE;;tšetšeeni
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;kirikuslaavi
 CV;;tšuvaši
 KW;;korni
 CO;;korsika

@@ -2,7 +2,7 @@ AW;;Aruba
 AF;;Afghanistan
 AO;;Angola
 AI;;Anguilla
-AX;;Cayman Islands
+AX;;Åland Islands
 AL;;Albania
 AD;;Andorra
 AE;;United Arab Emirates
@@ -34,7 +34,7 @@ BR;;Brazil
 BB;;Barbados
 BN;;Brunei Darussalam
 BT;;Bhutan
-BV;;Faroe Islands
+BV;;Bouvet Island
 BW;;Vhu-Tswana
 CF;;Central African Republic
 CA;;Canada
@@ -46,14 +46,14 @@ CI;;Côte d'Ivoire
 CM;;Cameroon
 CD;;Congo, The Democratic Republic of the
 CG;;Congo
-CK;;Solomon Islands
+CK;;Cook Islands
 CO;;Colombia
 KM;;Comoros
-CV;;Cape Verde
+CV;;Cabo Verde
 CR;;Costa Rica
 CU;;Cuba
 CW;;Curaçao
-CX;;Cayman Islands
+CX;;Christmas Island
 KY;;Cayman Islands
 CY;;Cyprus
 CZ;;Czechia
@@ -66,7 +66,7 @@ DZ;;Algeria
 EC;;Ecuador
 EG;;Egypt
 ER;;Eritrea
-EH;;Western Samoa
+EH;;Western Sahara
 ES;;Spain
 EE;;Estonia
 ET;;Ethiopia
@@ -91,7 +91,7 @@ GR;;Greece
 GD;;Grenada
 GL;;Greenland
 GT;;Guatemala
-GF;;French Polynesia
+GF;;French Guiana
 GU;;Guam
 GY;;Guyana
 HK;;Hong Kong
@@ -105,7 +105,7 @@ IM;;Isle of Man
 IN;;India
 IO;;British Indian Ocean Territory
 IE;;Ireland
-IR;;Czech Republic
+IR;;Iran, Islamic Republic of
 IQ;;Iraq
 IS;;Iceland
 IL;;Israel
@@ -119,21 +119,21 @@ KE;;Kenya
 KG;;Kyrgyzstan
 KH;;Cambodia
 KI;;Kiribati
-KN;;St. Kitts na Nevis
-KR;;Afurika Tshipembe
+KN;;Saint Kitts and Nevis
+KR;;South Korea
 KW;;Kuwait
 LA;;Lao People's Democratic Republic
 LB;;Lebanon
 LR;;Liberia
-LY;;Liberia
-LC;;St. Lucia
+LY;;Libya
+LC;;Saint Lucia
 LI;;Liechtenstein
 LK;;Sri Lanka
 LS;;Li-Sotho
 LT;;Lituania
 LU;;Luxembourg
 LV;;Latvia
-MO;;Macau
+MO;;Macao
 MF;;Saint Martin (French part)
 MA;;Morocco
 MC;;Monaco
@@ -142,11 +142,11 @@ MG;;Madagascar
 MV;;Maldives
 MX;;Mexico
 MH;;Marshall Islands
-MK;;New Caledonia
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
-ME;;Montserrat
+ME;;Montenegro
 MN;;Mongolia
 MP;;Northern Mariana Islands
 MZ;;Mozambikwi
@@ -160,7 +160,7 @@ YT;;Mayotte
 NA;;Namibia
 NC;;New Caledonia
 NE;;Niger
-NF;;Faroe Islands
+NF;;Norfolk Island
 NG;;Nigeria
 NI;;Nicaragua
 NU;;Niue
@@ -172,20 +172,20 @@ NZ;;New Zealand
 OM;;Oman
 PK;;Pakistan
 PA;;Panama
-PN;;Pakistan
+PN;;Pitcairn
 PE;;Peru
 PH;;Philippines
 PW;;Palau
 PG;;Papua New Guinea
 PL;;Poland
 PR;;Puerto Rico
-KP;;New Caledonia
+KP;;North Korea
 PT;;Portugal
 PY;;Paraguay
 PS;;Palestine, State of
 PF;;French Polynesia
 QA;;Qatar
-RE;;Fhethu
+RE;;Réunion
 RO;;Romania
 RU;;Russian Federation
 RW;;Rwanda
@@ -202,8 +202,8 @@ SV;;El Salvador
 SM;;San Marino
 SO;;Somalia
 PM;;Saint Pierre and Miquelon
-RS;;Syria
-SS;;South Africa
+RS;;Serbia
+SS;;South Sudan
 ST;;Sao Tome na Principe
 SR;;Suriname
 SK;;Slovakia
@@ -212,7 +212,7 @@ SE;;Sweden
 SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seychelles
-SY;;Central African Republic
+SY;;Syrian Arab Republic
 TC;;Turks and Caicos Islands
 TD;;Chad
 TG;;Togo
@@ -220,7 +220,7 @@ TH;;Thailand
 TJ;;Tajikistan
 TK;;Tokelau
 TM;;Turkmenistan
-TL;;Thoho
+TL;;Timor-Leste
 TO;;Tonga
 TT;;Trinidad and Tobago
 TN;;Tunisia
@@ -235,14 +235,14 @@ UY;;Uruguay
 US;;United States
 UZ;;Uzbekistan
 VA;;Holy See (Vatican City State)
-VC;;St. Vincent na Grenadines
+VC;;Saint Vincent and the Grenadines
 VE;;Venezuela
 VG;;Virgin Islands, British
 VI;;Virgin Islands, U.S.
 VN;;Viëtnam
 VU;;Vanuatu
 WF;;Wallis and Futuna
-WS;;Cambodia
+WS;;Samoa
 YE;;Yemen
 ZA;;Afurika Tshipembe
 ZM;;Zambia

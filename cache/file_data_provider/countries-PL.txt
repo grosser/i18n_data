@@ -120,7 +120,7 @@ KG;;Kirgistan
 KH;;Kambodża
 KI;;Kiribati
 KN;;Saint Kitts i Nevis
-KR;;Republika Południowej Afryki
+KR;;Korea Południowa
 KW;;Kuwejt
 LA;;Laos
 LB;;Liban
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua-Nowa Gwinea
 PL;;Polska
 PR;;Portoryko
-KP;;Macedonia Północna
+KP;;Korea Północna
 PT;;Portugalia
 PY;;Paragwaj
 PS;;Palestyna (państwo)

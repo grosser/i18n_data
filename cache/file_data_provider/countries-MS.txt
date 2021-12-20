@@ -44,13 +44,13 @@ CL;;Chile
 CN;;China
 CI;;Côte d'Ivoire
 CM;;Kamerun
-CD;;Republik Demokratik Kongo
+CD;;Congo, The Democratic Republic of the
 CG;;Kongo
 CK;;Kepulauan Cook
 CO;;Colombia
 KM;;Comoros
-CV;;Cape Verde
-CR;;Kosta Rika
+CV;;Cabo Verde
+CR;;Costa Rica
 CU;;Cuba
 CW;;Curaçao
 CX;;Kepulauan Christmas
@@ -120,7 +120,7 @@ KG;;Kyrgyzstan
 KH;;Kemboja
 KI;;Kiribati
 KN;;Saint Kitts dan Nevis
-KR;;Afrika Selatan
+KR;;South Korea
 KW;;Kuwait
 LA;;Lao People's Democratic Republic
 LB;;Lubnan
@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldiv
 MX;;Meksiko
 MH;;Kepulauan Marshall
-MK;;New Caledonia
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua New Guinea
 PL;;Poland
 PR;;Puerto Rico
-KP;;New Caledonia
+KP;;North Korea
 PT;;Feringgi
 PY;;Paraguay
 PS;;Palestine, State of

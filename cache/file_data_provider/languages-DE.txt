@@ -24,7 +24,7 @@ CA;;Katalanisch; Valencia
 CS;;Tschechisch
 CH;;Chamorro
 CE;;Tschetschenisch
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;Kirchenslawisch; Altslawisch
 CV;;Tschuwaschisch
 KW;;Kornisch
 CO;;Korsisch

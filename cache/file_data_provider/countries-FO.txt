@@ -49,7 +49,7 @@ CG;;Kongo
 CK;;Cook Islands
 CO;;Kolombia
 KM;;Komorooyggjarnar
-CV;;Grønhøvdaoyggjarnar
+CV;;Cabo Verde
 CR;;Kosta Rika
 CU;;Kuba
 CW;;Curaçao
@@ -120,7 +120,7 @@ KG;;Kirgisia
 KH;;Kambodja
 KI;;Kiribati
 KN;;Saint Kitts og Nevis
-KR;;Suðurafrika
+KR;;South Korea
 KW;;Kuvait
 LA;;Lao People's Democratic Republic
 LB;;Libanon
@@ -202,8 +202,8 @@ SV;;El Salvador
 SM;;San Marino
 SO;;Somalia
 PM;;Saint Pierre and Miquelon
-RS;;Aserbajdsjan
-SS;;Domingo lýðveldið
+RS;;Serbia
+SS;;South Sudan
 ST;;Sao Tome og Prinsipi
 SR;;Surinam
 SK;;Slovakia

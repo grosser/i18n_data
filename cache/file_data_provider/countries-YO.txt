@@ -120,7 +120,7 @@ KG;;Kirgistani
 KH;;Kàmbódíà
 KI;;Kìrìbátì
 KN;;Saint Kitts àti Nevis
-KR;;Gúúsù Áfríkà
+KR;;South Korea
 KW;;Kuwaiti
 LA;;Lao People's Democratic Republic
 LB;;Lẹ́bánọ́nì
@@ -142,7 +142,7 @@ MG;;Madagáskàr
 MV;;Àwọn Maldive
 MX;;Mẹ́ksíkò
 MH;;Marshall Islands
-MK;;Kalẹdóníà Tuntun
+MK;;North Macedonia
 ML;;Málì
 MT;;Máltà
 MM;;Myanmar
@@ -179,7 +179,7 @@ PW;;Páláù
 PG;;Papua Guinea Titun
 PL;;Pólàndì
 PR;;Púẹ́rtò Ríkò
-KP;;Kalẹdóníà Tuntun
+KP;;North Korea
 PT;;Pọ́rtúgàl
 PY;;Paragúáì
 PS;;Palestine, State of

@@ -120,7 +120,7 @@ KG;;Yn Chyrgistaan
 KH;;Yn Chamboyd
 KI;;Yn Chiribati
 KN;;Noo Kitts as Nevis
-KR;;Yn Affrick Yiass
+KR;;South Korea
 KW;;Yn Choowait
 LA;;Lao People's Democratic Republic
 LB;;Yn Livaan

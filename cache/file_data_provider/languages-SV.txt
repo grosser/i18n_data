@@ -24,7 +24,7 @@ CA;;Katalanska; Valencianska
 CS;;Tjeckiska
 CH;;Chamorro
 CE;;Tjetjenska
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;Fornkyrkslaviska; Fornkyrkoslaviska; Fornslaviska
 CV;;Tjuvasjiska
 KW;;Korniska
 CO;;Korsikanska

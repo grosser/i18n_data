@@ -13,8 +13,8 @@ AZ;;Әзерчә
 BA;;Башкортча
 BM;;Bambara
 BE;;Беларусча
-BN;;Бенgалча
-BH;;Госман телләре
+BN;;Bengali
+BH;;Bihari languages
 BI;;Бисламача
 BO;;Тибетчә
 BS;;Босничә
@@ -45,7 +45,7 @@ FA;;Фарсыча
 FJ;;Фижичә
 FI;;Финчә
 FR;;Франсча
-FY;;Фрисчә
+FY;;Western Frisian
 FF;;Fulah
 GD;;Gaelic; Scottish Gaelic
 GA;;İрищә
@@ -66,7 +66,7 @@ IG;;Igbo
 IO;;İдоча
 II;;Sichuan Yi; Nuosu
 IU;;İнуктитутча
-IE;;İнтерлинgуе
+IE;;Interlingue; Occidental
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;İндонесчә
 IK;;İнупиакча
@@ -81,9 +81,9 @@ KA;;Gөрҗечә
 KR;;Kanuri
 KK;;Казакча
 KM;;Central Khmer
-KI;;Кикуюча
+KI;;Kikuyu; Gikuyu
 RW;;Кинярвандача
-KY;;Кыргызча
+KY;;Kirghiz; Kyrgyz
 KV;;Комичә
 KG;;Kongo
 KO;;Корейчә
@@ -95,7 +95,7 @@ LV;;Латча
 LI;;Limburgan; Limburger; Limburgish
 LN;;Линgалача
 LT;;Литчә
-LB;;Лүксембурgча
+LB;;Luxembourgish; Letzeburgesch
 LU;;Luba-Katanga
 LG;;Ganda
 MH;;Маршаллча
@@ -110,12 +110,12 @@ MS;;Малайча
 MY;;Бурмесчә
 NA;;Науруча
 NV;;Navajo; Navaho
-NR;;Ндебелечә, Көняк
-ND;;Ндебелечә, Төняк
+NR;;Ndebele, South; South Ndebele
+ND;;Ndebele, North; North Ndebele
 NG;;Ндонgача
 NE;;Непалча
 NL;;Dutch; Flemish
-NN;;Норвежчә (Нйнорск)
+NN;;Norwegian Nynorsk; Nynorsk, Norwegian
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;Норвежчә
 NY;;Chichewa; Chewa; Nyanja
@@ -123,15 +123,15 @@ OC;;Occitan (post 1500); Provençal
 OJ;;Ojibwa
 OR;;Орияча
 OM;;Оромоча
-OS;;Оссетинчә
-PA;;Пунжабча
+OS;;Ossetian; Ossetic
+PA;;Panjabi; Punjabi
 PI;;Палчә
 PL;;Полча
 PT;;Портуgалча
-PS;;Пушту Фарсычасы
+PS;;Pushto; Pashto
 QU;;Куечуача
-RM;;Романча
-RO;;Молдавча
+RM;;Romansh
+RO;;Romanian; Moldavian; Moldovan
 RN;;Рундчә
 RU;;Урысча
 SG;;Санgоча
@@ -167,13 +167,13 @@ TS;;Цонgача
 TK;;Төрекмәнчә
 TR;;Төрекчә
 TW;;Твичә
-UG;;Уйгурча
+UG;;Uighur; Uyghur
 UK;;Украинча
 UR;;Урдуча
 UZ;;Үзбәкчә
 VE;;Вендача
 VI;;Виетнамча
-VO;;Волапүкчә
+VO;;Volapük
 WA;;Валонча
 WO;;Волофча
 XH;;Хосача

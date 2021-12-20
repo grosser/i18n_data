@@ -13,7 +13,7 @@ AZ;;Azero
 BA;;Baschiro
 BM;;Bambara
 BE;;Bielorusso
-BN;;Bengalese
+BN;;Bangla
 BH;;Lingue bihari
 BI;;Bislama
 BO;;Tibetano
@@ -24,7 +24,7 @@ CA;;Catalano, Valenciano
 CS;;Ceco
 CH;;Chamorro
 CE;;Chechen
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;["", "Slavo ecclesiasito; Slavo antico; Bulgaro antico; Slavo ecclesiastico antico"]
 CV;;Chuvash
 KW;;Cornish
 CO;;Corso

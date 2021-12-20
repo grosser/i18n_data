@@ -13,7 +13,7 @@ AZ;;ázerbájdžánština
 BA;;baskirština
 BM;;bambarština
 BE;;běloruština
-BN;;bengálština
+BN;;bengálština (bangla)
 BH;;bihárské jazyky
 BI;;bislámština
 BO;;tibetština
@@ -24,7 +24,7 @@ CA;;katalánština
 CS;;čeština
 CH;;čamoro
 CE;;čečenština
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;církevní slověnština; slověnština; stará bulharština
 CV;;čuvaština
 KW;;kornština
 CO;;korsičtina

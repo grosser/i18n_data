@@ -2,7 +2,7 @@ AW;;Aruba
 AF;;Afganistan
 AO;;Angòla
 AI;;Anguilla
-AX;;Åland
+AX;;Åland Islands
 AL;;Albania
 AD;;Andòrra
 AE;;Emirats Arabs Units
@@ -79,7 +79,7 @@ FM;;Micronesia, Estats Federats de
 GA;;Gabon
 GB;;Reialme Unit
 GE;;Georgia
-GG;;Guernesey
+GG;;Guernsey
 GH;;Gana
 GI;;Gibartar
 GN;;Guinèa

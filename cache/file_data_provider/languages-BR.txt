@@ -14,7 +14,7 @@ BA;;Bashkir
 BM;;Bambara
 BE;;Belaruseg
 BN;;Bengali
-BH;;Yezhoù banda
+BH;;Bihari languages
 BI;;Bislama
 BO;;Tibetan
 BS;;Bosneg
@@ -131,7 +131,7 @@ PT;;Portugaleg
 PS;;Pushto; Pashto
 QU;;Quechua
 RM;;Romañcheg
-RO;;moldovat
+RO;;Romanian; Moldavian; Moldovan
 RN;;Rundi
 RU;;Rusianeg
 SG;;Sango

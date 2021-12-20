@@ -24,7 +24,7 @@ CA;;加泰罗尼亚语
 CS;;捷克语
 CH;;查莫罗语
 CE;;车臣语
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;古教会斯拉夫语
 CV;;楚瓦什语
 KW;;康沃尔语
 CO;;科西嘉语

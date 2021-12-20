@@ -13,8 +13,8 @@ AZ;;Αζερμπαϊτζιανά
 BA;;Μπάσκιρ
 BM;;Μπαμπάρα
 BE;;Λευκωρωσικά
-BN;;Βεγγαλικά
-BH;;Μπιχάρι γλώσσες
+BN;;Bengali
+BH;;Bihari languages
 BI;;Bislama
 BO;;Θιβετιανά
 BS;;Βοσνιακά
@@ -47,7 +47,7 @@ FI;;Φινλανδικά
 FR;;Γαλλικά
 FY;;Western Frisian
 FF;;Fulah
-GD;;Γαελική, Σκωτική γαελική
+GD;;Gaelic; Scottish Gaelic
 GA;;Ιρλανδέζικα
 GL;;Galician
 GV;;Manx
@@ -74,7 +74,7 @@ IS;;Ισλανδικά
 IT;;Ιταλικά
 JV;;Javanese
 JA;;Ιαπωνικά
-KL;;Kalaallisut, Γροιλανδικά
+KL;;Kalaallisut; Greenlandic
 KN;;Kannada
 KS;;Kashmiri
 KA;;Γεωργιανά
@@ -115,7 +115,7 @@ ND;;Ndebele, North; North Ndebele
 NG;;Ndonga
 NE;;Nepali
 NL;;Dutch; Flemish
-NN;;Νορβηγικά Nynorsk
+NN;;Norwegian Nynorsk; Nynorsk, Norwegian
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;Νορβηγικά
 NY;;Chichewa; Chewa; Nyanja
@@ -130,8 +130,8 @@ PL;;Πολωνέζικα
 PT;;Πορτογαλικά
 PS;;Pushto; Pashto
 QU;;Quechua
-RM;;Ρουμάνικα
-RO;;Ρουμανικά, Μολδαβικά
+RM;;Romansh
+RO;;Romanian; Moldavian; Moldovan
 RN;;Rundi
 RU;;Ρώσικα
 SG;;Sango

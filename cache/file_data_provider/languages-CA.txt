@@ -24,7 +24,7 @@ CA;;català; valencià
 CS;;txec
 CH;;chamorro; chamoru
 CE;;txetxè
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;eslavònic; eslau antic; paleoslau; eslau eclesiàstic; búlgar antic
 CV;;txuvaix
 KW;;còrnic
 CO;;cors

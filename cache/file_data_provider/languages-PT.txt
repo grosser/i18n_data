@@ -24,7 +24,7 @@ CA;;Catalão; Valenciano
 CS;;Checo
 CH;;chamorro
 CE;;Checheno
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;Eslavo Eclesiástico; Eslavo Antigo; Eslavo Eclesiástico; Búlgaro Antigo;Eslavônico Antigo Eclesiástico
 CV;;chuvash
 KW;;Córnico
 CO;;córsico

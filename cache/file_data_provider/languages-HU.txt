@@ -13,7 +13,7 @@ AZ;;azeri
 BA;;baskír
 BM;;bambara
 BE;;belorusz
-BN;;bengáli
+BN;;bánglá
 BH;;bihari nyelvek
 BI;;biszlama
 BO;;tibeti
@@ -24,7 +24,7 @@ CA;;katalán; valenciai
 CS;;cseh
 CH;;csamorro
 CE;;csecsen
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;egyházi szláv; régi szláv; régi bolgár; régi egyházi szláv
 CV;;csuvas
 KW;;cornwalli
 CO;;korzikai

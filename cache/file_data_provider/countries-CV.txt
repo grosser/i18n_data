@@ -120,7 +120,7 @@ KG;;Киргизи
 KH;;Камбоджа
 KI;;Кирибати
 KN;;Сент-Китс а Невис
-KR;;Къилба-Африкин Республика
+KR;;South Korea
 KW;;Кувейт
 LA;;Lao People's Democratic Republic
 LB;;Ливан
@@ -142,7 +142,7 @@ MG;;Мадагаскар
 MV;;Мальдиви
 MX;;Мексика
 MH;;Marshall Islands
-MK;;Керла Каледони
+MK;;North Macedonia
 ML;;Мали
 MT;;Мальта
 MM;;Мьянма
@@ -179,7 +179,7 @@ PW;;Палау
 PG;;Папуа — Керла Гвине
 PL;;Польша
 PR;;Пуэрто-Рико
-KP;;Керла Каледони
+KP;;North Korea
 PT;;Португали
 PY;;Парагвай
 PS;;Palestine, State of

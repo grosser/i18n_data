@@ -13,8 +13,8 @@ AZ;;Ikinyazeribayijani
 BA;;Ikinyabashikiri
 BM;;Ikibambara
 BE;;Ikibelarusiya
-BN;;Ikibengali
-BH;;Indimi za tupi
+BN;;Bengali
+BH;;Bihari languages
 BI;;Ikibisilamu
 BO;;Ikinyatibeti
 BS;;Ikinyabosiniya
@@ -45,9 +45,9 @@ FA;;Ikinyaperisi
 FJ;;Igifijiyani
 FI;;Ikinyafinilande
 FR;;Igifaransa
-FY;;Igifuriziyani
+FY;;Western Frisian
 FF;;Igifurahe
-GD;;Ikigalike; Ikinyasikotilande
+GD;;Gaelic; Scottish Gaelic
 GA;;Ikinyirilande
 GL;;Ikigalegani
 GV;;Ikimangisi
@@ -58,15 +58,15 @@ HA;;Igihawusa
 HE;;Igiheburayo
 HZ;;Igiherero
 HI;;Igihindi
-HO;;Igihiri
+HO;;Hiri Motu
 HR;;Ikinyakorowasi
 HU;;Ikinyahangariya
 HY;;Icyarumeniya
 IG;;Ikigibo
 IO;;Ikido
-II;;Igisicuwanayi
+II;;Sichuan Yi; Nuosu
 IU;;Ikinukititutu
-IE;;Ikinyenterilinge
+IE;;Interlingue; Occidental
 IA;;Interlingua (International Auxiliary Language Association)
 ID;;Ikinyendonisiya
 IK;;Ikinupiyake
@@ -81,13 +81,13 @@ KA;;Ikinyageworugiya
 KR;;Igikanuri
 KK;;Igikazaki
 KM;;Central Khmer
-KI;;Ikikuyu
+KI;;Kikuyu; Gikuyu
 RW;;Ikinyarwanda
-KY;;Ikirigizi
+KY;;Kirghiz; Kyrgyz
 KV;;Igikomi
 KG;;Ikinyakongo
 KO;;Igikoreya
-KJ;;Igikwanyama
+KJ;;Kuanyama; Kwanyama
 KU;;Igikurudishi
 LO;;Ikilawo
 LA;;Ikilatini
@@ -95,7 +95,7 @@ LV;;Ikilativiya
 LI;;Limburgan; Limburger; Limburgish
 LN;;Ilingala
 LT;;Ikinyalitwani
-LB;;Ikinyalugizamburu
+LB;;Luxembourgish; Letzeburgesch
 LU;;Ikiluba-Katanga
 LG;;Ikiganda
 MH;;Ikimarishali
@@ -109,29 +109,29 @@ MI;;Ikimawori
 MS;;Ikimalayi
 MY;;Ikibarumi
 NA;;Ikinawuru
-NV;;Ikinavaho
-NR;;Ikindebele, Amajyepfo
-ND;;Ikindebele, amajyaruguru
+NV;;Navajo; Navaho
+NR;;Ndebele, South; South Ndebele
+ND;;Ndebele, North; North Ndebele
 NG;;Ikindonga
 NE;;Ikinyanepale
 NL;;Dutch; Flemish
-NN;;Ikinyanoruveji nayinorusiki
+NN;;Norwegian Nynorsk; Nynorsk, Norwegian
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;Ikinyanoruveji
-NY;;Igicewa; Igicicewa; Ikinyanja
-OC;;Icyogisitani (nyuma 1500)
+NY;;Chichewa; Chewa; Nyanja
+OC;;Occitan (post 1500); Provençal
 OJ;;Icyojibwa
 OR;;Icyoriya
 OM;;Icyoromo
-OS;;Icyosetiyani
-PA;;Igipanjabi
+OS;;Ossetian; Ossetic
+PA;;Panjabi; Punjabi
 PI;;Igipali
 PL;;Ikinyapolonye
 PT;;Igiporutigali
-PS;;Igipushito
+PS;;Pushto; Pashto
 QU;;Igikwecuwa
-RM;;Ikiromani
-RO;;Ikinyamoludavi
+RM;;Romansh
+RO;;Romanian; Moldavian; Moldovan
 RN;;Ikirundi
 RU;;Ikirusiya
 SG;;Igisango
@@ -167,18 +167,18 @@ TS;;Igitsonga
 TK;;Igiturukimeni
 TR;;Ikinyaturukiya
 TW;;Igitwi
-UG;;Icyuyiguru
+UG;;Uighur; Uyghur
 UK;;Ikinya-ikarayini
 UR;;Icyuridu
 UZ;;Icyuzubeka
 VE;;Ikivenda
 VI;;Ikinyaviyetinamu
-VO;;Ikivolapuke
+VO;;Volapük
 WA;;Ikiwaluni
 WO;;Ikiwolofu
 XH;;Ikigisosa
 YI;;Ikiyidishi
 YO;;Ikiyoruba
-ZA;;Igicuwange; Ikizwange
+ZA;;Zhuang; Chuang
 ZH;;Igishinwa
 ZU;;Ikizulu

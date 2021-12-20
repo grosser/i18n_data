@@ -49,7 +49,7 @@ CG;;Kongo
 CK;;Cookovi otoki
 CO;;Kolumbija
 KM;;Komori
-CV;;Zelenortski otoki
+CV;;Cabo Verde
 CR;;Kostarika
 CU;;Kuba
 CW;;Curaçao
@@ -120,7 +120,7 @@ KG;;Kirgizistan
 KH;;Kambodža
 KI;;Kiribati
 KN;;Saint Kitts in Nevis
-KR;;Južna Afrika
+KR;;Južna Koreja
 KW;;Kuvajt
 LA;;Laoška ljudska demokratična republika
 LB;;Libanon
@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldivi
 MX;;Mehika
 MH;;Marshallovi otoki
-MK;;Nova Kaledonija
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Mjanmar
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua Nova Gvineja
 PL;;Poljska
 PR;;Portoriko
-KP;;Nova Kaledonija
+KP;;Severna Koreja
 PT;;Portugalska
 PY;;Paragvaj
 PS;;Palestina, država

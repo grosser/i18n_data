@@ -24,7 +24,7 @@ CA;;katalonščina
 CS;;češčina
 CH;;čamorščina
 CE;;čečenščina
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;stara cerkvena slovanščina; cerkvena slovanščina; stara bolgarščina
 CV;;čuvaščina
 KW;;kornijščina
 CO;;korzijščina
@@ -119,7 +119,7 @@ NN;;novonorveščina
 NB;;knjižna norveščina
 NO;;norveščina
 NY;;čevščina; njanščina
-OC;;okcitanščina (1500-)
+OC;;Occitan (post 1500); Provençal
 OJ;;anašinabščina
 OR;;orijščina
 OM;;oromščina
@@ -131,7 +131,7 @@ PT;;portugalščina
 PS;;paštunščina
 QU;;kečvanščina
 RM;;retoromanščina
-RO;;moldavščina
+RO;;Romanian; Moldavian; Moldovan
 RN;;rundščina
 RU;;ruščina
 SG;;sango

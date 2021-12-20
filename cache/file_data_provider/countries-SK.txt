@@ -120,7 +120,7 @@ KG;;Kirgizsko
 KH;;Kambodža
 KI;;Kiribati
 KN;;Svätý Krištof a Nevis
-KR;;Južná Afrika
+KR;;Kórejská republika
 KW;;Kuvajt
 LA;;Laoská ľudovodemokratická republika
 LB;;Libanon
@@ -142,7 +142,7 @@ MG;;Madagaskar
 MV;;Maldivy
 MX;;Mexiko
 MH;;Marshallove ostrovy
-MK;;Nová Kaledónia
+MK;;North Macedonia
 ML;;Mali
 MT;;Malta
 MM;;Mjanmarsko
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua - Nová Guinea
 PL;;Poľsko
 PR;;Portoriko
-KP;;Nová Kaledónia
+KP;;Kórejská ľudovodemokratická republika
 PT;;Portugalsko
 PY;;Paraguaj
 PS;;Palestína

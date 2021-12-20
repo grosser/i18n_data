@@ -14,7 +14,7 @@ BA;;Bashkir
 BM;;Bambara
 BE;;Belarusian
 BN;;Bengali
-BH;;ایټالوي
+BH;;Bihari languages
 BI;;Bislama
 BO;;Tibetan
 BS;;Bosnian

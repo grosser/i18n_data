@@ -120,7 +120,7 @@ KG;;किरगिस्थान
 KH;;कम्बोदिया
 KI;;किरिबाटी
 KN;;सेंट किट्
-KR;;दक्षिण-अफ्रीका
+KR;;South Korea
 KW;;कुवैत
 LA;;Lao People's Democratic Republic
 LB;;लेबनान

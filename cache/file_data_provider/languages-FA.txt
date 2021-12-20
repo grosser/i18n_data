@@ -13,8 +13,8 @@ AZ;;آذربایجانی
 BA;;باشغیری
 BM;;بامبارایی
 BE;;بلوروسی
-BN;;بنگالی
-BH;;زبانهای توپیایی
+BN;;Bengali
+BH;;Bihari languages
 BI;;بیسلاما
 BO;;تبتی
 BS;;بوسنیایی
@@ -45,9 +45,9 @@ FA;;فارسی
 FJ;;فیجیایی
 FI;;فنلاندی
 FR;;فرانسوی
-FY;;فریزی
+FY;;Western Frisian
 FF;;فولایی
-GD;;گیلی؛ اسکاتلندی
+GD;;Gaelic; Scottish Gaelic
 GA;;ایرلندی
 GL;;Galician
 GV;;مانی
@@ -64,7 +64,7 @@ HU;;مجاری
 HY;;ارمنی
 IG;;ایگبویی
 IO;;Ido
-II;;یی سیچوان
+II;;Sichuan Yi; Nuosu
 IU;;اینوکیتوت
 IE;;Interlingue; Occidental
 IA;;Interlingua (International Auxiliary Language Association)
@@ -81,9 +81,9 @@ KA;;گرجی
 KR;;کانوریایی
 KK;;قزاقی
 KM;;Central Khmer
-KI;;کیکویویی
+KI;;Kikuyu; Gikuyu
 RW;;کینیارواندایی
-KY;;قرقیزی
+KY;;Kirghiz; Kyrgyz
 KV;;کومیایی
 KG;;کنگویی
 KO;;کره‌ای
@@ -95,7 +95,7 @@ LV;;لتونیایی
 LI;;Limburgan; Limburger; Limburgish
 LN;;لینگالا
 LT;;لیتوانیایی
-LB;;لوکزامبورگی
+LB;;Luxembourgish; Letzeburgesch
 LU;;لوبایی-کاتانگا
 LG;;گاندایی
 MH;;مارشالی
@@ -109,29 +109,29 @@ MI;;مائوریایی
 MS;;مالزیایی
 MY;;برمه‌ای
 NA;;نائورو
-NV;;ناواهویی
-NR;;انده‌بله‌ای جنوبی
-ND;;انده‌بله‌ای شمالی
+NV;;Navajo; Navaho
+NR;;Ndebele, South; South Ndebele
+ND;;Ndebele, North; North Ndebele
 NG;;ندونگایی
 NE;;نپالی
 NL;;Dutch; Flemish
-NN;;نورسک جدید نروژی
+NN;;Norwegian Nynorsk; Nynorsk, Norwegian
 NB;;Bokmål, Norwegian; Norwegian Bokmål
 NO;;نروژی
-NY;;چوایی؛ نیانجایی
+NY;;Chichewa; Chewa; Nyanja
 OC;;Occitan (post 1500); Provençal
 OJ;;اوجیبوایی
 OR;;اوریه‌ای
 OM;;Oromo
-OS;;آسی
-PA;;پنجابی
+OS;;Ossetian; Ossetic
+PA;;Panjabi; Punjabi
 PI;;پالی
 PL;;لهستانی
 PT;;پرتغالی
-PS;;پشتو
+PS;;Pushto; Pashto
 QU;;کچوایی
-RM;;رومانویی
-RO;;مولداویایی
+RM;;Romansh
+RO;;Romanian; Moldavian; Moldovan
 RN;;روندیایی
 RU;;روسی
 SG;;سانگویی
@@ -167,18 +167,18 @@ TS;;تسونگایی
 TK;;ترکمنی
 TR;;ترکی
 TW;;توی‌یایی
-UG;;اویغوری
+UG;;Uighur; Uyghur
 UK;;اوکراینی
 UR;;اردو
 UZ;;ازبکی
 VE;;وندایی
 VI;;ویتنامی
-VO;;ولاپوک
+VO;;Volapük
 WA;;والونی
 WO;;ولوفی
 XH;;خوسایی
 YI;;یدی
 YO;;یوروبایی
-ZA;;چوانگی؛ ژوانگی
+ZA;;Zhuang; Chuang
 ZH;;چینی
 ZU;;زولویی

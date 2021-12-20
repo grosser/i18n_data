@@ -13,7 +13,7 @@ AZ;;Azeră
 BA;;Bașchiră
 BM;;Bambară
 BE;;Bielorusă
-BN;;Bengaleză
+BN;;Bengali
 BH;;Limbi Bihari
 BI;;Bislamă
 BO;;Tibetană
@@ -24,7 +24,7 @@ CA;;Catalană; valenciană
 CS;;Cehă
 CH;;Chamorro
 CE;;Cecenă
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;["", "Slavă bisericească; slavonă veche; slavonă bisericească; bulgară veche; ", "slavonă bisericească veche"]
 CV;;Ciuvașă
 KW;;Corneză
 CO;;Corsicană
@@ -119,7 +119,7 @@ NN;;Nynorsk, norvegiană; Norvegiană nynorsk (modernă)
 NB;;Bokmål, norvegiană; Norvegiană bokmål (cărturărească)
 NO;;Norvegiană
 NY;;Chichewaneză; chewaneză; nyanjaneză
-OC;;Occitană (post 1500)
+OC;;Occitan (post 1500); Provençal
 OJ;;Ojibwaneză
 OR;;Oriană
 OM;;Oromă
@@ -131,7 +131,7 @@ PT;;Portugheză
 PS;;Paștună
 QU;;Quechua
 RM;;Retoromană
-RO;;Română
+RO;;Romanian; Moldavian; Moldovan
 RN;;Rundi
 RU;;Rusă
 SG;;Sangă
