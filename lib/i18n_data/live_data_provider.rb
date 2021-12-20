@@ -82,10 +82,13 @@ module I18nData
     end
 
     def get_po_data(data, extracted_comment_string)
+      # Ignores the 'fuzzy' entries
       po_entries = data.select do |t|
         t[:extracted_comment].start_with?(extracted_comment_string) && t[:flag] != 'fuzzy'
       end
 
+      # Maps over the alpha3 country code in the 'extracted_comment'
+      # Eg: "Name for GBR"
       po_entries.map.with_object({}) do |t, translations|
         alpha3 = t[:extracted_comment][-3..-1].upcase
         translations[alpha3] = t[:msgstr]

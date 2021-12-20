@@ -119,7 +119,7 @@ KE;;Kenya
 KG;;Kyrgyzstan
 KH;;Cambodia
 KI;;Kiribati
-KN;;Saint Kitts and Nevis
+KN;;St. Kitts no Nevis
 KR;;South Korea
 KW;;Kuwait
 LA;;Lao People's Democratic Republic

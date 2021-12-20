@@ -71,5 +71,4 @@ Authors
 [Michael Grosser](http://grosser.it)<br/>
 michael@grosser.it<br/>
 License: MIT<br/>
-[![Build Status](https://travis-ci.org/grosser/i18n_data.svg)](https://travis-ci.org/grosser/i18n_data)
-
+[![CI](https://github.com/grosser/i18n_data/actions/workflows/actions.yml/badge.svg)](https://github.com/grosser/i18n_data/actions/workflows/actions.yml?query=branch%3Amaster)
