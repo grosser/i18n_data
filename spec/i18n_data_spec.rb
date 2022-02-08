@@ -91,6 +91,10 @@ describe I18nData do
           it "has language subtypes" do
             I18nData.languages('zh_TW')['DA'].should eq '丹麥語'
           end
+
+          it "has language scripts" do
+            I18nData.languages('SR@LATIN')['DA'].should eq 'danski'
+          end
         end
       end
 
@@ -159,6 +163,10 @@ describe I18nData do
 
           it "has language subtypes" do
             I18nData.countries('zh_TW')['DK'].should eq '丹麥'
+          end
+
+          it "has language scripts" do
+            I18nData.countries('SR@LATIN')['DK'].should eq 'Danska'
           end
         end
       end
