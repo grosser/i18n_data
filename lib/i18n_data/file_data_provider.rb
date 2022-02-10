@@ -13,7 +13,7 @@ module I18nData
     end
 
     def write_cache(provider)
-      languages = provider.codes(:languages, 'EN').keys + ['zh_CN', 'zh_TW', 'zh_HK','bn_IN','pt_BR']
+      languages = provider.codes(:languages, 'EN').keys + ['zh_CN', 'zh_TW', 'zh_HK', 'bn_IN', 'pt_BR', 'sr@latin']
       languages.map do |language_code|
         [:languages, :countries].each do |type|
           begin
