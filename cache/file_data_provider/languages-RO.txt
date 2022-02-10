@@ -24,7 +24,7 @@ CA;;Catalană; valenciană
 CS;;Cehă
 CH;;Chamorro
 CE;;Cecenă
-CU;;["", "Slavă bisericească; slavonă veche; slavonă bisericească; bulgară veche; ", "slavonă bisericească veche"]
+CU;;Slavă bisericească; slavonă veche; slavonă bisericească; bulgară veche; slavonă bisericească veche
 CV;;Ciuvașă
 KW;;Corneză
 CO;;Corsicană

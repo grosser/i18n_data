@@ -24,7 +24,7 @@ CA;;Katalonski; valencijski
 CS;;Češki
 CH;;Chamorro
 CE;;Čečenski
-CU;;["", "Crkveni slavenski; staroslavenski; starobugarski; stari crkveni slavenski"]
+CU;;Crkveni slavenski; staroslavenski; starobugarski; stari crkveni slavenski
 CV;;Čuvaški
 KW;;Kornijski
 CO;;Korzički

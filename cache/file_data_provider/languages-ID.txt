@@ -24,7 +24,7 @@ CA;;Catalan; Valencian
 CS;;Ceko
 CH;;Chamorro
 CE;;Chechen
-CU;;["", "Gereja Slavic; Slavonic Kuno; Gereja Slavonic; Bulgaria Kuno; Gereja Tua ", "Slavonic"]
+CU;;Gereja Slavic; Slavonic Kuno; Gereja Slavonic; Bulgaria Kuno; Gereja Tua Slavonic
 CV;;Chuvash
 KW;;Cornish
 CO;;Korsika

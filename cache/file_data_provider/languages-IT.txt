@@ -24,7 +24,7 @@ CA;;Catalano, Valenciano
 CS;;Ceco
 CH;;Chamorro
 CE;;Chechen
-CU;;["", "Slavo ecclesiasito; Slavo antico; Bulgaro antico; Slavo ecclesiastico antico"]
+CU;;Slavo ecclesiasito; Slavo antico; Bulgaro antico; Slavo ecclesiastico antico
 CV;;Chuvash
 KW;;Cornish
 CO;;Corso

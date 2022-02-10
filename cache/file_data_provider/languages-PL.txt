@@ -24,7 +24,7 @@ CA;;kataloński; walencki
 CS;;czeski
 CH;;czamorro
 CE;;czeczeński
-CU;;["", "cerkiewnosłowiański; starosłowiański; starobułgarski; staro-cerkiewno-", "słowiański"]
+CU;;cerkiewnosłowiański; starosłowiański; starobułgarski; staro-cerkiewno-słowiański
 CV;;czuwaski
 KW;;kornijski
 CO;;korsykański

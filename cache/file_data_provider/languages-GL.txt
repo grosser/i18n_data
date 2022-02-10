@@ -24,7 +24,7 @@ CA;;Catalán; Valenciano
 CS;;Checo
 CH;;Chamorro
 CE;;Checheno
-CU;;["", "Eslavo eclesiástico; Eslavo antigo; Búlgaro antigo; Macedonio antigo; Antigo ", "eslavo eclesiástico"]
+CU;;Eslavo eclesiástico; Eslavo antigo; Búlgaro antigo; Macedonio antigo; Antigo eslavo eclesiástico
 CV;;Chuvache; Chuvash
 KW;;Córnico
 CO;;Corso

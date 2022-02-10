@@ -13,7 +13,7 @@ AQ;;Antartica
 TF;;Tèrras australas francesas
 AG;;Antigua e Barbuda
 AU;;Australia
-AT;;Austria
+AT;;Àustria
 AZ;;Azerbaitjan
 BI;;Burundi
 BE;;Belgica

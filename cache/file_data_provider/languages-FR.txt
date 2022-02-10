@@ -47,7 +47,7 @@ FI;;finnois
 FR;;français
 FY;;frison occidental
 FF;;peul
-GD;;gaélique ; gaélique écossais
+GD;;Gaélique ; Gaélique écossais
 GA;;irlandais
 GL;;galicien
 GV;;mannois
@@ -119,7 +119,7 @@ NN;;norvégien nynorsk
 NB;;norvégien Bokmål
 NO;;norvégien
 NY;;nyanja
-OC;;occitan
+OC;;Occitan
 OJ;;ojibwa
 OR;;oriya
 OM;;oromo

@@ -24,7 +24,7 @@ CA;;Catalanu; Valentzianu
 CS;;Tzecu
 CH;;Chamorru
 CE;;Cecenu
-CU;;["", "Islavu eclesiàsticu; Islavu antigu; Islavònicu eclesiàsticu; Bùlgaru antigu; ", "Islavònicu eclesiasticu antigu"]
+CU;;Islavu eclesiàsticu; Islavu antigu; Islavònicu eclesiàsticu; Bùlgaru antigu; Islavònicu eclesiasticu antigu
 CV;;Ciuvàsciu
 KW;;Còrnicu
 CO;;Corsu

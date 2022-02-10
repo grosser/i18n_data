@@ -24,7 +24,7 @@ CA;;Katalanca; Valensiyaca
 CS;;Çekçe
 CH;;Chamorro (Guam adaları)
 CE;;Çeçence
-CU;;["", "Kilise Slavcası; Eski Slavca; Kilise Slavcası; Eski Bulgarca; Eski Kilise ", "Slavcası"]
+CU;;Kilise Slavcası; Eski Slavca; Kilise Slavcası; Eski Bulgarca; Eski Kilise Slavcası
 CV;;Çuvaş (Türkçe)
 KW;;Cornish (Kelt)
 CO;;Korsikaca

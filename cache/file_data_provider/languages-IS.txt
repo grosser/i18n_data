@@ -24,7 +24,7 @@ CA;;Katalónska; Valensía
 CS;;Tékkneska
 CH;;Chamorró
 CE;;Tétjenska
-CU;;["", "Kirkjuleg slavíska; forn slavneska; kirkjuleg slavneska; forn búlgarska; ", "forn kirkjuleg slavneska"]
+CU;;Kirkjuleg slavíska; forn slavneska; kirkjuleg slavneska; forn búlgarska; forn kirkjuleg slavneska
 CV;;Chuvash
 KW;;Cornish
 CO;;Korsíska

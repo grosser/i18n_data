@@ -9,25 +9,25 @@ AE;;የተባበሩት አረብ ኤምሬትስ
 AR;;ኣርጀንቲና
 AM;;ኣርሜንያ
 AS;;American Samoa
-AQ;;Antarctica
+AQ;;ኣንታርክቲካ
 TF;;የፈረንሳይ ደቡባዊ ግዛቶች
 AG;;Antigua and Barbuda
 AU;;ኣውስትራልያ
 AT;;ኦስትሪያ
 AZ;;ኣዘርባጃን
-BI;;Burundi
+BI;;ቡሩንዲ
 BE;;ቤልጄም
 BJ;;ቤኒን
 BQ;;Bonaire, Sint Eustatius and Saba
 BF;;ቡርኪና ፋሶ
-BD;;Bangladesh
-BG;;ቡልጌሪያ
+BD;;ባንግላዴሽ
+BG;;ቡልጋሪያ
 BH;;ባህሬን
-BS;;Bahamas
+BS;;ባሃማስ
 BA;;ቦስኒያ እና ሄርዞጎቪኒያ
 BL;;Saint Barthélemy
 BY;;ቤላሩስ
-BZ;;ቤሊዘ
+BZ;;ቤሊዝ
 BM;;ቤርሙዳ
 BO;;ቦሊቭያ
 BR;;ብራዚል

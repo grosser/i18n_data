@@ -112,16 +112,16 @@ IL;;Israel
 IT;;Italy
 JM;;Jamaica
 JE;;Jersey
-JO;;Иордания
-JP;;Япония
-KZ;;Ҡаҙағстан
-KE;;Кения
-KG;;Ҡырғыҙстан
-KH;;Камбоджа
-KI;;Кирибати
-KN;;Сент-Китс һәм Невис
-KR;;Түштүк Корея
-KW;;Күвейт
+JO;;Jordan
+JP;;Japan
+KZ;;Kazakhstan
+KE;;Kenya
+KG;;Kyrgyzstan
+KH;;Cambodia
+KI;;Kiribati
+KN;;Saint Kitts and Nevis
+KR;;South Korea
+KW;;Kuwait
 LA;;Lao People's Democratic Republic
 LB;;Lebanon
 LR;;Liberia

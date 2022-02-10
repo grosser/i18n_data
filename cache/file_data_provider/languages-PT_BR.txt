@@ -13,7 +13,7 @@ AZ;;Azerbaidjano
 BA;;Basquir
 BM;;Bambara
 BE;;Bielorusso
-BN;;Bengali
+BN;;Bangla
 BH;;Idiomas biaris
 BI;;Bislamá
 BO;;Tibetano
