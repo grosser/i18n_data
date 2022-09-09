@@ -224,7 +224,7 @@ TL;;Timò oryantal
 TO;;Tonga
 TT;;Trinidad and Tobago
 TN;;Tinizi
-TR;;Tiki
+TR;;Türkiye
 TV;;Touvalou
 TW;;Taywann
 TZ;;Tanzani

@@ -224,7 +224,7 @@ TL;;Thi-moa Le-xợ-te
 TO;;Tông-ga
 TT;;Trinh-i-đat và To-ba-gô
 TN;;Tu-ni-xi-a
-TR;;Thổ Nhĩ Kỳ
+TR;;Türkiye
 TV;;Tu-va-lu
 TW;;Đài Loan
 TZ;;Tanzania

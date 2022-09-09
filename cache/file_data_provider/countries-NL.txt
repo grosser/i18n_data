@@ -38,7 +38,7 @@ BV;;Bouveteiland
 BW;;Botswana
 CF;;Centraal-Afrikaanse Republiek
 CA;;Canada
-CC;;Cocoseilanden
+CC;;Cocoseilanden (Keelingeilanden)
 CH;;Zwitserland
 CL;;Chili
 CN;;China
@@ -72,7 +72,7 @@ EE;;Estland
 ET;;Ethiopië
 FI;;Finland
 FJ;;Fiji
-FK;;Falklandeilanden
+FK;;Falklandeilanden (Malvinas)
 FR;;Frankrijk
 FO;;Faeröer
 FM;;Micronesia
@@ -134,7 +134,7 @@ LT;;Litouwen
 LU;;Luxemburg
 LV;;Letland
 MO;;Macau
-MF;;Sint-Maarten
+MF;;Sint-Maarten (Frans deel)
 MA;;Marokko
 MC;;Monaco
 MD;;Moldavië
@@ -182,7 +182,7 @@ PR;;Puerto Rico
 KP;;Noord-Korea
 PT;;Portugal
 PY;;Paraguay
-PS;;Palestina
+PS;;Palestina, Staat
 PF;;Frans-Polynesië
 QA;;Qatar
 RE;;Réunion
@@ -224,7 +224,7 @@ TL;;Oost-Timor
 TO;;Tonga
 TT;;Trinidad en Tobago
 TN;;Tunesië
-TR;;Turkije
+TR;;Türkiye
 TV;;Tuvalu
 TW;;Taiwan
 TZ;;Tanzania
@@ -234,7 +234,7 @@ UM;;Kleine afgelegen eilanden van de Verenigde Staten
 UY;;Uruguay
 US;;Verenigde Staten
 UZ;;Oezbekistan
-VA;;Vaticaanstad
+VA;;Vaticaanstad, Staat
 VC;;Saint Vincent en de Grenadines
 VE;;Venezuela
 VG;;Maagdeneilanden, Britse

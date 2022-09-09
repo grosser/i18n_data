@@ -182,7 +182,7 @@ PR;;Porto Riko
 KP;;Korea, Republika Popullore Demokratike e
 PT;;Portugali
 PY;;Paraguai
-PS;;Palestinë, Shteti i 
+PS;;Palestinë, Shteti i
 PF;;Polinezia Frënge
 QA;;Katar
 RE;;Réunion
@@ -224,7 +224,7 @@ TL;;Timori Lindor-Leste
 TO;;Tonga
 TT;;Trinidad dhe Tobago
 TN;;Tunizi
-TR;;Turqi
+TR;;Türkiye
 TV;;Tuvalu
 TW;;Tajvan
 TZ;;Tanzani

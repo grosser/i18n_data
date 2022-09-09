@@ -1,0 +1,184 @@
+AA;;Afar
+AB;;აბხაზური
+AF;;აფრიკაანსი
+AK;;აკანი
+AM;;ამჰარული
+AR;;არაბული
+AN;;არაგონური
+AS;;ასამური
+AV;;Avaric
+AE;;ავესტანი
+AY;;Aymara
+AZ;;აზერბაიჯანული
+BA;;Bashkir
+BM;;Bambara
+BE;;ბელორუსული
+BN;;ბანგლადეშური
+BH;;ბიჰარის ენები
+BI;;Bislama
+BO;;ტიბეტური
+BS;;ბოსნიური
+BR;;ბრეტონული
+BG;;ბულგარული
+CA;;Catalan; Valencian
+CS;;ჩეხური
+CH;;Chamorro
+CE;;ჩეჩნური
+CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CV;;Chuvash
+KW;;Cornish
+CO;;Corsican
+CR;;Cree
+CY;;უელსური
+DA;;დანიური
+DE;;გერმანული
+DV;;Divehi; Dhivehi; Maldivian
+DZ;;დზონგ-კე
+EL;;Greek, Modern (1453-)
+EN;;ინგლისური
+EO;;ესპერანტო
+ET;;ესტონური
+EU;;ბასკური
+EE;;Ewe
+FO;;ფაროული
+FA;;სპარსული
+FJ;;Fijian
+FI;;ფინური
+FR;;ფრანგული
+FY;;Western Frisian
+FF;;Fulah
+GD;;Gaelic; Scottish Gaelic
+GA;;ირლანდიური
+GL;;გალური
+GV;;მენცი
+GN;;გუარანი
+GU;;გუჯარათი
+HT;;Haitian; Haitian Creole
+HA;;ჰაუსა
+HE;;ივრითი
+HZ;;Herero
+HI;;ჰინდი
+HO;;Hiri Motu
+HR;;ხორვატული
+HU;;უნგრული
+HY;;სომხური
+IG;;იგბო
+IO;;იდო
+II;;Sichuan Yi; Nuosu
+IU;;ინუკტიტუტი
+IE;;Interlingue; Occidental
+IA;;Interlingua (International Auxiliary Language Association)
+ID;;ინდონეზიური
+IK;;Inupiaq
+IS;;ისლანდიური
+IT;;იტალიური
+JV;;Javanese
+JA;;იაპონური
+KL;;Kalaallisut; Greenlandic
+KN;;კანნადა
+KS;;კაშმირი
+KA;;ქართული
+KR;;Kanuri
+KK;;ყაზახური
+KM;;Central Khmer
+KI;;Kikuyu; Gikuyu
+RW;;კენიარუანდა
+KY;;Kirghiz; Kyrgyz
+KV;;კომი
+KG;;Kongo
+KO;;კორეული
+KJ;;Kuanyama; Kwanyama
+KU;;ქურთული
+LO;;ლაოსური
+LA;;ლათინური
+LV;;ლატვიური
+LI;;Limburgan; Limburger; Limburgish
+LN;;ლინგალა
+LT;;ლიტვური
+LB;;Luxembourgish; Letzeburgesch
+LU;;Luba-Katanga
+LG;;Ganda
+MH;;Marshallese
+ML;;მალაიამი
+MR;;მარათი
+MK;;მაკედონური
+MG;;მალაგასი
+MT;;მალტური
+MN;;მონღოლური
+MI;;მაორი
+MS;;მალაიური
+MY;;ბირმული
+NA;;ნაურუ
+NV;;Navajo; Navaho
+NR;;Ndebele, South; South Ndebele
+ND;;Ndebele, North; North Ndebele
+NG;;Ndonga
+NE;;ნეპალური
+NL;;Dutch; Flemish
+NN;;Norwegian Nynorsk; Nynorsk, Norwegian
+NB;;Bokmål, Norwegian; Norwegian Bokmål
+NO;;ნორვეგიული
+NY;;Chichewa; Chewa; Nyanja
+OC;;Occitan (post 1500); Provençal
+OJ;;Ojibwa
+OR;;ორია
+OM;;Oromo
+OS;;Ossetian; Ossetic
+PA;;Panjabi; Punjabi
+PI;;Pali
+PL;;პოლონური
+PT;;პორტუგალიური
+PS;;Pushto; Pashto
+QU;;კეჩუა
+RM;;Romansh
+RO;;Romanian; Moldavian; Moldovan
+RN;;Rundi
+RU;;რუსული
+SG;;Sango
+SA;;Sanskrit
+SI;;Sinhala; Sinhalese
+SK;;სლოვაკური
+SL;;სლოვენური
+SE;;ჩრდილო-საამური
+SM;;Samoan
+SN;;Shona
+SD;;სინდი
+SO;;სომალი
+ST;;Sotho, Southern
+ES;;Spanish; Castilian
+SQ;;ალბანური
+SC;;Sardinian
+SR;;სერბული
+SS;;Swati
+SU;;სუნდური
+SW;;სუაჰილი
+SV;;შვედური
+TY;;Tahitian
+TA;;თამილური
+TT;;თათრული
+TE;;ტელუგური
+TG;;ტაჯიკური
+TL;;ტაგალოგური
+TH;;ტაილანდური
+TI;;Tigrinya
+TO;;Tonga (Tonga Islands)
+TN;;Tswana
+TS;;ტონგა
+TK;;თურქმენული
+TR;;თურქული
+TW;;Twi
+UG;;Uighur; Uyghur
+UK;;უკრაინული
+UR;;ურდუ
+UZ;;უზბეკური
+VE;;Venda
+VI;;ვიეტნამური
+VO;;Volapük
+WA;;ვალუნი
+WO;;Wolof
+XH;;ხოსა
+YI;;იდიში
+YO;;იორუბა
+ZA;;Zhuang; Chuang
+ZH;;ჩინური
+ZU;;ზულუ

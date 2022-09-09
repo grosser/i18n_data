@@ -224,7 +224,7 @@ TL;;Vzhodni Timor
 TO;;Tonga
 TT;;Trinidad in Tabago
 TN;;Tunizija
-TR;;Turčija
+TR;;Türkiye
 TV;;Tuvalu
 TW;;Tajvan
 TZ;;Tanzanija

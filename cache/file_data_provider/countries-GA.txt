@@ -224,7 +224,7 @@ TL;;Tíomór Thoir
 TO;;Tonga
 TT;;Oileáin na Tríonóide agus Tobága
 TN;;An Túinéis
-TR;;An Tuirc
+TR;;Türkiye
 TV;;Tuvalú
 TW;;An Téaváin
 TZ;;An Tansáin

@@ -224,7 +224,7 @@ TL;;Rytų Timoras
 TO;;Tonga
 TT;;Trinidadas ir Tobagas
 TN;;Tunisas
-TR;;Turkija
+TR;;Türkiye
 TV;;Tuvalu
 TW;;Taivanas
 TZ;;Tanzanijos Jungtinė Respublika

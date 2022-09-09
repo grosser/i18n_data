@@ -224,7 +224,7 @@ TL;;Timor Leste
 TO;;Tonga
 TT;;Trindade e Tobago
 TN;;Tunicia
-TR;;Turquía
+TR;;Türkiye
 TV;;Tuvalu
 TW;;Taiwán
 TZ;;Tanzania, República Unida de

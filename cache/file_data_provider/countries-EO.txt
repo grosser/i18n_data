@@ -224,7 +224,7 @@ TL;;Orienta Timoro
 TO;;Tongo
 TT;;Trinidado kaj Tobago
 TN;;Tunizio
-TR;;Turkio
+TR;;Türkiye
 TV;;Tuvalo
 TW;;Tajvano
 TZ;;Tanzanio

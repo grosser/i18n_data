@@ -224,7 +224,7 @@ TL;;ሤስሲቅ ቲሥሴ
 TO;;Tonga
 TT;;ትሱኒ፣፥ ጕና ቶባጕ
 TN;;ቱኒፑ።
-TR;;ቱሴጤ
+TR;;Türkiye
 TV;;Tuvalu
 TW;;Taiwan
 TZ;;ታንፒኒ።

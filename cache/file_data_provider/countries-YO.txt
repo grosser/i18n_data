@@ -224,7 +224,7 @@ TL;;Timor-Leste
 TO;;Tóngà
 TT;;Trínídád àti Tòbágò
 TN;;Tùnísíà
-TR;;Túrkì
+TR;;Türkiye
 TV;;Tufalu
 TW;;Orílẹ̀-èdè Olómìnira ilẹ̀ Ṣáínà
 TZ;;Tànsáníà

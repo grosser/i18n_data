@@ -49,7 +49,7 @@ CG;;Congo
 CK;;Illes Cook
 CO;;Colòmbia
 KM;;Comores
-CV;;Cabo Verde
+CV;;Cap Verd
 CR;;Costa Rica
 CU;;Cuba
 CW;;Curaçao
@@ -142,7 +142,7 @@ MG;;Madagascar
 MV;;Maldives
 MX;;Mèxic
 MH;;Illes Marshall
-MK;;North Macedonia
+MK;;Macedònia del Nord
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
@@ -182,7 +182,7 @@ PR;;Puerto Rico
 KP;;Corea del Nord
 PT;;Portugal
 PY;;Paraguai
-PS;;Palestine, State of
+PS;;Palestina, Estat de
 PF;;Polinèsia francesa
 QA;;Qatar
 RE;;Reunió
@@ -224,7 +224,7 @@ TL;;Timor Oriental
 TO;;Tonga
 TT;;Trinitat i Tobago
 TN;;Tunísia
-TR;;Turquia
+TR;;Türkiye
 TV;;Tuvalu
 TW;;Taiwan
 TZ;;Tanzània

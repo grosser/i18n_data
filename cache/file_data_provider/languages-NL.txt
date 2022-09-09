@@ -2,29 +2,29 @@ AA;;Afar
 AB;;Abchazisch
 AF;;Afrikaans
 AK;;Akaans
-AM;;Amhaars, Amharisch
+AM;;Amhaars
 AR;;Arabisch
 AN;;Aragonees
-AS;;Assamees, Assami
-AV;;Avaars, Awari
+AS;;Assamees
+AV;;Avaars
 AE;;Avestaans
 AY;;Aymara
 AZ;;Azerbeidzjaans
-BA;;Basjkiers, Basjkirisch
+BA;;Basjkiers
 BM;;Bambara
-BE;;Wit-Russisch, Belarussisch
+BE;;Wit-Russisch; Belarussisch
 BN;;Bangaals
 BH;;Bihari-talen
 BI;;Bislama
 BO;;Tibetaans
 BS;;Bosnisch
-BR;;Bretons, Bretoens
+BR;;Bretons
 BG;;Bulgaars
 CA;;Catalaans; Valenciaans
 CS;;Tsjechisch
 CH;;Chamorro
 CE;;Tsjetsjeens
-CU;;Kerkslavisch; Oud-Slavisch; Oud-Bulgaars; Oud-Kerkslavisch
+CU;;Kerkslavisch; OudSlavisch; OudBulgaars; Oudkerkslavisch
 CV;;Tsjoevasjisch
 KW;;Cornish
 CO;;Corsicaans
@@ -131,7 +131,7 @@ PT;;Portugees
 PS;;Pasjtoe
 QU;;Quechua
 RM;;Romaans
-RO;;Roemeens; Moldavisch
+RO;;Roemeens en Moldavisch
 RN;;Rundi
 RU;;Russisch
 SG;;Sangho
