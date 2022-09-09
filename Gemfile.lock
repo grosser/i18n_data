@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    i18n_data (0.16.0)
+    i18n_data (0.17.0)
       simple_po_parser (~> 1.1)
 
 GEM
@@ -23,7 +23,7 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.10.0)
     rspec-support (3.10.3)
-    simple_po_parser (1.1.5)
+    simple_po_parser (1.1.6)
 
 PLATFORMS
   ruby
@@ -38,4 +38,4 @@ DEPENDENCIES
   rspec (~> 3.0)
 
 BUNDLED WITH
-   2.2.32
+   2.3.12
