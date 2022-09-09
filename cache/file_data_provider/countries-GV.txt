@@ -224,7 +224,7 @@ TL;;Timor-Leste
 TO;;Yn Tongey
 TT;;Trinaid as Tobago
 TN;;Yn Tooneesh
-TR;;Yn Turkee
+TR;;Türkiye
 TV;;Tuvalu
 TW;;Pobblaght ny Sheen
 TZ;;Tanzania

@@ -224,7 +224,7 @@ TL;;Austrumtimora
 TO;;Tonga
 TT;;Trinidāda un Tobāgo
 TN;;Tunisija
-TR;;Turcija
+TR;;Türkiye
 TV;;Tuvalu
 TW;;Taivāna
 TZ;;Tanzānija

@@ -120,7 +120,7 @@ KG;;Kirgizistan
 KH;;Kanbodia
 KI;;Kiribati
 KN;;Saint Kitts eta Nevis
-KR;;Korea, Errepublika
+KR;;Hego Korea
 KW;;Kuwait
 LA;;Laoseko Herri Errepublika Demokratikoa
 LB;;Libano
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua Ginea Berria
 PL;;Polonia
 PR;;Puerto Rico
-KP;;Korea, Herri Errepublika Demokratikoa
+KP;;Ipar Korea
 PT;;Portugal
 PY;;Paraguai
 PS;;Palestinako Estatua
@@ -224,7 +224,7 @@ TL;;Ekialdeko Timor
 TO;;Tonga
 TT;;Trinidad eta Tobago
 TN;;Tunisia
-TR;;Turkia
+TR;;Türkiye
 TV;;Tuvalu
 TW;;Taiwan
 TZ;;Tanzania

@@ -2,7 +2,7 @@ AW;;Aruba
 AF;;Afganistan
 AO;;Angòla
 AI;;Anguilla
-AX;;Åland Islands
+AX;;llas Åland
 AL;;Albania
 AD;;Andòrra
 AE;;Emirats Arabs Units
@@ -79,7 +79,7 @@ FM;;Micronesia, Estats Federats de
 GA;;Gabon
 GB;;Reialme Unit
 GE;;Georgia
-GG;;Guernsey
+GG;;Guernesey
 GH;;Gana
 GI;;Gibartar
 GN;;Guinèa
@@ -95,7 +95,7 @@ GF;;Guaiana francesa
 GU;;Guam
 GY;;Guyana
 HK;;Hong Kong
-HM;;Heard Island and McDonald Islands
+HM;;Illas Heard e McDonald
 HN;;Honduras
 HR;;Croàcia
 HT;;Haití
@@ -220,11 +220,11 @@ TH;;Tailàndia
 TJ;;Tatgiquistan
 TK;;Tokelau
 TM;;Turcmenistan
-TL;;Timor-Leste
+TL;;Timòr Èst
 TO;;Tònga
 TT;;Trinitat e Tobago
 TN;;Tunisia
-TR;;Turquia
+TR;;Türkiye
 TV;;Tuvalu
 TW;;Taiwan
 TZ;;Tanzania

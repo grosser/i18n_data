@@ -1,6 +1,6 @@
 AA;;Àfar
 AB;;Abkhàzia
-AF;;afrikaans
+AF;;Afrikaans
 AK;;àkan
 AM;;amhàric
 AR;;àrab
@@ -47,7 +47,7 @@ FI;;finès; finlandès
 FR;;francès
 FY;;frisó occidental
 FF;;ful
-GD;;gaèlic; gaèlic escocès
+GD;;Gaèlic; escocès gaèlic
 GA;;irlandès; gaèlic irlandès
 GL;;gallec
 GV;;manx

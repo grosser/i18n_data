@@ -224,7 +224,7 @@ TL;;ምስራቅ ቲሞር
 TO;;Tonga
 TT;;ትሪኒዳድን ቶባጎን
 TN;;ቱኒዝያ
-TR;;ቱርኪ
+TR;;Türkiye
 TV;;Tuvalu
 TW;;ታይዋን
 TZ;;ታንዛንያ

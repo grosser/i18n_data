@@ -224,7 +224,7 @@ TL;;Timoro-Lesite
 TO;;Tonga
 TT;;Tirinida na Tobago
 TN;;Tunisiya
-TR;;Turukiya
+TR;;Türkiye
 TV;;Tuvalu
 TW;;Tayiwani
 TZ;;Tanzaniya

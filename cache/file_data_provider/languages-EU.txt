@@ -13,25 +13,25 @@ AZ;;Azerbaijanera
 BA;;Bashkiriera
 BM;;Bambara
 BE;;Bielorrusiera
-BN;;Bengalera
+BN;;bengalera
 BH;;Bihari hizkuntzak
-BI;;Bislama
+BI;;bislama
 BO;;Tibetera
 BS;;Bosniera
-BR;;Bretoiera
-BG;;Bulgariera
+BR;;bretoiera
+BG;;bulgariera
 CA;;Katalana
 CS;;Txekiera
 CH;;Chamorroera
 CE;;Txetxeniera
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
+CU;;Elizako eslaviar hizkuntza, Eliza Ortodoxoak zerabilen eslaviar hizkuntza, bulgariera zaharra, Elizako hizkuntza eslaviar zaharra
 CV;;Chuvash
 KW;;Kornubiera
 CO;;Korsikera
 CR;;Cree
 CY;;Galesera
 DA;;Daniera
-DE;;Alemana
+DE;;alemana
 DV;;Maldiviera
 DZ;;Dzongkha
 EL;;Greko modernoa (1453tik aurrera)
@@ -64,7 +64,7 @@ HU;;Hungariera
 HY;;Armeniera
 IG;;Igboera
 IO;;Ido
-II;;Sichuan Yi; Nuosu
+II;;nuoso, Sichuan Yi
 IU;;Inuktitut
 IE;;Interlingue; medebalekoa
 IA;;Interlingua (IALAren nazioarteko hizkuntza)
@@ -116,7 +116,7 @@ NG;;Ndonga
 NE;;Nepalera
 NL;;Nederlandera; flandesera
 NN;;Norvegiera (Nynorsk)
-NB;;Bokmål, Norwegian; Norwegian Bokmål
+NB;;bokmål, Norvegiako bokmål, norvegiera estandarra
 NO;;Norvegiera
 NY;;Chichewa; Chewa; Nyanja
 OC;;Okzitaniera (1500 ondorengoa); Proventzera
@@ -179,6 +179,6 @@ WO;;Wolofera
 XH;;Xhosa
 YI;;Jidish
 YO;;Jorubera
-ZA;;Zhuang; Chuang
+ZA;;zhuangera
 ZH;;Txinera
 ZU;;Zuluera
