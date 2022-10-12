@@ -7,7 +7,7 @@ Through [pkg-isocodes](https://salsa.debian.org/iso-codes-team/iso-codes.git):
 
  - 185 Language codes (iso 639 - 2 letter) in 68 Languages
  - 246 Country codes (iso 3166 - 2 letter) in 86 Languages
- - contry specific codes e.g. zh_TW are also available, have a look at the isocodes website for all options
+ - Country specific codes e.g. zh_TW are also available, have a look at the isocodes website for all options
 
 Install
 =======
