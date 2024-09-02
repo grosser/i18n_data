@@ -6,10 +6,15 @@ require 'yaml'
 $LOAD_PATH << "lib"
 require 'i18n_data'
 
-task default: [:spec]
+task default: [:spec, :rubocop]
 
 task :spec do
   sh "rspec --warnings spec/"
+end
+
+desc "Rubocop"
+task :rubocop do
+  sh "rubocop --parallel"
 end
 
 desc "write all languages to output"
