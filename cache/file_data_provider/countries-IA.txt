@@ -36,7 +36,7 @@ BN;;Brunei Darussalam
 BT;;Bhutan
 BV;;Insula Bouvet
 BW;;Botswana
-CF;;Republica African Central
+CF;;Republica Centroafrican
 CA;;Canada
 CC;;Insulas Cocos (Keeling)
 CH;;Suissa
@@ -212,7 +212,7 @@ SE;;Svedia
 SZ;;Eswatini
 SX;;Sancte Martin (parte nederlandese)
 SC;;Seychelles
-SY;;Republica Arabe Syrie
+SY;;Syria
 TC;;Insulas Turks e Caicos
 TD;;Tchad
 TG;;Togo

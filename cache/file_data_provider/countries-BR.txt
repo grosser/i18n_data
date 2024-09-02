@@ -105,7 +105,7 @@ IM;;Manav
 IN;;India
 IO;;Tiriad Meurvor Indez Breizh-Veur
 IE;;Iwerzhon
-IR;;Iran, Islamic Republic of
+IR;;Iran
 IQ;;Irak
 IS;;Island
 IL;;Israel
@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;S. Kitts ha Nevis
 KR;;South Korea
 KW;;Koweit
-LA;;Lao People's Democratic Republic
+LA;;Laos
 LB;;Liban
 LR;;Liberia
 LY;;Libia
@@ -212,7 +212,7 @@ SE;;Sveden
 SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Sechelez
-SY;;Syrian Arab Republic
+SY;;Syria
 TC;;Inizi Turks ha Caicos
 TD;;Tchad
 TG;;Togo

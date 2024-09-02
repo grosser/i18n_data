@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;St Kitts & Nevis
 KR;;Corêye (nonnrece)
 KW;;Kuweyt
-LA;;Laosse
+LA;;Laos
 LB;;Liban
 LR;;Liberia
 LY;;Libeye
@@ -212,7 +212,7 @@ SE;;Suwede
 SZ;;Eswatini
 SX;;Sint Mårtén (boket olandès)
 SC;;Seycheles
-SY;;Sireye
+SY;;Syria
 TC;;Iyes Turks et Caicos
 TD;;Tchad
 TG;;Togo

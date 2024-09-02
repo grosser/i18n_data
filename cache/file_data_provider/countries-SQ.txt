@@ -105,7 +105,7 @@ IM;;Ishulli Man
 IN;;Indi
 IO;;Territoret Britanike të Oqeanit Indian
 IE;;Irlandë
-IR;;Iran, Republika Islamike
+IR;;Iran
 IQ;;Irak
 IS;;Islandë
 IL;;Izrael
@@ -120,9 +120,9 @@ KG;;Kirgistan
 KH;;Kamboxhia
 KI;;Kiribati
 KN;;Shën Kits dhe Nevis
-KR;;Korea, Republika e
+KR;;Koreja e Jugut
 KW;;Kuvajt
-LA;;Republika Demokratike Popullore e Laosit
+LA;;Laos
 LB;;Liban
 LR;;Liberi
 LY;;Libi
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Guinea e Re Papua
 PL;;Poloni
 PR;;Porto Riko
-KP;;Korea, Republika Popullore Demokratike e
+KP;;Koreja e Veriut
 PT;;Portugali
 PY;;Paraguai
 PS;;Palestinë, Shteti i
@@ -212,7 +212,7 @@ SE;;Suedi
 SZ;;Esuatini
 SX;;Shën Martin (pjesa Holandeze)
 SC;;Sejshelle
-SY;;Republika Arabe e Sirisë
+SY;;Siri
 TC;;Ishujt Turks dhe Kaikos
 TD;;Çad
 TG;;Togo
@@ -224,7 +224,7 @@ TL;;Timori Lindor-Leste
 TO;;Tonga
 TT;;Trinidad dhe Tobago
 TN;;Tunizi
-TR;;Türkiye
+TR;;Turqi
 TV;;Tuvalu
 TW;;Tajvan
 TZ;;Tanzani

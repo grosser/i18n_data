@@ -105,7 +105,7 @@ IM;;Pulo ng Man
 IN;;Indiya
 IO;;Teritoryong Britaniya sa Dagat Indiyo
 IE;;Ireland
-IR;;Iran, Republikang Islam ng
+IR;;Iran
 IQ;;Iraq
 IS;;Lupangyelo
 IL;;Israel
@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;Saint Kitts at Nevis
 KR;;Korea, Republika ng
 KW;;Kuwait
-LA;;Taumbayang Demokratikong Republikang Lao
+LA;;Laos
 LB;;Lebanon
 LR;;Liberia
 LY;;Libya
@@ -212,7 +212,7 @@ SE;;Sweden
 SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seychelles
-SY;;Syrian Arab Republika
+SY;;Syria
 TC;;Turks at Caicos Islands
 TD;;Tsad
 TG;;Togo

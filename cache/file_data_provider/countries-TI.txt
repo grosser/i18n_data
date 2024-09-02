@@ -1,11 +1,11 @@
 AW;;ኣሩባ
 AF;;ኣፍጋኒስታን
 AO;;ኣንጎላ
-AI;;Anguilla
-AX;;Åland Islands
-AL;;አልባኒያ
+AI;;አንጉኢላ
+AX;;አላንድ ደሴታት
+AL;;ኣልባንያ
 AD;;አንዶራ
-AE;;የተባበሩት አረብ ኤምሬትስ
+AE;;ሕቡራት ኢማራት ዓረብ
 AR;;ኣርጀንቲና
 AM;;ኣርሜንያ
 AS;;American Samoa
@@ -105,7 +105,7 @@ IM;;Isle of Man
 IN;;ህንዲ
 IO;;British Indian Ocean Territory
 IE;;አየርላንድ
-IR;;Iran, Islamic Republic of
+IR;;Iran
 IQ;;ዒራቅ
 IS;;አይስላንድ
 IL;;እስራኤል
@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;Saint Kitts and Nevis
 KR;;South Korea
 KW;;ክዌት
-LA;;Lao People's Democratic Republic
+LA;;Laos
 LB;;ሊባኖስ
 LR;;Liberia
 LY;;ሊብያ
@@ -212,7 +212,7 @@ SE;;ስወደን
 SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seychelles
-SY;;Syrian Arab Republic
+SY;;Syria
 TC;;Turks and Caicos Islands
 TD;;ቻድ
 TG;;ቶጎ

@@ -105,7 +105,7 @@ IM;;Isle of Man
 IN;;Indien
 IO;;Det britiske territorium i Det Indiske Ocean
 IE;;Irland
-IR;;Iran, Den Islamiske Republik
+IR;;Iran
 IQ;;Irak
 IS;;Island
 IL;;Israel
@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;Sankt Kitts og Nevis
 KR;;Korea, Republikken
 KW;;Kuwait
-LA;;Lao, Folkets Demokratiske Republik
+LA;;Laos
 LB;;Libanon
 LR;;Liberia
 LY;;Libyen
@@ -212,7 +212,7 @@ SE;;Sverige
 SZ;;Eswatini
 SX;;Sint Maarten (hollandsk del)
 SC;;Seychellerne
-SY;;Syriske Arabiske Republik
+SY;;Syria
 TC;;Turks- og Caicosøerne
 TD;;Tchad
 TG;;Togo

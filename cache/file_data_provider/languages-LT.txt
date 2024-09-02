@@ -13,8 +13,8 @@ AZ;;Azerbaidžaniečių
 BA;;Baškirų
 BM;;Bambara
 BE;;Baltarusių
-BN;;Bengali
-BH;;Bihari languages
+BN;;Bengalų
+BH;;Biharų kalbos
 BI;;Bislama
 BO;;Tibetiečių
 BS;;Bosnių
@@ -64,7 +64,7 @@ HU;;Vengrų
 HY;;Armėnų
 IG;;Igbo
 IO;;Ido
-II;;Sichuan Yi; Nuosu
+II;;Nosų
 IU;;Inuktitutas
 IE;;Interlingue
 IA;;Interlingua (tarpinė kalba) (Tarptautinė pagalbinės kalbos asociacija)
@@ -119,7 +119,7 @@ NN;;Norvegų nynorsk; nynorsk, norvegų
 NB;;Bokmål; norvegų; norvegų bokmål
 NO;;Norvegų
 NY;;Nianja
-OC;;Occitan (post 1500); Provençal
+OC;;Oksitanų (po 1500 m.); Provansaliečių
 OJ;;Ojibva
 OR;;Orijų
 OM;;Oromų
@@ -131,7 +131,7 @@ PT;;Portugalų
 PS;;Puštūnų
 QU;;Kečujų
 RM;;Retoromanų
-RO;;Romanian; Moldavian; Moldovan
+RO;;Rumunų; Moldavų
 RN;;Rundi
 RU;;Rusų
 SG;;Sango

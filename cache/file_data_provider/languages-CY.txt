@@ -1,29 +1,29 @@
 AA;;Affareg
 AB;;Abchaseg
 AF;;Affricaneg
-AK;;Akan
+AK;;Acan
 AM;;Amhareg
 AR;;Arabeg
-AN;;Aragonese
+AN;;Aragoneg
 AS;;Asameg
-AV;;Avaric
-AE;;Avestan
+AV;;Afareg
+AE;;Afestan
 AY;;Aimareg
 AZ;;Aserbaijani
-BA;;Bashkir
+BA;;Bashgireg
 BM;;Bambara
 BE;;Belarwseg
-BN;;Bengali
-BH;;Bihari languages
+BN;;Bangla
+BH;;Ieithoedd Bihari
 BI;;Bislama
 BO;;Tibeteg
-BS;;Bosnian
+BS;;Bosnieg
 BR;;Llydaweg
 BG;;Bwlgareg
-CA;;Catalan; Valencian
+CA;;Catalaneg; Falenseg
 CS;;Tsieceg
-CH;;Chamorro
-CE;;Chechen
+CH;;Tsiamoro
+CE;;Tsietsien
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
 CV;;Chuvash
 KW;;Cernyweg
@@ -34,20 +34,20 @@ DA;;Daneg
 DE;;Almaeneg
 DV;;Divehi; Dhivehi; Maldivian
 DZ;;Dzongkha
-EL;;Greek, Modern (1453-)
+EL;;Groeg, Modern (1453-)
 EN;;Saesneg
 EO;;Esperanto
 ET;;Estoneg
 EU;;Basgeg
 EE;;Ewe
 FO;;Ffaröeg
-FA;;Persian
+FA;;Perseg
 FJ;;Ffijïeg
 FI;;Ffinneg
 FR;;Ffrangeg
-FY;;Western Frisian
+FY;;Ffriseg Gorllewinol
 FF;;Fulah
-GD;;Gaelic; Scottish Gaelic
+GD;;Gaeleg yr Alban
 GA;;Gwyddeleg
 GL;;Galiseg
 GV;;Manaweg
@@ -83,7 +83,7 @@ KK;;Cazacheg
 KM;;Central Khmer
 KI;;Kikuyu; Gikuyu
 RW;;Ciniarwanda
-KY;;Kirghiz; Kyrgyz
+KY;;Cirgiseg
 KV;;Komi
 KG;;Kongo
 KO;;Corëeg
@@ -95,7 +95,7 @@ LV;;Latfieg
 LI;;Limburgan; Limburger; Limburgish
 LN;;Lingala
 LT;;Lithwaneg
-LB;;Luxembourgish; Letzeburgesch
+LB;;Lwcsembwrgeg
 LU;;Luba-Katanga
 LG;;Ganda
 MH;;Marshallese
@@ -109,14 +109,14 @@ MI;;Maori
 MS;;Malaieg
 MY;;Byrmaneg
 NA;;Nawrŵeg
-NV;;Navajo; Navaho
+NV;;Navajo
 NR;;Ndebele, South; South Ndebele
 ND;;Ndebele, North; North Ndebele
 NG;;Ndonga
 NE;;Nepaleg
-NL;;Dutch; Flemish
-NN;;Norwegian Nynorsk; Nynorsk, Norwegian
-NB;;Bokmål, Norwegian; Norwegian Bokmål
+NL;;Iseldireg; Fflemeg
+NN;;Norwyeg (Nynorsk)
+NB;;Norwyeg (Bokmål)
 NO;;Norwyeg
 NY;;Chichewa; Chewa; Nyanja
 OC;;Occitan (post 1500); Provençal
@@ -124,19 +124,19 @@ OJ;;Ojibwa
 OR;;Orïa
 OM;;Oromo
 OS;;Ossetian; Ossetic
-PA;;Panjabi; Punjabi
+PA;;Pwnjabeg
 PI;;Pali
 PL;;Pwyleg
 PT;;Portiwgaleg
-PS;;Pushto; Pashto
+PS;;Pwshtw
 QU;;Cetshwa
-RM;;Romansh
-RO;;Romanian; Moldavian; Moldovan
+RM;;Rwmansh
+RO;;Rwmaneg; Moldafeg
 RN;;Rwndi
 RU;;Rwsieg
 SG;;Sango
 SA;;Sansgrit
-SI;;Sinhala; Sinhalese
+SI;;Sinhala
 SK;;Slofaceg
 SL;;Slofeneg
 SE;;Northern Sami
@@ -167,8 +167,8 @@ TS;;Tsongeg
 TK;;Tyrcmeneg
 TR;;Tyrceg
 TW;;Twi
-UG;;Uighur; Uyghur
-UK;;Ukrainian
+UG;;Wigwreg
+UK;;Wcreineg
 UR;;Wrdw
 UZ;;Wsbeceg
 VE;;Venda
@@ -179,6 +179,6 @@ WO;;Woloff
 XH;;Xhosa
 YI;;Iddew-Almaeneg
 YO;;Iorwba
-ZA;;Zhuang; Chuang
+ZA;;Shwangeg
 ZH;;Tsieinëeg
 ZU;;Zwlw

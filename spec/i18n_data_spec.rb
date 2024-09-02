@@ -119,7 +119,7 @@ describe I18nData do
           end
 
           it "shows countries names with apostrophes" do
-            I18nData.countries['LA'].should eq "Lao People's Democratic Republic"
+            I18nData.countries['LA'].should eq "Laos"
           end
         end
 

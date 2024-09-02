@@ -105,7 +105,7 @@ IM;;Ìsula de Man
 IN;;Ìndia
 IO;;Territòriu Britànnicu de s'Otzèanu Indianu
 IE;;Irlanda
-IR;;Iran, Repùblica Islàmica de
+IR;;Iràn
 IQ;;Iraq
 IS;;Islanda
 IL;;Israele
@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;Saint Kitts e Nevis
 KR;;Corea de su Sud
 KW;;Kuwait
-LA;;Repùblica Democràtica Populare de Lao
+LA;;Laos
 LB;;Lìbanu
 LR;;Libèria
 LY;;Lìbia
@@ -212,7 +212,7 @@ SE;;Isvètzia
 SZ;;Swaziland
 SX;;Sint Maarten (parte olandesa)
 SC;;Seychelles
-SY;;Repùblica Àraba de Sìria
+SY;;Sìria
 TC;;Ìsulas Turks e Caicos
 TD;;Chad
 TG;;Togo

@@ -105,7 +105,7 @@ IM;;Insula Man
 IN;;India
 IO;;Teritoriul britanic din Oceanul Indian
 IE;;Irlanda
-IR;;Iran, Republica islamică
+IR;;Iran
 IQ;;Irak
 IS;;Islanda
 IL;;Israel
@@ -120,9 +120,9 @@ KG;;Kârgâzstan
 KH;;Cambogia
 KI;;Kiribati
 KN;;Saint Kitts și Nevis
-KR;;Republica Coreea
+KR;;Coreea de Sud
 KW;;Kuweit
-LA;;Republica populară democrată Lao
+LA;;Laos
 LB;;Liban
 LR;;Liberia
 LY;;Libia
@@ -142,13 +142,13 @@ MG;;Madagascar
 MV;;Maldive
 MX;;Mexic
 MH;;Insulele Marshall
-MK;;North Macedonia
+MK;;Macedonia de nord
 ML;;Mali
 MT;;Malta
 MM;;Myanmar
 ME;;Muntenegru
 MN;;Mongolia
-MP;;Insulele Mariane de Nord
+MP;;Insulele Mariane de nord
 MZ;;Mozambic
 MR;;Mauritania
 MS;;Montserrat
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua Noua Guinee
 PL;;Polonia
 PR;;Puerto Rico
-KP;;Republica democrată populară Coreea
+KP;;Coreea de nord
 PT;;Portugalia
 PY;;Paraguay
 PS;;Palestina, Statul
@@ -203,7 +203,7 @@ SM;;San Marino
 SO;;Somalia
 PM;;Saint Pierre și Miquelon
 RS;;Serbia
-SS;;Sudanul de Sud
+SS;;Sudanul de sud
 ST;;Sao Tome și Principe
 SR;;Surinam
 SK;;Slovacia
@@ -212,7 +212,7 @@ SE;;Suedia
 SZ;;Eswatini
 SX;;Sfântul Martin (partea olandeză)
 SC;;Seychelles
-SY;;Republica Araba Siria
+SY;;Siria
 TC;;Insulele Turks și Caicos
 TD;;Ciad
 TG;;Togo
@@ -220,17 +220,17 @@ TH;;Tailanda
 TJ;;Tajikistan
 TK;;Tokelau
 TM;;Turkmenistan
-TL;;Timorul de Est
+TL;;Timorul de est
 TO;;Tonga
 TT;;Trinidad și Tobago
 TN;;Tunisia
-TR;;Türkiye
+TR;;Turcia
 TV;;Tuvalu
 TW;;Taiwan
 TZ;;Tanzania
 UG;;Uganda
 UA;;Ucraina
-UM;;Insulele de Coasta ale Statelor Unite
+UM;;Insulele periferice minore ale Statelor Unite
 UY;;Uruguay
 US;;Statele Unite
 UZ;;Uzbekistan

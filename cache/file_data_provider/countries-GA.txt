@@ -105,7 +105,7 @@ IM;;Oileán Mhanann
 IN;;An India
 IO;;Críocha Briotanacha an Aigéin Indiaigh
 IE;;Éire
-IR;;An Iaráin
+IR;;Iran
 IQ;;An Iaráic
 IS;;An Íoslainn
 IL;;Iosrael
@@ -122,7 +122,7 @@ KI;;Cireabaití
 KN;;Saint Kitts agus Nevis
 KR;;Poblacht na Cóiré
 KW;;Cuáit
-LA;;Daonphoblacht Dhaonlathach Laoch
+LA;;Laos
 LB;;An Liobáin
 LR;;An Libéir
 LY;;An Libia
@@ -212,7 +212,7 @@ SE;;An tSualainn
 SZ;;Eswatini
 SX;;Sint Maarten (ceantar Ollannach)
 SC;;Na Séiséil
-SY;;Poblacht Arabach na Siria
+SY;;Syria
 TC;;Oileáin Turks agus Caicos
 TD;;Sead
 TG;;Tóga

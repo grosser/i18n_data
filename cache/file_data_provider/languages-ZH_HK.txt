@@ -116,8 +116,8 @@ NG;;恩敦加語
 NE;;尼泊爾語
 NL;;荷蘭語
 NN;;新挪威語
-NB;;Bokmål, Norwegian; Norwegian Bokmål
-NO;;書面挪威語
+NB;;書面挪威語
+NO;;挪威語
 NY;;尼揚賈語
 OC;;奧克西坦語 (1500 之後);普羅旺斯語
 OJ;;奧杰布瓦語

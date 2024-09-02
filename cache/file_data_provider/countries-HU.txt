@@ -105,7 +105,7 @@ IM;;Man
 IN;;India
 IO;;Brit Indiai-óceáni Terület
 IE;;Írország
-IR;;Irán, Iszlám Köztársaság
+IR;;Irán
 IQ;;Irak
 IS;;Izland
 IL;;Izrael
@@ -120,9 +120,9 @@ KG;;Kirgizisztán
 KH;;Kambodzsa
 KI;;Kiribati
 KN;;Saint Kitts és Nevis
-KR;;Koreai Köztársaság
+KR;;Dél-Korea
 KW;;Kuvait
-LA;;Laoszi Népi Demokratikus Köztársaság
+LA;;Laosz
 LB;;Libanon
 LR;;Libéria
 LY;;Líbia
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Pápua Új-Guinea
 PL;;Lengyelország
 PR;;Puerto Rico
-KP;;Koreai Népi Demokratikus Köztársaság
+KP;;Észak-Korea
 PT;;Portugália
 PY;;Paraguay
 PS;;Palesztina
@@ -212,7 +212,7 @@ SE;;Svédország
 SZ;;Szváziföld
 SX;;Szent Martin (holland oldal)
 SC;;Seychelle-szigetek
-SY;;Szíriai Arab Köztársaság
+SY;;Szíria
 TC;;Turks- és Caicos-szigetek
 TD;;Csád
 TG;;Togo
@@ -224,7 +224,7 @@ TL;;Kelet-Timor
 TO;;Tonga
 TT;;Trinidad és Tobago
 TN;;Tunézia
-TR;;Türkiye
+TR;;Törökország
 TV;;Tuvalu
 TW;;Tajvan
 TZ;;Tanzánia

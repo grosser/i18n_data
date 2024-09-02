@@ -1,184 +1,184 @@
-AA;;Afar
-AB;;Abkhazian
-AF;;Afrikaans
-AK;;Akan
-AM;;Amharic
-AR;;Arabic
-AN;;Aragonese
-AS;;Assamese
-AV;;Avaric
-AE;;Avestan
-AY;;Aymara
-AZ;;Azerbaijani
-BA;;Bashkir
-BM;;Bambara
-BE;;Belarusian
-BN;;Bengali
-BH;;Bihari languages
-BI;;Bislama
-BO;;Tibetan
-BS;;Bosnian
-BR;;Breton
-BG;;Bulgarian
-CA;;Catalan; Valencian
-CS;;Czech
-CH;;Chamorro
-CE;;Chechen
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
-CV;;Chuvash
-KW;;Cornish
-CO;;Corsican
-CR;;Cree
-CY;;Welsh
-DA;;Danish
-DE;;German
-DV;;Divehi; Dhivehi; Maldivian
-DZ;;Dzongkha
-EL;;Greek, Modern (1453-)
-EN;;English
+AA;;Afarisht
+AB;;Abhazisht
+AF;;Afrikanisht
+AK;;Akanisht
+AM;;Amarisht
+AR;;Arabisht
+AN;;Aragonisht
+AS;;Asamezisht
+AV;;Avarisht
+AE;;Avestisht
+AY;;Ajmarisht
+AZ;;Azerbajxhanisht
+BA;;Bashkirisht
+BM;;Bambarisht
+BE;;Bjellorusisht
+BN;;Banglisht
+BH;;Gjuhë bihari
+BI;;Bislamisht
+BO;;Tibetisht
+BS;;Boshnjakisht
+BR;;Bretonisht
+BG;;Bullgarisht
+CA;;Katalonisht; Valencianisht
+CS;;Çekisht
+CH;;Çamorrisht
+CE;;Çeçenisht
+CU;;Sllavishte e vjetër; Sllavishte liturgjike; Bullgarishte e vjetër
+CV;;Çuvashisht
+KW;;Kornisht
+CO;;Korsisht
+CR;;Kriisht
+CY;;Galishte e Uellsit
+DA;;Danisht
+DE;;Gjermanisht
+DV;;Diveisht; Maldivisht
+DZ;;Xongisht
+EL;;Greqishte moderne (1453-)
+EN;;Anglisht
 EO;;Esperanto
-ET;;Estonian
-EU;;Basque
-EE;;Ewe
-FO;;Faroese
-FA;;Persian
-FJ;;Fijian
-FI;;Finnish
-FR;;French
-FY;;Western Frisian
-FF;;Fulah
-GD;;Gaelic; Scottish Gaelic
-GA;;Irish
-GL;;Galician
-GV;;Manx
-GN;;Guarani
-GU;;Gujarati
-HT;;Haitian; Haitian Creole
-HA;;Hausa
-HE;;Hebrew
-HZ;;Herero
-HI;;Hindi
+ET;;Estonisht
+EU;;Baskisht
+EE;;Evenisht
+FO;;Faroezisht
+FA;;Persisht
+FJ;;Fixhianisht
+FI;;Finlandisht
+FR;;Frëngjisht
+FY;;Frisonishte e Perëndimit
+FF;;Fulanisht
+GD;;Galishte e Skocisë
+GA;;Irlandisht
+GL;;Galicisht
+GV;;Manksisht
+GN;;Guaranisht
+GU;;Guxharatisht
+HT;;Haitianisht; Kreolishte e Haitit
+HA;;Hausisht
+HE;;Hebraisht
+HZ;;Hererisht
+HI;;Indisht
 HO;;Hiri Motu
-HR;;Croatian
-HU;;Hungarian
-HY;;Armenian
-IG;;Igbo
-IO;;Ido
-II;;Sichuan Yi; Nuosu
+HR;;Kroatisht
+HU;;Hungarisht
+HY;;Armenisht
+IG;;Igbonisht
+IO;;Idonisht
+II;;Ji e Siçuanit; Nosunisht
 IU;;Inuktitut
-IE;;Interlingue; Occidental
-IA;;Interlingua (International Auxiliary Language Association)
-ID;;Indonesian
-IK;;Inupiaq
-IS;;Icelandic
-IT;;Italian
-JV;;Javanese
-JA;;Japanese
-KL;;Kalaallisut; Greenlandic
-KN;;Kannada
-KS;;Kashmiri
-KA;;Georgian
-KR;;Kanuri
-KK;;Kazakh
-KM;;Central Khmer
-KI;;Kikuyu; Gikuyu
-RW;;Kinyarwanda
-KY;;Kirghiz; Kyrgyz
-KV;;Komi
-KG;;Kongo
-KO;;Korean
-KJ;;Kuanyama; Kwanyama
-KU;;Kurdish
-LO;;Lao
-LA;;Latin
-LV;;Latvian
-LI;;Limburgan; Limburger; Limburgish
-LN;;Lingala
-LT;;Lithuanian
-LB;;Luxembourgish; Letzeburgesch
-LU;;Luba-Katanga
-LG;;Ganda
-MH;;Marshallese
-ML;;Malayalam
-MR;;Marathi
-MK;;Macedonian
-MG;;Malagasy
-MT;;Maltese
-MN;;Mongolian
-MI;;Maori
-MS;;Malay
-MY;;Burmese
+IE;;Interlingue; Oksidentalisht
+IA;;Interlingua (Shoqata për Gjuhë Ndihmëse Ndërkombëtare)
+ID;;Indonezisht
+IK;;Inupikisht
+IS;;Islandisht
+IT;;Italisht
+JV;;Javanisht
+JA;;Japonisht
+KL;;Kalalisutisht; Groenlandisht
+KN;;Kanarezisht
+KS;;Kashmirisht
+KA;;Gjeorgjisht
+KR;;Kanurisht
+KK;;Kazakisht
+KM;;Kmerishte e Qendrës
+KI;;Kikuju
+RW;;Kiniaruandisht
+KY;;Kirgizisht
+KV;;Komisht
+KG;;Kongolezisht
+KO;;Koreanisht
+KJ;;Kuanjamisht
+KU;;Kurdisht
+LO;;Laosisht
+LA;;Latinisht
+LV;;Letonisht
+LI;;Limburgisht
+LN;;Lingalisht
+LT;;Lituanisht
+LB;;Luksemburgisht
+LU;;Lubishte e Katangës
+LG;;Gandisht
+MH;;Marshallezisht
+ML;;Malajalamisht
+MR;;Maratisht
+MK;;Maqedonisht
+MG;;Malgashisht
+MT;;Maltezisht
+MN;;Mongolisht
+MI;;Maorisht
+MS;;Malaisht
+MY;;Birmanisht
 NA;;Nauru
-NV;;Navajo; Navaho
-NR;;Ndebele, South; South Ndebele
-ND;;Ndebele, North; North Ndebele
-NG;;Ndonga
-NE;;Nepali
-NL;;Dutch; Flemish
-NN;;Norwegian Nynorsk; Nynorsk, Norwegian
-NB;;Bokmål, Norwegian; Norwegian Bokmål
-NO;;Norwegian
-NY;;Chichewa; Chewa; Nyanja
-OC;;Occitan (post 1500); Provençal
-OJ;;Ojibwa
-OR;;Oriya
-OM;;Oromo
-OS;;Ossetian; Ossetic
-PA;;Panjabi; Punjabi
-PI;;Pali
-PL;;Polish
-PT;;Portuguese
-PS;;Pushto; Pashto
-QU;;Quechua
+NV;;Navajisht; Navahisht
+NR;;Ndebelishte e Jugut
+ND;;Ndebelishte e Veriut
+NG;;Ndongisht
+NE;;Nepalisht
+NL;;Holandisht; Flamisht
+NN;;Nynorsk; Norvegjishte e re
+NB;;Bukmol; Danonorvegjisht
+NO;;Norvegjisht
+NY;;Çiçevanisht; Çevanisht; Njanxhanisht
+OC;;Oksitanisht (pas 1500); Provansalisht
+OJ;;Oxhibuanisht
+OR;;Oriezisht
+OM;;Oromisht
+OS;;Osetisht
+PA;;Panxhabisht
+PI;;Palizisht
+PL;;Polonisht
+PT;;Portugalisht
+PS;;Pashtunisht
+QU;;Keçuanisht
 RM;;Romansh
-RO;;Romanian; Moldavian; Moldovan
-RN;;Rundi
-RU;;Russian
-SG;;Sango
-SA;;Sanskrit
-SI;;Sinhala; Sinhalese
-SK;;Slovak
-SL;;Slovenian
-SE;;Northern Sami
-SM;;Samoan
-SN;;Shona
-SD;;Sindhi
-SO;;Somali
-ST;;Sotho, Southern
-ES;;Spanish; Castilian
-SQ;;Albanian
-SC;;Sardinian
-SR;;Serbian
-SS;;Swati
-SU;;Sundanese
-SW;;Swahili
-SV;;Swedish
-TY;;Tahitian
-TA;;Tamil
-TT;;Tatar
-TE;;Telugu
-TG;;Tajik
-TL;;Tagalog
-TH;;Thai
-TI;;Tigrinya
-TO;;Tonga (Tonga Islands)
-TN;;Tswana
-TS;;Tsonga
-TK;;Turkmen
-TR;;Turkish
-TW;;Twi
-UG;;Uighur; Uyghur
-UK;;Ukrainian
+RO;;Rumanisht; Moldavisht
+RN;;Rundisht
+RU;;Rusisht
+SG;;Sangisht
+SA;;Sanskritisht
+SI;;Singalisht
+SK;;Sllovakisht
+SL;;Sllovenisht
+SE;;Samishte e Veriut
+SM;;Samoanisht
+SN;;Shonisht
+SD;;Sindisht
+SO;;Somalisht
+ST;;Sotishte e Jugut
+ES;;Spanjisht; Kastilisht
+SQ;;Shqip
+SC;;Sardisht
+SR;;Serbisht
+SS;;Suatisht
+SU;;Sundanezisht
+SW;;Suahilisht
+SV;;Suedisht
+TY;;Tahitisht
+TA;;Tamilisht
+TT;;Tatarisht
+TE;;Telegisht
+TG;;Taxhikisht
+TL;;Tagalisht
+TH;;Tajlandisht
+TI;;Tigrinjisht
+TO;;Tongisht (Ishujt Tonga)
+TN;;Cuanisht
+TS;;Congisht
+TK;;Turkmenisht
+TR;;Turqisht
+TW;;Tuinisht
+UG;;Ujgurisht
+UK;;Ukrainisht
 UR;;Urdu
-UZ;;Uzbek
-VE;;Venda
-VI;;Vietnamese
-VO;;Volapük
-WA;;Walloon
-WO;;Wolof
-XH;;Xhosa
-YI;;Yiddish
-YO;;Yoruba
-ZA;;Zhuang; Chuang
-ZH;;Chinese
+UZ;;Uzbekisht
+VE;;Vendisht
+VI;;Vietnamisht
+VO;;Volapykisht
+WA;;Valonisht
+WO;;Uolofisht
+XH;;Kosisht
+YI;;Jidisht
+YO;;Jorubisht
+ZA;;Zhuang; Çuang
+ZH;;Kinezisht
 ZU;;Zulu

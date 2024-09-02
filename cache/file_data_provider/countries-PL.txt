@@ -61,7 +61,7 @@ DE;;Niemcy
 DJ;;Dżibuti
 DM;;Dominika
 DK;;Dania
-DO;;Dominikana
+DO;;Republika Dominikańska
 DZ;;Algieria
 EC;;Ekwador
 EG;;Egipt
@@ -212,7 +212,7 @@ SE;;Szwecja
 SZ;;Eswatini
 SX;;Sint Maarten (część holenderska)
 SC;;Seszele
-SY;;Syryjska Republika Arabska
+SY;;Syria
 TC;;Turks i Caicos
 TD;;Czad
 TG;;Togo
@@ -224,7 +224,7 @@ TL;;Timor Wschodni
 TO;;Tonga
 TT;;Trynidad i Tobago
 TN;;Tunezja
-TR;;Türkiye
+TR;;Turcja
 TV;;Tuvalu
 TW;;Tajwan
 TZ;;Tanzania
@@ -234,7 +234,7 @@ UM;;Dalekie Wyspy Mniejsze Stanów Zjednoczonych
 UY;;Urugwaj
 US;;Stany Zjednoczone
 UZ;;Uzbekistan
-VA;;Watykan
+VA;;Państwo Watykańskie (Stolica Apostolska)
 VC;;Saint Vincent i Grenadyny
 VE;;Wenezuela
 VG;;Brytyjskie Wyspy Dziewicze
@@ -244,6 +244,6 @@ VU;;Vanuatu
 WF;;Wallis i Futuna
 WS;;Samoa
 YE;;Jemen
-ZA;;Republika Południowej Afryki
+ZA;;Południowa Afryka
 ZM;;Zambia
 ZW;;Zimbabwe

@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;Saint Kitts ja Nevis
 KR;;Lõuna-Korea
 KW;;Kuveit
-LA;;Laose Demokraatlik Rahvavabariik
+LA;;Laos
 LB;;Liibanon
 LR;;Libeeria
 LY;;Liibüa
@@ -212,7 +212,7 @@ SE;;Rootsi
 SZ;;Svaasimaa
 SX;;Sint Maarten (Hollandi osa)
 SC;;Seišellid
-SY;;Süüria Araabia Vabariik
+SY;;Süüria
 TC;;Turksi ja Caicose saared
 TD;;Tšaad
 TG;;Togo

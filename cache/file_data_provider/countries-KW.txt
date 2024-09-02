@@ -105,7 +105,7 @@ IM;;Ynys Manow
 IN;;Eynda
 IO;;British Indian Ocean Territory
 IE;;Repoblek Wordhen
-IR;;Iran, Islamic Republic of
+IR;;Iran
 IQ;;Irak
 IS;;Island
 IL;;Ysrael
@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;Sen Kitts ha Nevis
 KR;;South Korea
 KW;;Koweyt
-LA;;Lao People's Democratic Republic
+LA;;Laos
 LB;;Lebnon
 LR;;Liberi
 LY;;Libi
@@ -212,7 +212,7 @@ SE;;Swedherwyk
 SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seychellys
-SY;;Syrian Arab Republic
+SY;;Syria
 TC;;Turks ha Kaykos
 TD;;Chad
 TG;;Togo

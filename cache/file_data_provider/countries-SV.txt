@@ -105,7 +105,7 @@ IM;;Isle of Man
 IN;;Indien
 IO;;Brittiskt territorium i Indiska Oceanen
 IE;;Irland
-IR;;Iran, islamiska republiken
+IR;;Iran
 IQ;;Irak
 IS;;Island
 IL;;Israel
@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;Sankt Kitts och Nevis
 KR;;Sydkorea
 KW;;Kuwait
-LA;;Demokratiska folkrepubliken Lao
+LA;;Laos
 LB;;Libanon
 LR;;Liberia
 LY;;Libyen
@@ -212,7 +212,7 @@ SE;;Sverige
 SZ;;Swaziland
 SX;;Sint Maarten (nederländska delen)
 SC;;Seychellerna
-SY;;Syriska arabrepubliken
+SY;;Syrien
 TC;;Turks- och Caicosöarna
 TD;;Tchad
 TG;;Togo
@@ -230,7 +230,7 @@ TW;;Taiwan
 TZ;;Tanzania
 UG;;Uganda
 UA;;Ukraina
-UM;;USA:s avlägsna mindre öar
+UM;;Förenta staternas mindre öar i Oceanien och Västindien
 UY;;Uruguay
 US;;USA
 UZ;;Uzbekistan

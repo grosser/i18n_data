@@ -26,7 +26,7 @@ BH;;Bahrain
 BS;;Bahamas
 BA;;Bosnien und Herzegowina
 BL;;Saint-Barthélemy
-BY;;Weißrussland
+BY;;Belarus
 BZ;;Belize
 BM;;Bermuda
 BO;;Bolivien
@@ -49,7 +49,7 @@ CG;;Kongo
 CK;;Cookinseln
 CO;;Kolumbien
 KM;;Komoren
-CV;;Cabo Verde
+CV;;Kap Verde
 CR;;Costa Rica
 CU;;Kuba
 CW;;Curaçao
@@ -105,7 +105,7 @@ IM;;Insel Man
 IN;;Indien
 IO;;Britisches Territorium im Indischen Ozean
 IE;;Irland
-IR;;Iran, Islamische Republik
+IR;;Iran
 IQ;;Irak
 IS;;Island
 IL;;Israel
@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;St. Kitts und Nevis
 KR;;Südkorea
 KW;;Kuwait
-LA;;Laos, Demokratische Volksrepublik
+LA;;Laos
 LB;;Libanon
 LR;;Liberia
 LY;;Libyen
@@ -212,7 +212,7 @@ SE;;Schweden
 SZ;;Eswatini
 SX;;Saint-Martin (Niederländischer Teil)
 SC;;Seychellen
-SY;;Syrien, Arabische Republik
+SY;;Syrien
 TC;;Turks- und Caicosinseln
 TD;;Tschad
 TG;;Togo

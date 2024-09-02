@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;Saint Kitts en Nevis
 KR;;Zuid-Korea
 KW;;Koeweit
-LA;;Laos Democratische Volksrepubliek
+LA;;Laos
 LB;;Libanon
 LR;;Liberia
 LY;;Libië
@@ -224,7 +224,7 @@ TL;;Oost-Timor
 TO;;Tonga
 TT;;Trinidad en Tobago
 TN;;Tunesië
-TR;;Türkiye
+TR;;Turkije
 TV;;Tuvalu
 TW;;Taiwan
 TZ;;Tanzania
