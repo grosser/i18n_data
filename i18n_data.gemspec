@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 name = "i18n_data"
 require "./lib/#{name}/version"
 
@@ -8,6 +9,6 @@ Gem::Specification.new name, I18nData::VERSION do |s|
   s.homepage = "https://github.com/grosser/#{name}"
   s.files = `git ls-files lib cache `.split("\n")
   s.license = "MIT"
-  s.required_ruby_version = '>= 2.5.0'
-  s.add_runtime_dependency 'simple_po_parser', '~> 1.1'
+  s.required_ruby_version = '>= 3.0.0' # keep in sync with rubocop.yml and actions.yml
+  s.add_dependency 'simple_po_parser', '~> 1.1'
 end

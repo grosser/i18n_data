@@ -1,4 +1,4 @@
-# encoding: utf-8
+# frozen_string_literal: true
 require "spec_helper"
 
 NUM_2_LETTER_LANGUAGES = 184
@@ -9,7 +9,7 @@ describe I18nData do
   require "i18n_data/file_data_provider"
 
   def blank_keys_or_values(hash)
-    hash.detect{|k,v| k.to_s.empty? or v.to_s.empty?}
+    hash.detect { |k, v| k.to_s.empty? or v.to_s.empty? }
   end
 
   around do |t|
@@ -40,7 +40,7 @@ describe I18nData do
 
       describe ".languages" do
         it "raises NoTranslationAvailable for unavailable languages" do
-          lambda{I18nData.languages('XX')}.should raise_error(I18nData::NoTranslationAvailable)
+          -> { I18nData.languages('XX') }.should raise_error(I18nData::NoTranslationAvailable)
         end
 
         it "is cached" do
@@ -51,7 +51,7 @@ describe I18nData do
 
         describe "english" do
           it "does not contain blanks" do
-            blank_keys_or_values(I18nData.languages).should eq nil
+            blank_keys_or_values(I18nData.languages).should be_nil
           end
 
           it "has english as default" do
@@ -77,7 +77,7 @@ describe I18nData do
           end
 
           it "does not contain blanks" do
-            blank_keys_or_values(I18nData.languages('GL')).should eq nil
+            blank_keys_or_values(I18nData.languages('GL')).should be_nil
           end
 
           it "is written in unicode" do
@@ -111,7 +111,7 @@ describe I18nData do
           end
 
           it "does not contain blanks" do
-            blank_keys_or_values(I18nData.countries).should eq nil
+            blank_keys_or_values(I18nData.countries).should be_nil
           end
 
           it "contains all countries" do
@@ -149,7 +149,7 @@ describe I18nData do
           end
 
           it "does not contain blanks" do
-            blank_keys_or_values(I18nData.countries('GL')).should eq nil
+            blank_keys_or_values(I18nData.countries('GL')).should be_nil
           end
 
           it "is written in unicode" do
@@ -174,8 +174,12 @@ describe I18nData do
   end
 
   describe :country_code do
-    before :all do
+    around do |t|
+      old = I18nData.data_provider
       I18nData.data_provider = I18nData::FileDataProvider
+      t.call
+    ensure
+      I18nData.data_provider = old
     end
 
     it "recognises a countries name" do
@@ -187,7 +191,7 @@ describe I18nData do
     end
 
     it "returns nil when it cannot recognise" do
-      I18nData.country_code('XY').should eq nil
+      I18nData.country_code('XY').should be_nil
     end
 
     it "can find languages that are not in english list" do
@@ -218,7 +222,7 @@ describe I18nData do
     end
 
     it "returns nil when it cannot recognise" do
-      I18nData.language_code('XY').should eq nil
+      I18nData.language_code('XY').should be_nil
     end
   end
 
