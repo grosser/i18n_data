@@ -60,12 +60,18 @@ module I18nData
     def translations(type, language_code)
       @translations ||= {}
       @translations["#{type}_#{language_code}"] ||= begin
+        # FOO_BAR -> foo_BAR
         code = language_code.split("_")
         code[0].downcase!
         code = code.join("_")
 
         begin
           file_path = "#{CLONE_DEST}/#{TRANSLATIONS[type]}#{code}.po"
+
+          # norwegian is somehow special :shrug:
+          # https://salsa.debian.org/iso-codes-team/iso-codes/-/tree/main/iso_639-2
+          file_path = file_path.sub("/no.po", "/nb_no.po")
+
           data = SimplePoParser.parse(file_path)
           data = data[1..] # Remove the initial info block in the .po file
 
@@ -75,7 +81,10 @@ module I18nData
 
           fallback_names.merge(common_names)
         rescue Errno::ENOENT
-          raise NoTranslationAvailable, "for #{type} and language code = #{code} (#{$!})"
+          raise(
+            NoTranslationAvailable,
+            "No translation available for #{type} and language code = #{code} (#{$!})"
+          )
         end
       end
     end
