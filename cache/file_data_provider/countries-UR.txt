@@ -105,7 +105,7 @@ IM;;آئل آف مین
 IN;;بھارت
 IO;;برطانوی بحرہند کا خطہ
 IE;;جمہوریہ آئرستان
-IR;;Iran, Islamic Republic of
+IR;;Iran
 IQ;;عراق
 IS;;آئس لینڈ
 IL;;اسرائیل
@@ -122,7 +122,7 @@ KI;;کیریباتی
 KN;;سینٹ کیٹز و ناویس
 KR;;South Korea
 KW;;کویت
-LA;;Lao People's Democratic Republic
+LA;;Laos
 LB;;لبنان
 LR;;لائبیریا
 LY;;لیبیا
@@ -212,7 +212,7 @@ SE;;سویڈن
 SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;سیچیلیس
-SY;;Syrian Arab Republic
+SY;;Syria
 TC;;جزائر کیکس و ترکیہ
 TD;;چاڈ
 TG;;ٹوگو

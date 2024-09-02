@@ -105,7 +105,7 @@ IM;;Menas sala
 IN;;Indija
 IO;;Indijas Okeāna Britu teritorija
 IE;;Īrija
-IR;;Irāna
+IR;;Iran
 IQ;;Irāka
 IS;;Islande
 IL;;Izraēla
@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;Sentkitsa un Nevisa
 KR;;Dienvidkoreja
 KW;;Kuveita
-LA;;Laosa
+LA;;Laos
 LB;;Libāna
 LR;;Libērija
 LY;;Lībija
@@ -212,7 +212,7 @@ SE;;Zviedrija
 SZ;;Eswatini
 SX;;Sintmārtena (Nīderlandes daļa)
 SC;;Seišelas
-SY;;Sīrija
+SY;;Syria
 TC;;Tērksu un Kaikosu salas
 TD;;Čada
 TG;;Togo

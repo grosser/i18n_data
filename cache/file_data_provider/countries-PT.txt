@@ -105,7 +105,7 @@ IM;;Ilha de Man
 IN;;Índia
 IO;;Território Britânico do Oceano Índico
 IE;;Irlanda
-IR;;Irão, República Islâmica do
+IR;;Iran
 IQ;;Iraque
 IS;;Islândia
 IL;;Israel
@@ -120,9 +120,9 @@ KG;;Quirguistão
 KH;;Camboja
 KI;;Kiribati
 KN;;São Cristóvão e Nevis
-KR;;Coreia, República da
+KR;;Coreia do Sul
 KW;;Kuwait
-LA;;República Democrática Popular do Laos
+LA;;Laos
 LB;;Líbano
 LR;;Libéria
 LY;;Líbia
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua Nova Guiné
 PL;;Polónia
 PR;;Porto Rico
-KP;;Coreia, República Popular Democrática da
+KP;;Coreia do Norte
 PT;;Portugal
 PY;;Paraguai
 PS;;Palestina, Estado da
@@ -212,7 +212,7 @@ SE;;Suécia
 SZ;;Suazilândia
 SX;;São Martinho (Países Baixos)
 SC;;Seychelles
-SY;;República Árabe Síria
+SY;;Syria
 TC;;Ilhas Turcas e Caicos
 TD;;Chade
 TG;;Togo
@@ -224,7 +224,7 @@ TL;;Timor-Leste
 TO;;Tonga
 TT;;Trindade e Tobago
 TN;;Tunísia
-TR;;Türkiye
+TR;;Turquia
 TV;;Tuvalu
 TW;;Taiwan
 TZ;;Tanzânia

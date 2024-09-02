@@ -49,14 +49,14 @@ CG;;Kongas
 CK;;Kuko salos
 CO;;Kolumbija
 KM;;Komorai
-CV;;Cabo Verde
+CV;;Žaliasis Kyšulys
 CR;;Kosta Rika
 CU;;Kuba
 CW;;Kiurasao
 CX;;Kalėdų sala
 KY;;Kaimanų salos
 CY;;Kipras
-CZ;;Czechia
+CZ;;Čekija
 DE;;Vokietija
 DJ;;Džibutis
 DM;;Dominika
@@ -105,7 +105,7 @@ IM;;Meno sala
 IN;;Indija
 IO;;Indijos Vandenyno Britų sritis
 IE;;Airija
-IR;;Irano Islamo Respublika
+IR;;Iranas
 IQ;;Irakas
 IS;;Islandija
 IL;;Izraelis
@@ -120,9 +120,9 @@ KG;;Kirgizija
 KH;;Kambodža
 KI;;Kiribatis
 KN;;Sent Kitsas ir Nevis
-KR;;Korėjos Respublika
+KR;;Pietų Korėja
 KW;;Kuveitas
-LA;;Laoso Liaudies Demokratinė Respublika
+LA;;Laosas
 LB;;Libanas
 LR;;Liberija
 LY;;Libija
@@ -142,7 +142,7 @@ MG;;Madagaskaras
 MV;;Maldyvai
 MX;;Meksika
 MH;;Maršalo salos
-MK;;North Macedonia
+MK;;Šiaurės Makedonija
 ML;;Malis
 MT;;Malta
 MM;;Mianmaras
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua Naujoji Gvinėja
 PL;;Lenkija
 PR;;Puerto Rikas
-KP;;Korėjos Liaudies Demokratinė Respublika
+KP;;Šiaurės Korėja
 PT;;Portugalija
 PY;;Paragvajus
 PS;;Palestinos valstybė
@@ -209,28 +209,28 @@ SR;;Surinamas
 SK;;Slovakija
 SI;;Slovėnija
 SE;;Švedija
-SZ;;Eswatini
+SZ;;Esvatinis
 SX;;Sin Martenas (Nyderalandų dalis)
 SC;;Seišeliai
-SY;;Sirijos Arabų Respublika
+SY;;Sirija
 TC;;Terkso ir Kaikoso salos
 TD;;Čadas
 TG;;Togas
 TH;;Tailandas
-TJ;;Tadžikistanas
+TJ;;Tadžikija
 TK;;Tokelau
-TM;;Turkmėnistanas
+TM;;Turkmėnija
 TL;;Rytų Timoras
 TO;;Tonga
 TT;;Trinidadas ir Tobagas
 TN;;Tunisas
-TR;;Türkiye
+TR;;Turkija
 TV;;Tuvalu
 TW;;Taivanas
-TZ;;Tanzanijos Jungtinė Respublika
+TZ;;Tanzanija
 UG;;Uganda
 UA;;Ukraina
-UM;;Jungtinių Amerikos Valstijų mažosios aplinkinės salos
+UM;;Jungtinių Valstijų Mažosios pakraštinės salos
 UY;;Urugvajus
 US;;Jungtinės Amerikos Valstijos
 UZ;;Uzbekija

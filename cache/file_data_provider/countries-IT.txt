@@ -25,7 +25,7 @@ BG;;Bulgaria
 BH;;Bahrein
 BS;;Bahamas
 BA;;Bosnia-Erzegovina
-BL;;Saint Barts
+BL;;Saint-Barthélemy
 BY;;Bielorussia
 BZ;;Belize
 BM;;Bermuda
@@ -120,7 +120,7 @@ KG;;Kirghizistan
 KH;;Cambogia
 KI;;Kiribati
 KN;;Saint Kitts e Nevis
-KR;;Corea del sud
+KR;;Corea del Sud
 KW;;Kuwait
 LA;;Laos
 LB;;Libano
@@ -212,7 +212,7 @@ SE;;Svezia
 SZ;;Eswatini
 SX;;Sint Maarten (Olanda)
 SC;;Seychelles
-SY;;Siria
+SY;;Syria
 TC;;Isole Turks e Caicos
 TD;;Ciad
 TG;;Togo

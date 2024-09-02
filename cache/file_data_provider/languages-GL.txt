@@ -76,7 +76,7 @@ JV;;Xavanés
 JA;;Xaponés
 KL;;Kalaallisut; Groenlandés
 KN;;Canarés
-KS;;Cachemir
+KS;;Caxemirés
 KA;;Xeorxiano
 KR;;Kanuri
 KK;;Kazaxo

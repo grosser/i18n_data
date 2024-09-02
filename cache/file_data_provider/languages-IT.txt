@@ -23,8 +23,8 @@ BG;;Bulgaro
 CA;;Catalano, Valenciano
 CS;;Ceco
 CH;;Chamorro
-CE;;Chechen
-CU;;Slavo ecclesiasito; Slavo antico; Bulgaro antico; Slavo ecclesiastico antico
+CE;;Ceceno
+CU;;Slavo ecclesiastico; Slavo antico; Bulgaro antico; Slavo ecclesiastico antico
 CV;;Chuvash
 KW;;Cornish
 CO;;Corso
@@ -72,7 +72,7 @@ ID;;Indonesiano
 IK;;Inupiaq
 IS;;Islandese
 IT;;Italiano
-JV;;Javanese
+JV;;Giavanese
 JA;;Giapponese
 KL;;Kalaallisut; Groenlandese
 KN;;Kannada
@@ -92,7 +92,7 @@ KU;;Curdo
 LO;;Lao
 LA;;Latino
 LV;;Lettone
-LI;;Limburgan
+LI;;Limburghese
 LN;;Lingala
 LT;;Lituano
 LB;;Lussemburghese
@@ -106,8 +106,8 @@ MG;;Malagasy
 MT;;Maltese
 MN;;Mongolo
 MI;;Maori
-MS;;Malay
-MY;;Burmese
+MS;;Malese
+MY;;Birmano
 NA;;Nauru
 NV;;Navajo; Navaho
 NR;;Ndebele del Sud
@@ -124,13 +124,13 @@ OJ;;Ojibwa
 OR;;Oriya
 OM;;Oromo
 OS;;Osseto
-PA;;Panjabi; Punjabi
+PA;;Pangiabi; Punjabi
 PI;;Pali
 PL;;Polacco
 PT;;Portoghese
-PS;;Pasthu; Afgano
+PS;;Pashtu; Afgano
 QU;;Quechua
-RM;;Romansh
+RM;;Romancio
 RO;;Romeno; Moldavo
 RN;;Rundi
 RU;;Russo

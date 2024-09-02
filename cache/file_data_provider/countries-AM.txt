@@ -105,7 +105,7 @@ IM;;Isle of Man
 IN;;ህን፥
 IO;;British Indian Ocean Territory
 IE;;ጐፘሴሒን፥
-IR;;Iran, Islamic Republic of
+IR;;Iran
 IQ;;ጒሲቅ
 IS;;ጐ፤ስሒን፥
 IL;;ጕስሲጔሔ
@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;Saint Kitts and Nevis
 KR;;ሰሣን ጥሱ።
 KW;;ጤፃት
-LA;;Lao People's Democratic Republic
+LA;;Laos
 LB;;ሑባኖስ
 LR;;Liberia
 LY;;Libya
@@ -212,7 +212,7 @@ SE;;ስፁ፥ን
 SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seychelles
-SY;;ሲሱ።
+SY;;Syria
 TC;;Turks and Caicos Islands
 TD;;ኂ፥
 TG;;Togo

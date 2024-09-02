@@ -105,7 +105,7 @@ IM;;Isle of Man
 IN;;Eend
 IO;;British Indian Ocean Territory
 IE;;Irlaand
-IR;;Iraan, Republik Islaamik bu
+IR;;Iran
 IQ;;Iraak
 IS;;Islaand
 IL;;Israayil
@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;Saint Kitts and Nevis
 KR;;Koore, Republik bu
 KW;;Kuwet
-LA;;Republik Popileer Demokaraatik bu Laawos
+LA;;Laos
 LB;;Libãa
 LR;;Libeeria
 LY;;Libi
@@ -212,7 +212,7 @@ SE;;Suweed
 SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seychelles
-SY;;Republik Araab bu Siiri
+SY;;Syria
 TC;;Turks and Caicos Islands
 TD;;Caad
 TG;;Togóo

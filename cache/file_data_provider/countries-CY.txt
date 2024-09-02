@@ -5,17 +5,17 @@ AI;;Anguilla
 AX;;Ynysoedd Åland
 AL;;Albania
 AD;;Andorra
-AE;;Emiriaethau Arabaidd Unedig
+AE;;Yr Emiradau Arabaidd Unedig
 AR;;Yr Ariannin
 AM;;Armenia
-AS;;American Samoa
+AS;;Samoa America
 AQ;;Antarctica
 TF;;French Southern Territories
-AG;;Antigua ac Barbuda
+AG;;Antigua a Barbuda
 AU;;Awstralia
 AT;;Awstria
 AZ;;Azerbaijan
-BI;;Burundi
+BI;;Bwrwndi
 BE;;Gwlad Belg
 BJ;;Benin
 BQ;;Bonaire, Sint Eustatius a Saba
@@ -24,7 +24,7 @@ BD;;Bangladesh
 BG;;Bwlgaria
 BH;;Bahrain
 BS;;Y Bahamas
-BA;;Bosnia a Herzegovina
+BA;;Bosnia a Hercegovina
 BL;;Saint Barthélemy
 BY;;Belarws
 BZ;;Belîs
@@ -36,14 +36,14 @@ BN;;Brunei Darussalam
 BT;;Bhutan
 BV;;Ynys Bouvet
 BW;;Botswana
-CF;;Gweriniaeth Canol Affrica
+CF;;Gweriniaeth Canolbarth Affrica
 CA;;Canada
 CC;;Ynysoedd Cocos (Keeling)
 CH;;Y Swistir
 CL;;Chile
 CN;;Tsieina
 CI;;Côte d'Ivoire
-CM;;Cameroon
+CM;;Camerŵn
 CD;;Congo, Gweriniaeth Ddemocrataidd y
 CG;;Congo
 CK;;Ynysoedd Cook
@@ -54,7 +54,7 @@ CR;;Costa Rica
 CU;;Ciwba
 CW;;Curaçao
 CX;;Ynys y Nadolig
-KY;;Ynysoedd y Cayman
+KY;;Ynysoedd Cayman
 CY;;Cyprus
 CZ;;Tsiecia
 DE;;Yr Almaen
@@ -74,28 +74,28 @@ FI;;Y Ffindir
 FJ;;Ffiji
 FK;;Ynysoedd y Falklands (Malvinas)
 FR;;Ffrainc
-FO;;Ynysoedd y Ffaro
+FO;;Ynysoedd Ffaro
 FM;;Micronesia, Taleithiau Cyfunol
 GA;;Gabon
 GB;;Y Deyrnas Unedig
 GE;;Georgia
-GG;;Guernsey
+GG;;Ynys y Garn
 GH;;Ghana
 GI;;Gibraltar
 GN;;Guinea
 GP;;Guadeloupe
 GM;;Gambia
 GW;;Guinea-Bissau
-GQ;;Guinea Cyhydeddol
+GQ;;Guinea Gyhydeddol
 GR;;Groeg
 GD;;Grenada
-GL;;Greenland
+GL;;Yr Ynys Las
 GT;;Gwatemala
 GF;;Guiana Ffrangeg
 GU;;Guam
 GY;;Guyana
 HK;;Hong Kong
-HM;;Ynys Heard ac Ynysoedd McDonald
+HM;;Ynysoedd Heard a McDonald
 HN;;Honduras
 HR;;Croatia
 HT;;Haiti
@@ -103,27 +103,27 @@ HU;;Hwngari
 ID;;Indonesia
 IM;;Ynys Manaw
 IN;;India
-IO;;British Indian Ocean Territory
+IO;;Tiriogaeth Brydeinig Cefnfor India
 IE;;Iwerddon
-IR;;Iran, Gweriniaeth Islamaidd
+IR;;Iran
 IQ;;Irac
 IS;;Gwlad yr Iâ
 IL;;Israel
 IT;;Yr Eidal
 JM;;Jamaica
 JE;;Jersey
-JO;;Gwlad Yr Iorddonen
+JO;;Gwlad Iorddonen
 JP;;Japan
-KZ;;Kazakhstan
+KZ;;Kazakstan
 KE;;Kenya
 KG;;Kyrgyzstan
 KH;;Cambodia
 KI;;Kiribati
 KN;;Saint Kitts a Nevis
-KR;;Corëa, Gweriniaeth
+KR;;De Corea
 KW;;Coweit
-LA;;Gweriniaeth Ddemocrataidd y Bobl Lao
-LB;;Lebanon
+LA;;Laos
+LB;;Libanus
 LR;;Liberia
 LY;;Libya
 LC;;Saint Lucia
@@ -148,8 +148,8 @@ MT;;Malta
 MM;;Myanmar
 ME;;Montenegro
 MN;;Mongolia
-MP;;Ynysoedd Northern Mariana
-MZ;;Mozambique
+MP;;Ynysoedd Gogledd Mariana
+MZ;;Mosambic
 MR;;Mauritania
 MS;;Montserrat
 MQ;;Martinique
@@ -174,16 +174,16 @@ PK;;Pacistan
 PA;;Panama
 PN;;Pitcairn
 PE;;Periw
-PH;;Pilipinas
+PH;;Y Philipinau
 PW;;Palau
 PG;;Papua Guinea Newydd
 PL;;Gwlad Pwyl
 PR;;Puerto Rico
-KP;;Korea (Gweriniaeth Democrataidd Pobl)
+KP;;Gogledd Corea
 PT;;Portiwgal
 PY;;Paraguay
 PS;;Palestina, Gwladwriaeth
-PF;;Polynesia Ffrangeg
+PF;;Polynesia Ffrengig
 QA;;Qatar
 RE;;Réunion
 RO;;Rwmania
@@ -193,7 +193,7 @@ SA;;Saudi Arabia
 SD;;Y Swdan
 SN;;Senegal
 SG;;Singapore
-GS;;De Georgia ac Ynysoedd De Sandwich
+GS;;De Georgia ac Ynysoedd Sandwich y De
 SH;;Saint Helena, Dyrchafael a Tristan da Cunha
 SJ;;Svalbard a Jan Mayen
 SB;;Ynysoedd Solomon
@@ -212,9 +212,9 @@ SE;;Sweden
 SZ;;Eswatini
 SX;;Sint Maarten (Rhan Iseldiraidd)
 SC;;Seychelles
-SY;;Gweriniaeth Arabaidd Syria
-TC;;Ynysoedd y Turks a Caicos
-TD;;Chad
+SY;;Syria
+TC;;Ynysoedd Turks a Caicos
+TD;;Tchad
 TG;;Togo
 TH;;Gwlad Thai
 TJ;;Tajikistan
@@ -224,19 +224,19 @@ TL;;Timor-Leste
 TO;;Tonga
 TT;;Trinidad a Tobago
 TN;;Twnisia
-TR;;Türkiye
-TV;;Tuvalu
+TR;;Twrci
+TV;;Twfalw
 TW;;Taiwan
 TZ;;Tansanïa
 UG;;Uganda
 UA;;Wcrain
-UM;;Mân Ynysoedd Pellenig yr Unol Daleithiau
+UM;;Ynysoedd Pellennig Bychain yr Unol Daleithiau
 UY;;Uruguay
 US;;Yr Unol Daleithiau
 UZ;;Wsbecistan
 VA;;Yr Esgobaeth Sanctaidd (Talaith Dinas y Fatican)
 VC;;Saint Vincent a'r Grenadines
-VE;;Venezuela
+VE;;Feneswela
 VG;;Ynysoedd Virgin, Prydeinig
 VI;;Ynysoedd Virgin, U.D.A.
 VN;;Fietnam

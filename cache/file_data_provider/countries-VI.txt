@@ -105,7 +105,7 @@ IM;;Đảo Man
 IN;;Ấn-độ
 IO;;Miền Đại Dương Ấn-độ Anh
 IE;;Ái Nhĩ Lan
-IR;;Ba Tư, Cộng hoà Hồi giáo
+IR;;Iran
 IQ;;I-rắc
 IS;;Băng Đảo
 IL;;Do Thái
@@ -122,7 +122,7 @@ KI;;Ki-ri-ba-ti
 KN;;Xan-kít và Nê-vi
 KR;;Cộng hoà Nam Hàn
 KW;;Cu-ouai-thợ
-LA;;Cộng hoà Nhân dân Dân chủ Lào
+LA;;Laos
 LB;;Le-ba-non
 LR;;Li-bê-ri-a
 LY;;Li-bi
@@ -212,7 +212,7 @@ SE;;Thuỵ Điển
 SZ;;Eswatini
 SX;;Xin Mác-Ten (vùng Hà Lan)
 SC;;Xây-sen
-SY;;Cộng hoà A-rập Xi-ri-a
+SY;;Syria
 TC;;Quần Đảo Tuốc và Cai-cox
 TD;;Chê-đ
 TG;;Tô-gô

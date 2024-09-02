@@ -52,7 +52,7 @@ GA;;Irski
 GL;;Galicijski
 GV;;Manski
 GN;;Guarani
-GU;;Gudžaratski
+GU;;Gudžarati
 HT;;Haićanski kreolski
 HA;;Hauski
 HE;;Hebrejski

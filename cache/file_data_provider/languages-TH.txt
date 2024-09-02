@@ -1,17 +1,17 @@
 AA;;อาฟา
 AB;;แอบกาเซีย
-AF;;แอฟริกา
-AK;;Akan
+AF;;แอฟริคานส์
+AK;;อะคาน
 AM;;อัมฮาริก
 AR;;อารบิก
-AN;;Aragonese
+AN;;อารากอน
 AS;;อัสสมี
-AV;;Avaric
+AV;;อาวาริก
 AE;;อเวสตะ
 AY;;ไอมารา
 AZ;;อาเซอร์ไบจาน
 BA;;บาสช์กีร์
-BM;;Bambara
+BM;;บัมบารา
 BE;;เบลารุส
 BN;;Bengali
 BH;;กลุ่มภาษาพิหารี
@@ -25,10 +25,10 @@ CS;;เช็ก
 CH;;Chamorro
 CE;;เชเชน
 CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
-CV;;Chuvash
-KW;;Cornish
+CV;;ชูวัช
+KW;;คอร์นิช
 CO;;Corsican
-CR;;Cree
+CR;;ครี
 CY;;เวลส์
 DA;;เดนมาร์ก
 DE;;เยอรมัน
@@ -39,19 +39,19 @@ EN;;อังกฤษ
 EO;;เอสเปอรันโต
 ET;;เอสโตเนีย
 EU;;แบ็ซค์
-EE;;Ewe
+EE;;เอเว
 FO;;แฟโร
 FA;;เปอร์เซีย
 FJ;;ฟิจิ
 FI;;ฟินแลนด์
 FR;;ฝรั่งเศส
-FY;;Western Frisian
+FY;;ฟรีเชียตะวันตก
 FF;;Fulah
-GD;;Gaelic; Scottish Gaelic
+GD;;เกลิก; เกลิกสก็อต
 GA;;ไอริช
 GL;;กาลิเซีย
 GV;;Manx
-GN;;Guarani
+GN;;กวารานี
 GU;;คุชราตี
 HT;;เฮติ; ลูกผสมเฮติ
 HA;;โฮซา
@@ -74,17 +74,17 @@ IS;;ไอซ์แลนด์
 IT;;อิตาลี
 JV;;ชวา
 JA;;ญี่ปุ่น
-KL;;Kalaallisut; Greenlandic
+KL;;กะลาลลิซุต; กรีนแลนด์
 KN;;กัณณาท
 KS;;กัศมีรี
 KA;;จอร์เจีย
 KR;;Kanuri
 KK;;คาซัคสถาน
 KM;;เขมรกลาง
-KI;;Kikuyu; Gikuyu
+KI;;คิคูยู; กิคูยู
 RW;;คินยารวันดา
-KY;;คีร์กีซสถาน
-KV;;Komi
+KY;;คีร์กีซ
+KV;;โคมิ
 KG;;คองโก
 KO;;เกาหลี
 KJ;;Kuanyama; Kwanyama
@@ -97,7 +97,7 @@ LN;;ลิงกาลา
 LT;;ลิทัวเนีย
 LB;;ลักเซมเบิร์ก
 LU;;Luba-Katanga
-LG;;Ganda
+LG;;แกนดา
 MH;;มาร์แชลล์
 ML;;มลยาฬัม
 MR;;มราฐี
@@ -110,19 +110,19 @@ MS;;มลายู
 MY;;พม่า
 NA;;นาอูรู
 NV;;นาวาโฮ
-NR;;Ndebele, South; South Ndebele
-ND;;Ndebele, North; North Ndebele
+NR;;เอ็นดีเบลีใต้
+ND;;เอ็นดีเบลีเหนือ
 NG;;Ndonga
 NE;;เนปาล
 NL;;Dutch; Flemish
 NN;;นอร์เวย์ (นีนอร์สก์)
 NB;;นอร์เวย์ (บุคมอล)
 NO;;นอร์เวย์
-NY;;Chichewa; Chewa; Nyanja
+NY;;ชิเชวา; เชวา; นยานจา
 OC;;Occitan (post 1500); Provençal
 OJ;;โอจิบเว
 OR;;โอริยา
-OM;;โอโรโม
+OM;;ออโรโม
 OS;;Ossetian; Ossetic
 PA;;ปัญจาบี
 PI;;บาลี
@@ -139,7 +139,7 @@ SA;;สันสกฤต
 SI;;สิงหล
 SK;;สโลวัก
 SL;;สโลวีเนีย
-SE;;ซามิเหนือ
+SE;;ซามีเหนือ
 SM;;ซามัว
 SN;;Shona
 SD;;สินธี
@@ -171,7 +171,7 @@ UG;;อุยกูร์
 UK;;ยูเครน
 UR;;อูรดู
 UZ;;อุซเบกิสถาน
-VE;;Venda
+VE;;เวนดา
 VI;;เวียดนาม
 VO;;Volapük
 WA;;วอลลูน

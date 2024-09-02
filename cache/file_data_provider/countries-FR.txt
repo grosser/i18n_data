@@ -34,7 +34,7 @@ BR;;Brésil
 BB;;Barbade
 BN;;Brunéi Darussalam
 BT;;Bhoutan
-BV;;île Bouvet
+BV;;Île Bouvet
 BW;;Botswana
 CF;;République centrafricaine
 CA;;Canada
@@ -46,7 +46,7 @@ CI;;Côte d'Ivoire
 CM;;Cameroun
 CD;;République démocratique du Congo
 CG;;République du Congo
-CK;;îles Cook
+CK;;Îles Cook
 CO;;Colombie
 KM;;Comores
 CV;;Cap-Vert
@@ -54,7 +54,7 @@ CR;;Costa Rica
 CU;;Cuba
 CW;;Curaçao
 CX;;Christmas, Île
-KY;;îles Caïmans
+KY;;Îles Caïmans
 CY;;Chypre
 CZ;;Tchéquie
 DE;;Allemagne
@@ -74,7 +74,7 @@ FI;;Finlande
 FJ;;Fidji
 FK;;Malouines, Îles (Falkland)
 FR;;France
-FO;;îles Féroé
+FO;;Îles Féroé
 FM;;Micronésie, États fédérés de
 GA;;Gabon
 GB;;Royaume-Uni
@@ -95,7 +95,7 @@ GF;;Guyane française
 GU;;Guam
 GY;;Guyana
 HK;;Hong Kong
-HM;;îles Heard-et-MacDonald
+HM;;Îles Heard-et-MacDonald
 HN;;Honduras
 HR;;Croatie
 HT;;Haïti
@@ -105,7 +105,7 @@ IM;;Île de Man
 IN;;Inde
 IO;;Territoire britannique de l'océan Indien
 IE;;Irlande
-IR;;Iran, République islamique d'
+IR;;Iran
 IQ;;Irak
 IS;;Islande
 IL;;Israël
@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;Saint-Christophe-et-Niévès
 KR;;Corée du Sud
 KW;;Koweït
-LA;;Lao, République démocratique populaire
+LA;;Laos
 LB;;Liban
 LR;;Libéria
 LY;;Libye
@@ -160,7 +160,7 @@ YT;;Mayotte
 NA;;Namibie
 NC;;Nouvelle-Calédonie
 NE;;Niger
-NF;;île Norfolk
+NF;;Île Norfolk
 NG;;Nigeria
 NI;;Nicaragua
 NU;;Nioue
@@ -212,8 +212,8 @@ SE;;Suède
 SZ;;Eswatini
 SX;;Saint-Martin (partie néerlandaise)
 SC;;Seychelles
-SY;;Syrienne, République arabe
-TC;;îles Turques-et-Caïques
+SY;;Syrie
+TC;;Îles Turques-et-Caïques
 TD;;Tchad
 TG;;Togo
 TH;;Thaïlande
@@ -224,7 +224,7 @@ TL;;Timor oriental
 TO;;Tonga
 TT;;Trinité-et-Tobago
 TN;;Tunisie
-TR;;Türkiye
+TR;;Turquie
 TV;;Tuvalu
 TW;;Taïwan
 TZ;;Tanzanie

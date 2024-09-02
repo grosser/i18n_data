@@ -105,7 +105,7 @@ IM;;Eyjan Mön
 IN;;Indland
 IO;;Bresku Indlandshafseyjar
 IE;;Írland
-IR;;Íran, íslamska lýðveldið
+IR;;Íran
 IQ;;Írak
 IS;;Ísland
 IL;;Ísrael
@@ -122,7 +122,7 @@ KI;;Kíribatí
 KN;;Sankti Kitts og Neviseyjar
 KR;;Suður-Kórea
 KW;;Kúveit
-LA;;Alþýðulýðveldið Laó
+LA;;Laós
 LB;;Líbanon
 LR;;Líbería
 LY;;Líbýa
@@ -212,7 +212,7 @@ SE;;Svíþjóð
 SZ;;Esvatiní (Svasíland)
 SX;;Sankti Maarten (hollenski hluti)
 SC;;Seychelles-eyjar
-SY;;Sýrlenska arabalýðveldið
+SY;;Sýrland
 TC;;Turks- og Kaikós-eyjar
 TD;;Tsjad
 TG;;Tógó

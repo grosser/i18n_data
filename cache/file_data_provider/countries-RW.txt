@@ -105,7 +105,7 @@ IM;;Ikirwa cya Man
 IN;;Ubuhinde
 IO;;Teritwari y'Inyanja y'Abahinde Nyongereza
 IE;;Irilande
-IR;;Iran, Repubulika ya Kisilimu
+IR;;Iran
 IQ;;Irake
 IS;;Isilande
 IL;;Isirayeli
@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;Mutagatifu Kitsi na Nevisi
 KR;;Koreya, Repubulika ya
 KW;;Koweti
-LA;;Repubulika Iharanira Demokorasi ya Lawosi
+LA;;Laos
 LB;;Libani
 LR;;Liberiya
 LY;;Libiya
@@ -212,7 +212,7 @@ SE;;Suwede
 SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;Seyishele
-SY;;Repubulika Nyarabu ya Siriya
+SY;;Syria
 TC;;Ibirwa bya Takisi na Kayikosi
 TD;;Cade
 TG;;Togo

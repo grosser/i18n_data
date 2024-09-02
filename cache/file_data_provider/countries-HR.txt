@@ -105,7 +105,7 @@ IM;;Otok Man
 IN;;Indija
 IO;;Britanski Indijskooceanski teritorij
 IE;;Irska
-IR;;Iran, Islamska Republika
+IR;;Iran
 IQ;;Irak
 IS;;Island
 IL;;Izrael
@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;Sveti Kristofor i Nevis
 KR;;Južna Korea
 KW;;Kuvajt
-LA;;Laoska Narodna Demokratska Republika
+LA;;Laos
 LB;;Libanon
 LR;;Liberija
 LY;;Libija
@@ -212,7 +212,7 @@ SE;;Švedska
 SZ;;Esvatini
 SX;;Sveti Martin (nizozemski dio)
 SC;;Sejšeli
-SY;;Sirijska Arapska Republika
+SY;;Syria
 TC;;Otoci Turks i Caicos
 TD;;Čad
 TG;;Togo
@@ -224,7 +224,7 @@ TL;;Istočni Timor
 TO;;Tonga
 TT;;Trinidad i Tobago
 TN;;Tunis
-TR;;Türkiye
+TR;;Turska
 TV;;Tuvalu
 TW;;Tajvan
 TZ;;Tanzanija

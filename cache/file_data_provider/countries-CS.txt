@@ -105,7 +105,7 @@ IM;;Ostrov Man
 IN;;Indie
 IO;;Britské indickooceánské území
 IE;;Irsko
-IR;;Írán, islámská republika
+IR;;Írán
 IQ;;Irák
 IS;;Island
 IL;;Izrael
@@ -120,9 +120,9 @@ KG;;Kyrgyzstán
 KH;;Kambodža
 KI;;Kiribati
 KN;;Svatý Kryštof a Nevis
-KR;;Korea, republika
+KR;;Jižní Korea
 KW;;Kuvajt
-LA;;Laoská lidově demokratická republika
+LA;;Laos
 LB;;Libanon
 LR;;Libérie
 LY;;Libye
@@ -179,7 +179,7 @@ PW;;Palau
 PG;;Papua Nová Guinea
 PL;;Polsko
 PR;;Portoriko
-KP;;Korea, lidově demokratická republika
+KP;;Severní Korea
 PT;;Portugalsko
 PY;;Paraguay
 PS;;Palestinský stát
@@ -212,7 +212,7 @@ SE;;Švédsko
 SZ;;Svazijsko
 SX;;Svatý Martin (nizozemská část)
 SC;;Seychely
-SY;;Syrská arabská republika
+SY;;Sýrie
 TC;;Turks a Caicos
 TD;;Čad
 TG;;Togo
@@ -224,7 +224,7 @@ TL;;Východní Timor
 TO;;Tonga
 TT;;Trinidad a Tobago
 TN;;Tunisko
-TR;;Türkiye
+TR;;Turecko
 TV;;Tuvalu
 TW;;Tchaj-wan
 TZ;;Tanzánie

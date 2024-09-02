@@ -105,7 +105,7 @@ IM;;Mansaari
 IN;;Intia
 IO;;Brittiläinen Intian valtameren alue
 IE;;Irlanti
-IR;;Iranin islamilainen tasavalta
+IR;;Iran
 IQ;;Irak
 IS;;Islanti
 IL;;Israel
@@ -212,7 +212,7 @@ SE;;Ruotsi
 SZ;;Eswatini
 SX;;Sint Maarten (hollantilainen osa)
 SC;;Seychellit
-SY;;Syyrian arabitasavalta
+SY;;Syria
 TC;;Turks- ja Caicossaaret
 TD;;Tšad
 TG;;Togo

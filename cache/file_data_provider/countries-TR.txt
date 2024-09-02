@@ -105,7 +105,7 @@ IM;;Man Adası
 IN;;Hindistan
 IO;;Britanya Hint Okyanusu Toprakları
 IE;;İrlanda
-IR;;İran İslâm Cumhuriyeti
+IR;;İran
 IQ;;Irak
 IS;;İzlanda
 IL;;İsrail
@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;Saint Kitts ve Nevis
 KR;;Güney Kore
 KW;;Kuveyt
-LA;;Lao Demokratik Halk Cumhuriyeti
+LA;;Laos
 LB;;Lübnan
 LR;;Liberya
 LY;;Libya
@@ -212,7 +212,7 @@ SE;;İsveç
 SZ;;Eswatini
 SX;;Sint Maarten (Hollanda kısmı)
 SC;;Seyşeller
-SY;;Suriye Arap Cumhuriyeti
+SY;;Suriye
 TC;;Turks ve Caicos Adaları
 TD;;Çad
 TG;;Togo

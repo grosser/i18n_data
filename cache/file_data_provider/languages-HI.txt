@@ -1,104 +1,104 @@
 AA;;अफ़ार
 AB;;अब्खाज़ियन्
 AF;;अफ्रीकी
-AK;;Akan
+AK;;अकान
 AM;;अम्हारिक्
 AR;;अरबी
-AN;;Aragonese
+AN;;अर्गोनीज़
 AS;;असामी
-AV;;Avaric
-AE;;Avestan
+AV;;अवेरिक
+AE;;अवेस्तन
 AY;;आयमारा
 AZ;;अज़रबैंजानी
 BA;;बशख़िर
-BM;;Bambara
+BM;;बंबारा
 BE;;बैलोरूशियन्
-BN;;Bengali
-BH;;Bihari languages
+BN;;बांग्ला
+BH;;बिहारी भाषाएं
 BI;;बिस्लामा
 BO;;तिब्बती
-BS;;Bosnian
+BS;;बोस्नियाई
 BR;;ब्रेटन
 BG;;बल्गेरियन्
-CA;;Catalan; Valencian
+CA;;कैटलन; वैलेंसियन
 CS;;चेक
-CH;;Chamorro
-CE;;Chechen
-CU;;Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic
-CV;;Chuvash
-KW;;Cornish
+CH;;चमोर्रो
+CE;;चेचन
+CU;;चर्च स्लाविक; पुराना स्लावोनिक; चर्च स्लावोनिक; पुराना बल्गेरियाई; पुराना चर्च स्लावोनिक
+CV;;चूवाश
+KW;;कोर्निश
 CO;;कोर्सीकन
-CR;;Cree
+CR;;क्री
 CY;;वेल्श
 DA;;डैनीश
 DE;;ज़र्मन
-DV;;Divehi; Dhivehi; Maldivian
+DV;;दिवेही; धिवेही; मालदीवियन
 DZ;;भुटानी
-EL;;Greek, Modern (1453-)
+EL;;ग्रीक, आधुनिक (1453-)
 EN;;अंग्रेजी
 EO;;एस्पेरान्तो
 ET;;ऐस्तोनियन्
 EU;;बास्क्
-EE;;Ewe
+EE;;एवै
 FO;;फिरोज़ी
 FA;;पर्शियन्
 FJ;;फ़ीजी
 FI;;फिनिश
 FR;;फ्रेंच
-FY;;Western Frisian
-FF;;Fulah
-GD;;Gaelic; Scottish Gaelic
+FY;;पश्चिमी फ़्रिसियाई
+FF;;फुलाह
+GD;;गेलिक; स्कॉटिश गेलिक
 GA;;आईरिश
 GL;;गैलिशियन्
-GV;;Manx
+GV;;मैंक्स
 GN;;गुआरानी
 GU;;गुज़राती
-HT;;Haitian; Haitian Creole
+HT;;हैतीयन; हैतियाई क्रेओल
 HA;;होउसा
 HE;;हिब्रीऊ
-HZ;;Herero
+HZ;;हेरेरो
 HI;;हिंदी
-HO;;Hiri Motu
+HO;;हिरी मोटू
 HR;;क्रोएशन्
 HU;;हंगेरी
 HY;;अरमेनियन्
-IG;;Igbo
-IO;;Ido
-II;;Sichuan Yi; Nuosu
+IG;;ईग्बो
+IO;;ईदो
+II;;सिचुआन यी; नुओसू
 IU;;इनूकीटूत्
-IE;;Interlingue; Occidental
-IA;;Interlingua (International Auxiliary Language Association)
+IE;;ईन्टरलिंगुआ; पच्छमवासी
+IA;;इंटरलिंगुआ (अंतर्राष्ट्रीय सहायक भाषा संघ)
 ID;;इन्डोनेशियन्
 IK;;इनुपियाक्
 IS;;आईस्लैंडिक्
 IT;;ईटालियन्
 JV;;जावानीस
 JA;;जापानी
-KL;;Kalaallisut; Greenlandic
+KL;;कलाल्लिसुत; ग्रीनलैंडिक
 KN;;कन्नड़
 KS;;काश्मिरी
 KA;;जॉर्जीयन्
-KR;;Kanuri
+KR;;कनूरी
 KK;;कज़ाख
-KM;;Central Khmer
-KI;;Kikuyu; Gikuyu
+KM;;मध्य खमेर
+KI;;किकुयू; गिकुयू
 RW;;किन्यारवाण्डा
-KY;;Kirghiz; Kyrgyz
-KV;;Komi
-KG;;Kongo
+KY;;किर्गिज़; किरगिज़
+KV;;कोमी
+KG;;कॉन्गो
 KO;;कोरीयन्
-KJ;;Kuanyama; Kwanyama
+KJ;;कुआन्यामा; क्वान्यामा
 KU;;कुरदीश
 LO;;लाओथीयन्
 LA;;लैटीन
 LV;;लाटवियन् (लेट्टीश)
-LI;;Limburgan; Limburger; Limburgish
+LI;;लिम्बर्गन; लिम्बर्गर; लिंबर्गिश
 LN;;लिंगाला
 LT;;लिथुनियन्
-LB;;Luxembourgish; Letzeburgesch
-LU;;Luba-Katanga
-LG;;Ganda
-MH;;Marshallese
+LB;;लक्ज़मबर्गिश; लेत्ज़ेबुर्गेश
+LU;;लुबा-कटंगा
+LG;;गंडा
+MH;;मार्शलीज़
 ML;;मलयालम
 MR;;मराठी
 MK;;मैसेडोनियन्
@@ -109,51 +109,51 @@ MI;;मेओरी
 MS;;मलय
 MY;;बर्लिस
 NA;;नौरु
-NV;;Navajo; Navaho
-NR;;Ndebele, South; South Ndebele
-ND;;Ndebele, North; North Ndebele
-NG;;Ndonga
+NV;;नवाजो; नवाहो
+NR;;नडेबेले, दक्षिण; दक्षिण नडेबेले
+ND;;नडेबेले, उत्तर; उत्तर नडेबेले
+NG;;डोन्गा
 NE;;नेपाली
-NL;;Dutch; Flemish
-NN;;Norwegian Nynorsk; Nynorsk, Norwegian
-NB;;Bokmål, Norwegian; Norwegian Bokmål
+NL;;डच; फ्लेमिश
+NN;;नॉर्वेजियन नाइनोर्स्क; नाइनोर्स्क, नॉर्वेजियन
+NB;;बोकमाल, नॉर्वेजियन; नॉर्वेजियन बोकमाल
 NO;;नार्वेजीयन्
-NY;;Chichewa; Chewa; Nyanja
-OC;;Occitan (post 1500); Provençal
-OJ;;Ojibwa
+NY;;चिचेवा; चेवा; न्यानजा
+OC;;ओसीटान (1500 के बाद); प्रोवेन्सल
+OJ;;ओजिब्वा
 OR;;उड़िया
 OM;;ओरोमो (अफ़ान)
-OS;;Ossetian; Ossetic
-PA;;Panjabi; Punjabi
-PI;;Pali
+OS;;ओस्सेटियन; ओस्सेटिक
+PA;;पंजाबी
+PI;;पाली
 PL;;पॉलिश
 PT;;पुर्तुगी
-PS;;Pushto; Pashto
+PS;;पुष्तो; पश्तो
 QU;;क्वेशुआ
-RM;;Romansh
-RO;;Romanian; Moldavian; Moldovan
+RM;;रोमान्श
+RO;;रोमानियाई; मोल्डावियन; मोल्दोवन
 RN;;किरून्दी
 RU;;रुसी
 SG;;साँग्रो
 SA;;संस्कृत
-SI;;Sinhala; Sinhalese
+SI;;सिंहल; सिंहली
 SK;;स्लोवाक्
 SL;;स्लोवेनियन्
-SE;;Northern Sami
+SE;;उत्तरी सामी
 SM;;सामोन
 SN;;सोणा
 SD;;सिन्धी
 SO;;सोमाली
 ST;;सेसोथो
-ES;;Spanish; Castilian
+ES;;स्पैनिश; कैस्टिलियन
 SQ;;अल्बेनियन्
-SC;;Sardinian
+SC;;सार्डिनियन
 SR;;सर्बियन्
 SS;;सीस्वाटि
 SU;;सुन्दानीस
 SW;;स्वाहिली
 SV;;स्विडिश
-TY;;Tahitian
+TY;;ताहितियन
 TA;;तमिल
 TT;;टाटर
 TE;;तेलेगु
@@ -167,18 +167,18 @@ TS;;सोंगा
 TK;;तुक्रमेन
 TR;;तुक्रीश
 TW;;ट्वी
-UG;;Uighur; Uyghur
+UG;;उइघुर; उईघुर
 UK;;यूक्रेनियन्
 UR;;ऊर्दु
 UZ;;उज़बेक्
-VE;;Venda
+VE;;वेन्दा
 VI;;वियेतनामी
-VO;;Volapük
-WA;;Walloon
+VO;;वोलापुक
+WA;;वलून
 WO;;वोलोफ
 XH;;षोसा
 YI;;येहुदी
 YO;;योरूबा
-ZA;;Zhuang; Chuang
+ZA;;जुआंग; चुआंग
 ZH;;चीनी
 ZU;;ज़ुलू

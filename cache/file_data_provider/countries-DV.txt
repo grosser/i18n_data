@@ -105,7 +105,7 @@ IM;;އައިޒަލް އޮފް މޭން
 IN;;އިންޑިޔާ
 IO;;British Indian Ocean Territory
 IE;;އަޔަލޭންޑުގެ ޖުމްހޫރިއްޔާ
-IR;;Iran, Islamic Republic of
+IR;;Iran
 IQ;;ޢިރާޤު
 IS;;އައިސްލަންޑަން
 IL;;އިސްރާއީލު
@@ -122,7 +122,7 @@ KI;;ކިރިބަތީ
 KN;;ސަންތި ކިޓަސް އަދި ނޭވީސް
 KR;;South Korea
 KW;;ކުވެއިތު
-LA;;Lao People's Democratic Republic
+LA;;Laos
 LB;;ލުބުނާން
 LR;;ލައިބީރިއާ
 LY;;ލީބިޔާ
@@ -212,7 +212,7 @@ SE;;ސުވިޑަން
 SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;ތޭންގަދީބު
-SY;;Syrian Arab Republic
+SY;;Syria
 TC;;ޓާކަސް އަދި ކައިކޯ ޖަޒީރާ
 TD;;ޝާދު
 TG;;ޓޯގޯ

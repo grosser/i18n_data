@@ -105,7 +105,7 @@ IM;;Manksinsulo
 IN;;Barato
 IO;;Brita Hindoceana Teritorio
 IE;;Irlando
-IR;;Irano, Islama Respubliko
+IR;;Iran
 IQ;;Irako
 IS;;Islando
 IL;;Israelo
@@ -122,7 +122,7 @@ KI;;Kiribato
 KN;;Sankta-Kito kaj Neviso
 KR;;Sud-Koreio
 KW;;Kuvajto
-LA;;Laosa Popola Demokratia Respubliko
+LA;;Laos
 LB;;Libano
 LR;;Liberio
 LY;;Libio
@@ -212,7 +212,7 @@ SE;;Svedio
 SZ;;Svazilando
 SX;;Sankta-Marteno (nederlanda parto)
 SC;;Sejŝeloj
-SY;;Siria Araba Respubliko
+SY;;Syria
 TC;;Turkoj kaj Kajkoj
 TD;;Ĉado
 TG;;Togo

@@ -105,7 +105,7 @@ IM;;Isle of Man
 IN;;भारत
 IO;;British Indian Ocean Territory
 IE;;Ireland
-IR;;Iran, Islamic Republic of
+IR;;Iran
 IQ;;ईराक
 IS;;आइसलैंड
 IL;;इस्रैल
@@ -122,7 +122,7 @@ KI;;किरिबाटी
 KN;;सेंट किट्
 KR;;South Korea
 KW;;कुवैत
-LA;;Lao People's Democratic Republic
+LA;;Laos
 LB;;लेबनान
 LR;;लायबीरिया
 LY;;लिबिया
@@ -212,7 +212,7 @@ SE;;स्वीडन
 SZ;;Eswatini
 SX;;Sint Maarten (Dutch part)
 SC;;सेशेल
-SY;;Syrian Arab Republic
+SY;;Syria
 TC;;Turks and Caicos Islands
 TD;;चाड
 TG;;टोगो

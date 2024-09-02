@@ -49,7 +49,7 @@ FY;;Frison occitendal
 FF;;Fulah
 GD;;Gaelic ; Gaelic d'Escòcia
 GA;;Irlandés
-GL;;Galician
+GL;;Galèc
 GV;;Manés
 GN;;Guaraní
 GU;;Gujarati

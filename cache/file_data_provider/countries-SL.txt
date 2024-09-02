@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;Saint Kitts in Nevis
 KR;;Južna Koreja
 KW;;Kuvajt
-LA;;Laoška ljudska demokratična republika
+LA;;Laos
 LB;;Libanon
 LR;;Liberija
 LY;;Libija
@@ -212,7 +212,7 @@ SE;;Švedska
 SZ;;Eswatini
 SX;;Sint Maarten (nizozemski del)
 SC;;Sejšeli
-SY;;Sirska arabska republika
+SY;;Syria
 TC;;Turks in Caicoški otoki
 TD;;Čad
 TG;;Togo
