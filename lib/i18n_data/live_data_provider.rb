@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 require 'json'
 require 'simple_po_parser'
 
@@ -7,14 +8,14 @@ module I18nData
     extend self
 
     JSON_CODES = {
-      :countries => 'data/iso_3166-1.json',
-      :languages => 'data/iso_639-2.json'
-    }
+      countries: 'data/iso_3166-1.json',
+      languages: 'data/iso_639-2.json'
+    }.freeze
 
     TRANSLATIONS = {
-      :countries => 'iso_3166-1/',
-      :languages => 'iso_639-2/'
-    }
+      countries: 'iso_3166-1/',
+      languages: 'iso_639-2/'
+    }.freeze
     REPO = "https://salsa.debian.org/iso-codes-team/iso-codes.git"
     CLONE_DEST = "/tmp/i18n_data_iso_clone"
 
@@ -34,7 +35,7 @@ module I18nData
       raise unless $?.success?
     end
 
-  private
+    private
 
     def ensure_checkout
       unless File.exist?(CLONE_DEST)
@@ -46,10 +47,8 @@ module I18nData
     def translated(type, language_code)
       @translated ||= {}
 
-      @translated["#{type}_#{language_code}"] ||= begin
-        Hash[send("alpha_codes_for_#{type}").map do |alpha2, alpha3|
-          [alpha2, translate(type, alpha3, language_code) || fallback_name(type, alpha3)]
-        end]
+      @translated["#{type}_#{language_code}"] ||= send("alpha_codes_for_#{type}").transform_values do |alpha3|
+        translate(type, alpha3, language_code) || fallback_name(type, alpha3)
       end
     end
 
@@ -68,7 +67,7 @@ module I18nData
         begin
           file_path = "#{CLONE_DEST}/#{TRANSLATIONS[type]}#{code}.po"
           data = SimplePoParser.parse(file_path)
-          data = data[1..-1] # Remove the initial info block in the .po file
+          data = data[1..] # Remove the initial info block in the .po file
 
           # Prefer the "Common name for" blocks, but fallback to "Name for" blocks
           common_names = get_po_data(data, 'Common name for')
@@ -90,7 +89,7 @@ module I18nData
       # Maps over the alpha3 country code in the 'extracted_comment'
       # Eg: "Name for GBR"
       po_entries.map.with_object({}) do |t, translations|
-        alpha3 = t[:extracted_comment][-3..-1].upcase
+        alpha3 = t[:extracted_comment][-3..].upcase
         translation = t[:msgstr]
         translations[alpha3] = translation.is_a?(Array) ? translation.join : translation
       end
@@ -118,7 +117,7 @@ module I18nData
         json(:languages)['639-2'].each do |entry|
           name = entry['name'].to_s
           code = entry['alpha_2'].to_s.upcase
-          next if code.empty? or name.empty?
+          next if code.empty? || name.empty?
           codes[code] = name
         end
         codes

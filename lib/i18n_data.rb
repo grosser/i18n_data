@@ -1,7 +1,7 @@
+# frozen_string_literal: true
 require 'i18n_data/version'
 
 module I18nData
-
   class BaseException < StandardError
     def to_s
       "#{self.class} -- #{super}"
@@ -13,13 +13,13 @@ module I18nData
   class Unknown < BaseException; end
 
   class << self
-    def languages(language_code='EN')
+    def languages(language_code = 'EN')
       fetch :languages, language_code do
         data_provider.codes(:languages, normal_to_region_code(language_code.to_s.upcase))
       end
     end
 
-    def countries(language_code='EN')
+    def countries(language_code = 'EN')
       fetch :countries, language_code do
         data_provider.codes(:countries, normal_to_region_code(language_code.to_s.upcase))
       end
@@ -34,10 +34,10 @@ module I18nData
     end
 
     def data_provider
-      @data_provider ||= (
+      @data_provider ||= begin
         require 'i18n_data/file_data_provider'
         FileDataProvider
-      )
+      end
     end
 
     def data_provider=(provider)
@@ -57,7 +57,7 @@ module I18nData
     def normal_to_region_code(normal)
       {
         "ZH" => "zh_CN",
-        "BN" => "bn_IN",
+        "BN" => "bn_IN"
       }[normal] || normal
     end
 
@@ -65,7 +65,7 @@ module I18nData
       search = search.strip
 
       # common languages first <-> faster in majority of cases
-      language_codes = ['EN','ES','FR','DE','ZH'] | available_language_codes
+      language_codes = ['EN', 'ES', 'FR', 'DE', 'ZH'] | available_language_codes
 
       language_codes.each do |language_code|
         options =
@@ -88,8 +88,8 @@ module I18nData
     # NOTE: this is not perfect since the used provider might have more or less languages available
     # but it's better than just using the available english language codes
     def available_language_codes
-      @available_languges ||= begin
-        files = Dir[File.expand_path("../../cache/file_data_provider/languages-*", __FILE__)]
+      @available_language_codes ||= begin
+        files = Dir[File.expand_path('../cache/file_data_provider/languages-*', __dir__)]
         files.map! { |f| f[/languages-(.*)\./, 1] }
       end
     end

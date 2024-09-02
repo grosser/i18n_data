@@ -88,3 +88,23 @@ Lint/EmptyBlock:
 
 Naming/MethodParameterName:
   Exclude: [spec/**/*.rb]
+
+RSpec/BeforeAfterAll:
+  Enabled: false
+
+# could change to `#method` and `.method` instead
+RSpec/DescribeSymbol:
+  Enabled: false
+
+RSpec/NestedGroups:
+  Enabled: false
+
+RSpec/EmptyExampleGroup:
+  Enabled: false
+
+Lint/SuppressedException:
+  Enabled: false
+
+# somehow crashes
+RSpec/VariableName:
+  Enabled: false

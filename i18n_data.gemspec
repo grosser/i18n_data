@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 name = "i18n_data"
 require "./lib/#{name}/version"
 

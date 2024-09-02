@@ -1,10 +1,11 @@
+# frozen_string_literal: true
 # Benchmark performance by looking up every available language's country and
 # language translations multiple times.
 
 require 'benchmark'
 require 'i18n_data'
 
-types = %i(countries languages)
+types = [:countries, :languages]
 
 type_codes = {}
 types.each do |type|
@@ -18,12 +19,10 @@ bm = Benchmark.measure do
   10.times do
     type_codes.each_pair do |type, codes|
       codes.each do |code|
-        begin
-          I18nData.send(type, code).keys.each do |key|
-            I18nData.send(type, code)[key]
-          end
-        rescue I18nData::NoTranslationAvailable
+        I18nData.send(type, code).each_key do |key|
+          I18nData.send(type, code)[key]
         end
+      rescue I18nData::NoTranslationAvailable
       end
     end
   end

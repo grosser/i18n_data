@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 $LOAD_PATH << 'lib'
 require 'i18n_data'
 
