@@ -22,14 +22,14 @@ end
 desc "write all languages to output"
 task :all_languages do
   I18nData.languages.each_key do |lc|
-    `rake languages LANGUAGE=#{lc}`
+    sh "rake languages LANGUAGE=#{lc}"
   end
 end
 
-desc "write languages to output/languages_{language}"
+desc "write languages to output/languages_{LANGUAGE}"
 task :languages do
-  raise unless (language = ENV.fetch('LANGUAGE', nil))
-  `mkdir -p output`
+  language = ENV.fetch('LANGUAGE')
+  sh "mkdir -p output"
   data = I18nData.languages(language.upcase)
   File.write "output/languages_#{language.downcase}.yml", data.to_yaml
 end
@@ -37,14 +37,14 @@ end
 desc "write all countries to output to debug"
 task :all_countries do
   I18nData.languages.each_key do |lc|
-    `rake countries LANGUAGE=#{lc}`
+    sh "rake countries LANGUAGE=#{lc}"
   end
 end
 
-desc "write countries to output/countries_{language} to debug"
+desc "write countries to output/countries_{LANGUAGE} to debug"
 task :countries do
-  raise unless (language = ENV.fetch('LANGUAGE', nil))
-  `mkdir -p output`
+  language = ENV.fetch('LANGUAGE')
+  sh "mkdir -p output"
   data = I18nData.countries(language.upcase)
   File.open("output/countries_#{language.downcase}.yml", 'w') { |f| f.puts data.to_yaml }
 end
