@@ -68,7 +68,7 @@ module I18nData
         begin
           file_path = "#{CLONE_DEST}/#{TRANSLATIONS[type]}#{code}.po"
 
-          # norwegian is somehow special :shrug:
+          # norwegian has 2 versions (nb and nn), but only nb is supported, so we have to pick that
           # https://salsa.debian.org/iso-codes-team/iso-codes/-/tree/main/iso_639-2
           file_path = file_path.sub("/no.po", "/nb_no.po")
 
