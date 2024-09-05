@@ -70,7 +70,7 @@ module I18nData
 
           # norwegian has 2 versions (nb and nn), but only nb is supported, so we have to pick that
           # https://salsa.debian.org/iso-codes-team/iso-codes/-/tree/main/iso_639-2
-          file_path = file_path.sub("/no.po", "/nb_no.po")
+          file_path = file_path.sub("/no.po", "/nb.po").sub("/nb.po", "/nb_no.po")
 
           data = SimplePoParser.parse(file_path)
           data = data[1..] # Remove the initial info block in the .po file

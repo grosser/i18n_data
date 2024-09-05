@@ -14,7 +14,7 @@ module I18nData
     end
 
     def write_cache(provider)
-      languages = provider.codes(:languages, 'EN').keys + ['zh_CN', 'zh_TW', 'zh_HK', 'bn_IN', 'pt_BR', 'sr@latin']
+      languages = provider.codes(:languages, 'EN').keys + ['zh_CN', 'zh_TW', 'zh_HK', 'bn_IN', 'pt_BR', 'sr@latin', 'nb_NO']
       languages.map do |language_code|
         [:languages, :countries].each do |type|
           data = provider.send(:codes, type, language_code)
