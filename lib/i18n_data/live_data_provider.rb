@@ -39,8 +39,11 @@ module I18nData
 
     def ensure_checkout
       unless File.exist?(CLONE_DEST)
-        `git clone #{REPO} #{CLONE_DEST}`
-        raise unless $?.success?
+        # need to clone with http1 or get:
+        # error: RPC failed; curl 16 Error in the HTTP2 framing layer
+        command = "git clone -c http.version=HTTP/1.1 #{REPO} #{CLONE_DEST}"
+        out = `#{command}`
+        raise "Command #{command.inspect} failed:\n#{out}" unless $?.success?
       end
     end
 
