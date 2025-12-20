@@ -7,7 +7,6 @@ Through [pkg-isocodes](https://salsa.debian.org/iso-codes-team/iso-codes.git):
 
  - 185 Language codes (iso 639 - 2 letter) in 68 Languages
  - 246 Country codes (iso 3166 - 2 letter) in 86 Languages
- - Country specific codes e.g. zh_TW are also available, have a look at the isocodes website for all options
 
 Install
 =======
@@ -22,13 +21,15 @@ Usage
 ```Ruby
 require 'i18n_data'
 ...
-I18nData.languages        # {"DE"=>"German",...}
-I18nData.languages('DE')  # {"DE"=>"Deutsch",...}
-I18nData.languages('FR')  # {"DE"=>"Allemand",...}
+I18nData.languages           # {"DE"=>"German",...}
+I18nData.languages('DE')     # {"DE"=>"Deutsch",...}
+I18nData.languages('FR')     # {"DE"=>"Allemand",...}
+I18nData.languages('ZH-CN')  # {"DE"=>"德语",...}
 ...
 
-I18nData.countries        # {"DE"=>"Germany",...}
-I18nData.countries('DE')  # {"DE"=>"Deutschland",...}
+I18nData.countries           # {"DE"=>"Germany",...}
+I18nData.countries('DE')     # {"DE"=>"Deutschland",...}
+I18nData.countries('ZH-CN')  # {"DE"=>"德国",...}
 ...
 
 I18nData.language_code('German')       # DE
@@ -40,6 +41,13 @@ I18nData.country_code('Germany')       # DE
 I18nData.country_code('Deutschland')   # DE
 ..
 ```
+
+Language Variants
+=================
+
+While translations _to_ language variants like ZH-CN are provided, translations _of_ the names of those variants are not. In other words, while `I18nData.languages('ZH_CN')['DE']` will give you the Chinese (as written in China) name of the German language ("德国"), the German name of the Chinese (as written in China) language is not provided.
+
+Where the variant represents a country, you are able to combine the translations of the names of languages and countries (e.g. `"#{I18nData.languages('DE')['ZH']} (#{I18nData.countries('DE')['CN']})"` gives "Chinesisch (China)"), but there is no guarantee this will be correct gramatically or conceptionally in that language.
 
 Data Providers
 ==============
